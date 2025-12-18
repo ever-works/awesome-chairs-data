@@ -156,3 +156,27 @@
   name: structured
 - id: distinctive-design
   name: distinctive-design
+- id: performance
+  name: performance
+- id: functional
+  name: functional
+- id: collaboration
+  name: collaboration
+- id: competitive
+  name: competitive
+- id: elegant
+  name: elegant
+- id: high-performance
+  name: high-performance
+- id: spacious
+  name: spacious
+- id: massage
+  name: massage
+- id: refined
+  name: refined
+- id: easy-assembly
+  name: easy-assembly
+- id: extreme-comfort
+  name: extreme-comfort
+- id: value
+  name: value
