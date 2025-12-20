@@ -192,3 +192,13 @@
   name: electric
 - id: classic
   name: classic
+- id: footrest
+  name: footrest
+- id: rgb-lighting
+  name: RGB-lighting
+- id: immersive
+  name: immersive
+- id: entertainment
+  name: entertainment
+- id: next-gen
+  name: next-gen
