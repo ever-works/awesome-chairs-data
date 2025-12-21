@@ -202,3 +202,13 @@
   name: entertainment
 - id: next-gen
   name: next-gen
+- id: big-and-tall
+  name: big-and-tall
+- id: modular
+  name: modular
+- id: standing-desk
+  name: standing-desk
+- id: spinal-support
+  name: spinal-support
+- id: rgb
+  name: RGB
