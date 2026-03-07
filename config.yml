@@ -23,10 +23,17 @@ metadata:
     update_with_pull_request: false
     badge_evaluation_enabled: false
     website_repository_creation_method: create-using-template
-    name: awesome-computer-chairs
-    prompt: "A directory of the best computer and gaming chairs for people who sit
-      all day! "
+    name: Awesome Computer and Gaming Chairs
+    prompt: A directory of the best computer and gaming chairs for people who sit
+      all day!
     initial_categories: []
     priority_categories: []
     target_keywords: []
     repository_description: ""
+    providers:
+      pipeline: claude-code
+    pluginConfig:
+      target_items: 50
+      capture_screenshots: false
+    _processedPluginConfig: {}
+version: 0.1.0

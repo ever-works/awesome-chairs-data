@@ -1,11 +1,11 @@
 - id: ergonomic
-  name: ergonomic
+  name: Ergonomic
 - id: mesh
-  name: mesh
+  name: Mesh
 - id: adjustable
-  name: adjustable
+  name: Adjustable
 - id: budget-friendly
-  name: budget-friendly
+  name: Budget Friendly
 - id: supportive
   name: supportive
 - id: customizable
@@ -15,7 +15,7 @@
 - id: reclining
   name: reclining
 - id: compact
-  name: compact
+  name: Compact
 - id: 3d-lumbar
   name: 3D-lumbar
 - id: waterfall-seat
@@ -23,13 +23,13 @@
 - id: posture-support
   name: posture-support
 - id: racing-style
-  name: racing-style
+  name: Racing Style
 - id: high-density-foam
   name: high-density-foam
 - id: leather
   name: leather
 - id: affordable
-  name: affordable
+  name: Affordable
 - id: padded
   name: padded
 - id: quiet
@@ -41,13 +41,13 @@
 - id: liveback
   name: LiveBack
 - id: premium
-  name: premium
+  name: Premium
 - id: pu-leather
   name: PU-leather
 - id: asymmetrical-adjustment
   name: asymmetrical-adjustment
 - id: posture
-  name: posture
+  name: Posture
 - id: luxury
   name: luxury
 - id: steel-frame
@@ -63,7 +63,7 @@
 - id: robust
   name: robust
 - id: comfortable
-  name: comfortable
+  name: Comfortable
 - id: space-saving
   name: space-saving
 - id: health
@@ -71,13 +71,13 @@
 - id: support
   name: support
 - id: minimalist
-  name: minimalist
+  name: Minimalist
 - id: comfort
   name: comfort
 - id: dynamic-headrest
   name: dynamic-headrest
 - id: sustainable
-  name: sustainable
+  name: Sustainable
 - id: adjustable-headrest
   name: adjustable-headrest
 - id: modern
@@ -87,31 +87,31 @@
 - id: state-of-the-art
   name: state-of-the-art
 - id: memory-foam
-  name: memory-foam
+  name: Memory Foam
 - id: automatic-adjustment
   name: automatic-adjustment
 - id: professional
-  name: professional
+  name: Professional
 - id: high-back
-  name: high-back
+  name: High Back
 - id: high-price
   name: high-price
 - id: gaming
-  name: gaming
+  name: Gaming
 - id: dynamic-support
   name: dynamic-support
 - id: flexible
   name: flexible
 - id: executive
-  name: executive
+  name: Executive
 - id: sophisticated
   name: sophisticated
 - id: tailored-fit
   name: tailored-fit
 - id: eco-friendly
-  name: eco-friendly
+  name: Eco Friendly
 - id: breathable
-  name: breathable
+  name: Breathable
 - id: plush
   name: plush
 - id: value-for-money
@@ -161,7 +161,7 @@
 - id: functional
   name: functional
 - id: collaboration
-  name: collaboration
+  name: Collaboration
 - id: competitive
   name: competitive
 - id: elegant
@@ -171,7 +171,7 @@
 - id: spacious
   name: spacious
 - id: massage
-  name: massage
+  name: Massage
 - id: refined
   name: refined
 - id: easy-assembly
@@ -179,21 +179,21 @@
 - id: extreme-comfort
   name: extreme-comfort
 - id: value
-  name: value
+  name: Value
 - id: extra-wide
   name: extra-wide
 - id: vibrant
   name: vibrant
 - id: colorful
-  name: colorful
+  name: Colorful
 - id: esports
   name: esports
 - id: electric
-  name: electric
+  name: Electric
 - id: classic
   name: classic
 - id: footrest
-  name: footrest
+  name: Footrest
 - id: rgb-lighting
   name: RGB-lighting
 - id: immersive
@@ -203,7 +203,7 @@
 - id: next-gen
   name: next-gen
 - id: big-and-tall
-  name: big-and-tall
+  name: Big And Tall
 - id: modular
   name: modular
 - id: standing-desk
@@ -213,4 +213,98 @@
 - id: rgb
   name: RGB
 - id: stool
-  name: stool
+  name: Stool
+- id: xl-size
+  name: Xl Size
+- id: dense-foam
+  name: Dense Foam
+- id: ultra-budget
+  name: Ultra Budget
+- id: basic
+  name: Basic
+- id: 14-adjustments
+  name: 14 Adjustments
+- id: bifma-certified
+  name: Bifma Certified
+- id: fabric
+  name: Fabric
+- id: kneeling-chair
+  name: Kneeling Chair
+- id: best-value
+  name: Best Value
+- id: 5-year-warranty
+  name: 5 Year Warranty
+- id: motorized
+  name: Motorized
+- id: 24-hour-rated
+  name: 24 Hour Rated
+- id: 10-year-warranty
+  name: 10 Year Warranty
+- id: mid-back
+  name: Mid Back
+- id: commercial-grade
+  name: Commercial Grade
+- id: latex-cushion
+  name: Latex Cushion
+- id: 5d-armrests
+  name: 5d Armrests
+- id: advanced-lumbar
+  name: Advanced Lumbar
+- id: balance-ball
+  name: Balance Ball
+- id: active-sitting
+  name: Active Sitting
+- id: core-engagement
+  name: Core Engagement
+- id: bluetooth-speakers
+  name: Bluetooth Speakers
+- id: ace-series
+  name: Ace Series
+- id: 12-year-warranty
+  name: 12 Year Warranty
+- id: self-adjusting
+  name: Self Adjusting
+- id: heavy-duty
+  name: Heavy Duty
+- id: petite
+  name: Petite
+- id: under-300
+  name: Under 300
+- id: cooling-technology
+  name: Cooling Technology
+- id: saddle-chair
+  name: Saddle Chair
+- id: balance-mechanism
+  name: Balance Mechanism
+- id: extended-height
+  name: Extended Height
+- id: pro-grade
+  name: Pro Grade
+- id: self-adaptive-lumbar
+  name: Self Adaptive Lumbar
+- id: anti-gravity
+  name: Anti Gravity
+- id: home-office
+  name: Home Office
+- id: practical
+  name: Practical
+- id: adjustable-lumbar
+  name: Adjustable Lumbar
+- id: high-density-padding
+  name: High Density Padding
+- id: mid-tier
+  name: Mid Tier
+- id: rgb-compatible
+  name: Rgb Compatible
+- id: back-support
+  name: Back Support
+- id: synchro-tilt
+  name: Synchro Tilt
+- id: management
+  name: Management
+- id: stain-resistant
+  name: Stain Resistant
+- id: dvl-support
+  name: Dvl Support
+- id: premium-leather
+  name: Premium Leather
