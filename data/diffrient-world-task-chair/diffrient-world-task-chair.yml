@@ -4,14 +4,9 @@ description: The Diffrient World Task Chair is a versatile office chair
   support and comfort, making it ideal for individuals who spend extended
   periods sitting at a desk.
 source_url: https://www.humanscale.com/products/seating/diffrient-world-task-office-chair
-featured: false
-brand: humanscale
-brand_logo_url: https://www.humanscale.com/images/logo.png
-images:
-  - https://www.humanscale.com/images/products/diffrient-world-task-chair.jpg
-  - https://www.humanscale.com/images/products/diffrient-world-task-chair-back.jpg
-category: chair-accessories
+category: Chair Accessories
 tags: []
+featured: false
 markdown: |-
   ### Diffrient World Task Chair
 
@@ -50,4 +45,9 @@ markdown: |-
   ---
 
   For more information, visit the [Diffrient World Task Chair product page](https://www.humanscale.com/products/seating/diffrient-world-task-office-chair).
-updated_at: 2025-12-13 05:58
+brand: humanscale
+brand_logo_url: https://www.humanscale.com/images/logo.png
+images:
+  - https://www.humanscale.com/images/products/diffrient-world-task-chair.jpg
+  - https://www.humanscale.com/images/products/diffrient-world-task-chair-back.jpg
+updated_at: 2026-04-04 23:43

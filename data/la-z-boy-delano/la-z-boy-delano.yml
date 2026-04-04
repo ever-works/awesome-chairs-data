@@ -4,21 +4,14 @@ description: The La-Z-Boy Delano is a highly praised executive chair known for
   seeking a big and tall version that offers a luxurious seating experience for
   extended periods.
 source_url: https://shophouzz.com/products/la-z-boy-delano-faux-leather-executive-office-chair-in-chestnut-brown-prvw-vr-127566382
-featured: true
-brand: la-z-boy
-brand_logo_url: /path/to/lazboy/logo.png
-images:
-  - https://example.com/lazboy-delano-image1.jpg
-  - https://example.com/lazboy-delano-image2.jpg
-category: ergonomic-office-chairs
+category: Executive & Task Chairs
 tags:
   - executive
   - plush
   - durable
+featured: true
 markdown: |-
   # La-Z-Boy Delano Executive Chair
-
-  ![La-Z-Boy Logo](/path/to/lazboy/logo.png)
 
   **Category:** Ergonomic Office Chairs  
   **Brand:** La-Z-Boy  
@@ -59,4 +52,9 @@ markdown: |-
   ---
 
   For more information, visit the [product page](https://shophouzz.com/products/la-z-boy-delano-faux-leather-executive-office-chair-in-chestnut-brown-prvw-vr-127566382).
-updated_at: 2025-12-16 06:23
+brand: la-z-boy
+brand_logo_url: /path/to/lazboy/logo.png
+images:
+  - https://example.com/lazboy-delano-image1.jpg
+  - https://example.com/lazboy-delano-image2.jpg
+updated_at: 2026-04-04 23:43

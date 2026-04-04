@@ -4,15 +4,9 @@ description: The Boulies EP460 is a versatile mesh ergonomic computer chair
   custom-fit adjustability, and office-focused design that supports extended
   work or gaming sessions.
 source_url: https://boulies.com/products/ep460
-featured: true
-brand: boulies
-brand_logo_url: null
-images:
-  - https://cdn.shopify.com/s/files/1/2127/6275/files/header-nav-bg__EP460_x500.jpg?v=1716518934
-  - https://cdn.shopify.com/s/files/1/2127/6275/files/header-nav-bg__EP460_x350.jpg?v=1716518934
-  - https://cdn.shopify.com/s/files/1/0055/5515/9126/files/EP460-grey_2_600x600.jpg?v=1716876361
-category: chair-accessories
+category: Chair Accessories
 tags: []
+featured: true
 markdown: |-
   # Boulies EP460
 
@@ -44,4 +38,10 @@ markdown: |-
   Pricing information is not specified in the provided content. Refer to the product page for current price and promotions:
 
   <https://boulies.com/products/ep460>
-updated_at: 2025-12-23 09:31
+brand: boulies
+brand_logo_url: null
+images:
+  - https://cdn.shopify.com/s/files/1/2127/6275/files/header-nav-bg__EP460_x500.jpg?v=1716518934
+  - https://cdn.shopify.com/s/files/1/2127/6275/files/header-nav-bg__EP460_x350.jpg?v=1716518934
+  - https://cdn.shopify.com/s/files/1/0055/5515/9126/files/EP460-grey_2_600x600.jpg?v=1716876361
+updated_at: 2026-04-04 23:43

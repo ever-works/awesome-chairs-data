@@ -3,13 +3,9 @@ description: The Branch Furniture Ergonomic Chair offers a stylish and
   comfortable seating option with a light blue finish and white frame. It is
   designed to provide ergonomic support for long hours of work or gaming.
 source_url: https://www.officechairsusa.com/branch-furniture-ergonomic-chair/
-featured: false
-brand: branch-furniture
-brand_logo_url: /path/to/branch/logo.png
-images:
-  - https://cdn11.bigcommerce.com/s-lpku7oc/stencil/e2ffdcc0-5522-013e-75ce-268ccf9b665c/e/dc501ef0-b9d3-013e-70a3-3a6e55e893d9/img/loading.svg
-category: chair-accessories
+category: Chair Accessories
 tags: []
+featured: false
 markdown: >-
   # Branch Furniture Ergonomic Chair
 
@@ -106,4 +102,8 @@ markdown: >-
 
   For more details, visit the [product
   page](https://www.officechairsusa.com/branch-furniture-ergonomic-chair/).
-updated_at: 2025-12-13 05:58
+brand: branch-furniture
+brand_logo_url: /path/to/branch/logo.png
+images:
+  - https://cdn11.bigcommerce.com/s-lpku7oc/stencil/e2ffdcc0-5522-013e-75ce-268ccf9b665c/e/dc501ef0-b9d3-013e-70a3-3a6e55e893d9/img/loading.svg
+updated_at: 2026-04-04 23:43

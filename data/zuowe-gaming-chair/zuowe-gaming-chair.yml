@@ -3,12 +3,9 @@ description: A line of gaming chairs from ZUOWE tailored for gamers and
   intensive computer users, combining supportive ergonomics, high load‑bearing
   capacity, and stable structure for long gaming or streaming sessions.
 source_url: https://www.zuowe.com/gaming-chair/
-featured: true
-brand: zuowe
-brand_logo_url: null
-images: null
-category: chair-accessories
+category: Chair Accessories
 tags: []
+featured: true
 markdown: >-
   # ZUOWE Gaming Chair
 
@@ -158,4 +155,6 @@ markdown: >-
   - Chairs are marketed for bulk purchase at factory-level pricing; prospective
   buyers are expected to request a quotation directly from ZUOWE for exact costs
   and terms.
-updated_at: 2025-12-23 09:31
+brand: zuowe
+brand_logo_url: null
+updated_at: 2026-04-04 23:43

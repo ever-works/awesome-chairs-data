@@ -5,15 +5,9 @@ description: A curated category of ergonomic office chairs and task seating from
   for extended periods, helping to improve health and productivity in home
   workspaces.
 source_url: https://www.ergocentric.com/product-category/office-seating/
-featured: true
-brand: ergocentric
-brand_logo_url: null
-images:
-  - https://www.ergocentric.com/wp-content/uploads/work-environments-HomeOffice.webp
-  - https://www.ergocentric.com/wp-content/uploads/Website-Office-env.webp
-  - https://www.ergocentric.com/wp-content/uploads/Preview-ERG38-TSDC-Op2-View-1-1536x864-1.webp
-category: chair-accessories
+category: Chair Accessories
 tags: []
+featured: true
 markdown: |-
   ## ergoCentric Home Office Seating
 
@@ -69,4 +63,10 @@ markdown: |-
 
   ### Source
   - Product category page: https://www.ergocentric.com/product-category/office-seating/
-updated_at: 2025-12-23 09:31
+brand: ergocentric
+brand_logo_url: null
+images:
+  - https://www.ergocentric.com/wp-content/uploads/work-environments-HomeOffice.webp
+  - https://www.ergocentric.com/wp-content/uploads/Website-Office-env.webp
+  - https://www.ergocentric.com/wp-content/uploads/Preview-ERG38-TSDC-Op2-View-1-1536x864-1.webp
+updated_at: 2026-04-04 23:43

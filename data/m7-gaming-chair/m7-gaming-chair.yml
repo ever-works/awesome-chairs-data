@@ -4,15 +4,9 @@ description: The M7 Gaming Chair offers premium comfort with its advanced
   lumbar support, adjustable armrests, and a high-quality build, ensuring
   durability and comfort for extended periods.
 source_url: https://www.tomsguide.com/reviews/mavix-m7
-featured: true
-brand: mx
-brand_logo_url: /path/to/mx-logo.png
-images:
-  - https://cld.accentuate.io/67226632512/1695407647850/XC_HAT_PLP-swatches_black_44x44.jpg?v=1695407647851&options=w_24
-  - https://cld.accentuate.io/67226632512/1695407671342/XC_HAT_PLP-swatches_folkstone-grey_44x44.jpg?v=1695407671342&options=w_24
-  - https://cld.accentuate.io/67226632512/1695410081687/XC_HAT_PLP-swatches_white_44x44.jpg?v=1695410081687&options=w_24
-category: chair-accessories
+category: Chair Accessories
 tags: []
+featured: true
 markdown: |-
   ## M7 Gaming Chair by mx
 
@@ -60,4 +54,10 @@ markdown: |-
   ---
 
   Discover the comfort and support of the M7 Gaming Chair and elevate your gaming or work experience with its thoughtful design and robust features.
-updated_at: 2025-12-21 06:47
+brand: mx
+brand_logo_url: /path/to/mx-logo.png
+images:
+  - https://cld.accentuate.io/67226632512/1695407647850/XC_HAT_PLP-swatches_black_44x44.jpg?v=1695407647851&options=w_24
+  - https://cld.accentuate.io/67226632512/1695407671342/XC_HAT_PLP-swatches_folkstone-grey_44x44.jpg?v=1695407671342&options=w_24
+  - https://cld.accentuate.io/67226632512/1695410081687/XC_HAT_PLP-swatches_white_44x44.jpg?v=1695410081687&options=w_24
+updated_at: 2026-04-04 23:43

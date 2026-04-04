@@ -3,17 +3,12 @@ description: The Asus ROG gaming chair offers a wide range of adjustability and
   features, but it underperformed in comfort tests. Despite its high price, it
   may not be the best choice for those prioritizing comfort.
 source_url: https://rog.asus.com/apparel-bags-gear/gear/rog-destrier-ergo-gaming-chair-model/
-featured: false
-brand: asus
-brand_logo_url: https://asus.com/logo.png
-images:
-  - https://asus.com/images/rog-chair-1.png
-  - https://asus.com/images/rog-chair-2.png
-category: gaming-chairs
+category: Gaming Chairs
 tags:
   - adjustable
   - high-price
   - gaming
+featured: false
 markdown: |-
   ## Asus ROG Destrier Ergo Gaming Chair
 
@@ -44,4 +39,9 @@ markdown: |-
 
   ### Source
   For more information, visit the [Asus ROG Destrier Ergo Gaming Chair page](https://rog.asus.com/apparel-bags-gear/gear/rog-destrier-ergo-gaming-chair-model/).
-updated_at: 2025-12-16 06:23
+brand: asus
+brand_logo_url: https://asus.com/logo.png
+images:
+  - https://asus.com/images/rog-chair-1.png
+  - https://asus.com/images/rog-chair-2.png
+updated_at: 2026-04-04 23:43

@@ -3,13 +3,9 @@ description: The Sayl Gaming Chair by Herman Miller is designed for gamers who
   value both aesthetics and functionality. Its unique design offers ergonomic
   support, ensuring comfort during extended gaming sessions.
 source_url: https://store.hermanmiller.com/gaming-chairs/sayl-gaming-chair/100185054.html?lang=en_US
-featured: true
-brand: herman-miller
-brand_logo_url: https://www.hermanmiller.com/content/dam/hermanmiller/logos/herman-miller-logo.png
-images:
-  - https://store.hermanmiller.com/dw/image/v2/AAQN_PRD/on/demandware.static/-/Sites-hermanmiller-master-catalog/default/dw1a1a1a1a/images/large/sayl-gaming-chair.jpg
-category: chair-accessories
+category: Chair Accessories
 tags: []
+featured: true
 markdown: |-
   # Sayl Gaming Chair by Herman Miller
 
@@ -43,4 +39,8 @@ markdown: |-
   ---
 
   For more details, visit [Herman Miller's official website](https://store.hermanmiller.com/).
-updated_at: 2025-12-13 05:58
+brand: herman-miller
+brand_logo_url: https://www.hermanmiller.com/content/dam/hermanmiller/logos/herman-miller-logo.png
+images:
+  - https://store.hermanmiller.com/dw/image/v2/AAQN_PRD/on/demandware.static/-/Sites-hermanmiller-master-catalog/default/dw1a1a1a1a/images/large/sayl-gaming-chair.jpg
+updated_at: 2026-04-04 23:43

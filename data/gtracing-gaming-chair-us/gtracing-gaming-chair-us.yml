@@ -5,17 +5,12 @@ description: The GTRacing Gaming Chair is designed for gamers who spend long
   extended gaming sessions. The chair is built with durable materials and comes
   in various styles to match different gaming setups.
 source_url: https://www.gtracing.com/products/gt905-rgb
-featured: true
-brand: gtracing
-brand_logo_url: https://www.gtracing.com/logo.png
-images:
-  - https://www.gtracing.com/images/gt905-rgb-1.png
-  - https://www.gtracing.com/images/gt905-rgb-2.png
-category: gaming-chairs
+category: Gaming Chairs
 tags:
   - ergonomic
   - lumbar-support
   - adjustable
+featured: true
 markdown: >-
   ## GTRacing Gaming Chair US
 
@@ -78,4 +73,9 @@ markdown: >-
 
   For more details and purchasing options, visit the [official product
   page](https://www.gtracing.com/products/gt905-rgb).
-updated_at: 2025-12-18 06:32
+brand: gtracing
+brand_logo_url: https://www.gtracing.com/logo.png
+images:
+  - https://www.gtracing.com/images/gt905-rgb-1.png
+  - https://www.gtracing.com/images/gt905-rgb-2.png
+updated_at: 2026-04-04 23:43

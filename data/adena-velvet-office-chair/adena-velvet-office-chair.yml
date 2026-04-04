@@ -3,14 +3,9 @@ description: The Adena Velvet Office Chair offers a touch of elegance with its
   velvet upholstery and sleek design. It's a limited edition piece that provides
   both comfort and style for any office environment.
 source_url: https://eurekaergonomic.com/collections/desk-chairs?srsltid=AfmBOoqkj5qE4Y1BbYqYDmlS2OeWti7z_giLFRdYclQbKOAT42BJ2DBN
-featured: true
-brand: awesome-chairs-co
-brand_logo_url: https://example.com/logos/awesome-chairs-co.png
-images:
-  - https://example.com/images/adena-chair-1.png
-  - https://example.com/images/adena-chair-2.png
-category: chair-accessories
+category: Chair Accessories
 tags: []
+featured: true
 markdown: |-
   ## Adena Velvet Office Chair
 
@@ -41,4 +36,9 @@ markdown: |-
 
   ### Note
   This product does not currently include pricing information or available plans.
-updated_at: 2025-12-16 06:23
+brand: awesome-chairs-co
+brand_logo_url: https://example.com/logos/awesome-chairs-co.png
+images:
+  - https://example.com/images/adena-chair-1.png
+  - https://example.com/images/adena-chair-2.png
+updated_at: 2026-04-04 23:43

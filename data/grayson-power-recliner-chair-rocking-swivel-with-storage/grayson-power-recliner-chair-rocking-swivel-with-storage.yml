@@ -4,14 +4,9 @@ description: An ergonomic power recliner chair from Eureka Ergonomic featuring
   comfort with padded support, it can serve as a comfortable computer or media
   chair for long sitting sessions.
 source_url: https://eurekaergonomic.com/products/eea03-rocking-recliner-chair-with-storage
-featured: false
-brand: eureka-ergonomic
-brand_logo_url: null
-images:
-  - https://eurekaergonomic.com/cdn/shop/files/Eureka_Ergonomic_Grayson_Power_Recliner_Chair_Rocking_Swivel_with_Storage.jpg?crop=center&height=100&v=1721737265&width=100
-  - https://eurekaergonomic.com/cdn/shop/files/Eureka_Ergonomic_Grayson_Power_Recliner_Chair_Rocking_Swivel_with_Storage_Beige.jpg?crop=center&height=100&v=1729331053&width=100
-category: chair-accessories
+category: Chair Accessories
 tags: []
+featured: false
 markdown: |-
   # Grayson, Power Recliner Chair Rocking Swivel with Storage
 
@@ -73,4 +68,9 @@ markdown: |-
   - **Product page:** https://eurekaergonomic.com/products/eea03-rocking-recliner-chair-with-storage
   - **Category:** chair-accessories
   - **Slug:** grayson-power-recliner-chair-rocking-swivel-with-storage
-updated_at: 2025-12-23 09:31
+brand: eureka-ergonomic
+brand_logo_url: null
+images:
+  - https://eurekaergonomic.com/cdn/shop/files/Eureka_Ergonomic_Grayson_Power_Recliner_Chair_Rocking_Swivel_with_Storage.jpg?crop=center&height=100&v=1721737265&width=100
+  - https://eurekaergonomic.com/cdn/shop/files/Eureka_Ergonomic_Grayson_Power_Recliner_Chair_Rocking_Swivel_with_Storage_Beige.jpg?crop=center&height=100&v=1729331053&width=100
+updated_at: 2026-04-04 23:43

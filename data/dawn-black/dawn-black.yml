@@ -4,14 +4,9 @@ description: The DAWN Black chair is a masterpiece of ergonomic precision and
   exceptional comfort and modern aesthetics, making it a perfect addition to any
   gaming setup or professional workspace.
 source_url: https://www.noblechairs.com/en-us/dawn-series/gaming-chair-pu-leather
-featured: false
-brand: noblechairs
-brand_logo_url: https://www.noblechairs.com/logo.png
-images:
-  - https://www.noblechairs.com/images/dawn-black-1.jpg
-  - https://www.noblechairs.com/images/dawn-black-2.jpg
-category: chair-accessories
+category: Chair Accessories
 tags: []
+featured: false
 markdown: >-
   ## DAWN Black Gaming Chair
 
@@ -62,4 +57,9 @@ markdown: >-
   - ![DAWN Black Image 1](https://www.noblechairs.com/images/dawn-black-1.jpg)
 
   - ![DAWN Black Image 2](https://www.noblechairs.com/images/dawn-black-2.jpg)
-updated_at: 2025-12-15 06:30
+brand: noblechairs
+brand_logo_url: https://www.noblechairs.com/logo.png
+images:
+  - https://www.noblechairs.com/images/dawn-black-1.jpg
+  - https://www.noblechairs.com/images/dawn-black-2.jpg
+updated_at: 2026-04-04 23:43

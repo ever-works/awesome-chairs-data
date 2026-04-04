@@ -3,12 +3,9 @@ description: Task chair by AMQ with ergonomic features and customizable options,
   intended for users needing comfortable seating during long computer or office
   sessions.
 source_url: https://www.steelcase.com/products/office-chairs/zilo
-featured: false
-brand: amq
-brand_logo_url: null
-images: null
-category: others
+category: Others
 tags: []
+featured: false
 markdown: >-
   # ZILO
 
@@ -51,4 +48,6 @@ markdown: >-
 
 
   Pricing information is not provided on the source page.
-updated_at: 2025-12-31 19:09
+brand: amq
+brand_logo_url: null
+updated_at: 2026-04-04 23:43

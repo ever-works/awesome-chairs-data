@@ -5,12 +5,9 @@ description: A product line of ergonomic office and gaming chairs from Eureka
   workstations and gaming setups, making them suitable for all-day use at the
   desk.
 source_url: https://eurekaergonomic.com
-featured: false
-brand: eureka-ergonomic
-brand_logo_url: null
-images: null
-category: chair-accessories
+category: Chair Accessories
 tags: []
+featured: false
 markdown: >-
   # Eureka Ergonomic Computer & Gaming Chairs
 
@@ -64,4 +61,6 @@ markdown: >-
   Pricing is not specified in the provided content and appears to vary by
   specific chair model. Current prices can be found on the brand’s website:
   https://eurekaergonomic.com
-updated_at: 2025-12-23 09:31
+brand: eureka-ergonomic
+brand_logo_url: null
+updated_at: 2026-04-04 23:43

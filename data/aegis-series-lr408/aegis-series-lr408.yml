@@ -4,14 +4,9 @@ description: The Aegis Series LR408 is a premium gaming chair designed for
   making it ideal for long hours of gaming or work. The chair is currently
   available at a discounted price, offering great value for its quality.
 source_url: https://gtracing.com/?srsltid=AfmBOoq5CnZThoG6Qr-T2EHiCKogeK-2ZLdei3U0UDdPZFcckliaqNoO
-featured: true
-brand: ace
-brand_logo_url: https://example.com/ace-logo.png
-images:
-  - https://example.com/images/lr408-1.png
-  - https://example.com/images/lr408-2.png
-category: chair-accessories
+category: Chair Accessories
 tags: []
+featured: true
 markdown: |-
   ## Aegis Series LR408 - Product Overview
 
@@ -43,4 +38,9 @@ markdown: |-
   ---
 
   This markdown provides a concise summary of the Aegis Series LR408 gaming chair, highlighting its key features, pricing, and availability without delving into promotional language or testimonials.
-updated_at: 2025-12-17 06:35
+brand: ace
+brand_logo_url: https://example.com/ace-logo.png
+images:
+  - https://example.com/images/lr408-1.png
+  - https://example.com/images/lr408-2.png
+updated_at: 2026-04-04 23:43

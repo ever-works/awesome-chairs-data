@@ -5,14 +5,9 @@ description: The Forma Ergonomic Executive Office Chair is designed to provide
   professionals. Available in Black and Off-White, it suits various office
   decors.
 source_url: https://eurekaergonomic.com/products/forma-ergonomic-executive-office-chair?srsltid=AfmBOoqBuwhlP5drhtCbGoEBAHdBLTdSEXjLNXWizW0FGtWIHfcMDZig
-featured: true
-brand: forma
-brand_logo_url: https://www.example.com/brand-logos/forma.png
-images:
-  - https://www.example.com/images/forma-black.jpg
-  - https://www.example.com/images/forma-off-white.jpg
-category: chair-accessories
+category: Chair Accessories
 tags: []
+featured: true
 markdown: |-
   ## Forma Ergonomic Executive Office Chair
 
@@ -38,4 +33,9 @@ markdown: |-
   - **Featured Product**: Yes
 
   [Learn More](https://eurekaergonomic.com/products/forma-ergonomic-executive-office-chair?srsltid=AfmBOoqBuwhlP5drhtCbGoEBAHdBLTdSEXjLNXWizW0FGtWIHfcMDZig)
-updated_at: 2025-12-16 06:23
+brand: forma
+brand_logo_url: https://www.example.com/brand-logos/forma.png
+images:
+  - https://www.example.com/images/forma-black.jpg
+  - https://www.example.com/images/forma-off-white.jpg
+updated_at: 2026-04-04 23:43

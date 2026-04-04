@@ -3,21 +3,12 @@ description: The DXRacer Black Series offers a variety of color options, each
   designed for those who value both comfort and style. Its ergonomic features
   and vibrant colors make it a standout choice for any gaming or office setup.
 source_url: https://www.dxracer.com/us/en-us/product/black-series
-featured: false
-brand: dxracer
-brand_logo_url: https://www.dxracer.com/us/en-us/images/logo.png
-images:
-  - https://nex-img.dxracer.cc/20001/bd289f5d-1341-4b6f-80e0-00d31991c8ef-1.png
-  - https://nex-img.dxracer.cc/20001/0e5bd315-e457-4bf8-82a7-dad0d16e701b-1.png
-  - https://nex-img.dxracer.cc/20001/0077e9c2-0798-40ed-b572-7cda520dbb7e-1.png
-  - https://nex-img.dxracer.cc/20001/5f516db5-951d-43f3-861d-f63d6d86e050-1.png
-  - https://nex-img.dxracer.cc/20001/d038cd91-eb7b-4fb2-8e6a-87e7e8ebbf1f-1.png
-  - https://nex-img.dxracer.cc/20001/7f1f7717-76ad-4316-8580-fb4ae7868487-1.png
-category: gaming-chairs
+category: Gaming Chairs
 tags:
   - colorful
   - ergonomic
   - stylish
+featured: false
 markdown: |-
   ## DXRacer Black Series
 
@@ -56,4 +47,13 @@ markdown: |-
 
   ---
   This markdown summary provides a concise overview of the DXRacer Black Series, highlighting its key features and visual appeal, making it an ideal choice for those looking to enhance their gaming or office setup.
-updated_at: 2025-12-19 06:33
+brand: dxracer
+brand_logo_url: https://www.dxracer.com/us/en-us/images/logo.png
+images:
+  - https://nex-img.dxracer.cc/20001/bd289f5d-1341-4b6f-80e0-00d31991c8ef-1.png
+  - https://nex-img.dxracer.cc/20001/0e5bd315-e457-4bf8-82a7-dad0d16e701b-1.png
+  - https://nex-img.dxracer.cc/20001/0077e9c2-0798-40ed-b572-7cda520dbb7e-1.png
+  - https://nex-img.dxracer.cc/20001/5f516db5-951d-43f3-861d-f63d6d86e050-1.png
+  - https://nex-img.dxracer.cc/20001/d038cd91-eb7b-4fb2-8e6a-87e7e8ebbf1f-1.png
+  - https://nex-img.dxracer.cc/20001/7f1f7717-76ad-4316-8580-fb4ae7868487-1.png
+updated_at: 2026-04-04 23:43

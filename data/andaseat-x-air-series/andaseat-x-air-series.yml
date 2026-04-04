@@ -4,19 +4,12 @@ description: The AndaSeat X-Air Series is designed to provide superior comfort
   seated. It features advanced tilt mechanisms and mesh materials that enhance
   breathability and flexibility, making it ideal for hybrid work environments.
 source_url: https://www.andaseat.com/pages/x-air-series-features
-featured: true
-brand: andaseat
-brand_logo_url: https://www.andaseat.com/logo.png
-images:
-  - https://www.andaseat.com/images/x-air-series-1.png
-  - https://www.andaseat.com/images/x-air-series-2.png
-  - https://www.andaseat.com/images/x-air-series-mesh-chair-1.png
-  - https://www.andaseat.com/images/x-air-series-mesh-chair-2.png
-category: gaming-chairs
+category: Gaming Chairs
 tags:
   - breathable
   - ergonomic
   - flexible
+featured: true
 markdown: >-
   ## AndaSeat X-Air Series
 
@@ -78,4 +71,11 @@ markdown: >-
   ![X-Air Series Image 1](https://www.andaseat.com/images/x-air-series-1.png)
 
   ![X-Air Series Image 2](https://www.andaseat.com/images/x-air-series-2.png)
-updated_at: 2025-12-19 06:33
+brand: andaseat
+brand_logo_url: https://www.andaseat.com/logo.png
+images:
+  - https://www.andaseat.com/images/x-air-series-1.png
+  - https://www.andaseat.com/images/x-air-series-2.png
+  - https://www.andaseat.com/images/x-air-series-mesh-chair-1.png
+  - https://www.andaseat.com/images/x-air-series-mesh-chair-2.png
+updated_at: 2026-04-04 23:43

@@ -4,14 +4,9 @@ description: The BodyBilt Sola LT Chair is an ergonomic chair designed for
   customizable options to fit individual needs, making it ideal for both home
   and office environments.
 source_url: https://bodybilt.com/bodybilt-store/
-featured: true
-brand: bodybilt
-brand_logo_url: https://bodybilt.com/logo.png
-images:
-  - https://bodybilt.com/images/sola-lt-chair-front.jpg
-  - https://bodybilt.com/images/sola-lt-chair-side.jpg
-category: chair-accessories
+category: Chair Accessories
 tags: []
+featured: true
 markdown: >-
   # BodyBilt Sola LT Chair
 
@@ -70,4 +65,9 @@ markdown: >-
 
   For more information, visit the [BodyBilt Sola LT Chair
   page](https://bodybilt.com/bodybilt-store/).
-updated_at: 2025-12-21 06:47
+brand: bodybilt
+brand_logo_url: https://bodybilt.com/logo.png
+images:
+  - https://bodybilt.com/images/sola-lt-chair-front.jpg
+  - https://bodybilt.com/images/sola-lt-chair-side.jpg
+updated_at: 2026-04-04 23:43

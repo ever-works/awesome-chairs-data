@@ -8,13 +8,9 @@ description: The Herman Miller Zeph is a compact, design-forward office/computer
   distinctive chair for small workspaces without fiddling with complex
   adjustments.
 source_url: https://www.hermanmiller.com/products/seating/office-chairs/zeph-chair/
-featured: true
-brand: herman-miller
-brand_logo_url: https://www.hermanmiller.com/content/dam/hermanmiller/page-assets/global/en/logo/herman-miller-logo.svg
-images:
-  - https://media.wired.com/photos/62e8426fd0ad4d5c1833c0a0/4:3/w_640%2Cc_limit/Herman-Miller-Zeph-SOURCE-Herman-Miller-Gear.jpg
-category: chair-accessories
+category: Chair Accessories
 tags: []
+featured: true
 markdown: |-
   # Herman Miller Zeph Chair
 
@@ -56,4 +52,8 @@ markdown: |-
   ## Pricing
 
   Pricing information is not specified in the provided content. For current pricing, configurations, and promotions, refer to the official product page: <https://www.hermanmiller.com/products/seating/office-chairs/zeph-chair/>.
-updated_at: 2025-12-23 09:31
+brand: herman-miller
+brand_logo_url: https://www.hermanmiller.com/content/dam/hermanmiller/page-assets/global/en/logo/herman-miller-logo.svg
+images:
+  - https://media.wired.com/photos/62e8426fd0ad4d5c1833c0a0/4:3/w_640%2Cc_limit/Herman-Miller-Zeph-SOURCE-Herman-Miller-Gear.jpg
+updated_at: 2026-04-04 23:43

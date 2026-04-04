@@ -3,14 +3,9 @@ description: The RESPAWN SPECTER is a unique gaming chair with flip-back arms
   and weight-activated lumbar support. It features a performance mesh back and
   seat for cooling comfort and a height-adjustable headrest for neck support.
 source_url: https://www.respawnproducts.com/products/respawn-specter
-featured: true
-brand: respawn
-brand_logo_url: https://www.respawnproducts.com/logo.png
-images:
-  - https://www.respawnproducts.com/images/respawn-specter-1.png
-  - https://www.respawnproducts.com/images/respawn-specter-2.png
-category: others
+category: Others
 tags: []
+featured: true
 markdown: >-
   # RESPAWN SPECTER Gaming Chair
 
@@ -98,4 +93,9 @@ markdown: >-
   combines advanced ergonomics with stylish design. Whether for work or play,
   this chair adapts to your needs, ensuring comfort and support throughout the
   day.
-updated_at: 2025-12-22 06:56
+brand: respawn
+brand_logo_url: https://www.respawnproducts.com/logo.png
+images:
+  - https://www.respawnproducts.com/images/respawn-specter-1.png
+  - https://www.respawnproducts.com/images/respawn-specter-2.png
+updated_at: 2026-04-04 23:43

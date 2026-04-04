@@ -3,13 +3,9 @@ description: The HAG Capisco 8107 is a unique chair designed for dynamic
   sitting. Its saddle seat and adjustable features promote movement and comfort,
   making it suitable for both office and gaming environments.
 source_url: https://www.officechairsusa.com/hag-capisco-8107-5-day-express-ship/
-featured: true
-brand: hag
-brand_logo_url: /path/to/hag/logo.png
-images:
-  - https://cdn11.bigcommerce.com/s-lpku7oc/stencil/e2ffdcc0-5522-013e-75ce-268ccf9b665c/e/dc501ef0-b9d3-013e-70a3-3a6e55e893d9/img/loading.svg
-category: chair-accessories
+category: Standing & Active Seating
 tags: []
+featured: true
 markdown: |-
   ### Product Summary: HAG Capisco 8107
 
@@ -47,4 +43,8 @@ markdown: |-
   ---
 
   This summary provides a concise overview of the HAG Capisco 8107 chair, emphasizing its ergonomic design, features, and brand details, suitable for directory listings and product catalogs.
-updated_at: 2025-12-13 05:58
+brand: hag
+brand_logo_url: /path/to/hag/logo.png
+images:
+  - https://cdn11.bigcommerce.com/s-lpku7oc/stencil/e2ffdcc0-5522-013e-75ce-268ccf9b665c/e/dc501ef0-b9d3-013e-70a3-3a6e55e893d9/img/loading.svg
+updated_at: 2026-04-04 23:43

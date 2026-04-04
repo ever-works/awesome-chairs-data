@@ -4,14 +4,9 @@ description: The DAWN TX Granite chair offers ergonomic precision and luxurious
   modern aesthetics, making it ideal for enhancing any gaming setup or
   professional workspace.
 source_url: https://www.noblechairs.com/en-us/dawn-series/tx
-featured: false
-brand: noblechairs
-brand_logo_url: https://www.noblechairs.com/logo.png
-images:
-  - https://www.noblechairs.com/images/dawn-tx-granite-1.jpg
-  - https://www.noblechairs.com/images/dawn-tx-granite-2.jpg
-category: chair-accessories
+category: Chair Accessories
 tags: []
+featured: false
 markdown: >-
   ### DAWN TX Granite by noblechairs
 
@@ -76,4 +71,9 @@ markdown: >-
 
 
   **Note:** Pricing information is not provided in the available content.
-updated_at: 2025-12-15 06:30
+brand: noblechairs
+brand_logo_url: https://www.noblechairs.com/logo.png
+images:
+  - https://www.noblechairs.com/images/dawn-tx-granite-1.jpg
+  - https://www.noblechairs.com/images/dawn-tx-granite-2.jpg
+updated_at: 2026-04-04 23:43

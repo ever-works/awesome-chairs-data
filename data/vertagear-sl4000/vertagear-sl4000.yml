@@ -1,7 +1,13 @@
 name: Vertagear SL4000
-description: Mid-tier racing-style gaming chair bringing unparalleled ergonomic
-  comfort with high-density padding, contoured backrest, and 4-directional
-  adjustable armrests for longer gaming sessions.
+description: Mid-tier racing-style gaming chair at $400 featuring high-density
+  padding, contoured backrest, removable memory foam neck and lumbar cushions,
+  4D adjustable armrests, 140° recline, Class-4 industrial gas lift,
+  BIFMA-certified aluminum alloy base, and 330 lb weight capacity. Designed for
+  gamers seeking Vertagear's S-Line ergonomics at a mid-range price point.
+  Compared to the Secretlab Titan Evo at a similar price, it offers comparable
+  lumbar and armrest adjustability, though it trades the Titan's integrated
+  four-way lumbar dial and magnetic pillow for traditional removable cushions
+  and a more restrained recline range (140° vs 165°).
 source_url: https://www.vertagear.com/products/sl4000-gaming-chair
 category: Gaming Chairs
 tags:
@@ -55,4 +61,5 @@ markdown: >-
 
   Starting at $399.99
 brand: Vertagear
-updated_at: 2026-03-07 17:45
+brand_logo_url: https://www.vertagear.com/cdn/shop/files/vertagear-logo.png
+updated_at: 2026-04-04 23:43

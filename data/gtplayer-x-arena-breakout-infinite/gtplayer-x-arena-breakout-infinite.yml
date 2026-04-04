@@ -3,14 +3,9 @@ description: The GTPLAYER X Arena Breakout Infinite is a collaboration chair
   designed for gamers who want to enhance their gaming setup. It offers
   ergonomic features and a stylish design that complements any gaming room.
 source_url: https://gtracing.com/collections/gaming-chairs-1
-featured: false
-brand: gtplayer
-brand_logo_url: https://gtplayer.com/logo.png
-images:
-  - https://gtplayer.com/images/arena-breakout-1.png
-  - https://gtplayer.com/images/arena-breakout-2.png
-category: chair-accessories
+category: Chair Accessories
 tags: []
+featured: false
 markdown: >-
   ### GTPLAYER X Arena Breakout Infinite
 
@@ -80,4 +75,9 @@ markdown: >-
 
   For more information, visit the [GTPLAYER X Arena Breakout
   Infinite](https://gtracing.com/collections/gaming-chairs-1) product page.
-updated_at: 2025-12-17 06:35
+brand: gtplayer
+brand_logo_url: https://gtplayer.com/logo.png
+images:
+  - https://gtplayer.com/images/arena-breakout-1.png
+  - https://gtplayer.com/images/arena-breakout-2.png
+updated_at: 2026-04-04 23:43

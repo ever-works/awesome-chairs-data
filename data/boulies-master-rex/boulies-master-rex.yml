@@ -5,15 +5,9 @@ description: The Boulies Master Rex is a flagship premium computer and gaming
   ergonomic posture support to work equally well as a hybrid gaming and office
   chair.
 source_url: https://boulies.com/products/master-rex
-featured: true
-brand: boulies
-brand_logo_url: null
-images:
-  - https://cdn.shopify.com/s/files/1/0055/5515/9126/files/Master_Rex-PU-brown_6_600x600.jpg?v=1744857388
-  - https://cdn.shopify.com/s/files/1/2127/6275/files/header-nav-bg__master_rex_x500.jpg?v=1737611978
-  - https://cdn.shopify.com/s/files/1/2127/6275/files/header-nav-bg__master_rex_x350.jpg?v=1737611978
-category: chair-accessories
+category: Chair Accessories
 tags: []
+featured: true
 markdown: >
   # Boulies Master Rex
 
@@ -97,4 +91,10 @@ markdown: >
   Pricing is **not specified** in the provided content. For current price,
   available configurations, and any discounts or bundles, visit the product
   page: <https://boulies.com/products/master-rex>.
-updated_at: 2025-12-23 09:31
+brand: boulies
+brand_logo_url: null
+images:
+  - https://cdn.shopify.com/s/files/1/0055/5515/9126/files/Master_Rex-PU-brown_6_600x600.jpg?v=1744857388
+  - https://cdn.shopify.com/s/files/1/2127/6275/files/header-nav-bg__master_rex_x500.jpg?v=1737611978
+  - https://cdn.shopify.com/s/files/1/2127/6275/files/header-nav-bg__master_rex_x350.jpg?v=1737611978
+updated_at: 2026-04-04 23:43

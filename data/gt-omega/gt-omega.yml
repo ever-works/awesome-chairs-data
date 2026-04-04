@@ -3,14 +3,9 @@ description: GT Omega manufactures gaming and office chairs focused on ergonomic
   support and racing-style aesthetics, suitable for PC gamers and professionals
   who sit at a desk for long periods.
 source_url: https://www.gtomega.com/collections/gaming-chairs
-featured: false
-brand: gt-omega
-brand_logo_url: https://www.gtomega.com/cdn/shop/files/GT_Omega_Logo_160x.png
-images:
-  - https://www.gtomega.com/cdn/shop/files/pro-series-gaming-chair-01.jpg
-  - https://www.gtomega.com/cdn/shop/files/element-series-gaming-chair-02.jpg
-category: others
+category: Others
 tags: []
+featured: false
 markdown: >
   # GT Omega
 
@@ -61,4 +56,9 @@ markdown: >
   - Not specified on the provided content. Visit the collection page for current
   pricing and available models:
   https://www.gtomega.com/collections/gaming-chairs
-updated_at: 2025-12-31 19:09
+brand: gt-omega
+brand_logo_url: https://www.gtomega.com/cdn/shop/files/GT_Omega_Logo_160x.png
+images:
+  - https://www.gtomega.com/cdn/shop/files/pro-series-gaming-chair-01.jpg
+  - https://www.gtomega.com/cdn/shop/files/element-series-gaming-chair-02.jpg
+updated_at: 2026-04-04 23:43

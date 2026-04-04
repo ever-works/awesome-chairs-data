@@ -4,17 +4,12 @@ description: This gaming chair is a collaboration with the Ninjas in Pyjamas
   support. It's praised by professional gamers for its game-changing comfort and
   adjustability.
 source_url: https://www.andaseat.com/pages/andaseat-ninjas-in-pyjamas-gaming-chair
-featured: true
-brand: andaseat
-brand_logo_url: https://www.andaseat.com/logo.png
-images:
-  - https://www.andaseat.com/images/nip-gaming-chair-1.png
-  - https://www.andaseat.com/images/nip-gaming-chair-2.png
-category: gaming-chairs
+category: Gaming Chairs
 tags:
   - ergonomic
   - adjustable
   - collaboration
+featured: true
 markdown: >-
   # AndaSeat Ninjas in Pyjamas Gaming Chair
 
@@ -81,4 +76,9 @@ markdown: >-
 
   For more information and to purchase, visit the [official product
   page](https://www.andaseat.com/pages/andaseat-ninjas-in-pyjamas-gaming-chair).
-updated_at: 2025-12-18 06:32
+brand: andaseat
+brand_logo_url: https://www.andaseat.com/logo.png
+images:
+  - https://www.andaseat.com/images/nip-gaming-chair-1.png
+  - https://www.andaseat.com/images/nip-gaming-chair-2.png
+updated_at: 2026-04-04 23:43

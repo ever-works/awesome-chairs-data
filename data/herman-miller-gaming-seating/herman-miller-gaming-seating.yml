@@ -4,15 +4,12 @@ description: Herman Miller’s dedicated gaming seating line featuring
   and work sessions, combining ergonomic support with gaming-oriented styling
   and adjustments.
 source_url: https://www.hermanmiller.com/products/gaming/
-featured: false
-brand: herman-miller
-brand_logo_url: https://www.hermanmiller.com/content/dam/hmicom/page_assets/homepage/primary-nav/herman-miller-logo.svg
-images: null
-category: gaming-chairs
+category: Gaming Chairs
 tags:
   - gaming
   - performance
   - ergonomic
+featured: false
 markdown: >-
   # Herman Miller Gaming Seating
 
@@ -70,4 +67,6 @@ markdown: >-
   Pricing details and specific configurations are not provided in the supplied
   content. For current pricing, available models, and configuration options, see
   the official product page: <https://www.hermanmiller.com/products/gaming/>.
-updated_at: 2025-12-26 08:37
+brand: herman-miller
+brand_logo_url: https://www.hermanmiller.com/content/dam/hmicom/page_assets/homepage/primary-nav/herman-miller-logo.svg
+updated_at: 2026-04-04 23:43

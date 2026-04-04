@@ -3,16 +3,12 @@ description: The SL5800 is an ergonomic gaming chair designed for users up to
   260 lbs and 6'4" in height. It is part of the 800 Series and is highly rated
   for its comfort and support, making it ideal for long gaming sessions.
 source_url: https://www.vertagear.com/products/sl5800-ergonomic-gaming-chair
-featured: false
-brand: vertagear
-brand_logo_url: https://www.vertagear.com/logo.png
-images:
-  - https://www.vertagear.com/images/sl5800.jpg
-category: gaming-chairs
+category: Gaming Chairs
 tags:
   - ergonomic
   - comfortable
   - supportive
+featured: false
 markdown: >-
   # SL5800 Ergonomic Gaming Chair
 
@@ -87,4 +83,8 @@ markdown: >-
 
   For more information, visit the [official product
   page](https://www.vertagear.com/products/sl5800-ergonomic-gaming-chair).
-updated_at: 2025-12-21 06:47
+brand: vertagear
+brand_logo_url: https://www.vertagear.com/logo.png
+images:
+  - https://www.vertagear.com/images/sl5800.jpg
+updated_at: 2026-04-04 23:43

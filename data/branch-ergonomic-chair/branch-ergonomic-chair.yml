@@ -6,13 +6,9 @@ description: An affordable, fully-adjustable ergonomic office chair designed for
   17–21 inch seat height range, and a 7-year warranty, it’s a strong
   budget-friendly choice for all-day computer or gaming use.
 source_url: https://www.branchfurniture.com/products/ergonomic-chair
-featured: true
-brand: branch
-brand_logo_url: null
-images:
-  - https://media.wired.com/photos/67327cd5ecebc4e6a15de92f/4:3/w_640%2Cc_limit/Branch%2520Ergonomic%2520Chair%2520Shadow.png
-category: chair-accessories
+category: Chair Accessories
 tags: []
+featured: true
 markdown: |-
   # Branch Ergonomic Chair
 
@@ -47,4 +43,8 @@ markdown: |-
 
   ## Pricing
   Pricing information is not specified in the provided content. Refer to the product page for current pricing and any available options.
-updated_at: 2025-12-23 09:31
+brand: branch
+brand_logo_url: null
+images:
+  - https://media.wired.com/photos/67327cd5ecebc4e6a15de92f/4:3/w_640%2Cc_limit/Branch%2520Ergonomic%2520Chair%2520Shadow.png
+updated_at: 2026-04-04 23:43

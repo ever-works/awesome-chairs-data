@@ -5,17 +5,12 @@ description: The Ace Pro X Gaming Chair combines style and functionality,
   extended gaming sessions. The chair's vibrant RGB lighting adds a dynamic
   touch to any gaming environment.
 source_url: https://www.gtracing.com/products/ace-pro-x
-featured: true
-brand: gtracing
-brand_logo_url: https://www.gtracing.com/logo.png
-images:
-  - https://www.gtracing.com/images/ace-pro-x-1.png
-  - https://www.gtracing.com/images/ace-pro-x-2.png
-category: gaming-chairs
+category: Gaming Chairs
 tags:
   - ergonomic
   - rgb-lighting
   - lumbar-support
+featured: true
 markdown: >-
   ## Ace Pro X Gaming Chair
 
@@ -87,4 +82,9 @@ markdown: >-
 
   For more details and to explore other gaming products, visit the [GTRacing
   website](https://www.gtracing.com).
-updated_at: 2025-12-20 06:37
+brand: gtracing
+brand_logo_url: https://www.gtracing.com/logo.png
+images:
+  - https://www.gtracing.com/images/ace-pro-x-1.png
+  - https://www.gtracing.com/images/ace-pro-x-2.png
+updated_at: 2026-04-04 23:43

@@ -8,15 +8,9 @@ description: The AndaSeat Kaiser 4 XL is a premium gaming chair designed for
   pillow. Despite its large size, it maintains a sleek design suitable for any
   gaming setup.
 source_url: https://www.andaseat.com/products/andaseat-carbon-black-kaiser-4-6d-armrest-gaming-chair
-featured: true
-brand: andaseat
-brand_logo_url: https://andaseat.com/logo.png
-images:
-  - https://andaseat.com/images/kaiser-4-xl-1.png
-  - https://andaseat.com/images/kaiser-4-xl-2.png
-  - https://andaseat.com/images/kaiser-4-xl-3.png
-category: chair-accessories
+category: Chair Accessories
 tags: []
+featured: true
 markdown: |-
   ## AndaSeat Kaiser 4 XL
 
@@ -53,4 +47,10 @@ markdown: |-
   - **Flexible Payment Methods**: Including PayPal, Visa, Mastercard, and more.
 
   For more details, visit the [AndaSeat Product Page](https://www.andaseat.com/products/andaseat-carbon-black-kaiser-4-6d-armrest-gaming-chair).
-updated_at: 2025-12-17 06:35
+brand: andaseat
+brand_logo_url: https://andaseat.com/logo.png
+images:
+  - https://andaseat.com/images/kaiser-4-xl-1.png
+  - https://andaseat.com/images/kaiser-4-xl-2.png
+  - https://andaseat.com/images/kaiser-4-xl-3.png
+updated_at: 2026-04-04 23:43

@@ -3,17 +3,12 @@ description: A stool-height variant of Herman Miller’s Aeron chair, designed f
   high work surfaces and sit-stand computer setups while retaining the Aeron’s
   ergonomic support for extended sitting.
 source_url: https://www.hermanmiller.com/products/seating/stools/aeron-stool/
-featured: false
-brand: herman-miller
-brand_logo_url: https://www.hermanmiller.com/content/dam/hermanmiller/img/logo/herman-miller-logo.svg
-images:
-  - https://www.hermanmiller.com/content/dam/hmicom/page_assets/products/aeron_stools/mm_aeron_stool_hero.jpg
-  - https://www.hermanmiller.com/content/dam/hmicom/page_assets/products/aeron_stools/hm_aeron_stool_detail.jpg
-category: others
+category: Others
 tags:
   - stool
   - ergonomic
   - mesh
+featured: false
 markdown: |-
   # Aeron Stool
 
@@ -45,4 +40,9 @@ markdown: |-
   ## Brand
   ![Herman Miller](https://www.hermanmiller.com/content/dam/hermanmiller/img/logo/herman-miller-logo.svg)  
   **Herman Miller** – manufacturer of seating, workspaces, and related office furniture.
-updated_at: 2025-12-26 08:37
+brand: herman-miller
+brand_logo_url: https://www.hermanmiller.com/content/dam/hermanmiller/img/logo/herman-miller-logo.svg
+images:
+  - https://www.hermanmiller.com/content/dam/hmicom/page_assets/products/aeron_stools/mm_aeron_stool_hero.jpg
+  - https://www.hermanmiller.com/content/dam/hmicom/page_assets/products/aeron_stools/hm_aeron_stool_detail.jpg
+updated_at: 2026-04-04 23:43

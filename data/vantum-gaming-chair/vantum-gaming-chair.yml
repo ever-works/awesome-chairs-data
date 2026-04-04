@@ -3,13 +3,9 @@ description: The Vantum Gaming Chair offers a sleek design with ergonomic
   features tailored for gamers. It provides support and comfort for long gaming
   sessions, available in multiple colors to match your setup.
 source_url: https://store.hermanmiller.com/gaming-chairs/vantum-gaming-chair/100468544.html?lang=en_US
-featured: true
-brand: herman-miller
-brand_logo_url: https://www.hermanmiller.com/content/dam/hermanmiller/logos/herman-miller-logo.png
-images:
-  - https://store.hermanmiller.com/dw/image/v2/AAQN_PRD/on/demandware.static/-/Sites-hermanmiller-master-catalog/default/dw1a1a1a1a/images/large/vantum-gaming-chair.jpg
-category: chair-accessories
+category: Chair Accessories
 tags: []
+featured: true
 markdown: |-
   ### Vantum Gaming Chair by Herman Miller
 
@@ -47,4 +43,8 @@ markdown: |-
   ---
 
   Whether you're an avid gamer or someone who spends extended hours at a desk, the Vantum Gaming Chair by Herman Miller is crafted to provide the utmost comfort and support, making it a valuable addition to your gaming setup.
-updated_at: 2025-12-13 05:58
+brand: herman-miller
+brand_logo_url: https://www.hermanmiller.com/content/dam/hermanmiller/logos/herman-miller-logo.png
+images:
+  - https://store.hermanmiller.com/dw/image/v2/AAQN_PRD/on/demandware.static/-/Sites-hermanmiller-master-catalog/default/dw1a1a1a1a/images/large/vantum-gaming-chair.jpg
+updated_at: 2026-04-04 23:43

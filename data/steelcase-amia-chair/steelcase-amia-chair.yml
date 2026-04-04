@@ -4,14 +4,9 @@ description: The Steelcase Amia Chair, available refurbished for just over $500,
   providing remarkable comfort and support. Backed by BTOD's 12-year warranty,
   it stands as a reliable choice for those seeking a premium seating experience.
 source_url: https://bit.ly/2Vg7xyD
-featured: true
-brand: steelcase
-brand_logo_url: /path/to/steelcase/logo.png
-images:
-  - https://example.com/steelcase-amia-image1.jpg
-  - https://example.com/steelcase-amia-image2.jpg
-category: others
+category: Others
 tags: []
+featured: true
 markdown: >-
   # Steelcase Amia Chair
 
@@ -82,4 +77,9 @@ markdown: >-
 
   The Steelcase Amia Chair is an ideal choice for those seeking a balance
   between comfort, functionality, and style in their office seating solution.
-updated_at: 2025-12-22 06:56
+brand: steelcase
+brand_logo_url: /path/to/steelcase/logo.png
+images:
+  - https://example.com/steelcase-amia-image1.jpg
+  - https://example.com/steelcase-amia-image2.jpg
+updated_at: 2026-04-04 23:43

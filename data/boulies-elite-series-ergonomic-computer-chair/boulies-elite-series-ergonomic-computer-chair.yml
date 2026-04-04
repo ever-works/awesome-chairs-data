@@ -3,14 +3,9 @@ description: An ergonomic computer chair from Boulies’ Elite Series, intended
   for users who sit for extended periods and want a refined, office-appropriate
   gaming/PC chair.
 source_url: https://cdn.shopify.com/s/files/1/2127/6275/files/header-nav-bg__elite-2024_x500.jpg?v=1719902567
-featured: true
-brand: boulies
-brand_logo_url: null
-images:
-  - https://cdn.shopify.com/s/files/1/2127/6275/files/header-nav-bg__elite-2024_x500.jpg?v=1719902567
-  - https://cdn.shopify.com/s/files/1/2127/6275/files/header-nav-bg__elite_x350.jpg?v=1654157859
-category: chair-accessories
+category: Chair Accessories
 tags: []
+featured: true
 markdown: |
   ## Boulies Elite Series Ergonomic Computer Chair
 
@@ -32,4 +27,9 @@ markdown: |
   ### Media
   - Image 1: https://cdn.shopify.com/s/files/1/2127/6275/files/header-nav-bg__elite-2024_x500.jpg?v=1719902567
   - Image 2: https://cdn.shopify.com/s/files/1/2127/6275/files/header-nav-bg__elite_x350.jpg?v=1654157859
-updated_at: 2025-12-23 09:31
+brand: boulies
+brand_logo_url: null
+images:
+  - https://cdn.shopify.com/s/files/1/2127/6275/files/header-nav-bg__elite-2024_x500.jpg?v=1719902567
+  - https://cdn.shopify.com/s/files/1/2127/6275/files/header-nav-bg__elite_x350.jpg?v=1654157859
+updated_at: 2026-04-04 23:43

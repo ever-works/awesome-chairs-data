@@ -4,13 +4,9 @@ description: The DXRacer Black Series Gaming Chair offers a blend of comfort and
   seated. It features a high backrest, adjustable armrests, and a sturdy base,
   ensuring ergonomic support and stability.
 source_url: https://www.dxracer.com/us/en-us/product/2
-featured: false
-brand: dxracer
-brand_logo_url: https://www.dxracer.com/us/en-us/logo.png
-images:
-  - https://nex-img.dxracer.cc/20001/a01e1093-1ead-4a15-ada6-9607c373ab61-1.png
-category: chair-accessories
+category: Chair Accessories
 tags: []
+featured: false
 markdown: |-
   ### DXRacer Black Series Gaming Chair
 
@@ -41,4 +37,8 @@ markdown: |-
   ---
 
   For more details, visit the [DXRacer website](https://www.dxracer.com/us/en-us/product/2).
-updated_at: 2025-12-15 06:30
+brand: dxracer
+brand_logo_url: https://www.dxracer.com/us/en-us/logo.png
+images:
+  - https://nex-img.dxracer.cc/20001/a01e1093-1ead-4a15-ada6-9607c373ab61-1.png
+updated_at: 2026-04-04 23:43

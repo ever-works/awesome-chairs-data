@@ -4,12 +4,9 @@ description: An ergonomic gaming and computer chair designed for long sessions,
   wheels, and built-in lumbar support. Suitable for all-day use at a desk and
   during gaming, with options for shorter users via alternate cylinder heights.
 source_url: https://mavix.com/products/m7
-featured: true
-brand: mavix
-brand_logo_url: null
-images: null
-category: chair-accessories
+category: Chair Accessories
 tags: []
+featured: true
 markdown: >-
   # Mavix M7
 
@@ -101,4 +98,6 @@ markdown: >-
 
   Pricing and plan/variant details were not provided in the supplied content.
   Check the product page for current pricing and available configurations.
-updated_at: 2025-12-23 09:31
+brand: mavix
+brand_logo_url: null
+updated_at: 2026-04-04 23:43

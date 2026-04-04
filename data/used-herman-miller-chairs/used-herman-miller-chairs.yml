@@ -4,14 +4,9 @@ description: Purchasing a used Herman Miller chair can be a cost-effective way
   durability and comfort, making them a worthwhile investment even when bought
   second-hand.
 source_url: https://us.forums.blizzard.com/en/wow/t/best-chair-for-gaming/908972
-featured: false
-brand: herman-miller
-brand_logo_url: https://www.hermanmiller.com/logo.png
-images:
-  - https://www.hermanmiller.com/images/used-1.png
-  - https://www.hermanmiller.com/images/used-2.png
-category: chair-accessories
+category: Chair Accessories
 tags: []
+featured: false
 markdown: >-
   ## Used Herman Miller Chairs
 
@@ -83,4 +78,9 @@ markdown: >-
   This summary provides a concise overview of the features and benefits of
   acquiring a used Herman Miller chair, emphasizing its quality and ergonomic
   advantages.
-updated_at: 2025-12-16 06:23
+brand: herman-miller
+brand_logo_url: https://www.hermanmiller.com/logo.png
+images:
+  - https://www.hermanmiller.com/images/used-1.png
+  - https://www.hermanmiller.com/images/used-2.png
+updated_at: 2026-04-04 23:43

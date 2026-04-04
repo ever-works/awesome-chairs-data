@@ -3,14 +3,9 @@ description: The HBADA P2 Series offers a stylish and budget-friendly ergonomic
   office chair suitable for various occasions, providing essential support and
   comfort.
 source_url: https://hbada.com/products/p2-ergonomic-office-chair
-featured: false
-brand: hbada
-brand_logo_url: https://hbada.com/logo.png
-images:
-  - https://hbada.com/images/p2-series-1.png
-  - https://hbada.com/images/p2-series-2.png
-category: others
+category: Others
 tags: []
+featured: false
 markdown: >-
   ## HBADA P2 Series Ergonomic Office Chair
 
@@ -78,4 +73,9 @@ markdown: >-
   This comprehensive overview provides essential information about the HBADA P2
   Series Ergonomic Office Chair, highlighting its key features and benefits,
   along with pricing details and additional support options.
-updated_at: 2025-12-22 06:56
+brand: hbada
+brand_logo_url: https://hbada.com/logo.png
+images:
+  - https://hbada.com/images/p2-series-1.png
+  - https://hbada.com/images/p2-series-2.png
+updated_at: 2026-04-04 23:43

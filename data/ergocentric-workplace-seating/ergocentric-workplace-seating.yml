@@ -5,15 +5,9 @@ description: ergoCentric’s line of ergonomic workplace seating and office chai
   adjustability, comfort, and productivity for employees who sit at a desk
   throughout the day.
 source_url: https://www.ergocentric.com/workplace-seating/
-featured: true
-brand: ergocentric
-brand_logo_url: null
-images:
-  - https://www.ergocentric.com/wp-content/uploads/work-environments-Business.webp
-  - https://www.ergocentric.com/wp-content/uploads/Website-Office-env.webp
-  - https://www.ergocentric.com/wp-content/uploads/Preview-ERG38-TSDC-Op2-View-1-1536x864-1.webp
-category: chair-accessories
+category: Chair Accessories
 tags: []
+featured: true
 markdown: >-
   # ergoCentric Workplace Seating
 
@@ -86,4 +80,10 @@ markdown: >-
 
   For exact prices, configurations, and volume purchasing, consult the relevant
   online store or a local dealer.
-updated_at: 2025-12-23 09:31
+brand: ergocentric
+brand_logo_url: null
+images:
+  - https://www.ergocentric.com/wp-content/uploads/work-environments-Business.webp
+  - https://www.ergocentric.com/wp-content/uploads/Website-Office-env.webp
+  - https://www.ergocentric.com/wp-content/uploads/Preview-ERG38-TSDC-Op2-View-1-1536x864-1.webp
+updated_at: 2026-04-04 23:43

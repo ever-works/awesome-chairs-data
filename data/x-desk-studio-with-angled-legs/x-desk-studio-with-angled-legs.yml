@@ -5,17 +5,9 @@ description: The X-Desk Studio with Angled Legs is a versatile and stylish desk
   Honey, White, and Black. Ideal for those who spend long hours at their desk,
   it offers a spacious work surface and a sturdy build.
 source_url: https://www.xchair.com/?srsltid=AfmBOoqWhl-BvHrDt47rtoHAHvmXgP42SdzNexXAzO76cvwhNlLRquHJ
-featured: true
-brand: x-desk
-brand_logo_url: https://www.xdesk.com/logo.png
-images:
-  - https://cld.accentuate.io/66995585306/1695413239777/XC_HAT_PLP-swatches_walnut-amati_44x44.jpg?v=1695413239777&options=w_24
-  - https://cld.accentuate.io/66995585306/1695413261375/XC_HAT_PLP-swatches_sandlewood_44x44.jpg?v=1695413261375&options=w_24
-  - https://cld.accentuate.io/66995585306/1695413289584/XC_HAT_PLP-swatches_cabinet-maple_44x44.jpg?v=1695413289584&options=w_24
-  - https://cld.accentuate.io/66995585306/1683132834290/FSwheel_white88px.jpeg?v=1683132834290&options=w_24
-  - https://cld.accentuate.io/66995585306/1679087094483/XC_X77-Black.jpg?v=1679087094483&options=w_24
-category: chair-accessories
+category: Chair Accessories
 tags: []
+featured: true
 markdown: |-
   ## X-Desk Studio with Angled Legs
 
@@ -48,4 +40,12 @@ markdown: |-
   ### Brand
   - **Brand**: X-Desk
   - **Brand Logo**: ![X-Desk Logo](https://www.xdesk.com/logo.png)
-updated_at: 2025-12-13 05:58
+brand: x-desk
+brand_logo_url: https://www.xdesk.com/logo.png
+images:
+  - https://cld.accentuate.io/66995585306/1695413239777/XC_HAT_PLP-swatches_walnut-amati_44x44.jpg?v=1695413239777&options=w_24
+  - https://cld.accentuate.io/66995585306/1695413261375/XC_HAT_PLP-swatches_sandlewood_44x44.jpg?v=1695413261375&options=w_24
+  - https://cld.accentuate.io/66995585306/1695413289584/XC_HAT_PLP-swatches_cabinet-maple_44x44.jpg?v=1695413289584&options=w_24
+  - https://cld.accentuate.io/66995585306/1683132834290/FSwheel_white88px.jpeg?v=1683132834290&options=w_24
+  - https://cld.accentuate.io/66995585306/1679087094483/XC_X77-Black.jpg?v=1679087094483&options=w_24
+updated_at: 2026-04-04 23:43

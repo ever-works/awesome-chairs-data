@@ -4,17 +4,12 @@ description: The AutoFull C3 is a gaming chair that ranks well for back comfort,
   shoulders and offers comfort for up to 6 hours. The chair's bolsters provide a
   snug fit without being uncomfortable.
 source_url: https://autofull.com/products/c3
-featured: false
-brand: autofull
-brand_logo_url: https://autofull.com/logo.png
-images:
-  - https://autofull.com/c3-image1.png
-  - https://autofull.com/c3-image2.png
-category: gaming-chairs
+category: Gaming Chairs
 tags:
   - back-comfort
   - snug-fit
   - gaming
+featured: false
 markdown: >-
   # AutoFull C3 Gaming Chair
 
@@ -64,4 +59,9 @@ markdown: >-
 
   For more details and to explore other gaming chairs, visit the [AutoFull
   website](https://autofull.com/products/c3).
-updated_at: 2025-12-16 06:23
+brand: autofull
+brand_logo_url: https://autofull.com/logo.png
+images:
+  - https://autofull.com/c3-image1.png
+  - https://autofull.com/c3-image2.png
+updated_at: 2026-04-04 23:43

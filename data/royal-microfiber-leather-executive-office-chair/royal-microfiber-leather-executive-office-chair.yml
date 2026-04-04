@@ -4,15 +4,9 @@ description: The Royal Executive Office Chair combines style and comfort with
   ergonomic support and is available in Beige White, Black, and Brown. This
   chair is Contract Grade, ensuring it meets high standards of durability.
 source_url: https://www.target.com/c/office-chairs-home-furniture/studio-designs-home/-/N-5xtmtZhkvey?Nao=1128
-featured: true
-brand: royal
-brand_logo_url: /images/brands/royal-logo.png
-images:
-  - https://www.example.com/images/products/royal-beige-white.jpg
-  - https://www.example.com/images/products/royal-black.jpg
-  - https://www.example.com/images/products/royal-brown.jpg
-category: chair-accessories
+category: Executive & Task Chairs
 tags: []
+featured: true
 markdown: |-
   ## Royal Microfiber Leather Executive Office Chair
 
@@ -45,4 +39,10 @@ markdown: |-
   ---
 
   Explore our range of office chairs designed to enhance productivity and comfort. Visit [Studio Designs Home](https://www.target.com/c/office-chairs-home-furniture/studio-designs-home/-/N-5xtmtZhkvey?Nao=1128) for more seating options.
-updated_at: 2025-12-16 06:23
+brand: royal
+brand_logo_url: /images/brands/royal-logo.png
+images:
+  - https://www.example.com/images/products/royal-beige-white.jpg
+  - https://www.example.com/images/products/royal-black.jpg
+  - https://www.example.com/images/products/royal-brown.jpg
+updated_at: 2026-04-04 23:43

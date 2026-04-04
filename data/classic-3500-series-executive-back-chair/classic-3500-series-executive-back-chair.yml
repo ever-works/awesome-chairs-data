@@ -5,13 +5,9 @@ description: The Classic 3500 Series Executive Back Chair by BodyBilt is
   contoured seat and back, making it ideal for those who sit for extended
   periods.
 source_url: https://bodybilt.com/product/classic-3500-series-executive-back-chair/
-featured: true
-brand: bodybilt
-brand_logo_url: https://bodybilt.com/wp-content/uploads/2020/06/BodyBilt-Logo.png
-images:
-  - https://bodybilt.com/wp-content/uploads/2020/06/Classic-3500-Series-Executive-Back-Chair.jpg
-category: chair-accessories
+category: Executive & Task Chairs
 tags: []
+featured: true
 markdown: |-
   # Classic 3500 Series – Executive Back Chair
 
@@ -53,4 +49,8 @@ markdown: |-
   - **Price Range:** $1,329.00 – $1,999.00
 
   For more details, visit the [BodyBilt website](https://bodybilt.com/product/classic-3500-series-executive-back-chair/).
-updated_at: 2025-12-21 06:47
+brand: bodybilt
+brand_logo_url: https://bodybilt.com/wp-content/uploads/2020/06/BodyBilt-Logo.png
+images:
+  - https://bodybilt.com/wp-content/uploads/2020/06/Classic-3500-Series-Executive-Back-Chair.jpg
+updated_at: 2026-04-04 23:43

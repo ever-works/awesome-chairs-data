@@ -4,16 +4,12 @@ description: The Humanscale World LM is an ergonomic chair designed to provide
   and back, offering a sleek and modern design suitable for both office and home
   environments.
 source_url: https://www.officechairsusa.com/humanscale-world-lm-upholstered-ergonomic-chair/
-featured: true
-brand: humanscale
-brand_logo_url: /path/to/humanscale/logo.png
-images:
-  - https://www.officechairsusa.com/images/humanscale-world-lm.jpg
-category: ergonomic-office-chairs
+category: Ergonomic Office Chairs
 tags:
   - ergonomic
   - modern
   - comfortable
+featured: true
 markdown: |-
   # Humanscale World LM Upholstered Ergonomic Chair
 
@@ -55,4 +51,8 @@ markdown: |-
   ---
 
   The Humanscale World LM is a testament to innovative ergonomic design, promising to enhance comfort and productivity in any workspace.
-updated_at: 2025-12-18 06:32
+brand: humanscale
+brand_logo_url: /path/to/humanscale/logo.png
+images:
+  - https://www.officechairsusa.com/images/humanscale-world-lm.jpg
+updated_at: 2026-04-04 23:43

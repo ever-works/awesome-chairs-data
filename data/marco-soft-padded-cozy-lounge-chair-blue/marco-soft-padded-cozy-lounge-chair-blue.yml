@@ -3,13 +3,9 @@ description: A soft, padded cozy lounge chair in blue upholstery from Eureka
   Ergonomic, suitable as a relaxed seating option for long computer or console
   sessions.
 source_url: https://eurekaergonomic.com/products/marco-lounge-chair-blue
-featured: false
-brand: eureka-ergonomic
-brand_logo_url: null
-images:
-  - https://eurekaergonomic.com/cdn/shop/files/LC26.jpg?crop=center&height=100&v=1730531962&width=100
-category: chair-accessories
+category: Chair Accessories
 tags: []
+featured: false
 markdown: >-
   # Marco, Soft Padded Cozy Lounge Chair (Blue)
 
@@ -83,4 +79,8 @@ markdown: >-
   ## Source
 
   Product page: https://eurekaergonomic.com/products/marco-lounge-chair-blue
-updated_at: 2025-12-23 09:31
+brand: eureka-ergonomic
+brand_logo_url: null
+images:
+  - https://eurekaergonomic.com/cdn/shop/files/LC26.jpg?crop=center&height=100&v=1730531962&width=100
+updated_at: 2026-04-04 23:43

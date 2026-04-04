@@ -4,16 +4,12 @@ description: The Eames Lounge Chair and Ottoman is an iconic Herman Miller
   comfort and support for relaxed computer use in home offices and living
   spaces.
 source_url: https://store.hermanmiller.com/lounge-chairs/eames-lounge-chair-and-ottoman/5667.html
-featured: false
-brand: herman-miller
-brand_logo_url: https://www.hermanmiller.com/content/dam/hermanmiller/page_assets/homepage/HM_logo.png
-images:
-  - https://images.hermanmiller.group/m/69a49b01a482b434/W-HM_5667_100559402_black_bamboo_palisander_v1_001.png?auto=format&mediaId=DD7720DE-C4C7-488B-A6B5063DEB38E5CF&rect=0%2C.5788%2C.9999%2C.3751&w=1600&h=920&fit=fillmax
-category: others
+category: Executive & Task Chairs
 tags:
   - luxury
   - comfortable
   - real-leather
+featured: false
 markdown: |
   # Eames Lounge Chair and Ottoman
 
@@ -68,4 +64,8 @@ markdown: |
   - luxury  
   - comfortable  
   - real-leather
-updated_at: 2025-12-30 18:02
+brand: herman-miller
+brand_logo_url: https://www.hermanmiller.com/content/dam/hermanmiller/page_assets/homepage/HM_logo.png
+images:
+  - https://images.hermanmiller.group/m/69a49b01a482b434/W-HM_5667_100559402_black_bamboo_palisander_v1_001.png?auto=format&mediaId=DD7720DE-C4C7-488B-A6B5063DEB38E5CF&rect=0%2C.5788%2C.9999%2C.3751&w=1600&h=920&fit=fillmax
+updated_at: 2026-04-04 23:43

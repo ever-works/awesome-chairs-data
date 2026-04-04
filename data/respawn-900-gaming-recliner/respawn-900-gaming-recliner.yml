@@ -6,14 +6,9 @@ description: The Respawn 900 Gaming Recliner is a premium gaming chair designed
   controllers and a cup holder built into the left arm, ensuring everything you
   need is within reach.
 source_url: https://www.respawnproducts.com/products/respawn-900-gaming-recliner
-featured: true
-brand: respawn
-brand_logo_url: https://www.respawnproducts.com/assets/images/logo.png
-images:
-  - https://www.respawnproducts.com/assets/images/respawn-900-gaming-recliner-1.png
-  - https://www.respawnproducts.com/assets/images/respawn-900-gaming-recliner-2.png
-category: chair-accessories
+category: Chair Accessories
 tags: []
+featured: true
 markdown: |-
   ---
 
@@ -44,4 +39,9 @@ markdown: |-
   For more details, visit the [Respawn 900 product page](https://www.respawnproducts.com/products/respawn-900-gaming-recliner). 
 
   ---
-updated_at: 2025-12-15 06:30
+brand: respawn
+brand_logo_url: https://www.respawnproducts.com/assets/images/logo.png
+images:
+  - https://www.respawnproducts.com/assets/images/respawn-900-gaming-recliner-1.png
+  - https://www.respawnproducts.com/assets/images/respawn-900-gaming-recliner-2.png
+updated_at: 2026-04-04 23:43

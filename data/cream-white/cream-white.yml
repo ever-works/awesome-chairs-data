@@ -3,13 +3,9 @@ description: The Cream White chair offers a sophisticated look with its elegant
   design. It provides excellent lumbar support and adjustable features, making
   it ideal for both gaming and office environments.
 source_url: https://www.amazon.com/Sweetcrispy-Ergonomic-Flip-up-Leather-Adjustable/dp/B0FVXPZGN1
-featured: true
-brand: dxracer
-brand_logo_url: https://www.dxracer.com/logo.png
-images:
-  - https://nex-img.dxracer.cc/20001/9facce8b-d436-4730-aadb-81f1534a126b-1.png
-category: chair-accessories
+category: Chair Accessories
 tags: []
+featured: true
 markdown: |-
   ### Cream White Chair by DXRacer
 
@@ -41,4 +37,8 @@ markdown: |-
   ---
 
   For more details and purchasing options, please refer to the [source link](https://www.amazon.com/Sweetcrispy-Ergonomic-Flip-up-Leather-Adjustable/dp/B0FVXPZGN1).
-updated_at: 2025-12-15 06:30
+brand: dxracer
+brand_logo_url: https://www.dxracer.com/logo.png
+images:
+  - https://nex-img.dxracer.cc/20001/9facce8b-d436-4730-aadb-81f1534a126b-1.png
+updated_at: 2026-04-04 23:43

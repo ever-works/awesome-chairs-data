@@ -7,12 +7,9 @@ description: Customizable ergonomic seating solutions from Davis Furniture
   suitable for computer‑intensive work environments where users sit for extended
   periods.
 source_url: https://www.davisfurniture.com
-featured: true
-brand: davis-furniture
-brand_logo_url: null
-images: null
-category: chair-accessories
+category: Chair Accessories
 tags: []
+featured: true
 markdown: >-
   ## Davis Furniture Ergonomic Chairs
 
@@ -54,4 +51,6 @@ markdown: >-
   Pricing information is not specified in the provided content. For current
   pricing or quotations, refer to the manufacturer’s website:
   https://www.davisfurniture.com
-updated_at: 2025-12-23 09:31
+brand: davis-furniture
+brand_logo_url: null
+updated_at: 2026-04-04 23:43

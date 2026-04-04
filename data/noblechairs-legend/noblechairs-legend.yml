@@ -7,17 +7,12 @@ description: The Noblechairs Legend is a premium racing-style gaming chair known
   system can be noisy, and the plastic cover over the gas lift may rattle during
   movement.
 source_url: https://www.tomshardware.com/reviews/noblechairs-legend-gaming-chair
-featured: true
-brand: noblechairs
-brand_logo_url: /path/to/noblechairs/logo.png
-images:
-  - https://example.com/noblechairs-legend-image1.jpg
-  - https://example.com/noblechairs-legend-image2.jpg
-category: gaming-chairs
+category: Gaming Chairs
 tags:
   - racing-style
   - premium
   - tailored-fit
+featured: true
 markdown: |-
   ## Noblechairs Legend
 
@@ -63,4 +58,9 @@ markdown: |-
   ---
 
   This markdown summary provides a comprehensive overview of the Noblechairs Legend, highlighting its main features, pros and cons, without including any marketing jargon or sales pitches. For further details, readers are encouraged to refer to the source link provided.
-updated_at: 2025-12-16 06:23
+brand: noblechairs
+brand_logo_url: /path/to/noblechairs/logo.png
+images:
+  - https://example.com/noblechairs-legend-image1.jpg
+  - https://example.com/noblechairs-legend-image2.jpg
+updated_at: 2026-04-04 23:43

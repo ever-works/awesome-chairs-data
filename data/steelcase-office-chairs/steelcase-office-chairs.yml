@@ -1,57 +1,52 @@
 name: Steelcase Office Chairs
-description: Premium ergonomic office and computer chairs from Steelcase Inc., a
-  global workplace solutions company known for advanced posture-sensing
-  mechanisms, automated adjustment systems, and evidence-based ergonomic
-  design—ideal for people who sit at a computer all day.
-source_url: https://www.steelcase.com
-featured: true
-brand: steelcase
-brand_logo_url: /
-images: null
-category: chair-accessories
-tags: []
-markdown: >
+description: Steelcase is a global office furniture manufacturer producing a
+  range of ergonomic task chairs including the Leap, Gesture, Karman, Series 1,
+  Series 2, and Think. Their chairs emphasize spinal tracking technologies
+  (LiveBack), 4D armrests, and weight capacities from 275 to 500 lbs across
+  entry-level to premium tiers ($500–$2,000), ideal for corporate offices and
+  WFH setups seeking durable, research-backed seating.
+source_url: https://www.steelcase.com/products/seating/
+category: Ergonomic Office Chairs
+tags:
+  - workplace-furniture
+  - liveback-technology
+  - ergonomic
+featured: false
+markdown: >-
   # Steelcase Office Chairs
 
 
-  Ergonomic office and computer chairs designed by Steelcase Inc., a global
-  workplace solutions company. These chairs are built to support people who
-  spend extended periods seated at a computer.
+  A collection of ergonomic office and task chairs from Steelcase, a global
+  workplace solutions company.
 
 
-  ## Features
+  ## Product Range
 
-  - Ergonomic design intended for all-day computer use
+  - **Steelcase Leap**: Flagship with LiveBack technology, 4D arms (entry
+  ~$1,300)
 
-  - Advanced posture-sensing mechanisms that respond to user movement
+  - **Steelcase Gesture**: 3D LiveBack with 360° arms, Wirecutter's top pick
+  (entry ~$1,300)
 
-  - Automated adjustment systems to support different body positions
+  - **Steelcase Karman**: Lightweight hybrid suspension, 29 lbs build (entry
+  ~$1,500)
 
-  - Evidence-based ergonomic engineering informed by workplace research
+  - **Steelcase Think**: Flexible backrest, optimized for shorter sessions
+  (~$1,100)
 
-  - Suitable for office, home office, and other computer-based work settings
-
-
-  ## Ideal For
-
-  - People who sit at a computer for long periods
-
-  - Office workers and remote workers needing ergonomic seating
-
-  - Workstations where posture support and adjustability are important
+  - **Steelcase Series 1/2**: Mid-range ergonomic basics (~$500–$800)
 
 
-  ## Pricing
+  ## Key Technologies
 
-  Pricing details are not specified in the provided content. Models and pricing
-  can vary; see the Steelcase website for current options.
+  - **LiveBack / 3D LiveBack**: Spine-tracking backrest
+
+  - **4D/360° Arms**: Industry-leading armrest adjustability
+
+  - **Weight capacities**: 275–500 lbs depending on model
 
 
-  ## Brand & Source
-
-  - **Brand:** Steelcase
-
-  - **Category:** chair-accessories
-
-  - **Website:** https://www.steelcase.com
-updated_at: 2025-12-23 09:31
+  For more information, visit [Steelcase
+  Seating](https://www.steelcase.com/products/seating/).
+brand: Steelcase
+updated_at: 2026-04-04 23:43

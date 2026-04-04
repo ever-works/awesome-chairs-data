@@ -4,13 +4,9 @@ description: The Sapphire Blue chair is a premium computer chair designed for
   features a sleek design with ergonomic support to enhance productivity and
   reduce fatigue.
 source_url: https://www.quersus.com/art219_quersus-chair-vaos-3-5-sapphire-blue.html
-featured: true
-brand: dxracer
-brand_logo_url: https://www.dxracer.com/logo.png
-images:
-  - https://nex-img.dxracer.cc/20001/8175a19b-b1b0-4b5e-83a9-8060562d038c-1.png
-category: chair-accessories
+category: Chair Accessories
 tags: []
+featured: true
 markdown: |-
   # Sapphire Blue Chair
 
@@ -38,4 +34,8 @@ markdown: |-
   - **VAOS 3.2**: Upholstered in hybrid faux leather UHL with inserts of faux suede NFS.
 
   For more information, visit the [source website](https://www.quersus.com/art219_quersus-chair-vaos-3-5-sapphire-blue.html).
-updated_at: 2025-12-15 06:30
+brand: dxracer
+brand_logo_url: https://www.dxracer.com/logo.png
+images:
+  - https://nex-img.dxracer.cc/20001/8175a19b-b1b0-4b5e-83a9-8060562d038c-1.png
+updated_at: 2026-04-04 23:43

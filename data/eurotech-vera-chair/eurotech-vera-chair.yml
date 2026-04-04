@@ -5,14 +5,9 @@ description: The Eurotech Vera Chair offers exceptional value at $479, with a
   However, the seat height range may not be ideal for shorter users, and the
   mesh backrest could be abrasive on loose clothing.
 source_url: http://bit.ly/2lDlO98
-featured: true
-brand: eurotech
-brand_logo_url: /path/to/eurotech/logo.png
-images:
-  - https://example.com/eurotech-vera-image1.jpg
-  - https://example.com/eurotech-vera-image2.jpg
-category: others
+category: Others
 tags: []
+featured: true
 markdown: >-
   # Eurotech Vera Chair
 
@@ -87,4 +82,9 @@ markdown: >-
 
 
   [More Information](http://bit.ly/2lDlO98)
-updated_at: 2025-12-22 06:56
+brand: eurotech
+brand_logo_url: /path/to/eurotech/logo.png
+images:
+  - https://example.com/eurotech-vera-image1.jpg
+  - https://example.com/eurotech-vera-image2.jpg
+updated_at: 2026-04-04 23:43

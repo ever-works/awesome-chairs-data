@@ -4,14 +4,9 @@ description: The Ace Series ACE-PRO is a durable gaming chair made with
   to provide maximum comfort and support, making it perfect for extended gaming
   sessions.
 source_url: https://gtracing.com/products/ace-pro?srsltid=AfmBOooi0WUmMZ9fQQUSzVgR4AWedTQ-sTGbByCMrby4Xs_qCZRKlRU0
-featured: true
-brand: ace
-brand_logo_url: https://example.com/ace-logo.png
-images:
-  - https://example.com/images/ace-pro-1.png
-  - https://example.com/images/ace-pro-2.png
-category: chair-accessories
+category: Chair Accessories
 tags: []
+featured: true
 markdown: |-
   # Ace Series ACE-PRO Gaming Chair
 
@@ -49,4 +44,9 @@ markdown: |-
   - **Returns**: 30-day return policy
 
   For more information, visit the [Ace Series ACE-PRO page](https://gtracing.com/products/ace-pro?srsltid=AfmBOooi0WUmMZ9fQQUSzVgR4AWedTQ-sTGbByCMrby4Xs_qCZRKlRU0).
-updated_at: 2025-12-17 06:35
+brand: ace
+brand_logo_url: https://example.com/ace-logo.png
+images:
+  - https://example.com/images/ace-pro-1.png
+  - https://example.com/images/ace-pro-2.png
+updated_at: 2026-04-04 23:43

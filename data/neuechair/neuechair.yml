@@ -3,17 +3,12 @@ description: The NeueChair, previously a top pick for office chairs, offers
   supreme comfort for focused work sessions. It is designed by Secretlab, known
   for their gaming chairs, and combines office ergonomics with a sleek design.
 source_url: https://hawk.ly/m/NeueChair/i/PCGOSN10
-featured: true
-brand: secretlab
-brand_logo_url: /path/to/secretlab-logo.png
-images:
-  - https://hawk.ly/m/NeueChair/image1.jpg
-  - https://hawk.ly/m/NeueChair/image2.jpg
-category: ergonomic-office-chairs
+category: Ergonomic Office Chairs
 tags:
   - ergonomic
   - sleek
   - comfortable
+featured: true
 markdown: >-
   # NeueChair
 
@@ -103,4 +98,9 @@ markdown: >-
   The NeueChair is an outstanding choice for anyone seeking a blend of comfort,
   style, and ergonomic design in their office seating solution. Ideal for those
   who prioritize health and productivity in their workspace.
-updated_at: 2025-12-17 06:35
+brand: secretlab
+brand_logo_url: /path/to/secretlab-logo.png
+images:
+  - https://hawk.ly/m/NeueChair/image1.jpg
+  - https://hawk.ly/m/NeueChair/image2.jpg
+updated_at: 2026-04-04 23:43

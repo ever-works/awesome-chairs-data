@@ -4,14 +4,9 @@ description: The Vertagear PL6800 is designed for taller individuals, providing
   perfect for preventing back pain and improving circulation, making it suitable
   for long gaming or work sessions.
 source_url: https://www.vertagear.com/products/pl6800
-featured: false
-brand: vertagear
-brand_logo_url: https://www.vertagear.com/logo.png
-images:
-  - https://www.vertagear.com/images/pl6800-1.png
-  - https://www.vertagear.com/images/pl6800-2.png
-category: chair-accessories
+category: Chair Accessories
 tags: []
+featured: false
 markdown: >-
   # Vertagear PL6800
 
@@ -73,4 +68,9 @@ markdown: >-
   The Vertagear PL6800 is a notable choice for those seeking a chair that
   combines functionality with comfort, specifically designed to cater to the
   needs of taller individuals.
-updated_at: 2025-12-21 06:47
+brand: vertagear
+brand_logo_url: https://www.vertagear.com/logo.png
+images:
+  - https://www.vertagear.com/images/pl6800-1.png
+  - https://www.vertagear.com/images/pl6800-2.png
+updated_at: 2026-04-04 23:43

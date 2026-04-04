@@ -4,17 +4,12 @@ description: The Razer Iskur V2 X is a budget-friendly gaming chair offering
   152-degree recline. It's designed for gamers seeking comfort without breaking
   the bank, retailing for under $300.
 source_url: https://www.razer.com/gaming-chairs/razer-iskur-v2-x
-featured: false
-brand: razer
-brand_logo_url: https://assets.razerzone.com/razer-id/assets/images/razer-logo.svg
-images:
-  - https://assets.razerzone.com/razer-id/assets/images/iskur-v2-x-1.jpg
-  - https://assets.razerzone.com/razer-id/assets/images/iskur-v2-x-2.jpg
-category: gaming-chairs
+category: Gaming Chairs
 tags:
   - budget-friendly
   - lumbar-support
   - reclining
+featured: false
 markdown: >-
   # Razer Iskur V2 X: Gaming Chair Overview
 
@@ -85,4 +80,9 @@ markdown: >-
 
   ![Razer Iskur V2 X Image
   2](https://assets.razerzone.com/razer-id/assets/images/iskur-v2-x-2.jpg)
-updated_at: 2025-12-16 06:23
+brand: razer
+brand_logo_url: https://assets.razerzone.com/razer-id/assets/images/razer-logo.svg
+images:
+  - https://assets.razerzone.com/razer-id/assets/images/iskur-v2-x-1.jpg
+  - https://assets.razerzone.com/razer-id/assets/images/iskur-v2-x-2.jpg
+updated_at: 2026-04-04 23:43

@@ -3,14 +3,9 @@ description: The IKEA UPPSPEL series, part of its gaming range developed with
   ASUS ROG, includes gaming and computer chairs designed for ergonomic comfort
   and adjustability for extended desk and gaming sessions.
 source_url: https://www.ikea.com/us/en/cat/gaming-chairs-70663
-featured: false
-brand: ikea
-brand_logo_url: https://www.ikea.com/us/en/static/ikea-logo.svg
-images:
-  - https://www.ikea.com/images/uppspel-gaming-chair-01.jpg
-  - https://www.ikea.com/images/uppspel-gaming-chair-02.jpg
-category: others
+category: Others
 tags: []
+featured: false
 markdown: >-
   # IKEA UPPSPEL Gaming Chair Series
 
@@ -73,4 +68,9 @@ markdown: >-
 
   - **Brand logo:** ![IKEA
   Logo](https://www.ikea.com/us/en/static/ikea-logo.svg)
-updated_at: 2025-12-31 19:09
+brand: ikea
+brand_logo_url: https://www.ikea.com/us/en/static/ikea-logo.svg
+images:
+  - https://www.ikea.com/images/uppspel-gaming-chair-01.jpg
+  - https://www.ikea.com/images/uppspel-gaming-chair-02.jpg
+updated_at: 2026-04-04 23:43

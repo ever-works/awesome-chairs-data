@@ -5,17 +5,9 @@ description: The X4 Executive Leather Office Chair is a premium seating solution
   comfort and style. The chair is ergonomically designed to support the back and
   promote good posture, making it ideal for both office and gaming setups.
 source_url: https://www.xchair.com/products/x4-leather-executive-office-chair?variant=44344838521114
-featured: true
-brand: x-chair
-brand_logo_url: /path/to/x-chair-logo.png
-images:
-  - https://cld.accentuate.io/66995585306/1678743528365/XC_Leather_Cognac.jpg?v=1678743528365&options=w_24
-  - https://cld.accentuate.io/66995585306/1678743543628/XC_Leather_Brown.jpg?v=1678743543629&options=w_24
-  - https://cld.accentuate.io/66995585306/1678743473042/XC_Leather_Black.jpg?v=1678743473042&options=w_24
-  - https://cld.accentuate.io/66995585306/1678743507299/XC_Leather_Red.jpg?v=1678743507300&options=w_24
-  - https://cld.accentuate.io/66995585306/1681598621025/XC_Leather_White.jpg?v=1681598621025&options=w_24
-category: chair-accessories
+category: Chair Accessories
 tags: []
+featured: true
 markdown: |-
   ## X4 Executive Leather Office Chair Summary
 
@@ -49,4 +41,12 @@ markdown: |-
   - **Category**: Chair Accessories
 
   This summary provides an insight into the X4 Executive Leather Office Chair, highlighting its key features and benefits for potential buyers. For more details, you can visit the [product page](https://www.xchair.com/products/x4-leather-executive-office-chair?variant=44344838521114).
-updated_at: 2025-12-13 05:58
+brand: x-chair
+brand_logo_url: /path/to/x-chair-logo.png
+images:
+  - https://cld.accentuate.io/66995585306/1678743528365/XC_Leather_Cognac.jpg?v=1678743528365&options=w_24
+  - https://cld.accentuate.io/66995585306/1678743543628/XC_Leather_Brown.jpg?v=1678743543629&options=w_24
+  - https://cld.accentuate.io/66995585306/1678743473042/XC_Leather_Black.jpg?v=1678743473042&options=w_24
+  - https://cld.accentuate.io/66995585306/1678743507299/XC_Leather_Red.jpg?v=1678743507300&options=w_24
+  - https://cld.accentuate.io/66995585306/1681598621025/XC_Leather_White.jpg?v=1681598621025&options=w_24
+updated_at: 2026-04-04 23:43

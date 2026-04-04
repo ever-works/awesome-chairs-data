@@ -9,18 +9,12 @@ description: The Embody Chair is an ergonomic work chair designed for people who
   X5.1-2017 office chair standards and California TB 117-2013, and is tested and
   warranted for users up to 300 pounds.
 source_url: https://www.hermanmiller.com/products/seating/office-chairs/embody-chairs
-featured: false
-brand: herman-miller
-brand_logo_url: https://www.hermanmiller.com/content/dam/hermanmiller/logo/herman-miller-logo-red.svg
-images:
-  - https://www.hermanmiller.com/content/dam/hmicom/page_assets/products/embody_chairs/images/embody_chairs_hero.jpg
-  - https://www.hermanmiller.com/content/dam/hmicom/product_images/embody_chairs/hero-embody-task-chair.jpg
-  - https://www.hermanmiller.com/content/dam/hmicom/product_images/embody_chairs/embody_chair_back_detail.jpg
-category: ergonomic-office-chairs
+category: Ergonomic Office Chairs
 tags:
   - ergonomic
   - posture-support
   - premium
+featured: false
 markdown: |
   # Embody Chair
 
@@ -87,4 +81,10 @@ markdown: |
   ## Brand
   ![Herman Miller](https://www.hermanmiller.com/content/dam/hermanmiller/logo/herman-miller-logo-red.svg)  
   **Herman Miller** – manufacturer of office seating and workplace furniture.
-updated_at: 2025-12-26 08:37
+brand: herman-miller
+brand_logo_url: https://www.hermanmiller.com/content/dam/hermanmiller/logo/herman-miller-logo-red.svg
+images:
+  - https://www.hermanmiller.com/content/dam/hmicom/page_assets/products/embody_chairs/images/embody_chairs_hero.jpg
+  - https://www.hermanmiller.com/content/dam/hmicom/product_images/embody_chairs/hero-embody-task-chair.jpg
+  - https://www.hermanmiller.com/content/dam/hmicom/product_images/embody_chairs/embody_chair_back_detail.jpg
+updated_at: 2026-04-04 23:43

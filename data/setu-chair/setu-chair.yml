@@ -3,17 +3,12 @@ description: A flexible, lightweight Herman Miller chair with a Kinematic Spine
   that automatically bends and flexes with the user, intended for conference
   rooms and home offices where people may sit at computers for hours at a time.
 source_url: https://www.hermanmiller.com/products/seating/office-chairs/setu-chair/
-featured: false
-brand: herman-miller
-brand_logo_url: https://www.hermanmiller.com/content/dam/hermanmiller/img/logo/herman-miller-logo.png
-images:
-  - https://www.hermanmiller.com/content/dam/hermanmiller/na/product-images/setu-chairs/herman-miller-setu-chair-HMSETU.jpg
-  - https://www.hermanmiller.com/content/dam/hermanmiller/na/product-images/setu-chairs/herman-miller-setu-lounge-chair-HMSETU.jpg
-category: ergonomic-office-chairs
+category: Ergonomic Office Chairs
 tags:
   - lightweight
   - flexible
   - ergonomic
+featured: false
 markdown: |-
   # Setu Chair
 
@@ -59,4 +54,9 @@ markdown: |-
   - **Primary images:**  
     - https://www.hermanmiller.com/content/dam/hermanmiller/na/product-images/setu-chairs/herman-miller-setu-chair-HMSETU.jpg  
     - https://www.hermanmiller.com/content/dam/hermanmiller/na/product-images/setu-chairs/herman-miller-setu-lounge-chair-HMSETU.jpg
-updated_at: 2025-12-26 08:37
+brand: herman-miller
+brand_logo_url: https://www.hermanmiller.com/content/dam/hermanmiller/img/logo/herman-miller-logo.png
+images:
+  - https://www.hermanmiller.com/content/dam/hermanmiller/na/product-images/setu-chairs/herman-miller-setu-chair-HMSETU.jpg
+  - https://www.hermanmiller.com/content/dam/hermanmiller/na/product-images/setu-chairs/herman-miller-setu-lounge-chair-HMSETU.jpg
+updated_at: 2026-04-04 23:43

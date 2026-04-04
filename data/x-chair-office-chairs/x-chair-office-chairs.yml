@@ -5,14 +5,9 @@ description: X-Chair offers a range of ergonomic office chairs designed for
   options to suit individual needs, making them ideal for both office and gaming
   setups.
 source_url: https://www.xchair.com/collections/office-chairs
-featured: true
-brand: x-chair
-brand_logo_url: https://cdn.cookielaw.org/logos/static/powered_by_logo.svg
-images:
-  - https://www.xchair.com/media/catalog/product/cache/1/image/800x800/9df78eab33525d08d6e5fb8d27136e95/x/c/xchair-x2-k.jpg
-  - https://www.xchair.com/media/catalog/product/cache/1/image/800x800/9df78eab33525d08d6e5fb8d27136e95/x/c/xchair-x3-k.jpg
-category: chair-accessories
+category: Chair Accessories
 tags: []
+featured: true
 markdown: |-
   ### X-Chair Office Chairs
 
@@ -51,4 +46,9 @@ markdown: |-
 
   ![X-Chair Image 1](https://www.xchair.com/media/catalog/product/cache/1/image/800x800/9df78eab33525d08d6e5fb8d27136e95/x/c/xchair-x2-k.jpg)
   ![X-Chair Image 2](https://www.xchair.com/media/catalog/product/cache/1/image/800x800/9df78eab33525d08d6e5fb8d27136e95/x/c/xchair-x3-k.jpg)
-updated_at: 2025-12-17 06:35
+brand: x-chair
+brand_logo_url: https://cdn.cookielaw.org/logos/static/powered_by_logo.svg
+images:
+  - https://www.xchair.com/media/catalog/product/cache/1/image/800x800/9df78eab33525d08d6e5fb8d27136e95/x/c/xchair-x2-k.jpg
+  - https://www.xchair.com/media/catalog/product/cache/1/image/800x800/9df78eab33525d08d6e5fb8d27136e95/x/c/xchair-x3-k.jpg
+updated_at: 2026-04-04 23:43

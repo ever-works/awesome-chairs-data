@@ -1,42 +1,51 @@
-name: Galene, Faux Leather Office Chair
-description: The Galene Faux Leather Office Chair is an affordable option for
-  those seeking comfort and style. With its faux leather finish and multiple
-  color options, it fits well in any office environment. Its contract-grade
-  build ensures it can withstand daily use.
-source_url: https://eurekaergonomic.com/products/oc-11ow-leather-office-chair?srsltid=AfmBOoplLY4--kGy65HoZEixAnOQUX9n3Vc1Q6nyoaN3deUVc7uRQOtT
-featured: true
-brand: galene
-brand_logo_url: https://www.example.com/brand-logos/galene.png
+name: Galene Faux Leather Office Chair
+description: Budget office chair at approximately $130–160 featuring faux
+  leather upholstery, padded seat, pneumatic height adjustment, tilt tension
+  control, and contract-grade construction, supporting up to 250 lbs. Ideal for
+  budget-conscious buyers setting up a home office or secondary workspace where
+  professional aesthetics at a low cost are desired. While it provides essential
+  adjustability and a clean, modern look, it lacks the lumbar precision, seat
+  depth adjustability, and mesh breathability of the Steelcase Series 1 or
+  Herman Miller Sayl at 3–4x the price.
+source_url: https://eurekaergonomic.com/products/oc-11ow-leather-office-chair
+category: Executive & Task Chairs
+tags:
+  - budget-friendly
+  - faux-leather
+  - contract-grade
+featured: false
+markdown: >-
+  ## Overview
+
+
+  The Galene Faux Leather Office Chair is a cost-effective seating solution
+  featuring faux leather upholstery and contract-grade construction, designed
+  for budget-conscious users who need professional-looking seating for daily
+  office use.
+
+
+  ## Features
+
+
+  - **Faux Leather Upholstery**: Durable, easy-to-clean surface
+
+  - **Padded Seat**: Cushioned comfort for extended sitting
+
+  - **Pneumatic Height Adjustment**: Standard gas lift
+
+  - **Tilt Tension Control**: Adjustable recline resistance
+
+  - **Contract-Grade Construction**: Built for daily use
+
+  - **Multiple Color Options**: Available in various finishes
+
+
+  ## Pricing
+
+
+  Starting at approximately $139.99
+brand: Eureka Ergonomic
+brand_logo_url: https://eurekaergonomic.com/cdn/shop/files/Logo-Black-2.png
 images:
-  - https://www.example.com/images/galene-faux-leather.jpg
-category: chair-accessories
-tags: []
-markdown: |-
-  # Galene Faux Leather Office Chair
-
-  ![Galene Faux Leather Office Chair](https://www.example.com/images/galene-faux-leather.jpg)
-
-  ### Overview
-  The **Galene Faux Leather Office Chair** is an elegant and cost-effective seating solution, perfect for enhancing any office environment. Manufactured with a contract-grade build, this chair promises durability and comfort in daily use.
-
-  ### Features
-  - **Material**: Faux leather
-  - **Color Options**: Available in multiple colors to match various office decors
-  - **Build Quality**: Contract-grade construction for enhanced durability
-  - **Design**: Sleek and modern design suitable for professional settings
-
-  ### Brand
-  - **Brand Name**: Galene
-  - ![Galene Logo](https://www.example.com/brand-logos/galene.png)
-
-  ### Category
-  - Chair Accessories
-
-  ### Source
-  - [Product Page](https://eurekaergonomic.com/products/oc-11ow-leather-office-chair?srsltid=AfmBOoplLY4--kGy65HoZEixAnOQUX9n3Vc1Q6nyoaN3deUVc7uRQOtT)
-
-  ### Pricing
-  - Pricing details not provided in the available content.
-
-  For more information, visit the [official product page](https://eurekaergonomic.com/products/oc-11ow-leather-office-chair?srsltid=AfmBOoplLY4--kGy65HoZEixAnOQUX9n3Vc1Q6nyoaN3deUVc7uRQOtT).
-updated_at: 2025-12-16 06:23
+  - https://eurekaergonomic.com/cdn/shop/products/oc-11ow-leather-office-chair_1.jpg
+updated_at: 2026-04-04 23:43

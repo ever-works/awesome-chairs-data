@@ -4,18 +4,12 @@ description: The LEGEND Series by noblechairs is a versatile line of gaming
   Edition. Known for its robust design and comfort, the LEGEND Series caters to
   gamers and professionals seeking a reliable seating solution.
 source_url: https://www.autonomous.ai/desks-chairs-fit-for-your-workspace/karnox-legend-bluish-gray-edition
-featured: true
-brand: noblechairs
-brand_logo_url: https://img.noblechairs.com/logo.png
-images:
-  - https://img.noblechairs.com/products/color-variations/legend/black-edition.jpg
-  - https://img.noblechairs.com/products/color-variations/legend/java-edition.jpg
-  - https://img.noblechairs.com/products/plp/abstract-legend-faux-leather-doom-tda-edition-noblechairs.png
-category: gaming-chairs
+category: Gaming Chairs
 tags:
   - versatile
   - robust
   - comfortable
+featured: true
 markdown: |-
   # LEGEND Series by noblechairs
 
@@ -52,4 +46,10 @@ markdown: |-
 
   ---
   The LEGEND Series by noblechairs stands out as a top-tier choice for those seeking a blend of style, comfort, and durability in their seating solutions. Ideal for long hours of gaming or work, the LEGEND Series ensures you remain supported and comfortable throughout your sessions.
-updated_at: 2025-12-14 06:04
+brand: noblechairs
+brand_logo_url: https://img.noblechairs.com/logo.png
+images:
+  - https://img.noblechairs.com/products/color-variations/legend/black-edition.jpg
+  - https://img.noblechairs.com/products/color-variations/legend/java-edition.jpg
+  - https://img.noblechairs.com/products/plp/abstract-legend-faux-leather-doom-tda-edition-noblechairs.png
+updated_at: 2026-04-04 23:43

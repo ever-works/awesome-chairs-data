@@ -4,12 +4,9 @@ description: A high-end ergonomic chair targeted at people who sit all day,
   relieve discomfort for office workers and gamers during extended computer
   sessions.
 source_url: https://www.techradar.com/gaming/anthros-v2-chair-gaming-chair-review
-featured: true
-brand: anthros
-brand_logo_url: null
-images: null
-category: chair-accessories
+category: Chair Accessories
 tags: []
+featured: true
 markdown: >-
   ## Anthros V2 Chair
 
@@ -89,4 +86,6 @@ markdown: >-
 
   *Note: Exact, up‑to‑date pricing and configurations should be confirmed on the
   manufacturer’s site or retailer listings.*
-updated_at: 2025-12-23 09:31
+brand: anthros
+brand_logo_url: null
+updated_at: 2026-04-04 23:43

@@ -4,16 +4,9 @@ description: The Anthros V2 is a high-end ergonomic office chair designed for
   all‑day comfort with an adjustable back and seat structure aimed at reducing
   strain during long work or gaming sessions.
 source_url: https://www.anthros.com/
-featured: true
-brand: anthros
-brand_logo_url: null
-images:
-  - https://media.wired.com/photos/68563802bc89a750ff2aa119/4:3/w_640%2Cc_limit/Anthros%2520V2%2520SOURCE%2520Anthros.png
-  - https://media.wired.com/photos/685c67549e99f58c5eff2672/4:3/w_640%2Cc_limit/Review-%2520Anthros%2520V2%2520Chair%2520source%2520Julian%2520Chokkattu%2520-4.png
-  - https://media.wired.com/photos/685c67668ca1065c299e06a4/4:3/w_640%2Cc_limit/Review-%2520Anthros%2520V2%2520Chair%2520source%2520Julian%2520Chokkattu%2520-2.png
-  - https://media.wired.com/photos/685c6774711570f69b33c083/4:3/w_640%2Cc_limit/Review-%2520Anthros%2520V2%2520Chair%2520source%2520Julian%2520Chokkattu_.png
-category: chair-accessories
+category: Chair Accessories
 tags: []
+featured: true
 markdown: >
   # Anthros V2 Ergonomic Office Chair
 
@@ -69,4 +62,11 @@ markdown: >
   Pricing is not specified in the provided content. For current pricing and
   configuration options, visit the official product page:
   <https://www.anthros.com/>.
-updated_at: 2025-12-23 09:31
+brand: anthros
+brand_logo_url: null
+images:
+  - https://media.wired.com/photos/68563802bc89a750ff2aa119/4:3/w_640%2Cc_limit/Anthros%2520V2%2520SOURCE%2520Anthros.png
+  - https://media.wired.com/photos/685c67549e99f58c5eff2672/4:3/w_640%2Cc_limit/Review-%2520Anthros%2520V2%2520Chair%2520source%2520Julian%2520Chokkattu%2520-4.png
+  - https://media.wired.com/photos/685c67668ca1065c299e06a4/4:3/w_640%2Cc_limit/Review-%2520Anthros%2520V2%2520Chair%2520source%2520Julian%2520Chokkattu%2520-2.png
+  - https://media.wired.com/photos/685c6774711570f69b33c083/4:3/w_640%2Cc_limit/Review-%2520Anthros%2520V2%2520Chair%2520source%2520Julian%2520Chokkattu_.png
+updated_at: 2026-04-04 23:43

@@ -1,71 +1,50 @@
 name: Humanscale Freedom Headrest Chair
-description: An ergonomic desk chair by Humanscale designed for all-day computer
-  use, featuring a weight-sensitive recline, dynamic headrest, and eco-friendly
-  materials. Often recommended as one of the best chairs for people who like to
-  recline while working at a computer.
+description: The Humanscale Freedom with Headrest is a premium ergonomic office
+  chair featuring a weight-activated self-adjusting recline that calibrates
+  automatically to body weight, a pivoting backrest that tracks spinal movement,
+  and a dynamic headrest that follows head motion during recline. Rated for
+  users up to 300 lbs, it is ideal for corporate offices and WFH environments
+  where hands-free comfort during long desk sessions or frequent reclining is
+  prioritized. Compared to the Steelcase Leap's manually tuned lumbar and the
+  Herman Miller Aeron's PostureFit SL, the Freedom eliminates dials and knobs
+  entirely, favoring instinctive adjustment at roughly $1,900–$2,050.
 source_url: https://www.humanscale.com/products/seating/freedom-headrest
+category: Ergonomic Office Chairs
+tags:
+  - auto-tilt
+  - dynamic-headrest
+  - premium
 featured: true
-brand: humanscale
-brand_logo_url: /null
-images:
-  - https://media.wired.com/photos/681d68c9b5d0aa056d907788/4:3/w_640%2Cc_limit/DSC_3854.jpg
-  - https://media.wired.com/photos/62212d233699f7c7bb66476c/4:3/w_640%2Cc_limit/Gear-Humanscale-Freedom-Headrest-SOURCE-Humanscale.jpg
-category: chair-accessories
-tags: []
-markdown: >
+markdown: >-
   # Humanscale Freedom Headrest Chair
 
 
   An ergonomic desk chair designed for all-day computer use, especially suited
-  to people who prefer to recline while working at a computer.
-
-
-  **Source:** [Product page](/products/seating/freedom-headrest)
-
-
-  ---
+  to people who prefer to recline while working.
 
 
   ## Features
 
-  - Ergonomic task/desk chair for computer-based work
+  - **Weight-sensitive recline**: Adjusts tension automatically based on body
+  weight
 
-  - Designed for comfortable, all-day use
+  - **Dynamic headrest**: Moves as you recline to support head and neck
 
-  - Weight-sensitive recline mechanism that adjusts tension automatically based
-  on the sitter’s weight
+  - **Pivoting backrest on rails**: Tracks spinal movement
 
-  - Dynamic headrest that moves as you recline to support the head and neck
+  - **Eco-friendly materials**: Sustainably constructed
 
-  - Optimized for users who like to recline while working at a computer
-
-  - Constructed with eco-friendly materials
-
-
-  ---
+  - **Seat adjustment**: Height and forward/backward slide
 
 
   ## Pricing
 
-  Pricing is not specified on the source page. Check Humanscale or authorized
-  retailers for current pricing and configuration options.
-
-
-  ---
-
-
-  ## Additional Details
-
-  - **Brand:** Humanscale
-
-  - **Category:** Chair accessories / ergonomic seating
-
-  - **Featured:** Yes
-
-  - **Official website:**
-  https://www.humanscale.com/products/seating/freedom-headrest
-
-  - **Images:**
-    - https://media.wired.com/photos/681d68c9b5d0aa056d907788/4:3/w_640%2Cc_limit/DSC_3854.jpg
-    - https://media.wired.com/photos/62212d233699f7c7bb66476c/4:3/w_640%2Cc_limit/Gear-Humanscale-Freedom-Headrest-SOURCE-Humanscale.jpg
-updated_at: 2025-12-23 09:31
+  Approximately $1,900–$2,050 with headrest configuration. Check
+  [Humanscale](https://www.humanscale.com/products/seating/freedom-headrest) for
+  current pricing.
+brand: Humanscale
+brand_logo_url: https://www.humanscale.com/asset/image/brand/logo.svg
+images:
+  - https://media.wired.com/photos/681d68c9b5d0aa056d907788/4:3/w_640,c_limit/DSC_3854.jpg
+  - https://media.wired.com/photos/62212d233699f7c7bb66476c/4:3/w_640,c_limit/Gear-Humanscale-Freedom-Headrest-SOURCE-Humanscale.jpg
+updated_at: 2026-04-04 23:43

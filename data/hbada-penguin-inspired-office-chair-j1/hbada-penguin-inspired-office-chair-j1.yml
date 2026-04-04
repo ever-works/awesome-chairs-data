@@ -3,14 +3,9 @@ description: Inspired by the sleek and elegant design of penguins, the HBADA J1
   Office Chair combines style with ergonomic features, making it a unique
   addition to any office space.
 source_url: https://hbada.com/products/hbada-j1-ergonomic-desk-chair-home-office?srsltid=AfmBOopUfzo4dcI6WNkfTY3zUwSTDFRSAAOl2u8bi-OOjxJ7Xoq0j4Nd
-featured: true
-brand: hbada
-brand_logo_url: https://hbada.com/cdn/shop/files/hbada_logo.png
-images:
-  - https://hbada.com/cdn/shop/files/4_4049e408-1629-4b47-b482-1f820f562bea.jpg?v=1740023003&width=1500
-  - https://hbada.com/cdn/shop/files/188G-2_c1e0315e-6e23-47da-90b2-d3b77c4f76df.jpg?v=1740023003&width=1600
-category: chair-accessories
+category: Chair Accessories
 tags: []
+featured: true
 markdown: |-
   ## HBADA Penguin-inspired Office Chair - J1
 
@@ -39,4 +34,9 @@ markdown: |-
   ---
 
   *Note: Pricing information is not provided in the available content.*
-updated_at: 2025-12-21 06:47
+brand: hbada
+brand_logo_url: https://hbada.com/cdn/shop/files/hbada_logo.png
+images:
+  - https://hbada.com/cdn/shop/files/4_4049e408-1629-4b47-b482-1f820f562bea.jpg?v=1740023003&width=1500
+  - https://hbada.com/cdn/shop/files/188G-2_c1e0315e-6e23-47da-90b2-d3b77c4f76df.jpg?v=1740023003&width=1600
+updated_at: 2026-04-04 23:43

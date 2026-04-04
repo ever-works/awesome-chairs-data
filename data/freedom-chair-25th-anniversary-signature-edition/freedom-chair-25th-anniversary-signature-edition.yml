@@ -4,13 +4,9 @@ description: The Freedom Chair, designed by Niels Diffrient, is celebrated for
   25th Anniversary Signature Edition marks this milestone with a limited
   release, offering enhanced comfort and style.
 source_url: https://www.humanscale.com/products/seating/freedom-chair
-featured: true
-brand: humanscale
-brand_logo_url: https://www.humanscale.com/userfiles/images/logos/Humanscale_NoArch_Superscript-R_grey.png
-images:
-  - https://www.humanscale.com/userFiles/files/hs-seating-freedom25-studio_224-homepage.jpg
-category: chair-accessories
+category: Chair Accessories
 tags: []
+featured: true
 markdown: |-
   ## Freedom Chair 25th Anniversary Signature Edition
 
@@ -43,4 +39,8 @@ markdown: |-
   *No specific tags were provided for this product.*
 
   This limited edition Freedom Chair embodies the essence of ergonomic design and is an ideal choice for those seeking comfort and style in their office environment. For more information or to make a purchase, visit the [Humanscale website](https://www.humanscale.com/products/seating/freedom-chair).
-updated_at: 2025-12-15 06:30
+brand: humanscale
+brand_logo_url: https://www.humanscale.com/userfiles/images/logos/Humanscale_NoArch_Superscript-R_grey.png
+images:
+  - https://www.humanscale.com/userFiles/files/hs-seating-freedom25-studio_224-homepage.jpg
+updated_at: 2026-04-04 23:43

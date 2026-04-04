@@ -5,12 +5,9 @@ description: A fully adjustable ergonomic computer chair from BodyBilt, designed
   in BodyBilt’s Work From Home packages as the primary task chair for computer
   use.
 source_url: https://www.bodybilt.com/
-featured: true
-brand: bodybilt
-brand_logo_url: null
-images: null
-category: chair-accessories
+category: Chair Accessories
 tags: []
+featured: true
 markdown: >-
   # BodyBilt Sola LT Ergonomic Chair
 
@@ -65,4 +62,6 @@ markdown: >-
   setups
 
   - **Source:** https://www.bodybilt.com/
-updated_at: 2025-12-23 09:31
+brand: bodybilt
+brand_logo_url: null
+updated_at: 2026-04-04 23:43

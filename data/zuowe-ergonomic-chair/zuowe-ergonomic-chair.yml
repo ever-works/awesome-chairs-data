@@ -4,12 +4,9 @@ description: A collection of ergonomic office chairs from ZUOWE designed for
   load‑bearing capacity, and high stability to improve comfort and productivity
   at the computer.
 source_url: https://www.zuowe.com/ergonomic-chair/
-featured: true
-brand: zuowe
-brand_logo_url: null
-images: null
-category: chair-accessories
+category: Chair Accessories
 tags: []
+featured: true
 markdown: >-
   # ZUOWE Ergonomic Chair
 
@@ -75,4 +72,6 @@ markdown: >-
   Pricing is not listed publicly. Costs are typically provided on a quotation
   basis; interested buyers need to contact ZUOWE with requirements (e.g., chair
   types, quantities, customization needs) to receive a price quote.
-updated_at: 2025-12-23 09:31
+brand: zuowe
+brand_logo_url: null
+updated_at: 2026-04-04 23:43

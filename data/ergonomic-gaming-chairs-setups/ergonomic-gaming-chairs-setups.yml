@@ -6,14 +6,9 @@ description: Humanscale's Gaming Collection offers a range of ergonomic gaming
   to provide gamers with the ergonomic benefits typically found in high-end
   office chairs.
 source_url: https://www.humanscale.com/gaming/ergonomic-gaming-chairs-setups.cfm
-featured: true
-brand: humanscale
-brand_logo_url: https://www.humanscale.com/images/logo.png
-images:
-  - https://www.humanscale.com/images/products/gaming-chair.jpg
-  - https://www.humanscale.com/images/products/gaming-chair-back.jpg
-category: chair-accessories
+category: Chair Accessories
 tags: []
+featured: true
 markdown: >-
   ## Ergonomic Gaming Chairs & Setups by Humanscale
 
@@ -94,4 +89,9 @@ markdown: >-
   the [official
   website](https://www.humanscale.com/gaming/ergonomic-gaming-chairs-setups.cfm)
   for the latest pricing details.
-updated_at: 2025-12-13 05:58
+brand: humanscale
+brand_logo_url: https://www.humanscale.com/images/logo.png
+images:
+  - https://www.humanscale.com/images/products/gaming-chair.jpg
+  - https://www.humanscale.com/images/products/gaming-chair-back.jpg
+updated_at: 2026-04-04 23:43

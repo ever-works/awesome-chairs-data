@@ -4,14 +4,9 @@ description: The X-Chair X2 K-Sport Mgmt Chair is designed for those who spend
   SciFloat infinite recline, and is compatible with ELEMAX and X-HMT
   technologies for enhanced comfort and productivity.
 source_url: https://www.wired.com/story/3-best-gaming-chairs-for-any-budget/
-featured: true
-brand: x-chair
-brand_logo_url: https://www.xchair.com/logo.png
-images:
-  - https://cld.accentuate.io/436883751194/1731301418962/XC-2025-Evergreen-March-OfficeChairsPLP-HeaderBanner-Desktop.jpg?v=1743578143999
-  - https://cld.accentuate.io/436883751194/1731301432314/XC-2025-Evergreen-March-OfficeChairsPLP-HeaderBanner-Mobile.jpg?v=1743578191910
-category: chair-accessories
+category: Chair Accessories
 tags: []
+featured: true
 markdown: |-
   ## X-Chair X2 K-Sport Mgmt Chair
 
@@ -46,4 +41,9 @@ markdown: |-
   ---
 
   For more details and to explore other ergonomic solutions, visit the [X-Chair website](https://www.wired.com/story/3-best-gaming-chairs-for-any-budget/).
-updated_at: 2025-12-17 06:35
+brand: x-chair
+brand_logo_url: https://www.xchair.com/logo.png
+images:
+  - https://cld.accentuate.io/436883751194/1731301418962/XC-2025-Evergreen-March-OfficeChairsPLP-HeaderBanner-Desktop.jpg?v=1743578143999
+  - https://cld.accentuate.io/436883751194/1731301432314/XC-2025-Evergreen-March-OfficeChairsPLP-HeaderBanner-Mobile.jpg?v=1743578191910
+updated_at: 2026-04-04 23:43

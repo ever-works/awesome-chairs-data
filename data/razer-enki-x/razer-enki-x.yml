@@ -3,12 +3,9 @@ description: Essential, more affordable version of the Razer Enki gaming chair
   that retains core ergonomic and comfort features for long computer and gaming
   sessions.
 source_url: https://www.razer.com/gaming-chairs/razer-enki-x
-featured: false
-brand: razer
-brand_logo_url: https://assets2.razerzone.com/images/razer-ths-logo.svg
-images: null
-category: others
+category: Others
 tags: []
+featured: false
 markdown: >-
   # Razer Enki X
 
@@ -83,4 +80,6 @@ markdown: >-
   - **Brand logo:** https://assets2.razerzone.com/images/razer-ths-logo.svg
 
   - **Slug / URL handle:** `razer-enki-x`
-updated_at: 2025-12-31 19:09
+brand: razer
+brand_logo_url: https://assets2.razerzone.com/images/razer-ths-logo.svg
+updated_at: 2026-04-04 23:43

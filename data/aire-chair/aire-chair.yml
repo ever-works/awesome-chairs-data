@@ -3,13 +3,9 @@ description: The Aire Chair is designed to promote active ergonomics,
   encouraging movement and balanced posture throughout the day. Its modern
   design makes it a great addition to any contemporary workspace.
 source_url: https://www.branchfurniture.com/products/aire-chair
-featured: false
-brand: branch-furniture
-brand_logo_url: https://www.branchfurniture.com/cdn/shop/files/branch-logo.png
-images:
-  - https://www.branchfurniture.com/cdn/shop/files/aire-chair.webp?v=1762324803
-category: chair-accessories
+category: Chair Accessories
 tags: []
+featured: false
 markdown: |-
   ## Aire Chair by Branch Furniture
 
@@ -49,4 +45,8 @@ markdown: |-
   ---
 
   The Aire Chair by Branch Furniture combines modern design with cutting-edge ergonomic features, making it an ideal choice for those seeking comfort and style in their workspace seating.
-updated_at: 2025-12-17 06:35
+brand: branch-furniture
+brand_logo_url: https://www.branchfurniture.com/cdn/shop/files/branch-logo.png
+images:
+  - https://www.branchfurniture.com/cdn/shop/files/aire-chair.webp?v=1762324803
+updated_at: 2026-04-04 23:43

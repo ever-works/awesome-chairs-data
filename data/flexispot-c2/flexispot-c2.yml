@@ -1,37 +1,40 @@
 name: FlexiSpot C2
-description: Ultra-affordable ergonomic chair at only $99.99, offering
-  comfortable seating with breathability and essential adjustments for users on
-  the tightest budgets.
-source_url: https://www.flexispot.com/office-chair-c2
+description: An ultra-affordable ergonomic office chair at $99.99 with basic
+  mesh back, standard pneumatic height adjustment, simple tilt mechanism, and a
+  lightweight compact design with a 120° recline range. Designed for
+  tight-budget WFH users and students needing essential airflow and height
+  adjustability for light desk work. Compared to the Steelcase Series 1's $500
+  entry-level build with four-way adjustable arms and weight-activated tilt, the
+  FlexiSpot C2 offers the most basic version of mesh breathability and height
+  adjustment at roughly 20% of the Series 1 price, best suited for shorter daily
+  sessions.
+source_url: https://www.flexispot.com/ergonomic-office-chair-c2
 category: Ergonomic Office Chairs
 tags:
-  - ultra-budget
-  - breathable
-  - basic
-featured: false
+  - budget-friendly
+  - mesh
+  - ergonomic
 markdown: >-
   ## Overview
 
 
-  The FlexiSpot C2 costs only $99.99 and offers affordable comfort with
-  breathability, making it one of the most budget-friendly options from a
-  reputable ergonomic furniture manufacturer.
+  The FlexiSpot C2 is the budget-friendly version of the C2 family, offering
+  basic ergonomic features at an accessible price. It features a breathable mesh
+  backrest for ventilation and comfort during long hours of sitting.
 
 
   ## Features
 
 
-  - **Ultra-Affordable**: Premium brand quality at budget price
+  - **Mesh Backrest:** Breathable mesh for airflow
 
-  - **Breathable Mesh**: Basic mesh for airflow
+  - **Comfortable Seat Cushion:** Foam padding
 
-  - **Height Adjustment**: Standard pneumatic lift
+  - **Lightweight Design:** ~20 lbs
 
-  - **Tilt Function**: Simple recline mechanism
+  - **Adjustable Height:** Standard pneumatic lift
 
-  - **Compact Design**: Space-efficient footprint
-
-  - **Easy Maintenance**: Simple to clean and maintain
+  - **Tilt Mechanism:** Basic recline up to 120°
 
 
   ## Specifications
@@ -39,11 +42,11 @@ markdown: >-
 
   - Weight Capacity: Up to 250 lbs
 
-  - Recline Range: Basic tilt
+  - Recline Range: Up to 120°
 
-  - Seat Height Range: 17.5" to 21"
+  - Seat Height Range: 17.3" – 21.3"
 
-  - Warranty: 2-year manufacturer warranty
+  - Armrests: Fixed or height-adjustable options available
 
 
   ## Pricing
@@ -51,4 +54,4 @@ markdown: >-
 
   Starting at $99.99
 brand: FlexiSpot
-updated_at: 2026-03-07 17:45
+updated_at: 2026-04-04 23:43

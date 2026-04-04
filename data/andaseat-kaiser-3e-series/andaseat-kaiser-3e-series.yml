@@ -3,14 +3,9 @@ description: The AndaSeat Kaiser 3E Series offers ergonomic support with a 5cm
   raised lumbar and 4D armrests. It is built with aluminum and iron wheelbases,
   making it a sturdy choice for both office and gaming environments.
 source_url: https://www.andaseat.com/products/andaseat-kaiser-3e-series-ergonomic-office-gaming-chair?variant=42269028220987
-featured: false
-brand: andaseat
-brand_logo_url: /images/andaseat-logo.png
-images:
-  - https://www.andaseat.com/images/kaiser3e-1.jpg
-  - https://www.andaseat.com/images/kaiser3e-2.jpg
-category: chair-accessories
+category: Chair Accessories
 tags: []
+featured: false
 markdown: |-
   ## AndaSeat Kaiser 3E Series
 
@@ -40,4 +35,9 @@ markdown: |-
   ---
 
   Explore the AndaSeat Kaiser 3E Series for a blend of ergonomic support and robust construction, ideal for enhancing your gaming or office setup.
-updated_at: 2025-12-17 06:35
+brand: andaseat
+brand_logo_url: /images/andaseat-logo.png
+images:
+  - https://www.andaseat.com/images/kaiser3e-1.jpg
+  - https://www.andaseat.com/images/kaiser3e-2.jpg
+updated_at: 2026-04-04 23:43

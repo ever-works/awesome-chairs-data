@@ -4,13 +4,9 @@ description: The Alto Executive Office Chair features silicone leather, offering
   ergonomic support during long working hours. Available in Off-White, this
   chair is Contract Grade certified, ensuring high durability.
 source_url: https://shop.app/products/9922046820656/alto-silicone-leather-executive-office-chair
-featured: true
-brand: alto
-brand_logo_url: /images/brands/alto-logo.png
-images:
-  - https://www.example.com/images/products/alto-off-white.jpg
-category: chair-accessories
+category: Executive & Task Chairs
 tags: []
+featured: true
 markdown: |-
   # Alto Silicone Leather Executive Office Chair
 
@@ -41,4 +37,8 @@ markdown: |-
   ---
 
   For more information and to explore similar products, visit the [Eureka Ergonomic](https://shop.app) website.
-updated_at: 2025-12-16 06:23
+brand: alto
+brand_logo_url: /images/brands/alto-logo.png
+images:
+  - https://www.example.com/images/products/alto-off-white.jpg
+updated_at: 2026-04-04 23:43

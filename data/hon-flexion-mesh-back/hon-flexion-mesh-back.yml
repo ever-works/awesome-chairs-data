@@ -3,13 +3,9 @@ description: The Hon Flexion Mesh Back chair combines a breathable mesh back
   with a comfortable seat, offering ergonomic support for long hours of work.
   Its modern design fits well in any office setting.
 source_url: https://www.officechairsusa.com/hon-flexion-mesh-back/
-featured: false
-brand: hon
-brand_logo_url: null
-images:
-  - https://cdn11.bigcommerce.com/s-lpku7oc/stencil/e2ffdcc0-5522-013e-75ce-268ccf9b665c/e/dc501ef0-b9d3-013e-70a3-3a6e55e893d9/img/loading.svg
-category: chair-accessories
+category: Chair Accessories
 tags: []
+featured: false
 markdown: |-
   # Hon Flexion Mesh Back
 
@@ -41,4 +37,8 @@ markdown: |-
   ---
 
   For more details, visit the [product page](https://www.officechairsusa.com/hon-flexion-mesh-back/).
-updated_at: 2025-12-13 05:58
+brand: hon
+brand_logo_url: null
+images:
+  - https://cdn11.bigcommerce.com/s-lpku7oc/stencil/e2ffdcc0-5522-013e-75ce-268ccf9b665c/e/dc501ef0-b9d3-013e-70a3-3a6e55e893d9/img/loading.svg
+updated_at: 2026-04-04 23:43

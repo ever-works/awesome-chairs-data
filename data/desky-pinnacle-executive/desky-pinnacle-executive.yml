@@ -3,17 +3,12 @@ description: The Desky Pinnacle Executive is a stylish and comfortable ergonomic
   chair that offers excellent support for long hours of sitting. It's a great
   choice for those looking for a blend of aesthetics and functionality.
 source_url: https://desky.com/?srsltid=AfmBOopbyGAQo2mNC79sebua12AJL9_CcJj_6wyUPGuxk68soJGvPHYo
-featured: false
-brand: desky
-brand_logo_url: https://www.desky.com.au/logo.png
-images:
-  - https://www.desky.com.au/images/pinnacle-1.png
-  - https://www.desky.com.au/images/pinnacle-2.png
-category: ergonomic-office-chairs
+category: Executive & Task Chairs
 tags:
   - stylish
   - comfortable
   - support
+featured: false
 markdown: |-
   ### Desky Pinnacle Executive
 
@@ -45,4 +40,9 @@ markdown: |-
   ---
 
   This summary provides an overview of the Desky Pinnacle Executive chair, highlighting its key features and design elements without delving into marketing or promotional content. For more detailed information, please visit the source link provided.
-updated_at: 2025-12-16 06:23
+brand: desky
+brand_logo_url: https://www.desky.com.au/logo.png
+images:
+  - https://www.desky.com.au/images/pinnacle-1.png
+  - https://www.desky.com.au/images/pinnacle-2.png
+updated_at: 2026-04-04 23:43

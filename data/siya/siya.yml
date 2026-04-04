@@ -3,12 +3,9 @@ description: Ergonomic office chair from AMQ providing adjustable support for
   everyday computer and desk work, targeted at users who sit for much of the
   workday.
 source_url: https://www.steelcase.com/products/office-chairs/siya
-featured: false
-brand: amq
-brand_logo_url: null
-images: null
-category: others
+category: Others
 tags: []
+featured: false
 markdown: >-
   # SIYA
 
@@ -52,4 +49,6 @@ markdown: >-
 
   - Not specified on the provided page; typically available via Steelcase/AMQ
   dealers or sales representatives.
-updated_at: 2025-12-31 19:09
+brand: amq
+brand_logo_url: null
+updated_at: 2026-04-04 23:43

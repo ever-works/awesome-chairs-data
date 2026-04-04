@@ -5,17 +5,9 @@ description: The X2 K-Sport Mesh Management Office Chair offers a blend of style
   This chair is part of a holiday sale, providing a significant discount for
   those looking to upgrade their seating experience.
 source_url: https://www.xchair.com/products/x2-ksport-mesh-management-office-chair?variant=44508922151194
-featured: true
-brand: x-chair
-brand_logo_url: /path/to/x-chair-logo.png
-images:
-  - https://cld.accentuate.io/66995585306/1695413239777/XC_HAT_PLP-swatches_walnut-amati_44x44.jpg?v=1695413239777&options=w_24
-  - https://cld.accentuate.io/66995585306/1695413261375/XC_HAT_PLP-swatches_sandlewood_44x44.jpg?v=1695413261375&options=w_24
-  - https://cld.accentuate.io/66995585306/1695413289584/XC_HAT_PLP-swatches_cabinet-maple_44x44.jpg?v=1695413289584&options=w_24
-  - https://cld.accentuate.io/66995585306/1683132834290/FSwheel_white88px.jpeg?v=1683132834290&options=w_24
-  - https://cld.accentuate.io/66995585306/1679087094483/XC_X77-Black.jpg?v=1679087094483&options=w_24
-category: chair-accessories
+category: Chair Accessories
 tags: []
+featured: true
 markdown: |-
   ## X2 K-Sport Mesh Management Office Chair
 
@@ -48,4 +40,12 @@ markdown: |-
 
   ### Source
   [Visit Product Page](https://www.xchair.com/products/x2-ksport-mesh-management-office-chair?variant=44508922151194)
-updated_at: 2025-12-13 05:58
+brand: x-chair
+brand_logo_url: /path/to/x-chair-logo.png
+images:
+  - https://cld.accentuate.io/66995585306/1695413239777/XC_HAT_PLP-swatches_walnut-amati_44x44.jpg?v=1695413239777&options=w_24
+  - https://cld.accentuate.io/66995585306/1695413261375/XC_HAT_PLP-swatches_sandlewood_44x44.jpg?v=1695413261375&options=w_24
+  - https://cld.accentuate.io/66995585306/1695413289584/XC_HAT_PLP-swatches_cabinet-maple_44x44.jpg?v=1695413289584&options=w_24
+  - https://cld.accentuate.io/66995585306/1683132834290/FSwheel_white88px.jpeg?v=1683132834290&options=w_24
+  - https://cld.accentuate.io/66995585306/1679087094483/XC_X77-Black.jpg?v=1679087094483&options=w_24
+updated_at: 2026-04-04 23:43

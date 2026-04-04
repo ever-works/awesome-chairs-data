@@ -7,14 +7,9 @@ description: The VertaAir Seat is a patented seating solution designed to
   circulation blockages, supporting a balanced posture for extended focus and
   comfort.
 source_url: https://www.amazon.com/Computer-Gaming-Chairs-500-1-000/s?rh=n%3A18682063011%2Cp_36%3A50000-100000
-featured: true
-brand: vertaair
-brand_logo_url: /images/vertaair-logo.png
-images:
-  - /images/vertaair-seat-1.png
-  - /images/vertaair-seat-2.png
-category: chair-accessories
+category: Chair Accessories
 tags: []
+featured: true
 markdown: |-
   # VertaAir Seat
 
@@ -45,4 +40,9 @@ markdown: |-
   - **Featured**: Yes
 
   For more details and to purchase, visit the [Amazon product page](https://www.amazon.com/Computer-Gaming-Chairs-500-1-000/s?rh=n%3A18682063011%2Cp_36%3A50000-100000). Please note, pricing details are not available in the current content provided.
-updated_at: 2025-12-21 06:47
+brand: vertaair
+brand_logo_url: /images/vertaair-logo.png
+images:
+  - /images/vertaair-seat-1.png
+  - /images/vertaair-seat-2.png
+updated_at: 2026-04-04 23:43

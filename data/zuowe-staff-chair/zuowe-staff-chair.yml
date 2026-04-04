@@ -3,12 +3,9 @@ description: ZUOWE’s staff chair range designed for everyday office use,
   focusing on comfort, stability, and ergonomic support for employees who sit at
   computer workstations throughout the day.
 source_url: https://www.zuowe.com/staff-chair/
-featured: false
-brand: zuowe
-brand_logo_url: null
-images: null
-category: chair-accessories
+category: Chair Accessories
 tags: []
+featured: false
 markdown: >
   # ZUOWE Staff Chair
 
@@ -74,4 +71,6 @@ markdown: >
 
   - Chairs appear to be offered on a **quotation basis**, depending on selected
   models and any customization.
-updated_at: 2025-12-23 09:31
+brand: zuowe
+brand_logo_url: null
+updated_at: 2026-04-04 23:43

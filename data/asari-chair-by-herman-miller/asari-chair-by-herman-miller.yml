@@ -4,16 +4,9 @@ description: The Asari Chair by Herman Miller offers ergonomic support with a
   and high-back designs, it is suitable for professional and gaming
   environments, providing a balance of style and functionality.
 source_url: https://eustore.hermanmiller.com/products/asari-mid-back-chair-knight-graphite
-featured: true
-brand: herman-miller
-brand_logo_url: https://www.hermanmiller.com/content/dam/hermanmiller/images/logos/herman-miller-logo.png
-images:
-  - https://www.hermanmiller.com/content/dam/hermanmiller/images/products/asari-chair-mid-back/asari-chair-mid-back-1.jpg
-  - https://www.hermanmiller.com/content/dam/hermanmiller/images/products/asari-chair-mid-back/asari-chair-mid-back-2.jpg
-  - https://www.hermanmiller.com/content/dam/hermanmiller/images/products/asari-chair-high-back/asari-chair-high-back-1.jpg
-  - https://www.hermanmiller.com/content/dam/hermanmiller/images/products/asari-chair-high-back/asari-chair-high-back-2.jpg
-category: chair-accessories
+category: Chair Accessories
 tags: []
+featured: true
 markdown: |-
   ## Asari Chair by Herman Miller
 
@@ -55,4 +48,11 @@ markdown: |-
   ---
 
   The Asari Chair by Herman Miller is your gateway to experiencing both the performance of a top-tier work chair and the comfort of a lounge chair in one innovative design.
-updated_at: 2025-12-16 06:23
+brand: herman-miller
+brand_logo_url: https://www.hermanmiller.com/content/dam/hermanmiller/images/logos/herman-miller-logo.png
+images:
+  - https://www.hermanmiller.com/content/dam/hermanmiller/images/products/asari-chair-mid-back/asari-chair-mid-back-1.jpg
+  - https://www.hermanmiller.com/content/dam/hermanmiller/images/products/asari-chair-mid-back/asari-chair-mid-back-2.jpg
+  - https://www.hermanmiller.com/content/dam/hermanmiller/images/products/asari-chair-high-back/asari-chair-high-back-1.jpg
+  - https://www.hermanmiller.com/content/dam/hermanmiller/images/products/asari-chair-high-back/asari-chair-high-back-2.jpg
+updated_at: 2026-04-04 23:43

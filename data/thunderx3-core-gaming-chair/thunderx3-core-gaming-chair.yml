@@ -5,17 +5,12 @@ description: The ThunderX3 Core is a top-tier gaming chair designed for optimal
   supporting up to 150 kg (331 lbs). The chair is known for its ergonomic
   mechanisms, easy assembly, and competitive pricing.
 source_url: https://www.pcgamer.com/thunderx3-core-gaming-chair-review/
-featured: true
-brand: thunderx3
-brand_logo_url: /path/to/thunderx3-logo.png
-images:
-  - https://example.com/thunderx3-core-image1.jpg
-  - https://example.com/thunderx3-core-image2.jpg
-category: gaming-chairs
+category: Gaming Chairs
 tags:
   - ergonomic
   - racing-style
   - competitive
+featured: true
 markdown: >-
   ## ThunderX3 Core Gaming Chair
 
@@ -83,4 +78,9 @@ markdown: >-
 
   For more details on purchasing, visit the [ThunderX3 Core Gaming Chair
   page](https://www.pcgamer.com/thunderx3-core-gaming-chair-review/).
-updated_at: 2025-12-18 06:32
+brand: thunderx3
+brand_logo_url: /path/to/thunderx3-logo.png
+images:
+  - https://example.com/thunderx3-core-image1.jpg
+  - https://example.com/thunderx3-core-image2.jpg
+updated_at: 2026-04-04 23:43

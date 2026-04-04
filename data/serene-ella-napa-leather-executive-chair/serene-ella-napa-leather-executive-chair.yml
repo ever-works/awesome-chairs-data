@@ -5,14 +5,9 @@ description: The Serene Ella Executive Chair is crafted from luxurious Napa
   at their desks. Available in Off-White and Black, this chair combines
   sophistication with functionality.
 source_url: https://eurekaergonomic.com/products/luxury-genuine-leather-executive-chair?srsltid=AfmBOoqZIg0dbNRtKblPC2-rmbs_qolqvtPcYGQOuEuJaKPMrmauOcNH
-featured: true
-brand: serene
-brand_logo_url: https://www.example.com/brand-logos/serene.png
-images:
-  - https://www.example.com/images/serene-ella-off-white.jpg
-  - https://www.example.com/images/serene-ella-black.jpg
-category: chair-accessories
+category: Executive & Task Chairs
 tags: []
+featured: true
 markdown: |-
   ## Serene Ella, Napa Leather Executive Chair
 
@@ -42,4 +37,9 @@ markdown: |-
   ---
 
   This markdown summary provides a concise yet comprehensive overview of the Serene Ella Executive Chair, focusing on its key features and aesthetic appeal, while excluding unnecessary marketing details.
-updated_at: 2025-12-16 06:23
+brand: serene
+brand_logo_url: https://www.example.com/brand-logos/serene.png
+images:
+  - https://www.example.com/images/serene-ella-off-white.jpg
+  - https://www.example.com/images/serene-ella-black.jpg
+updated_at: 2026-04-04 23:43

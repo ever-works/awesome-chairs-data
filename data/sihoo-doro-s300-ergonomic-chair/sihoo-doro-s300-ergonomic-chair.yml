@@ -1,85 +1,58 @@
 name: Sihoo Doro S300 Ergonomic Chair
-description: The Sihoo Doro S300 is an ergonomic chair designed to fit various
-  lifestyles, providing essential support for a comfortable and productive
-  workspace. It is part of Sihoo's Doro Series, known for its focus on health,
-  posture, and long-term well-being.
-source_url: https://www.techradar.com/pro/sihoo-doro-s300-ergonomic-chair-review
-featured: true
-brand: sihoo
-brand_logo_url: https://www.sihoooffice.com/assets/logo.png
-images:
-  - https://www.sihoooffice.com/images/sihoo-doro-s300-1.jpg
-  - https://www.sihoooffice.com/images/sihoo-doro-s300-2.jpg
-category: ergonomic-office-chairs
+description: The Sihoo Doro S300 is a premium mid-range ergonomic chair
+  featuring auto-adaptive lumbar support that follows body movement, 6D
+  armrests, seat depth adjustment, and a breathable mesh backrest for 6–8 hour
+  desk sessions rated up to 300 lbs. Designed for WFH and corporate users who
+  want automated ergonomic tuning without premium brand pricing. Compared to the
+  Herman Miller Aeron's adjustable PostureFit SL and the Steelcase Leap's
+  manually tuned LiveBack, it provides dynamic, weight-sensing lumbar response
+  with a wider 130° recline at roughly $270–$350.
+source_url: https://sihoooffice.com/products/doro-s300-ergonomic-chair
+category: Ergonomic Office Chairs
 tags:
-  - health
-  - posture
-  - support
+  - auto-adaptive-lumbar
+  - 6d-armrests
+  - mesh
+featured: true
 markdown: >-
   # Sihoo Doro S300 Ergonomic Chair
 
 
-  ![Sihoo Doro S300](https://www.sihoooffice.com/images/sihoo-doro-s300-1.jpg)
-
-
   ## Overview
 
-  The **Sihoo Doro S300 Ergonomic Chair** is crafted to enhance comfort and
-  support for any workspace. It integrates essential ergonomic features to
-  promote health and posture, making it suitable for extended periods of use.
-
-
-  - **Brand:** Sihoo  
-
-  - **Category:** Ergonomic Office Chairs  
-
-  - **Featured:** Yes  
+  The **Sihoo Doro S300** is a premium mid-range ergonomic chair with
+  auto-adaptive features for daily computer use.
 
 
   ## Features
 
-  - **Ergonomic Design:** Tailored to support the natural curve of the spine,
-  promoting better posture.
+  - **Auto-adaptive lumbar support**: Dynamically follows body posture
 
-  - **Adjustable Armrests:** Customize the armrest height and angle for enhanced
-  comfort.
+  - **6D armrests**: Multi-directional adjustment
 
-  - **Seat Depth Adjustment:** Allows for personalized seating comfort,
-  accommodating various body types.
+  - **Seat depth slider**: Forward/backward adjustment for leg comfort
 
-  - **Lumbar Support:** Provides targeted support to the lower back, reducing
-  strain.
+  - **Full mesh backrest**: Breathable construction
 
-  - **Breathable Material:** Ensures airflow to keep you cool and comfortable
-  during long hours of use.
+  - **130° recline range**: Wide tilt for relaxation breaks
 
-  - **Stylish Aesthetics:** A futuristic design that complements modern
-  workspaces.
+  - **Waterfall seat edge**: Reduces thigh pressure
 
 
-  ## Visuals
+  ## Specifications
 
-  ![Sihoo Doro S300](https://www.sihoooffice.com/images/sihoo-doro-s300-2.jpg)
+  - Weight Capacity: 300 lbs
 
-
-  ## Summary
-
-  The Sihoo Doro S300 is an excellent choice for those who prioritize ergonomic
-  support without breaking the bank. Its blend of adjustability and comfort
-  makes it a strong contender in the ergonomic chair market.
+  - Warranty: 3-Year Warranty
 
 
-  ## Source
+  ## Pricing
 
-  For more information, visit the [TechRadar Review of Sihoo Doro S300 Ergonomic
-  Chair](https://www.techradar.com/pro/sihoo-doro-s300-ergonomic-chair-review)
-
-
-  ![Sihoo Brand Logo](https://www.sihoooffice.com/assets/logo.png)
-
-
-  ---
-
-
-  **Tags:** #Health #Posture #Support
-updated_at: 2025-12-14 06:04
+  Approximately $270–$350. Visit [Sihoo Doro
+  S300](https://sihoooffice.com/products/doro-s300-ergonomic-chair) for current
+  pricing.
+brand: Sihoo
+brand_logo_url: https://sihoooffice.com/cdn/shop/files/d1163c6c79dbd29abd30e0d32a5b83d8_973bd250-6b12-4af6-bbd8-f688190aad72.png?v=1649489425&width=240
+images:
+  - https://sihoooffice.com/cdn/shop/files/doro-s300-hero.webp?v=1753960507&width=460
+updated_at: 2026-04-04 23:43

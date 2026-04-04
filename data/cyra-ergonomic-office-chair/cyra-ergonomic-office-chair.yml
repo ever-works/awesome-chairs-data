@@ -4,13 +4,9 @@ description: The Cyra Ergonomic Office Chair is crafted for those who prioritize
   home and professional environments, offering long-lasting support for daily
   use.
 source_url: https://eurekaergonomic.com/collections/flash-sale?page=3&srsltid=AfmBOoqscgHP0ceu1DSCpdrpfHWt0OsemJnU00BaCytEDvPNRQBSY5k3
-featured: true
-brand: onyx
-brand_logo_url: https://www.example.com/brand-logos/onyx-logo.png
-images:
-  - https://www.example.com/images/cyra-ergonomic-office-chair-black.png
-category: chair-accessories
+category: Chair Accessories
 tags: []
+featured: true
 markdown: |-
   ## Cyra Ergonomic Office Chair
 
@@ -39,4 +35,8 @@ markdown: |-
   ---
 
   This chair is featured in Eureka Ergonomic's collection, showcasing its commitment to quality and functionality. Ideal for enhancing productivity and comfort, the Cyra Ergonomic Office Chair is a top choice for anyone looking to upgrade their seating experience.
-updated_at: 2025-12-16 06:23
+brand: onyx
+brand_logo_url: https://www.example.com/brand-logos/onyx-logo.png
+images:
+  - https://www.example.com/images/cyra-ergonomic-office-chair-black.png
+updated_at: 2026-04-04 23:43

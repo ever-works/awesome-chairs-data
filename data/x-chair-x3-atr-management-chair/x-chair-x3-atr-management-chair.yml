@@ -4,17 +4,12 @@ description: The X-Chair X3 ATR Management Chair is an ergonomic alternative to
   adjustable fit. It features smooth-gliding inline-style wheels, making it a
   versatile choice for both office and gaming environments.
 source_url: https://www.savingcontent.com/2024/01/15/x-chair-x3-a-t-r-management-chair-review/
-featured: false
-brand: x-chair
-brand_logo_url: /path/to/x-chair-logo.png
-images:
-  - https://images-na.ssl-images-amazon.com/images/I/71t2A5t4ZFL._AC_SL1500_.jpg
-  - https://images-na.ssl-images-amazon.com/images/I/71t2A5t4ZFL._AC_SL1500_.jpg
-category: ergonomic-office-chairs
+category: Ergonomic Office Chairs
 tags:
   - lumbar-support
   - adjustable
   - versatile
+featured: false
 markdown: |-
   ## X-Chair X3 ATR Management Chair
 
@@ -50,4 +45,9 @@ markdown: |-
 
   ### Note
   The X-Chair X3 ATR Management Chair does not have pricing information available in the provided content, so please visit the brand website for more details.
-updated_at: 2025-12-16 06:23
+brand: x-chair
+brand_logo_url: /path/to/x-chair-logo.png
+images:
+  - https://images-na.ssl-images-amazon.com/images/I/71t2A5t4ZFL._AC_SL1500_.jpg
+  - https://images-na.ssl-images-amazon.com/images/I/71t2A5t4ZFL._AC_SL1500_.jpg
+updated_at: 2026-04-04 23:43

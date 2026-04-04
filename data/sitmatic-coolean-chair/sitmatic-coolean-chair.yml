@@ -4,13 +4,9 @@ description: The Sitmatic CooLean chair offers a choice between medium or
   ergonomic design supports long hours of sitting, making it a great choice for
   both office and gaming environments.
 source_url: https://www.officechairsusa.com/sitmatic-coolean-with-medium-or-standard-seat/
-featured: true
-brand: sitmatic
-brand_logo_url: /path/to/sitmatic/logo.png
-images:
-  - https://cdn11.bigcommerce.com/s-lpku7oc/stencil/e2ffdcc0-5522-013e-75ce-268ccf9b665c/e/dc501ef0-b9d3-013e-70a3-3a6e55e893d9/img/loading.svg
-category: chair-accessories
+category: Standing & Active Seating
 tags: []
+featured: true
 markdown: |-
   # Sitmatic CooLean Chair
 
@@ -41,4 +37,8 @@ markdown: |-
   ---
 
   This markdown summary provides an overview and detailed features of the Sitmatic CooLean Chair, highlighting its ergonomic benefits and flexible design options.
-updated_at: 2025-12-13 05:58
+brand: sitmatic
+brand_logo_url: /path/to/sitmatic/logo.png
+images:
+  - https://cdn11.bigcommerce.com/s-lpku7oc/stencil/e2ffdcc0-5522-013e-75ce-268ccf9b665c/e/dc501ef0-b9d3-013e-70a3-3a6e55e893d9/img/loading.svg
+updated_at: 2026-04-04 23:43

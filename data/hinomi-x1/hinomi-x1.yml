@@ -5,12 +5,9 @@ description: The Hinomi X1 is a high-end mesh ergonomic computer chair featuring
   firm but supportive seat, a breathable mesh design, and comes with a 10‑year
   warranty, making it suitable for people who sit for many hours a day.
 source_url: https://www.hinomi.co/?srsltid=AfmBOoq4aVkn_KqVlmMGCWCe9LdAl-JsPlPfAidgzy6dP45UJJBL6Qj4
-featured: true
-brand: hinomi
-brand_logo_url: null
-images: null
-category: chair-accessories
+category: Chair Accessories
 tags: []
+featured: true
 markdown: >-
   # Hinomi X1
 
@@ -42,4 +39,6 @@ markdown: >-
   many hours per day
 
   - **Long warranty (up to 10 years)** for long-term durability and reassurance
-updated_at: 2025-12-23 09:31
+brand: hinomi
+brand_logo_url: null
+updated_at: 2026-04-04 23:43

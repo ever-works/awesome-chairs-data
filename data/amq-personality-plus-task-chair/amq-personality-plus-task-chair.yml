@@ -4,13 +4,9 @@ description: The AMQ Personality Plus Task Chair combines style and comfort with
   features like a polished base and 4D arms, making it customizable for
   different user preferences.
 source_url: https://www.officechairsusa.com/amq-personality-plus-seagull-frame-task-chair/
-featured: true
-brand: amq
-brand_logo_url: /path/to/amq/logo.png
-images:
-  - https://cdn11.bigcommerce.com/s-lpku7oc/stencil/e2ffdcc0-5522-013e-75ce-268ccf9b665c/e/dc501ef0-b9d3-013e-70a3-3a6e55e893d9/img/loading.svg
-category: chair-accessories
+category: Chair Accessories
 tags: []
+featured: true
 markdown: |-
   ## AMQ Personality Plus Task Chair
 
@@ -44,4 +40,8 @@ markdown: |-
   ---
 
   **Note:** The chair is currently shipping within 5-7 business days. Always free shipping included. More images and customization options available on the purchase link.
-updated_at: 2025-12-13 05:58
+brand: amq
+brand_logo_url: /path/to/amq/logo.png
+images:
+  - https://cdn11.bigcommerce.com/s-lpku7oc/stencil/e2ffdcc0-5522-013e-75ce-268ccf9b665c/e/dc501ef0-b9d3-013e-70a3-3a6e55e893d9/img/loading.svg
+updated_at: 2026-04-04 23:43

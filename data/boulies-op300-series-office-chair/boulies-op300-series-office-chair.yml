@@ -2,13 +2,9 @@ name: Boulies OP300 Series Office Chair
 description: An office and computer chair from the Boulies OP300 Series, aimed
   at everyday workstation use with an ergonomic office-chair silhouette.
 source_url: https://cdn.shopify.com/s/files/1/2127/6275/files/header-nav-bg__EP300_x500.jpg?v=1743662111
-featured: true
-brand: boulies
-brand_logo_url: null
-images:
-  - https://cdn.shopify.com/s/files/1/2127/6275/files/header-nav-bg__EP300_x500.jpg?v=1743662111
-category: chair-accessories
+category: Chair Accessories
 tags: []
+featured: true
 markdown: |-
   # Boulies OP300 Series Office Chair
 
@@ -32,4 +28,8 @@ markdown: |-
 
   ## Pricing
   Pricing information is not specified in the provided content.
-updated_at: 2025-12-23 09:31
+brand: boulies
+brand_logo_url: null
+images:
+  - https://cdn.shopify.com/s/files/1/2127/6275/files/header-nav-bg__EP300_x500.jpg?v=1743662111
+updated_at: 2026-04-04 23:43

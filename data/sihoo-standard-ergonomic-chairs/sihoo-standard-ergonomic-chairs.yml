@@ -3,12 +3,9 @@ description: Sihoo’s standard ergonomic computer chairs lineup, offering
   adjustable support and clean, modern styling for everyday desk and PC use in
   home offices and workplaces.
 source_url: https://sihoooffice.com/collections/standard-ergonomic-chairs
-featured: true
-brand: sihoo
-brand_logo_url: null
-images: null
-category: chair-accessories
+category: Chair Accessories
 tags: []
+featured: true
 markdown: >-
   ## Sihoo Standard Ergonomic Chairs
 
@@ -83,4 +80,6 @@ markdown: >-
 
   | **Sihoo M57 Ergonomic Office Chair with Breathable Mesh Cushion** |
   **$239.99** | **$319.99** | Listed as unavailable at time of capture. |
-updated_at: 2025-12-23 09:31
+brand: sihoo
+brand_logo_url: null
+updated_at: 2026-04-04 23:43

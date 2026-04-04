@@ -1,46 +1,63 @@
 name: Ace Series ACE-PRO AMZ-H
-description: The Ace Series ACE-PRO AMZ-H is an ergonomic gaming chair designed
-  for comfort and support during extended gaming sessions. It features
-  adjustable components to cater to various body types and preferences, ensuring
-  a personalized seating experience.
-source_url: https://www.klarna.com/us/store/5d2c0cea-2bff-4440-8ccf-83f3bebbb1ec/GTPLAYER-EU/shop/?page=10
-featured: true
-brand: ace-series
-brand_logo_url: https://example.com/brand-logos/ace-series.png
+description: Budget gaming chair at approximately $130 featuring ergonomic
+  design, adjustable armrests, remappable lumbar and headrest cushions, 90°–155°
+  recline with tilt lock, and a 280 lb weight capacity. Ideal for
+  budget-conscious first-time buyers, casual gamers, and secondary desk setups
+  where racing-style ergonomics at an accessible price matter. While it offers
+  comparable features to entry-tier racing chairs from BestOffice and Homall, it
+  trades the integrated lumbar, 4D armrests, and premium materials of the
+  Secretlab Titan Evo or Herman Miller Vantum for a lower cost floor.
+source_url: https://gtplayer.com/collections/gaming-chairs-1/products/ace-pro-amz-h
+category: Gaming Chairs
+tags:
+  - budget-friendly
+  - ergonomic
+  - racing-style
+featured: false
+markdown: >-
+  ## Overview
+
+
+  The Ace Series ACE-PRO AMZ-H is an affordable gaming chair designed for
+  comfort during extended gaming sessions. Its adjustable components cater to
+  various body types and preferences, providing a personalized seating
+  experience at an accessible price point.
+
+
+  ## Features
+
+
+  - **Ergonomic Design**: Contoured backrest for spinal support
+
+  - **Adjustable Armrests**: Height-customizable arm positioning
+
+  - **Reclining Backrest**: Up to 155° tilt with lock
+
+  - **Removable Cushions**: Lumbar and neck support pillows
+
+  - **Pneumatic Height Adjustment**: Standard gas lift
+
+  - **Durable Construction**: Metal frame with high-density foam
+
+
+  ## Specifications
+
+
+  - Weight Capacity: Up to 280 lbs
+
+  - Recline Range: 90° to 155°
+
+  - Seat Height Range: 18" to 22"
+
+  - Warranty: 1-year limited warranty
+
+
+  ## Pricing
+
+
+  Starting at approximately $129.99
+brand: GTPLAYER
 images:
-  - https://example.com/images/ace-series-ace-pro-amz-h-1.png
-  - https://example.com/images/ace-series-ace-pro-amz-h-2.png
-category: chair-accessories
-tags: []
-markdown: |-
-  ## Product Overview: Ace Series ACE-PRO AMZ-H
-
-  ![Ace Series Logo](https://example.com/brand-logos/ace-series.png)
-
-  The **Ace Series ACE-PRO AMZ-H** is a top-tier ergonomic gaming chair tailored for gamers seeking comfort during long hours of play. This chair is designed with a focus on adaptability to different body types and user preferences, ensuring each gamer enjoys a personalized seating experience.
-
-  ### Features
-  - **Ergonomic Design**: Crafted to provide superior comfort and support during extended gaming sessions.
-  - **Adjustable Components**: 
-    - **Adjustable Armrests**: Customize the armrests to your preferred height and angle.
-    - **Reclining Backrest**: Allows for a relaxed posture when needed.
-    - **Seat Height Adjustment**: Ensures the chair fits perfectly to your gaming setup.
-  - **Durable Construction**: Built with high-quality materials to withstand regular, intense usage.
-  - **Stylish Aesthetics**: Contemporary design that complements any gaming setup.
-
-  ### Brand
-  - **Brand**: Ace Series
-  - **Category**: Chair Accessories
-
-  ### Images
-  ![Ace Series ACE-PRO AMZ-H](https://example.com/images/ace-series-ace-pro-amz-h-1.png)
-  ![Ace Series ACE-PRO AMZ-H](https://example.com/images/ace-series-ace-pro-amz-h-2.png)
-
-  ### Source
-  - [View Product on Klarna](https://www.klarna.com/us/store/5d2c0cea-2bff-4440-8ccf-83f3bebbb1ec/GTPLAYER-EU/shop/?page=10)
-
-  ### Pricing
-  - **Pricing Information**: Currently, no specific pricing details are provided for the Ace Series ACE-PRO AMZ-H.
-
-  For those looking to enhance their gaming experience, the Ace Series ACE-PRO AMZ-H stands out as a reliable and comfortable choice. Its blend of ergonomic features and customizable options makes it a valuable addition to any gamer's setup.
-updated_at: 2025-12-17 06:35
+  - https://gtplayer.com/cdn/shop/products/ace-pro-amz-h_1.jpg
+  - https://gtplayer.com/cdn/shop/products/ace-pro-amz-h_2.jpg
+updated_at: 2026-04-04 23:43

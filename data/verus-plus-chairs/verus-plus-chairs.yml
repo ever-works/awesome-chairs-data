@@ -4,12 +4,9 @@ description: Herman Miller’s Verus Plus Chairs are ergonomic office task chair
   responsive suspension, and task-focused features to keep users comfortable
   during long hours at a desk.
 source_url: https://www.hermanmiller.com/products/seating/office-chairs/verus-chairs/
-featured: true
-brand: herman-miller
-brand_logo_url: null
-images: null
-category: chair-accessories
+category: Chair Accessories
 tags: []
+featured: true
 markdown: |-
   # Verus Plus Chairs
 
@@ -28,4 +25,6 @@ markdown: |-
 
   ## Pricing
   Pricing information is not provided in the available content. Refer to the manufacturer’s product page for current pricing and configuration options.
-updated_at: 2025-12-23 09:31
+brand: herman-miller
+brand_logo_url: null
+updated_at: 2026-04-04 23:43

@@ -1,7 +1,14 @@
 name: Vertagear SL5000
-description: Premium S-Line gaming chair featuring an independently adjustable
-  backrest up to 140 degrees, upgradable with RGB LED kit, and patented slide-in
-  hardware for quick one-person assembly.
+description: Premium S-Line gaming chair at $500 featuring an independently
+  adjustable backrest reclining to 140°, optional wireless RGB LED upgrade kit
+  with 16.8 million colors, patented slide-in one-person assembly hardware, PUC
+  material (combining PVC durability with PU softness), removable memory foam
+  cushions, and 330 lb weight capacity. Designed for serious gamers and content
+  creators who want Vertagear's top-tier S-Line build with optional RGB
+  personalization. Compared to the Secretlab Titan Evo, it offers unique
+  slide-in assembly and optional RGB lighting, though it lacks the Titan's
+  integrated lumbar dial and trades a smaller recline range (140° vs 165°) for
+  its independent backrest adjustment mechanism.
 source_url: https://www.vertagear.com/products/sl5000-gaming-chair
 category: Gaming Chairs
 tags:
@@ -54,4 +61,5 @@ markdown: >-
 
   Starting at $499.99
 brand: Vertagear
-updated_at: 2026-03-07 17:45
+brand_logo_url: https://www.vertagear.com/cdn/shop/files/vertagear-logo.png
+updated_at: 2026-04-04 23:43

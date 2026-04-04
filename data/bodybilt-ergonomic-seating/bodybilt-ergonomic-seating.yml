@@ -4,14 +4,9 @@ description: BodyBilt offers a range of ergonomic seating solutions designed for
   provide maximum comfort and support for individuals who spend long hours
   sitting, making them ideal for computer and gaming setups.
 source_url: https://bodybilt.com/ergonomic-seating/by-application/intensive-use/
-featured: true
-brand: bodybilt
-brand_logo_url: https://bodybilt.com/wp-content/uploads/2020/06/BodyBilt-Logo.png
-images:
-  - https://bodybilt.com/wp-content/uploads/2020/06/BodyBilt-Chair-1.jpg
-  - https://bodybilt.com/wp-content/uploads/2020/06/BodyBilt-Chair-2.jpg
-category: chair-accessories
+category: Chair Accessories
 tags: []
+featured: true
 markdown: >-
   # BodyBilt Ergonomic Seating
 
@@ -87,4 +82,9 @@ markdown: >-
 
   For more information, visit the [BodyBilt Ergonomic Seating
   page](https://bodybilt.com/ergonomic-seating/by-application/intensive-use/).
-updated_at: 2025-12-21 06:47
+brand: bodybilt
+brand_logo_url: https://bodybilt.com/wp-content/uploads/2020/06/BodyBilt-Logo.png
+images:
+  - https://bodybilt.com/wp-content/uploads/2020/06/BodyBilt-Chair-1.jpg
+  - https://bodybilt.com/wp-content/uploads/2020/06/BodyBilt-Chair-2.jpg
+updated_at: 2026-04-04 23:43

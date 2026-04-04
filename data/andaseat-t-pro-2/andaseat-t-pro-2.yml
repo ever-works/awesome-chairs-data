@@ -4,14 +4,9 @@ description: The AndaSeat T-Pro 2 is another excellent option for big-and-tall
   build with a focus on comfort and durability, making it suitable for extended
   periods of use.
 source_url: https://www.tomshardware.com/reviews/anda-seat-t-pro-2-series
-featured: false
-brand: andaseat
-brand_logo_url: https://www.andaseat.com/images/logo.png
-images:
-  - https://www.andaseat.com/images/tpro2_black.jpg
-  - https://www.andaseat.com/images/tpro2_gray.jpg
-category: chair-accessories
+category: Chair Accessories
 tags: []
+featured: false
 markdown: >-
   ## AndaSeat T-Pro 2
 
@@ -89,4 +84,9 @@ markdown: >-
   seeking a reliable and comfortable seating solution. With its focus on
   durability and comfort, it stands out as a practical and high-quality option
   in the gaming chair market.
-updated_at: 2025-12-16 06:23
+brand: andaseat
+brand_logo_url: https://www.andaseat.com/images/logo.png
+images:
+  - https://www.andaseat.com/images/tpro2_black.jpg
+  - https://www.andaseat.com/images/tpro2_gray.jpg
+updated_at: 2026-04-04 23:43

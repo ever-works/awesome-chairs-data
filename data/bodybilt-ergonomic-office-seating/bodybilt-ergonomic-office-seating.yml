@@ -5,12 +5,9 @@ description: A line of premium ergonomic office chairs from BodyBilt designed
   options to fit individual body types and workstation needs, making them
   suitable for intensive computer and office work.
 source_url: https://bodybilt.com/ergonomic-seating/by-application/office/
-featured: true
-brand: bodybilt
-brand_logo_url: null
-images: null
-category: chair-accessories
+category: Chair Accessories
 tags: []
+featured: true
 markdown: >
   # BodyBilt Ergonomic Office Seating
 
@@ -137,4 +134,6 @@ markdown: >
 
   - **Classic 2400 Series – Petite Back Chair**  
     Pricing: **Not listed in provided content**
-updated_at: 2025-12-23 09:31
+brand: bodybilt
+brand_logo_url: null
+updated_at: 2026-04-04 23:43

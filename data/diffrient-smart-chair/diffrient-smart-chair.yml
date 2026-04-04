@@ -4,17 +4,12 @@ description: The Diffrient Smart Chair is an ergonomic office chair that
   comfort and support. Its minimalist design and advanced functionality make it
   ideal for modern workspaces.
 source_url: https://www.humanscale.com/products/diffrient-smart-chair
-featured: false
-brand: humanscale
-brand_logo_url: https://www.humanscale.com/images/humanscale-logo.png
-images:
-  - https://www.humanscale.com/images/diffrient-smart-chair-1.jpg
-  - https://www.humanscale.com/images/diffrient-smart-chair-2.jpg
-category: ergonomic-office-chairs
+category: Ergonomic Office Chairs
 tags:
   - automatic-adjustment
   - minimalist
   - support
+featured: false
 markdown: >-
   ## Diffrient Smart Chair
 
@@ -69,4 +64,9 @@ markdown: >-
   ### Note
 
   Pricing information is not available in the provided content.
-updated_at: 2025-12-14 06:04
+brand: humanscale
+brand_logo_url: https://www.humanscale.com/images/humanscale-logo.png
+images:
+  - https://www.humanscale.com/images/diffrient-smart-chair-1.jpg
+  - https://www.humanscale.com/images/diffrient-smart-chair-2.jpg
+updated_at: 2026-04-04 23:43

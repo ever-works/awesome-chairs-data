@@ -4,13 +4,9 @@ description: The Ergohuman Xtreme Mid-Back Office Chair by EuroTech offers a
   adjustment features, including lumbar support and tilt tension control, making
   it suitable for prolonged use in office settings.
 source_url: https://www.officechairsusa.com/ergohuman-xtreme-mid-back-office-chair/
-featured: false
-brand: eurotech
-brand_logo_url: /path/to/eurotech-logo.png
-images:
-  - https://cdn11.bigcommerce.com/s-lpku7oc/stencil/e2ffdcc0-5522-013e-75ce-268ccf9b665c/e/dc501ef0-b9d3-013e-70a3-3a6e55e893d9/img/loading.svg
-category: chair-accessories
+category: Chair Accessories
 tags: []
+featured: false
 markdown: |-
   ## Ergohuman Xtreme Mid-Back Office Chair
 
@@ -45,4 +41,8 @@ markdown: |-
   ---
 
   This chair is a testament to EuroTech's dedication to quality and user-centric design, ensuring that your workspace is as comfortable as it is functional.
-updated_at: 2025-12-13 05:58
+brand: eurotech
+brand_logo_url: /path/to/eurotech-logo.png
+images:
+  - https://cdn11.bigcommerce.com/s-lpku7oc/stencil/e2ffdcc0-5522-013e-75ce-268ccf9b665c/e/dc501ef0-b9d3-013e-70a3-3a6e55e893d9/img/loading.svg
+updated_at: 2026-04-04 23:43

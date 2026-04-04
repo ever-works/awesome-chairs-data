@@ -4,15 +4,9 @@ description: The HBADA P3 Ergonomic Office Chair is designed for individuals who
   adjustable footrest and a sleek black design, making it suitable for both
   office and gaming environments.
 source_url: https://www.hbada.uk/products/hbada-e1-ergonomic-office-chair-desk-chair-with-footrest?srsltid=AfmBOop8nb5wCKpqpY48kzZzb6Dr9Qf_i6iv9NMvQdlrqI8fCwylTPFz
-featured: true
-brand: hbada
-brand_logo_url: https://hbada.com/cdn/shop/files/hbada_logo.png
-images:
-  - https://hbada.com/cdn/shop/files/hbada_p3_ergonomic_chair_with_footrest_the_front_and_back_graph.webp?v=1739954251&width=3000
-  - https://hbada.com/cdn/shop/files/hbada_p3_ergonomic_chair_black_enlarged_graph_of_the_front_and_back.webp?v=1760521410&width=3000
-  - https://hbada.com/cdn/shop/products/1-E1BMC-791487.jpg?v=1760521410&width=1200
-category: chair-accessories
+category: Chair Accessories
 tags: []
+featured: true
 markdown: |-
   ## HBADA P3 Ergonomic Office Chair
 
@@ -45,4 +39,10 @@ markdown: |-
   ---
 
   **Note:** This summary highlights the key features and essential details of the HBADA P3 Ergonomic Office Chair, omitting marketing language and unsupported claims for a concise informative overview.
-updated_at: 2025-12-21 06:47
+brand: hbada
+brand_logo_url: https://hbada.com/cdn/shop/files/hbada_logo.png
+images:
+  - https://hbada.com/cdn/shop/files/hbada_p3_ergonomic_chair_with_footrest_the_front_and_back_graph.webp?v=1739954251&width=3000
+  - https://hbada.com/cdn/shop/files/hbada_p3_ergonomic_chair_black_enlarged_graph_of_the_front_and_back.webp?v=1760521410&width=3000
+  - https://hbada.com/cdn/shop/products/1-E1BMC-791487.jpg?v=1760521410&width=1200
+updated_at: 2026-04-04 23:43

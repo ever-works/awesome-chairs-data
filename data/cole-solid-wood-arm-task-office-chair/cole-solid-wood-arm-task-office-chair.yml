@@ -3,17 +3,12 @@ description: The Cole Solid Wood Arm Task Office Chair combines traditional
   craftsmanship with modern ergonomics. Its solid wood arms and comfortable
   seating make it a unique addition to any office space.
 source_url: https://eurekaergonomic.com/products/cole-solid-wood-arm-task-office-chair?srsltid=AfmBOopDekv_Joq9XfMUmLDhl5AWyivSWOJuaT_ha6NK8Gf8aSmA6FOs
-featured: true
-brand: awesome-chairs-co
-brand_logo_url: https://example.com/logos/awesome-chairs-co.png
-images:
-  - https://example.com/images/cole-chair-1.png
-  - https://example.com/images/cole-chair-2.png
-category: ergonomic-office-chairs
+category: Ergonomic Office Chairs
 tags:
   - traditional
   - craftsmanship
   - ergonomic
+featured: true
 markdown: |-
   # Cole Solid Wood Arm Task Office Chair
 
@@ -46,4 +41,9 @@ markdown: |-
   ---
 
   This markdown summary provides a concise overview of the Cole Solid Wood Arm Task Office Chair, highlighting its features and unique design attributes without any promotional or testimonial content.
-updated_at: 2025-12-16 06:23
+brand: awesome-chairs-co
+brand_logo_url: https://example.com/logos/awesome-chairs-co.png
+images:
+  - https://example.com/images/cole-chair-1.png
+  - https://example.com/images/cole-chair-2.png
+updated_at: 2026-04-04 23:43

@@ -4,12 +4,9 @@ description: ErgoIQ is an ergonomic software tool by Humanscale that helps users
   provides personalized recommendations based on individual needs and workspace
   configurations.
 source_url: https://www.humanscale.com/ergonomic-consulting/ergonomics-software
-featured: false
-brand: humanscale
-brand_logo_url: https://www.humanscale.com/images/logo.png
-images: null
-category: chair-accessories
+category: Chair Accessories
 tags: []
+featured: false
 markdown: >-
   ## ErgoIQ
 
@@ -62,4 +59,6 @@ markdown: >-
 
   For more information, visit the [ErgoIQ
   page](https://www.humanscale.com/ergonomic-consulting/ergonomics-software).
-updated_at: 2025-12-13 05:58
+brand: humanscale
+brand_logo_url: https://www.humanscale.com/images/logo.png
+updated_at: 2026-04-04 23:43

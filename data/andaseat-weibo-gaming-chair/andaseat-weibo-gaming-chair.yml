@@ -3,17 +3,12 @@ description: The Weibo Gaming Chair by AndaSeat is designed for gamers seeking
   comfort, durability, and performance. It's highly recommended for its
   ergonomic design and is a top choice for professional gaming.
 source_url: https://www.andaseat.com/pages/unlock-comfort-with-andaseats-wbg-edition-gaming-chair
-featured: true
-brand: andaseat
-brand_logo_url: https://www.andaseat.com/logo.png
-images:
-  - https://www.andaseat.com/images/weibo-gaming-chair-1.png
-  - https://www.andaseat.com/images/weibo-gaming-chair-2.png
-category: gaming-chairs
+category: Gaming Chairs
 tags:
   - ergonomic
   - durable
   - performance
+featured: true
 markdown: |-
   ## AndaSeat Weibo Gaming Chair
 
@@ -46,4 +41,9 @@ markdown: |-
 
   ### Note
   While the content reviewed contains various promotional offers for other AndaSeat products, specific pricing details for the Weibo Gaming Chair were not provided. For the latest pricing and offers, please refer to the [AndaSeat Official Website](https://www.andaseat.com/pages/unlock-comfort-with-andaseats-wbg-edition-gaming-chair).
-updated_at: 2025-12-18 06:32
+brand: andaseat
+brand_logo_url: https://www.andaseat.com/logo.png
+images:
+  - https://www.andaseat.com/images/weibo-gaming-chair-1.png
+  - https://www.andaseat.com/images/weibo-gaming-chair-2.png
+updated_at: 2026-04-04 23:43

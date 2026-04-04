@@ -3,16 +3,12 @@ description: The Black World Chair features a minimalist design with Black
   Catena Mesh, offering breathability and support. It's a versatile chair
   suitable for both office and gaming environments.
 source_url: https://www.humanscale.com/products/seating/black-world
-featured: false
-brand: humanscale
-brand_logo_url: https://www.humanscale.com/images/logo.png
-images:
-  - https://www.humanscale.com/images/products/black-world.jpg
-category: ergonomic-office-chairs
+category: Ergonomic Office Chairs
 tags:
   - minimalist
   - breathable
   - versatile
+featured: false
 markdown: >-
   # Black World Chair by Humanscale
 
@@ -81,4 +77,8 @@ markdown: >-
 
 
   *Note: Pricing details were not provided in the data.*
-updated_at: 2025-12-16 06:23
+brand: humanscale
+brand_logo_url: https://www.humanscale.com/images/logo.png
+images:
+  - https://www.humanscale.com/images/products/black-world.jpg
+updated_at: 2026-04-04 23:43

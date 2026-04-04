@@ -5,15 +5,9 @@ description: The Hbada E3 Ergonomic Office Chair is designed with a focus on
   particularly effective in relieving spinal pressure, making it ideal for
   individuals who sit for extended periods.
 source_url: https://hbada.com/?srsltid=AfmBOorbJl8FlBds8TxJ2hIxRL1PerpMD-5YW2OGCKeAAeNX_KPS_VB7
-featured: true
-brand: hbada
-brand_logo_url: https://hbada.com/cdn/shop/files/8a02d79d07b2e992533610d88619e3db.png?v=1750751169&width=2880
-images:
-  - https://hbada.com/cdn/shop/files/8a02d79d07b2e992533610d88619e3db.png?v=1750751169&width=2880
-  - https://hbada.com/cdn/shop/files/34135ad5a5d170b018c6ac4d3d2c427d.png?v=1750751183&width=2880
-  - https://hbada.com/cdn/shop/files/image_531.png?v=1749007914&width=480
-category: chair-accessories
+category: Chair Accessories
 tags: []
+featured: true
 markdown: |-
   ## HBADA E3 Ergonomic Office Chair
 
@@ -51,4 +45,10 @@ markdown: |-
 
   ### Source
   [Visit Product Page](https://hbada.com/?srsltid=AfmBOorbJl8FlBds8TxJ2hIxRL1PerpMD-5YW2OGCKeAAeNX_KPS_VB7)
-updated_at: 2025-12-21 06:47
+brand: hbada
+brand_logo_url: https://hbada.com/cdn/shop/files/8a02d79d07b2e992533610d88619e3db.png?v=1750751169&width=2880
+images:
+  - https://hbada.com/cdn/shop/files/8a02d79d07b2e992533610d88619e3db.png?v=1750751169&width=2880
+  - https://hbada.com/cdn/shop/files/34135ad5a5d170b018c6ac4d3d2c427d.png?v=1750751183&width=2880
+  - https://hbada.com/cdn/shop/files/image_531.png?v=1749007914&width=480
+updated_at: 2026-04-04 23:43

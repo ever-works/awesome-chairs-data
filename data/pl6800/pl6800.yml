@@ -3,16 +3,12 @@ description: The PL6800 is a big and tall ergonomic gaming chair designed for
   users up to 400 lbs and heights between 5'9" and 6'8". It offers superior
   comfort and support, making it ideal for extended gaming or work sessions.
 source_url: https://www.vertagear.com/products/pl6800-big-and-tall-ergonomic-gaming-chair
-featured: false
-brand: vertagear
-brand_logo_url: https://www.vertagear.com/logo.png
-images:
-  - https://www.vertagear.com/images/pl6800.jpg
-category: gaming-chairs
+category: Gaming Chairs
 tags:
   - big-and-tall
   - ergonomic
   - supportive
+featured: false
 markdown: |-
   # PL6800 Ergonomic Gaming Chair
 
@@ -41,4 +37,8 @@ markdown: |-
 
   ## Additional Information
   - [Product Page](https://www.vertagear.com/products/pl6800-big-and-tall-ergonomic-gaming-chair)
-updated_at: 2025-12-21 06:47
+brand: vertagear
+brand_logo_url: https://www.vertagear.com/logo.png
+images:
+  - https://www.vertagear.com/images/pl6800.jpg
+updated_at: 2026-04-04 23:43

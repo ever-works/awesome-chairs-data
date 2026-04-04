@@ -3,14 +3,9 @@ description: Thermaltake offers gaming chairs as part of its TT Gaming line,
   with ergonomic features and racing-style designs suitable for PC gaming and
   all-day computer work.
 source_url: https://www.techbuy.com.au/searchcatbrand/PC_GAMING_PRODUCTS_GAMING_CHAIRS~ThermalTake.asp?srsltid=AfmBOopLY2V6mC220onY2SCFffGCtu_8nKGnrNwXdI_zP6QKWDQz0GuW
-featured: false
-brand: thermaltake
-brand_logo_url: https://www.thermaltake.com/media/logo/default/tt-logo-black.svg
-images:
-  - https://www.thermaltake.com/media/catalog/product/cache/1/image/800x800/thermaltake-gaming-chair-01.jpg
-  - https://www.thermaltake.com/media/catalog/product/cache/1/image/800x800/thermaltake-gaming-chair-02.jpg
-category: others
+category: Others
 tags: []
+featured: false
 markdown: |
   # Thermaltake Gaming Chairs
 
@@ -125,4 +120,9 @@ markdown: |
 
   ## Source
   - **Listing URL:** https://www.techbuy.com.au/searchcatbrand/PC_GAMING_PRODUCTS_GAMING_CHAIRS~ThermalTake.asp?srsltid=AfmBOopLY2V6mC220onY2SCFffGCtu_8nKGnrNwXdI_zP6QKWDQz0GuW
-updated_at: 2025-12-31 19:09
+brand: thermaltake
+brand_logo_url: https://www.thermaltake.com/media/logo/default/tt-logo-black.svg
+images:
+  - https://www.thermaltake.com/media/catalog/product/cache/1/image/800x800/thermaltake-gaming-chair-01.jpg
+  - https://www.thermaltake.com/media/catalog/product/cache/1/image/800x800/thermaltake-gaming-chair-02.jpg
+updated_at: 2026-04-04 23:43

@@ -3,17 +3,12 @@ description: The Footrest Series GT800A is a PU leather gaming chair equipped
   with massage lumbar support, designed to provide comfort and relaxation during
   long gaming sessions.
 source_url: https://gtracing.co/products/pro-series-gt800a
-featured: true
-brand: gt-racing
-brand_logo_url: https://example.com/brand-logo.png
-images:
-  - https://example.com/images/gt800a-1.png
-  - https://example.com/images/gt800a-2.png
-category: gaming-chairs
+category: Gaming Chairs
 tags:
   - massage
   - lumbar-support
   - pu-leather
+featured: true
 markdown: >-
   # Footrest Series GT800A
 
@@ -100,4 +95,9 @@ markdown: >-
 
   For more details, visit the [Footrest Series GT800A Product
   Page](https://gtracing.co/products/pro-series-gt800a).
-updated_at: 2025-12-18 06:32
+brand: gt-racing
+brand_logo_url: https://example.com/brand-logo.png
+images:
+  - https://example.com/images/gt800a-1.png
+  - https://example.com/images/gt800a-2.png
+updated_at: 2026-04-04 23:43

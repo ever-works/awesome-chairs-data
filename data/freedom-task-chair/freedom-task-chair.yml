@@ -5,14 +5,9 @@ description: The Freedom Task Chair by Humanscale is designed to provide maximum
   headrest that adjusts to the user's movements, promoting a healthy posture and
   reducing fatigue.
 source_url: https://www.humanscale.com/products/freedom-task-chair
-featured: true
-brand: humanscale
-brand_logo_url: https://www.humanscale.com/images/logo.png
-images:
-  - https://www.humanscale.com/images/products/freedom-task-chair-1.jpg
-  - https://www.humanscale.com/images/products/freedom-task-chair-2.jpg
-category: chair-accessories
+category: Chair Accessories
 tags: []
+featured: true
 markdown: >-
   # Freedom Task Chair by Humanscale
 
@@ -71,4 +66,9 @@ markdown: >-
 
   [Explore More at
   Humanscale](https://www.humanscale.com/products/freedom-task-chair)
-updated_at: 2025-12-13 05:58
+brand: humanscale
+brand_logo_url: https://www.humanscale.com/images/logo.png
+images:
+  - https://www.humanscale.com/images/products/freedom-task-chair-1.jpg
+  - https://www.humanscale.com/images/products/freedom-task-chair-2.jpg
+updated_at: 2026-04-04 23:43

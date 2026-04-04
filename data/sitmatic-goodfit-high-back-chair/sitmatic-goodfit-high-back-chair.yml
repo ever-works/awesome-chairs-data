@@ -3,13 +3,9 @@ description: The Sitmatic GoodFit High Back Chair is designed for comfort and
   support, featuring a standard seat and optional upholstered back. It is ideal
   for users seeking a high-back ergonomic solution.
 source_url: https://www.officechairsusa.com/sitmatic-goodfit-high-back-with-standard-seat/
-featured: false
-brand: sitmatic
-brand_logo_url: /path/to/sitmatic/logo.png
-images:
-  - https://cdn11.bigcommerce.com/s-lpku7oc/stencil/e2ffdcc0-5522-013e-75ce-268ccf9b665c/e/dc501ef0-b9d3-013e-70a3-3a6e55e893d9/img/loading.svg
-category: chair-accessories
+category: Chair Accessories
 tags: []
+featured: false
 markdown: |-
   # Sitmatic GoodFit High Back Chair
 
@@ -52,4 +48,8 @@ markdown: |-
   ![GoodFit High Back Chair](https://cdn11.bigcommerce.com/s-lpku7oc/stencil/e2ffdcc0-5522-013e-75ce-268ccf9b665c/e/dc501ef0-b9d3-013e-70a3-3a6e55e893d9/img/loading.svg)
 
   **Note**: This product is highly customizable; please inquire for specific needs beyond listed options.
-updated_at: 2025-12-13 05:58
+brand: sitmatic
+brand_logo_url: /path/to/sitmatic/logo.png
+images:
+  - https://cdn11.bigcommerce.com/s-lpku7oc/stencil/e2ffdcc0-5522-013e-75ce-268ccf9b665c/e/dc501ef0-b9d3-013e-70a3-3a6e55e893d9/img/loading.svg
+updated_at: 2026-04-04 23:43

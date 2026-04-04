@@ -3,17 +3,12 @@ description: The SOLA LT Task Chair is a versatile seating solution with
   multiple variants, offering ergonomic support for those who spend extended
   periods at their desks. Its design focuses on comfort and adjustability.
 source_url: https://bodybilt.com/product/sola-lt-task-chair/
-featured: true
-brand: bodybilt
-brand_logo_url: https://bodybilt.com/wp-content/uploads/2020/06/BodyBilt-Logo.png
-images:
-  - https://bodybilt.com/wp-content/uploads/2020/06/SOLA-LT-1.jpg
-  - https://bodybilt.com/wp-content/uploads/2020/06/SOLA-LT-2.jpg
-category: chair-accessories
+category: Chair Accessories
 tags:
   - ergonomic
   - adjustable
   - versatile
+featured: true
 markdown: >-
   # SOLA LT – Task Chair
 
@@ -97,4 +92,9 @@ markdown: >-
 
   For more information, visit the [BodyBilt
   website](https://bodybilt.com/product/sola-lt-task-chair/).
-updated_at: 2025-12-21 06:47
+brand: bodybilt
+brand_logo_url: https://bodybilt.com/wp-content/uploads/2020/06/BodyBilt-Logo.png
+images:
+  - https://bodybilt.com/wp-content/uploads/2020/06/SOLA-LT-1.jpg
+  - https://bodybilt.com/wp-content/uploads/2020/06/SOLA-LT-2.jpg
+updated_at: 2026-04-04 23:43

@@ -3,17 +3,12 @@ description: The Fractal Design Refine is a gaming chair known for its refined
   build and comfortable material. It's easy to assemble but has a narrow seat
   base and armrests that can be easily displaced.
 source_url: https://www.amazon.com/Fractal-Design-Refine-Light-Gaming/dp/B0CSYXY8FD
-featured: true
-brand: fractal-design
-brand_logo_url: /path/to/fractal-design-logo.png
-images:
-  - https://example.com/fractal-design-refine-image1.jpg
-  - https://example.com/fractal-design-refine-image2.jpg
-category: gaming-chairs
+category: Gaming Chairs
 tags:
   - refined
   - comfortable
   - easy-assembly
+featured: true
 markdown: |-
   # Fractal Design Refine
 
@@ -46,4 +41,9 @@ markdown: |-
   ---
 
   This summary aims to provide a concise overview of the Fractal Design Refine, highlighting its key features and usability aspects for potential buyers.
-updated_at: 2025-12-18 06:32
+brand: fractal-design
+brand_logo_url: /path/to/fractal-design-logo.png
+images:
+  - https://example.com/fractal-design-refine-image1.jpg
+  - https://example.com/fractal-design-refine-image2.jpg
+updated_at: 2026-04-04 23:43

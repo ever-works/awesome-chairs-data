@@ -4,16 +4,12 @@ description: The Path Task Chair is crafted with Black FormSense Eco Knit and a
   perfect for those seeking an eco-friendly option without compromising on
   ergonomics.
 source_url: https://www.humanscale.com/products/seating/path-task
-featured: false
-brand: humanscale
-brand_logo_url: https://www.humanscale.com/images/logo.png
-images:
-  - https://www.humanscale.com/images/products/path-task.jpg
-category: ergonomic-office-chairs
+category: Ergonomic Office Chairs
 tags:
   - sustainable
   - eco-friendly
   - ergonomic
+featured: false
 markdown: >-
   ### Path Task Chair
 
@@ -61,4 +57,8 @@ markdown: >-
 
   **Source:** [Visit Product
   Page](https://www.humanscale.com/products/seating/path-task)
-updated_at: 2025-12-16 06:23
+brand: humanscale
+brand_logo_url: https://www.humanscale.com/images/logo.png
+images:
+  - https://www.humanscale.com/images/products/path-task.jpg
+updated_at: 2026-04-04 23:43

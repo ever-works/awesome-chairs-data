@@ -5,17 +5,12 @@ description: The Freedom Headrest Executive Chair is a premium ergonomic chair
   weight-sensitive recline mechanism, and a contoured seat cushion to promote
   healthy posture and reduce fatigue.
 source_url: https://www.humanscale.com/products/seating/freedom-headrest-executive-chair
-featured: true
-brand: humanscale
-brand_logo_url: https://www.humanscale.com/images/logo.png
-images:
-  - https://www.humanscale.com/images/products/freedom-headrest-executive-chair.jpg
-  - https://www.humanscale.com/images/products/freedom-headrest-executive-chair-side.jpg
-category: ergonomic-office-chairs
+category: Executive & Task Chairs
 tags:
   - premium
   - dynamic-headrest
   - posture
+featured: true
 markdown: |-
   ## Freedom Headrest Executive Chair
 
@@ -57,4 +52,9 @@ markdown: |-
   - Posture
 
   For more information, visit the [official product page](https://www.humanscale.com/products/seating/freedom-headrest-executive-chair).
-updated_at: 2025-12-14 06:04
+brand: humanscale
+brand_logo_url: https://www.humanscale.com/images/logo.png
+images:
+  - https://www.humanscale.com/images/products/freedom-headrest-executive-chair.jpg
+  - https://www.humanscale.com/images/products/freedom-headrest-executive-chair-side.jpg
+updated_at: 2026-04-04 23:43

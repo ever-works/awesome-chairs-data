@@ -4,12 +4,9 @@ description: A BodyBilt ergonomic mesh-back office chair designed for extended
   brand’s contoured, pressure-reducing seat to improve comfort, reduce fatigue,
   and support healthy posture for users who sit for long hours.
 source_url: https://bodybilt.com/product/midcelli-2800-series-mesh-back-chair/
-featured: true
-brand: bodybilt
-brand_logo_url: /null
-images: null
-category: chair-accessories
+category: Chair Accessories
 tags: []
+featured: true
 markdown: >
   # Midcelli 2800 Series – Mesh Back Chair
 
@@ -135,4 +132,6 @@ markdown: >
   - Mesh Chairs  
 
   - Celli Family seating
-updated_at: 2025-12-23 09:31
+brand: bodybilt
+brand_logo_url: /null
+updated_at: 2026-04-04 23:43

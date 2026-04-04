@@ -5,14 +5,9 @@ description: The RESPAWN FLEXX is a high-back gaming chair designed in
   seat depth slider for enhanced leg support. With a weight capacity of 300 lbs,
   it is ideal for long gaming sessions.
 source_url: https://respawnproducts.com/products/respawn-flexx-high-back-gaming-chair?srsltid=AfmBOoogDZ2NneudiKsh-KEgxrGNackNWEeSl8FwXWSmAwNiX4f1Dnku
-featured: true
-brand: respawn
-brand_logo_url: /images/respawn-logo.png
-images:
-  - https://www.huratips.com/images/respawn-flexx-1.png
-  - https://www.huratips.com/images/respawn-flexx-2.png
-category: others
+category: Others
 tags: []
+featured: true
 markdown: |-
   # RESPAWN FLEXX Gaming Chair
 
@@ -45,4 +40,9 @@ markdown: |-
 
   ## Source
   For more information, visit the [RESPAWN FLEXX product page](https://respawnproducts.com/products/respawn-flexx-high-back-gaming-chair?srsltid=AfmBOoogDZ2NneudiKsh-KEgxrGNackNWEeSl8FwXWSmAwNiX4f1Dnku).
-updated_at: 2025-12-22 06:56
+brand: respawn
+brand_logo_url: /images/respawn-logo.png
+images:
+  - https://www.huratips.com/images/respawn-flexx-1.png
+  - https://www.huratips.com/images/respawn-flexx-2.png
+updated_at: 2026-04-04 23:43

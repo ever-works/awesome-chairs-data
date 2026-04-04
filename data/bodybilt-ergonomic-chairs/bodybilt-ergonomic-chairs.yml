@@ -5,17 +5,9 @@ description: BodyBilt offers a range of ergonomic chairs designed for comfort
   BodyBilt chairs are known for their durability and ergonomic design, which
   helps reduce strain and improve posture.
 source_url: https://bodybilt.com/ergonomic-chairs/
-featured: true
-brand: bodybilt
-brand_logo_url: https://bodybilt.com/wp-content/uploads/2022/03/Siemens-300x100.png
-images:
-  - https://bodybilt.com/wp-content/uploads/2022/03/Siemens-300x100.png
-  - https://bodybilt.com/wp-content/uploads/2022/03/SharpHC-logo-300x97.png
-  - https://bodybilt.com/wp-content/uploads/2022/03/doVC2-300x300.png
-  - https://bodybilt.com/wp-content/uploads/2022/03/bae-systems1-300x84.png
-  - https://bodybilt.com/wp-content/uploads/2022/03/western-digital1-300x87.png
-category: others
+category: Others
 tags: []
+featured: true
 markdown: |-
   # BodyBilt Ergonomic Chairs
 
@@ -56,4 +48,12 @@ markdown: |-
   ## More Information
 
   For more details on customization options and to explore the full range of ergonomic seating solutions, visit the [BodyBilt website](https://bodybilt.com/ergonomic-chairs/).
-updated_at: 2025-12-22 06:56
+brand: bodybilt
+brand_logo_url: https://bodybilt.com/wp-content/uploads/2022/03/Siemens-300x100.png
+images:
+  - https://bodybilt.com/wp-content/uploads/2022/03/Siemens-300x100.png
+  - https://bodybilt.com/wp-content/uploads/2022/03/SharpHC-logo-300x97.png
+  - https://bodybilt.com/wp-content/uploads/2022/03/doVC2-300x300.png
+  - https://bodybilt.com/wp-content/uploads/2022/03/bae-systems1-300x84.png
+  - https://bodybilt.com/wp-content/uploads/2022/03/western-digital1-300x87.png
+updated_at: 2026-04-04 23:43

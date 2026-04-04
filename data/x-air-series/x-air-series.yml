@@ -3,14 +3,9 @@ description: The X-Air Series is designed to provide a breezy and comfortable
   seating experience, perfect for those who prefer a lighter and more breathable
   chair without sacrificing support.
 source_url: https://www.andaseat.com/collections/gaming-chairs?filter.p.m.custom.product_series=X-Air+Pro+Series&filter.p.m.custom.product_series=X-Air+Series
-featured: false
-brand: andaseat
-brand_logo_url: https://www.andaseat.com/logo.png
-images:
-  - https://www.andaseat.com/images/xair_1.png
-  - https://www.andaseat.com/images/xair_2.png
-category: chair-accessories
+category: Chair Accessories
 tags: []
+featured: false
 markdown: |-
   # X-Air Series by AndaSeat
 
@@ -38,4 +33,9 @@ markdown: |-
   ---
 
   For more information and to explore the full range of AndaSeat products, visit [AndaSeat Official Website](https://www.andaseat.com).
-updated_at: 2025-12-17 06:35
+brand: andaseat
+brand_logo_url: https://www.andaseat.com/logo.png
+images:
+  - https://www.andaseat.com/images/xair_1.png
+  - https://www.andaseat.com/images/xair_2.png
+updated_at: 2026-04-04 23:43

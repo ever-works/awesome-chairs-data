@@ -3,17 +3,12 @@ description: The GTPLAYER Mesh Series Luft 310 is an office chair designed for
   breathability and ergonomic support, making it suitable for both gaming and
   professional environments.
 source_url: https://gtplayer.com/collections/office-chair/products/mesh-series-luft-310
-featured: false
-brand: gtplayer
-brand_logo_url: http://gtplayer.com/cdn/shop/files/logo_1024x1024.jpg?v=1659426424
-images:
-  - https://gtplayer.com/cdn/shop/products/mesh-series-luft-310_1.jpg
-  - https://gtplayer.com/cdn/shop/products/mesh-series-luft-310_2.jpg
-category: ergonomic-office-chairs
+category: Ergonomic Office Chairs
 tags:
   - breathable
   - ergonomic
   - mesh
+featured: false
 markdown: |-
   ## GTPLAYER Mesh Series Luft 310
 
@@ -53,4 +48,9 @@ markdown: |-
   - **Payment Options**: Multiple payment methods including Klarna's 4 interest-free payments.
 
   For more details, visit the [GTPLAYER Mesh Series Luft 310 product page](https://gtplayer.com/collections/office-chair/products/mesh-series-luft-310).
-updated_at: 2025-12-20 06:37
+brand: gtplayer
+brand_logo_url: http://gtplayer.com/cdn/shop/files/logo_1024x1024.jpg?v=1659426424
+images:
+  - https://gtplayer.com/cdn/shop/products/mesh-series-luft-310_1.jpg
+  - https://gtplayer.com/cdn/shop/products/mesh-series-luft-310_2.jpg
+updated_at: 2026-04-04 23:43

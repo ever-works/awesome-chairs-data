@@ -3,15 +3,12 @@ description: A collection of ergonomic office chairs from Herman Miller designed
   for long hours of computer work, with models focused on posture support,
   adjustability, and all‑day comfort for home and professional workstations.
 source_url: https://www.hermanmiller.com/products/seating/office-chairs/
-featured: false
-brand: herman-miller
-brand_logo_url: https://www.hermanmiller.com/content/dam/hmicom/page_assets/homepage/primary-nav/herman-miller-logo.svg
-images: null
-category: ergonomic-office-chairs
+category: Ergonomic Office Chairs
 tags:
   - ergonomic
   - posture-support
   - adjustable
+featured: false
 markdown: |-
   # Herman Miller Office Chairs
 
@@ -77,4 +74,6 @@ markdown: |-
 
   ## Source
   Original collection page: https://www.hermanmiller.com/products/seating/office-chairs/
-updated_at: 2025-12-26 08:37
+brand: herman-miller
+brand_logo_url: https://www.hermanmiller.com/content/dam/hmicom/page_assets/homepage/primary-nav/herman-miller-logo.svg
+updated_at: 2026-04-04 23:43

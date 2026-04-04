@@ -3,14 +3,9 @@ description: The Footrest Series GT099F is a PVC leather gaming chair with 3D
   armrests, designed to enhance comfort and support for users who spend extended
   periods sitting.
 source_url: https://www.pinterest.com/pin/footrest-series-gt099f--752875262745407858/
-featured: true
-brand: gt-racing
-brand_logo_url: https://example.com/logos/gtracing.png
-images:
-  - https://example.com/images/gt099f_1.png
-  - https://example.com/images/gt099f_2.png
-category: chair-accessories
+category: Chair Accessories
 tags: []
+featured: true
 markdown: |-
   ### Footrest Series GT099F
 
@@ -48,4 +43,9 @@ markdown: |-
   ---
 
   For more information and to explore other gaming and simulation accessories, visit Apex Sim Racing, America's top sim racing retailer.
-updated_at: 2025-12-17 06:35
+brand: gt-racing
+brand_logo_url: https://example.com/logos/gtracing.png
+images:
+  - https://example.com/images/gt099f_1.png
+  - https://example.com/images/gt099f_2.png
+updated_at: 2026-04-04 23:43

@@ -1,20 +1,53 @@
 name: Sihoo Doro Series Ergonomic Chair
-description: The Sihoo Doro Series Ergonomic Chair is a state-of-the-art seating
-  solution designed to enhance comfort and productivity for individuals who
-  spend long hours sitting. Featuring dynamic lumbar support, anti-gravity
-  recline mechanisms, 6D coordinated armrests, seat depth adjustment, and a
-  breathable mesh backrest, this chair adapts to your movements and supports
-  natural posture. Ideal for professionals, gamers, and students, the Doro
-  Series combines sleek aesthetics with advanced biomechanics research to reduce
-  spinal pressure and enhance overall comfort.
-source_url: https://www.sihoo.com/en/tr/products/x5pro/
+description: The Sihoo Doro Series is a premium line of ergonomic office chairs
+  featuring dynamic auto-adaptive lumbar support, anti-gravity recline
+  mechanisms, 6D coordinated armrests, and seat depth adjustment for 8+ hour
+  desk sessions rated up to 300 lbs. Designed for professionals and WFH users
+  who want advanced biomechanical support with breathable mesh at a mid-range
+  price. Compared to the Herman Miller Aeron's PostureFit SL and the Steelcase
+  Leap's LiveBack, the Doro series offers automated lumbar tracking and wider
+  recline ranges at roughly $270–$550.
+source_url: https://www.sihoo.com/products/doro-series
+category: Ergonomic Office Chairs
+tags:
+  - auto-adaptive-lumbar
+  - 6d-armrests
+  - anti-gravity-recline
 featured: true
-brand: sihoo
-brand_logo_url: https://www.sihoo.com/logo.png
+markdown: >-
+  ## Sihoo Doro Series Ergonomic Chair
+
+
+  ### Overview
+
+  The Sihoo Doro Series represents Sihoo's premium ergonomic chair lineup,
+  combining advanced biomechanical research with sleek aesthetics.
+
+
+  ### Key Features
+
+  - **Self-adaptive lumbar support**: Automatically adjusts to body movement
+
+  - **6D coordinated armrests**: Multi-directional positioning
+
+  - **Anti-gravity recline**: Weight-sensing balanced reclining up to 130°
+
+  - **Seat depth adjustment**: Forward/backward slider
+
+  - **Full mesh construction**: Breathable and durable
+
+  - **Waterfall seat edge**: Reduces thigh pressure
+
+
+  ### Pricing
+
+  Starting at approximately $270–$550 depending on model and configuration.
+
+
+  For more details, visit [Sihoo Doro
+  Series](https://www.sihoo.com/products/doro-series).
+brand: Sihoo
+brand_logo_url: https://sihoooffice.com/cdn/shop/files/d1163c6c79dbd29abd30e0d32a5b83d8_973bd250-6b12-4af6-bbd8-f688190aad72.png?v=1649489425&width=240
 images:
-  - https://www.sihoo.com/images/doro-series-1.png
-  - https://www.sihoo.com/images/doro-series-2.png
-category: chair-accessories
-tags: []
-markdown: ""
-updated_at: 2025-12-13 05:58
+  - https://sihoooffice.com/cdn/shop/files/doro-series-hero.webp?v=1726112910&width=460
+updated_at: 2026-04-04 23:43

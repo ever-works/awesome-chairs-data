@@ -3,14 +3,9 @@ description: The Royal Rowan Microfiber Leather Executive Office Chair is a
   premium choice for those seeking luxury and durability. Its microfiber leather
   finish and ergonomic design make it a standout option for executive offices.
 source_url: https://eurekaergonomic.com/pages/the-royal-series-luxury-and-comfortable-leather-executive-office-chairs?srsltid=AfmBOorr4XhlJA8k9ApD3LIwWUooD5X09acU-LTXXMrFvwqt2MyMcbV1
-featured: true
-brand: awesome-chairs-co
-brand_logo_url: https://example.com/logos/awesome-chairs-co.png
-images:
-  - https://example.com/images/rowan-chair-1.png
-  - https://example.com/images/rowan-chair-2.png
-category: chair-accessories
+category: Chair Accessories
 tags: []
+featured: true
 markdown: |-
   # Royal Rowan Microfiber Leather Executive Office Chair
 
@@ -41,4 +36,9 @@ markdown: |-
 
   ## Additional Information
   For more details, visit the [Royal Rowan Microfiber Leather Executive Office Chair page](https://eurekaergonomic.com/pages/the-royal-series-luxury-and-comfortable-leather-executive-office-chairs?srsltid=AfmBOorr4XhlJA8k9ApD3LIwWUooD5X09acU-LTXXMrFvwqt2MyMcbV1).
-updated_at: 2025-12-16 06:23
+brand: awesome-chairs-co
+brand_logo_url: https://example.com/logos/awesome-chairs-co.png
+images:
+  - https://example.com/images/rowan-chair-1.png
+  - https://example.com/images/rowan-chair-2.png
+updated_at: 2026-04-04 23:43

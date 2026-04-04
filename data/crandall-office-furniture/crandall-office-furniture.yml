@@ -4,17 +4,12 @@ description: Crandall Office Furniture specializes in selling refurbished office
   warranties. This makes them a reliable source for quality chairs at reduced
   prices.
 source_url: https://www.crandalloffice.com/
-featured: false
-brand: crandall-office-furniture
-brand_logo_url: https://www.crandalloffice.com/logo.png
-images:
-  - https://www.crandalloffice.com/images/refurbished-1.png
-  - https://www.crandalloffice.com/images/refurbished-2.png
-category: chair-accessories
+category: Chair Accessories
 tags:
   - refurbished
   - warranties
   - quality
+featured: false
 markdown: >-
   ## Crandall Office Furniture
 
@@ -79,4 +74,9 @@ markdown: >-
   Crandall Office Furniture does not provide explicit pricing information on the
   website. For detailed pricing, it is recommended to visit their website or
   contact them directly for more information.
-updated_at: 2025-12-16 06:23
+brand: crandall-office-furniture
+brand_logo_url: https://www.crandalloffice.com/logo.png
+images:
+  - https://www.crandalloffice.com/images/refurbished-1.png
+  - https://www.crandalloffice.com/images/refurbished-2.png
+updated_at: 2026-04-04 23:43

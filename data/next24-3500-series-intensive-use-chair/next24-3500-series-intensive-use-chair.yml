@@ -5,12 +5,9 @@ description: A heavy-duty BodyBilt ergonomic chair engineered for 24/7 intensive
   pressure-reducing contoured seat and back to minimize pain and fatigue for
   all-day (and all-night) computer work.
 source_url: https://bodybilt.com/product/next24-3500-series-intensive-use-chair/
-featured: true
-brand: bodybilt
-brand_logo_url: /null
-images: null
-category: chair-accessories
+category: Chair Accessories
 tags: []
+featured: true
 markdown: >-
   # NEXT24 3500 Series – Intensive Use Chair
 
@@ -127,4 +124,6 @@ markdown: >-
   Pricing is not listed in the provided content. For current pricing and
   configuration-specific quotes, contact the manufacturer or an authorized sales
   representative.
-updated_at: 2025-12-23 09:31
+brand: bodybilt
+brand_logo_url: /null
+updated_at: 2026-04-04 23:43

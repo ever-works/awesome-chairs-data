@@ -3,12 +3,9 @@ description: AMQ office chair designed as a task and conference solution,
   offering comfort and support appropriate for regular computer use and
   meetings.
 source_url: https://www.steelcase.com/products/office-chairs/jaku-chair
-featured: false
-brand: amq
-brand_logo_url: null
-images: null
-category: others
+category: Others
 tags: []
+featured: false
 markdown: >-
   # JAKU Chair
 
@@ -47,4 +44,6 @@ markdown: >-
 
   Pricing is not specified on the provided page; it may depend on configuration
   and must be obtained from the seller or distributor.
-updated_at: 2025-12-31 19:09
+brand: amq
+brand_logo_url: null
+updated_at: 2026-04-04 23:43

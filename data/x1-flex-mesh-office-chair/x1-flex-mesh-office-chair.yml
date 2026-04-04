@@ -5,16 +5,9 @@ description: The X1 Flex Mesh Office Chair is designed for individuals who spend
   chair is currently available at a discounted price, making it a great value
   for those seeking ergonomic seating solutions.
 source_url: https://www.xchair.com/products/x1-flex-mesh-office-chair?variant=44508922282266
-featured: true
-brand: x-chair
-brand_logo_url: /path/to/x-chair-logo.png
-images:
-  - https://cld.accentuate.io/66995585306/1678743248767/XC_KSport_Black.jpg?v=1678743248768&options=w_24
-  - https://cld.accentuate.io/66995585306/1678743279640/XC_KSport_White.jpg?v=1678743279640&options=w_24
-  - https://cld.accentuate.io/66995585306/1678743298435/XC_KSport_Gray.jpg?v=1678743298435&options=w_24
-  - https://cld.accentuate.io/66995585306/1678743316221/XC_KSport_Red.jpg?v=1678743316222&options=w_24
-category: chair-accessories
+category: Chair Accessories
 tags: []
+featured: true
 markdown: |-
   # X1 Flex Mesh Office Chair
 
@@ -45,4 +38,11 @@ markdown: |-
   - **Product Page:** [X1 Flex Mesh Office Chair](https://www.xchair.com/products/x1-flex-mesh-office-chair?variant=44508922282266)
 
   The X1 Flex Mesh Office Chair stands out with its blend of functionality and comfort, making it a top choice for enhancing your office or gaming setup.
-updated_at: 2025-12-13 05:58
+brand: x-chair
+brand_logo_url: /path/to/x-chair-logo.png
+images:
+  - https://cld.accentuate.io/66995585306/1678743248767/XC_KSport_Black.jpg?v=1678743248768&options=w_24
+  - https://cld.accentuate.io/66995585306/1678743279640/XC_KSport_White.jpg?v=1678743279640&options=w_24
+  - https://cld.accentuate.io/66995585306/1678743298435/XC_KSport_Gray.jpg?v=1678743298435&options=w_24
+  - https://cld.accentuate.io/66995585306/1678743316221/XC_KSport_Red.jpg?v=1678743316222&options=w_24
+updated_at: 2026-04-04 23:43

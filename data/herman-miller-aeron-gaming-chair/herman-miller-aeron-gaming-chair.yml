@@ -5,17 +5,12 @@ description: The Herman Miller Aeron Gaming Chair is a gaming-oriented variant
   support, multiple adjustment options, and advanced lumbar support—while being
   positioned and styled specifically for gamers who sit for long periods.
 source_url: https://modernplanet.com/herman-miller-aeron-gaming-chair.html?srsltid=AfmBOopbSYpw-VDf8akjLHJaK0o3E7aL4XDcROabDNKBEkk093UVmSTg
-featured: false
-brand: herman-miller
-brand_logo_url: https://www.hermanmiller.com/content/dam/hermanmiller/page-assets/homepage/hm-logo-red.svg
-images:
-  - https://images.hermanmiller.group/m/47b817af10b59683/W-HM_AERG_18059_F5_B_Transparent.png?auto=format&w=1200&q=68&fit=fill
-  - https://images.hermanmiller.group/m/47b817af10b59683/W-HM_AERG_18059_F5_B_Transparent.png?trim=auto&trim-sd=2&blend-mode=darken&blend=fafafa&bg=fafafa&auto=format&w=1200&q=68&h=1200&pad=120&fit=fill
-category: gaming-chairs
+category: Gaming Chairs
 tags:
   - gaming
   - ergonomic
   - breathable
+featured: false
 markdown: |-
   # Herman Miller Aeron® Gaming Chair
 
@@ -78,4 +73,9 @@ markdown: |-
   ## Pricing
 
   Pricing or plan details are **not provided** in the available content. Users should check the source page for current price and promotions.
-updated_at: 2025-12-26 08:37
+brand: herman-miller
+brand_logo_url: https://www.hermanmiller.com/content/dam/hermanmiller/page-assets/homepage/hm-logo-red.svg
+images:
+  - https://images.hermanmiller.group/m/47b817af10b59683/W-HM_AERG_18059_F5_B_Transparent.png?auto=format&w=1200&q=68&fit=fill
+  - https://images.hermanmiller.group/m/47b817af10b59683/W-HM_AERG_18059_F5_B_Transparent.png?trim=auto&trim-sd=2&blend-mode=darken&blend=fafafa&bg=fafafa&auto=format&w=1200&q=68&h=1200&pad=120&fit=fill
+updated_at: 2026-04-04 23:43

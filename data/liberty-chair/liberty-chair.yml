@@ -3,13 +3,9 @@ description: The Liberty Chair offers a sleek design with a black frame and
   Corde 4 Black Textile Seat. It's engineered to provide ergonomic support and
   comfort, ideal for prolonged sitting during work or gaming sessions.
 source_url: https://www.humanscale.com/products/seating/liberty
-featured: false
-brand: humanscale
-brand_logo_url: https://www.humanscale.com/images/logo.png
-images:
-  - https://www.humanscale.com/images/products/liberty.jpg
-category: chair-accessories
+category: Chair Accessories
 tags: []
+featured: false
 markdown: >-
   ## Liberty Chair
 
@@ -56,4 +52,8 @@ markdown: >-
 
   For more information, visit the [Humanscale Liberty
   Chair](https://www.humanscale.com/products/seating/liberty) page.
-updated_at: 2025-12-16 06:23
+brand: humanscale
+brand_logo_url: https://www.humanscale.com/images/logo.png
+images:
+  - https://www.humanscale.com/images/products/liberty.jpg
+updated_at: 2026-04-04 23:43

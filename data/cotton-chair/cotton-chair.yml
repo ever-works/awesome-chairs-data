@@ -4,14 +4,9 @@ description: The Cotton Chair offers a unique blend of style and comfort with
   a sense of privacy while maintaining a stylish appearance, making it ideal for
   long hours of sitting.
 source_url: https://www.amazon.com/Computer-High-Back-Ergonomic-Bearing-Capacity/dp/B0CDVTDH1Z
-featured: true
-brand: sitonit-seating
-brand_logo_url: https://shop.sitonit.net/images/logo.png
-images:
-  - https://shop.sitonit.net/images/cotton-chair-1.png
-  - https://shop.sitonit.net/images/cotton-chair-2.png
-category: chair-accessories
+category: Chair Accessories
 tags: []
+featured: true
 markdown: |-
   ## Cotton Chair
 
@@ -42,4 +37,9 @@ markdown: |-
   ### Purchase
 
   For more details and purchasing options, visit the [product page](https://www.amazon.com/Computer-High-Back-Ergonomic-Bearing-Capacity/dp/B0CDVTDH1Z).
-updated_at: 2025-12-13 05:58
+brand: sitonit-seating
+brand_logo_url: https://shop.sitonit.net/images/logo.png
+images:
+  - https://shop.sitonit.net/images/cotton-chair-1.png
+  - https://shop.sitonit.net/images/cotton-chair-2.png
+updated_at: 2026-04-04 23:43

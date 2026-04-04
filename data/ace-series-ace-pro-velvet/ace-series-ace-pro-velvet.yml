@@ -4,14 +4,9 @@ description: The Ace Series ACE-PRO Velvet is a luxurious gaming chair featuring
   combines style with functionality, making it a standout choice for those
   seeking both comfort and aesthetics.
 source_url: https://gtracing.com/collections/ace-series?srsltid=AfmBOoq2PrOB5jC-IJioHCUWj1h5g4SKnXbjkd-6lvS2J8795lQSGD6k
-featured: true
-brand: ace
-brand_logo_url: https://example.com/ace-logo.png
-images:
-  - https://example.com/images/ace-pro-velvet-1.png
-  - https://example.com/images/ace-pro-velvet-2.png
-category: chair-accessories
+category: Chair Accessories
 tags: []
+featured: true
 markdown: |-
   ## Ace Series ACE-PRO Velvet
 
@@ -44,4 +39,9 @@ markdown: |-
   Currently, there are no specific tags associated with this product.
 
   ---
-updated_at: 2025-12-17 06:35
+brand: ace
+brand_logo_url: https://example.com/ace-logo.png
+images:
+  - https://example.com/images/ace-pro-velvet-1.png
+  - https://example.com/images/ace-pro-velvet-2.png
+updated_at: 2026-04-04 23:43

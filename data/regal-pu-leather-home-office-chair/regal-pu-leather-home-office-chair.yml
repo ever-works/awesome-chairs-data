@@ -3,14 +3,9 @@ description: The Regal PU Leather Home Office Chair is a best-seller known for
   its sleek design and comfortable seating. It is an excellent choice for home
   offices, providing both style and functionality.
 source_url: https://eurekaergonomic.com/products/regal-brown-leather-home-office-chair?srsltid=AfmBOorZiUvQ3v7pr-_CWcU41OA739ztecOhyBXb9FE46JtYmmBRp8RY
-featured: true
-brand: awesome-chairs-co
-brand_logo_url: https://example.com/logos/awesome-chairs-co.png
-images:
-  - https://example.com/images/regal-chair-1.png
-  - https://example.com/images/regal-chair-2.png
-category: chair-accessories
+category: Chair Accessories
 tags: []
+featured: true
 markdown: |-
   ### Regal, PU Leather Home Office Chair
 
@@ -45,4 +40,9 @@ markdown: |-
   ---
 
   This markdown summary provides a comprehensive overview of the Regal PU Leather Home Office Chair, highlighting its key features and visual appeal. Perfect for anyone looking to enhance their home office with a stylish and functional seating option.
-updated_at: 2025-12-16 06:23
+brand: awesome-chairs-co
+brand_logo_url: https://example.com/logos/awesome-chairs-co.png
+images:
+  - https://example.com/images/regal-chair-1.png
+  - https://example.com/images/regal-chair-2.png
+updated_at: 2026-04-04 23:43

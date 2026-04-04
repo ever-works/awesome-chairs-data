@@ -3,14 +3,9 @@ description: The Aura Series GT910F is a PVC leather gaming chair with linkage
   armrests, designed to provide ergonomic support and comfort for gamers and
   office workers.
 source_url: https://gtracing.com/?srsltid=AfmBOoo3bbBlg2sGYFMmHFjaDMF7A6XO-qjC62iYmd2B_E5a2B4mgcg2
-featured: true
-brand: gt-racing
-brand_logo_url: https://example.com/logos/gtracing.png
-images:
-  - https://example.com/images/gt910f_1.png
-  - https://example.com/images/gt910f_2.png
-category: chair-accessories
+category: Chair Accessories
 tags: []
+featured: true
 markdown: |-
   ## Aura Series GT910F
 
@@ -38,4 +33,9 @@ markdown: |-
   ---
 
   **Note:** Pricing details were not provided in the available content. For up-to-date pricing, please visit the [source link](https://gtracing.com/?srsltid=AfmBOoo3bbBlg2sGYFMmHFjaDMF7A6XO-qjC62iYmd2B_E5a2B4mgcg2).
-updated_at: 2025-12-17 06:35
+brand: gt-racing
+brand_logo_url: https://example.com/logos/gtracing.png
+images:
+  - https://example.com/images/gt910f_1.png
+  - https://example.com/images/gt910f_2.png
+updated_at: 2026-04-04 23:43

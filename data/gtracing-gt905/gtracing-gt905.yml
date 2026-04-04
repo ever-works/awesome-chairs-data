@@ -4,16 +4,12 @@ description: The GTRacing GT905 is an RGB gaming chair designed for comfort,
   tailored for long hours of sitting, making it ideal for gamers and
   professionals alike.
 source_url: https://gtracing.com/products/gt905
-featured: true
-brand: gtracing
-brand_logo_url: https://shopify.gtracing.com/img/icons/01/1.png
-images:
-  - https://gtracing.com/cdn/shop/t/125/assets/transparent.png?v=74725729134931200321747901099
-category: gaming-chairs
+category: Gaming Chairs
 tags:
   - rgb
   - ergonomic
   - gaming
+featured: true
 markdown: |-
   ## GTRacing GT905 - RGB Gaming Chair
 
@@ -50,4 +46,8 @@ markdown: |-
   ---
 
   For more gaming setup enhancements, explore [GTRacing's Collections](https://gtracing.com) including gaming desks, racing simulators, and more accessories.
-updated_at: 2025-12-21 06:47
+brand: gtracing
+brand_logo_url: https://shopify.gtracing.com/img/icons/01/1.png
+images:
+  - https://gtracing.com/cdn/shop/t/125/assets/transparent.png?v=74725729134931200321747901099
+updated_at: 2026-04-04 23:43

@@ -5,14 +5,9 @@ description: The Triigger 350 Special Edition is a premium gaming chair designed
   Rated 4.7 out of 5 by users, it combines ergonomic design with high-quality
   materials for an optimal gaming experience.
 source_url: https://www.vertagear.com/products/triigger-line-350-special-edition-gaming-chair
-featured: true
-brand: vertagear
-brand_logo_url: https://www.vertagear.com/logo.png
-images:
-  - https://www.vertagear.com/images/triigger-350-special-edition-1.png
-  - https://www.vertagear.com/images/triigger-350-special-edition-2.png
-category: chair-accessories
+category: Chair Accessories
 tags: []
+featured: true
 markdown: |-
   # Triigger 350 Special Edition Gaming Chair
 
@@ -49,4 +44,9 @@ markdown: |-
   ---
 
   For more details, visit the [official product page](https://www.vertagear.com/products/triigger-line-350-special-edition-gaming-chair).
-updated_at: 2025-12-21 06:47
+brand: vertagear
+brand_logo_url: https://www.vertagear.com/logo.png
+images:
+  - https://www.vertagear.com/images/triigger-350-special-edition-1.png
+  - https://www.vertagear.com/images/triigger-350-special-edition-2.png
+updated_at: 2026-04-04 23:43

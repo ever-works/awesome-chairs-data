@@ -3,14 +3,9 @@ description: Inspired by the Mobius strip, the Ozmo Chair combines fluid design
   with ergonomic comfort. Its unique silhouette makes it a standout choice for
   those seeking both style and functionality in a computer chair.
 source_url: https://www.speedtest.net/apps
-featured: true
-brand: sitonit-seating
-brand_logo_url: https://shop.sitonit.net/images/logo.png
-images:
-  - https://shop.sitonit.net/images/ozmo-chair-1.png
-  - https://shop.sitonit.net/images/ozmo-chair-2.png
-category: chair-accessories
+category: Chair Accessories
 tags: []
+featured: true
 markdown: >-
   # Ozmo Chair
 
@@ -67,4 +62,9 @@ markdown: >-
 
   **Note**: Pricing information is not available in the provided content. Please
   check the official website or contact the brand for pricing details.
-updated_at: 2025-12-13 05:58
+brand: sitonit-seating
+brand_logo_url: https://shop.sitonit.net/images/logo.png
+images:
+  - https://shop.sitonit.net/images/ozmo-chair-1.png
+  - https://shop.sitonit.net/images/ozmo-chair-2.png
+updated_at: 2026-04-04 23:43

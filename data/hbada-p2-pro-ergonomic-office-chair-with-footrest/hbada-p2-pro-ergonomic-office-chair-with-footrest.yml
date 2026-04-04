@@ -3,14 +3,9 @@ description: The HBADA P2 Pro Ergonomic Office Chair includes a footrest and
   S-curve design for enhanced ergonomic support, making it ideal for long hours
   of work or gaming.
 source_url: https://my.biggo.com/s/hbada%20ergonomic%20chair
-featured: false
-brand: hbada
-brand_logo_url: https://hbada.com/logo.png
-images:
-  - https://hbada.com/cdn/shop/files/213232_11.png?v=1760516981&width=1280
-  - https://hbada.com/cdn/shop/files/213232_15.png?v=1762248816&width=1280
-category: chair-accessories
+category: Chair Accessories
 tags: []
+featured: false
 markdown: >-
   # HBADA P2 Pro Ergonomic Office Chair with Footrest
 
@@ -77,4 +72,9 @@ markdown: >-
 
 
   **Note**: Pricing information is not available in the provided content.
-updated_at: 2025-12-21 06:47
+brand: hbada
+brand_logo_url: https://hbada.com/logo.png
+images:
+  - https://hbada.com/cdn/shop/files/213232_11.png?v=1760516981&width=1280
+  - https://hbada.com/cdn/shop/files/213232_15.png?v=1762248816&width=1280
+updated_at: 2026-04-04 23:43

@@ -2,12 +2,9 @@ name: BODI Chair
 description: Ergonomic task chair by AMQ with adjustable features tailored for
   daily desk and computer work, supporting users who sit for extended periods.
 source_url: https://www.steelcase.com/products/office-chairs/bodi-chair
-featured: false
-brand: amq
-brand_logo_url: null
-images: null
-category: others
+category: Others
 tags: []
+featured: false
 markdown: >-
   ## BODI Chair
 
@@ -52,4 +49,6 @@ markdown: >-
   The source content does not provide specific pricing or plan information.
   Pricing appears to be available through the online store’s “Buy
   Now”/“Configure Now” options.
-updated_at: 2025-12-31 19:09
+brand: amq
+brand_logo_url: null
+updated_at: 2026-04-04 23:43

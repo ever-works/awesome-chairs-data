@@ -1,18 +1,20 @@
 name: TITAN Evo Lite
-description: The TITAN Evo Lite provides all the core features of the TITAN Evo
-  series at a more affordable price, making it accessible for users seeking
-  ergonomic support without compromising on quality.
+description: The TITAN Evo Lite is Secretlab's streamlined gaming chair that
+  delivers core ergonomic features — including 4-way lumbar support, 4D
+  armrests, and a multi-tilt mechanism — at a more accessible price point than
+  the full Titan Evo lineup. Ideal for budget-conscious gamers, students, and
+  casual streamers who need a reliable chair for 4–6 hour sessions without
+  premium add-ons like magnetic pillows or Nanofoam cushioning. It offers better
+  build quality and adjustability than budget alternatives like the GTPlayer
+  GTRacing or Homall S-Racer, but lacks the Nanogen Edition's ultra-soft
+  materials and the XL model's big-and-tall capacity.
 source_url: https://www.secretlab.co/products/titan-evo-lite
-featured: false
-brand: secretlab
-brand_logo_url: https://www.secretlab.co/assets/logo.png
-images:
-  - https://www.secretlab.co/assets/titan-evo-lite.jpg
-category: ergonomic-office-chairs
+category: Ergonomic Office Chairs
 tags:
   - affordable
   - ergonomic
   - quality
+featured: false
 markdown: >-
   ## Secretlab TITAN Evo Lite
 
@@ -74,4 +76,8 @@ markdown: >-
 
   For more details, visit the [Secretlab
   website](https://www.secretlab.co/products/titan-evo-lite).
-updated_at: 2025-12-20 06:37
+brand: secretlab
+brand_logo_url: https://www.secretlab.co/assets/logo.png
+images:
+  - https://www.secretlab.co/assets/titan-evo-lite.jpg
+updated_at: 2026-04-04 23:43

@@ -5,14 +5,9 @@ description: The Branch Task Chair is designed for comfort and value, priced at
   and adjustable lumbar support, making it a versatile choice for office
   settings.
 source_url: https://bit.ly/3Q6eoVA
-featured: true
-brand: branch
-brand_logo_url: /path/to/branch/logo.png
-images:
-  - https://example.com/branch-task-image1.jpg
-  - https://example.com/branch-task-image2.jpg
-category: others
+category: Others
 tags: []
+featured: true
 markdown: >-
   # Branch Task Chair
 
@@ -73,4 +68,9 @@ markdown: >-
 
   _This markdown summary is designed to provide a clear and concise overview of
   the Branch Task Chair, emphasizing its features, specifications, and pricing._
-updated_at: 2025-12-22 06:56
+brand: branch
+brand_logo_url: /path/to/branch/logo.png
+images:
+  - https://example.com/branch-task-image1.jpg
+  - https://example.com/branch-task-image2.jpg
+updated_at: 2026-04-04 23:43

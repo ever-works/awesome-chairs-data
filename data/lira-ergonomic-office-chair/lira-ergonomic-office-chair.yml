@@ -4,14 +4,9 @@ description: The Lira Ergonomic Office Chair offers a sleek design with advanced
   functionality in their workspace. It is available in multiple color options to
   suit different office aesthetics.
 source_url: https://eurekaergonomic.com/products/onyx-lira-ergonomic-office-chair?srsltid=AfmBOooqVOZYrjdb7CfoR95wHvzinMwbFaMx3u6F9TzKXZzPIjuIw2Ia
-featured: true
-brand: onyx
-brand_logo_url: https://www.example.com/brand-logos/onyx-logo.png
-images:
-  - https://www.example.com/images/onyx-lira-ergonomic-office-chair-light-gray-green.png
-  - https://www.example.com/images/onyx-lira-ergonomic-office-chair-black.png
-category: chair-accessories
+category: Chair Accessories
 tags: []
+featured: true
 markdown: |-
   # Lira Ergonomic Office Chair
 
@@ -41,4 +36,9 @@ markdown: |-
 
   ## Source
   - [Product Page](https://eurekaergonomic.com/products/onyx-lira-ergonomic-office-chair?srsltid=AfmBOooqVOZYrjdb7CfoR95wHvzinMwbFaMx3u6F9TzKXZzPIjuIw2Ia)
-updated_at: 2025-12-16 06:23
+brand: onyx
+brand_logo_url: https://www.example.com/brand-logos/onyx-logo.png
+images:
+  - https://www.example.com/images/onyx-lira-ergonomic-office-chair-light-gray-green.png
+  - https://www.example.com/images/onyx-lira-ergonomic-office-chair-black.png
+updated_at: 2026-04-04 23:43

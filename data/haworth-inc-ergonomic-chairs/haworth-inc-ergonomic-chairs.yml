@@ -5,12 +5,9 @@ description: A range of ergonomic seating solutions from Haworth Inc., including
   promote comfort and well‑being in modern workspaces, making their chairs
   well-suited for people who sit at computers all day.
 source_url: https://www.haworth.com/na/en.html
-featured: false
-brand: haworth
-brand_logo_url: null
-images: null
-category: chair-accessories
+category: Chair Accessories
 tags: []
+featured: false
 markdown: >-
   # Haworth Inc. Ergonomic Chairs
 
@@ -59,4 +56,6 @@ markdown: >-
   ## More Information
 
   - Website: https://www.haworth.com/na/en.html
-updated_at: 2025-12-23 09:31
+brand: haworth
+brand_logo_url: null
+updated_at: 2026-04-04 23:43

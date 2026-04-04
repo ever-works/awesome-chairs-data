@@ -4,14 +4,9 @@ description: The Boulies EP200 is a budget-friendly mesh-back ergonomic work
   durations but don’t want to pay premium prices, balancing comfort,
   breathability, and support for extended computer use.
 source_url: https://boulies.com/products/ep200
-featured: true
-brand: boulies
-brand_logo_url: null
-images:
-  - https://cdn.shopify.com/s/files/1/2127/6275/files/header-nav-bg__effectual_x500.jpg?v=1683163340
-  - https://cdn.shopify.com/s/files/1/0055/5515/9126/files/EP200-black-Spongecushion_2_600x600.jpg?v=1700037430
-category: chair-accessories
+category: Chair Accessories
 tags: []
+featured: true
 markdown: |-
   # Boulies EP200
 
@@ -52,4 +47,9 @@ markdown: |-
   - https://cdn.shopify.com/s/files/1/2127/6275/files/header-nav-bg__effectual_x500.jpg?v=1683163340
   - https://cdn.shopify.com/s/files/1/0055/5515/9126/files/EP200-black-Spongecushion_2_600x600.jpg?v=1700037430
   - https://cdn.shopify.com/s/files/1/2127/6275/files/EP200-detail__01_1600x.jpg?v=1668155773
-updated_at: 2025-12-23 09:31
+brand: boulies
+brand_logo_url: null
+images:
+  - https://cdn.shopify.com/s/files/1/2127/6275/files/header-nav-bg__effectual_x500.jpg?v=1683163340
+  - https://cdn.shopify.com/s/files/1/0055/5515/9126/files/EP200-black-Spongecushion_2_600x600.jpg?v=1700037430
+updated_at: 2026-04-04 23:43

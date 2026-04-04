@@ -8,14 +8,9 @@ description: The ThunderX3 Core Chair is designed for those who spend long hours
   armrests, make it suitable for various seating styles, ensuring ultimate
   support and comfort.
 source_url: https://www.ubuy.hr/en/productde/NANQF434I-thunderx3-core-smart-modern-gaming-chair-red-ergonomic-office-chair-automatic-back-support-synchronous-mechanism-3d-armrests-faux-leather-for
-featured: true
-brand: thunderx3
-brand_logo_url: https://www.thunderx3.com/logo.png
-images:
-  - https://www.thunderx3.com/images/core-chair-1.png
-  - https://www.thunderx3.com/images/core-chair-2.png
-category: chair-accessories
+category: Chair Accessories
 tags: []
+featured: true
 markdown: |-
   # ThunderX3 Core Chair
 
@@ -47,4 +42,9 @@ markdown: |-
   ---
 
   The ThunderX3 Core Chair stands out as a cost-effective solution for those seeking comfort without compromising on quality or style. Ideal for gamers and office workers alike, it offers a blend of functionality and aesthetics.
-updated_at: 2025-12-17 06:35
+brand: thunderx3
+brand_logo_url: https://www.thunderx3.com/logo.png
+images:
+  - https://www.thunderx3.com/images/core-chair-1.png
+  - https://www.thunderx3.com/images/core-chair-2.png
+updated_at: 2026-04-04 23:43

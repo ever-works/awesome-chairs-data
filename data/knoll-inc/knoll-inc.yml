@@ -4,11 +4,9 @@ description: Knoll is a Pennsylvania‑based furniture manufacturer specializing
   well‑suited for intensive computer use in corporate, home‑office, and academic
   environments.
 source_url: https://www.knoll.com
-featured: false
-brand_logo_url: null
-images: null
-category: chair-accessories
+category: Chair Accessories
 tags: []
+featured: false
 markdown: >-
   # Knoll, Inc.
 
@@ -109,4 +107,5 @@ markdown: >-
   - Knoll Showrooms locator
 
   - International site: https://www.knoll-int.com
-updated_at: 2025-12-23 09:31
+brand_logo_url: null
+updated_at: 2026-04-04 23:43

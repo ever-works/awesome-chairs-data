@@ -6,14 +6,9 @@ description: The RESPAWN 3085 is an entry-level gaming chair designed for
   275 lb weight capacity, 360-degree swivel, and height adjustment, it's built
   for long-lasting use.
 source_url: https://www.respawnproducts.com/products/respawn-3085
-featured: true
-brand: respawn
-brand_logo_url: https://cdn.shopify.com/s/files/1/2589/6928/files/RESPAWN_Logo.png?v=1643214891
-images:
-  - https://cdn.shopify.com/s/files/1/2589/6928/products/respawn-3085-1.jpg
-  - https://cdn.shopify.com/s/files/1/2589/6928/products/respawn-3085-2.jpg
-category: others
+category: Others
 tags: []
+featured: true
 markdown: |-
   ## RESPAWN 3085 Gaming Chair
 
@@ -51,4 +46,9 @@ markdown: |-
 
   ### Additional Information
   For more details, visit the [RESPAWN website](https://www.respawnproducts.com/products/respawn-3085). Free shipping is available on all orders within the contiguous United States.
-updated_at: 2025-12-22 06:56
+brand: respawn
+brand_logo_url: https://cdn.shopify.com/s/files/1/2589/6928/files/RESPAWN_Logo.png?v=1643214891
+images:
+  - https://cdn.shopify.com/s/files/1/2589/6928/products/respawn-3085-1.jpg
+  - https://cdn.shopify.com/s/files/1/2589/6928/products/respawn-3085-2.jpg
+updated_at: 2026-04-04 23:43

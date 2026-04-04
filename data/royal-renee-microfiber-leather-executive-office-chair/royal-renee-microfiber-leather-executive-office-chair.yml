@@ -4,15 +4,9 @@ description: The Royal Renee Executive Office Chair features microfiber leather,
   quality ensures longevity, making it suitable for daily use. Available in
   Brown, Black, and Off-White, it offers versatility in style.
 source_url: https://eurekaergonomic.com/pages/the-royal-series-luxury-and-comfortable-leather-executive-office-chairs?srsltid=AfmBOopWjAGTjkowU8EbCEMRV7jZsZhLbFLs8L5TMdMRB0B8Tk_x1PDK
-featured: true
-brand: royal
-brand_logo_url: https://www.example.com/brand-logos/royal.png
-images:
-  - https://www.example.com/images/renee-brown.jpg
-  - https://www.example.com/images/renee-black.jpg
-  - https://www.example.com/images/renee-off-white.jpg
-category: chair-accessories
+category: Chair Accessories
 tags: []
+featured: true
 markdown: |-
   ## Royal Renee, Microfiber Leather Executive Office Chair
 
@@ -44,4 +38,10 @@ markdown: |-
   - **Source:** [Eureka Ergonomic's Royal Series](https://eurekaergonomic.com/pages/the-royal-series-luxury-and-comfortable-leather-executive-office-chairs?srsltid=AfmBOopWjAGTjkowU8EbCEMRV7jZsZhLbFLs8L5TMdMRB0B8Tk_x1PDK)
 
   This chair is perfect for professionals seeking a blend of style, comfort, and durability in their office furniture.
-updated_at: 2025-12-16 06:23
+brand: royal
+brand_logo_url: https://www.example.com/brand-logos/royal.png
+images:
+  - https://www.example.com/images/renee-brown.jpg
+  - https://www.example.com/images/renee-black.jpg
+  - https://www.example.com/images/renee-off-white.jpg
+updated_at: 2026-04-04 23:43

@@ -2,12 +2,9 @@ name: Personality Plus Chair
 description: AMQ task chair with ergonomic adjustments and contemporary styling,
   suitable for long hours at a workstation or computer desk.
 source_url: https://www.steelcase.com/products/office-chairs/amq-personality-plus-chair
-featured: false
-brand: amq
-brand_logo_url: null
-images: null
-category: others
+category: Others
 tags: []
+featured: false
 markdown: >-
   # Personality Plus Chair
 
@@ -65,4 +62,6 @@ markdown: >-
   - Further technical specs, finish options, and documents may be available via
   the manufacturer’s site:
   https://www.steelcase.com/products/office-chairs/amq-personality-plus-chair
-updated_at: 2025-12-31 19:09
+brand: amq
+brand_logo_url: null
+updated_at: 2026-04-04 23:43

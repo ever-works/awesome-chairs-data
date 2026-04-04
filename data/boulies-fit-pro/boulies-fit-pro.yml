@@ -4,13 +4,9 @@ description: The Boulies Fit Pro is a premium, highly adjustable ergonomic chair
   customization—including a seat-depth slider typically found on high-end
   models—to accommodate a wide range of body types and postures.
 source_url: https://boulies.com/products/fit-series
-featured: true
-brand: boulies
-brand_logo_url: null
-images:
-  - https://cdn.shopify.com/s/files/1/0055/5515/9126/products/fitpro-brown2_600x600.jpg?v=1677474324
-category: chair-accessories
+category: Chair Accessories
 tags: []
+featured: true
 markdown: >-
   ## Boulies Fit Pro
 
@@ -82,4 +78,8 @@ markdown: >-
 
   Pricing is not specified in the provided content. Refer to the product page
   for current price and available configurations.
-updated_at: 2025-12-23 09:31
+brand: boulies
+brand_logo_url: null
+images:
+  - https://cdn.shopify.com/s/files/1/0055/5515/9126/products/fitpro-brown2_600x600.jpg?v=1677474324
+updated_at: 2026-04-04 23:43

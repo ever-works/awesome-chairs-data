@@ -3,17 +3,12 @@ description: The Thermaltake Argent E700 is a luxurious gaming chair designed by
   Studio F.A. Porsche. It stands out with its real leather upholstery and a
   shiny, curved ABS shell, making it a statement piece for any gaming setup.
 source_url: https://www.amazon.com/Thermaltake-Leather-Designed-%E2%88%99Porsche-GGC-ARG-BSLFDL-01/dp/B09L5DR4TD
-featured: true
-brand: thermaltake
-brand_logo_url: https://www.thermaltake.com/images/logo.png
-images:
-  - https://www.thermaltake.com/images/argent-e700-1.jpg
-  - https://www.thermaltake.com/images/argent-e700-2.jpg
-category: gaming-chairs
+category: Gaming Chairs
 tags:
   - luxurious
   - real-leather
   - statement-piece
+featured: true
 markdown: |-
   # Thermaltake Argent E700 Gaming Chair
 
@@ -46,4 +41,9 @@ markdown: |-
 
   ## Conclusion
   The Thermaltake Argent E700 is not just a chair; it's a statement piece that combines luxury with functionality, making it an ideal choice for gamers seeking both style and comfort.
-updated_at: 2025-12-16 06:23
+brand: thermaltake
+brand_logo_url: https://www.thermaltake.com/images/logo.png
+images:
+  - https://www.thermaltake.com/images/argent-e700-1.jpg
+  - https://www.thermaltake.com/images/argent-e700-2.jpg
+updated_at: 2026-04-04 23:43

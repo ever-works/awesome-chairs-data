@@ -4,13 +4,9 @@ description: The Taper Chair by Herman Miller is a premium leather office chair
   providing lasting support. It combines aesthetic appeal with ergonomic
   functionality, making it a standout choice for home office setups.
 source_url: https://www.pinterest.com/pin/790522540814934119/
-featured: false
-brand: herman-miller
-brand_logo_url: https://store.hermanmiller.com/on/demandware.static/-/Sites-HermanMiller-Library/default/dw2f5e5c5e/images/logo.png
-images:
-  - https://store.hermanmiller.com/on/demandware.static/-/Sites-HermanMiller-Library/default/dw2f5e5c5e/images/taper-chair.jpg
-category: chair-accessories
+category: Chair Accessories
 tags: []
+featured: false
 markdown: |-
   ## Herman Miller Taper Chair
 
@@ -42,4 +38,8 @@ markdown: |-
 
   ### Note
   This summary is based on available content and may not include all features or pricing details due to limited information provided.
-updated_at: 2025-12-16 06:23
+brand: herman-miller
+brand_logo_url: https://store.hermanmiller.com/on/demandware.static/-/Sites-HermanMiller-Library/default/dw2f5e5c5e/images/logo.png
+images:
+  - https://store.hermanmiller.com/on/demandware.static/-/Sites-HermanMiller-Library/default/dw2f5e5c5e/images/taper-chair.jpg
+updated_at: 2026-04-04 23:43

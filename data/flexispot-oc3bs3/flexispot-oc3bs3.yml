@@ -4,17 +4,12 @@ description: The Flexispot OC3/BS3 is an ergonomic office chair that offers a
   a breathable mesh back, making it a practical choice for office workers and
   gamers.
 source_url: https://www.pcgamer.com/hardware/gaming-chairs/flexispot-oc3-bs3-review/
-featured: false
-brand: flexispot
-brand_logo_url: /path/to/flexispot-logo.png
-images:
-  - https://www.pcgamer.com/flexispot-oc3-bs3-image1.jpg
-  - https://www.pcgamer.com/flexispot-oc3-bs3-image2.jpg
-category: ergonomic-office-chairs
+category: Ergonomic Office Chairs
 tags:
   - ergonomic
   - mesh
   - adjustable
+featured: false
 markdown: |-
   # Flexispot OC3/BS3 Ergonomic Office Chair
 
@@ -45,4 +40,9 @@ markdown: |-
 
   ## Conclusion
   The Flexispot OC3/BS3 is a well-designed chair offering many features beneficial to those who require an ergonomic seating solution. While it presents a good balance of design and affordability, some users may find the seat comfort lacking for prolonged use. Nonetheless, its adjustable features and breathable design make it a strong contender in the ergonomic chair market.
-updated_at: 2025-12-17 06:35
+brand: flexispot
+brand_logo_url: /path/to/flexispot-logo.png
+images:
+  - https://www.pcgamer.com/flexispot-oc3-bs3-image1.jpg
+  - https://www.pcgamer.com/flexispot-oc3-bs3-image2.jpg
+updated_at: 2026-04-04 23:43

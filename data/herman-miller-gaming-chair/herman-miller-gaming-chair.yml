@@ -4,17 +4,12 @@ description: The Herman Miller Gaming Chair is designed to provide ergonomic
   adjustable tilt to maintain proper spinal alignment, making it ideal for both
   active and relaxed gaming positions.
 source_url: https://www.logitechg.com/en-au/logitech-g-and-herman-miller.html
-featured: true
-brand: herman-miller
-brand_logo_url: https://www.hermanmiller.com/content/dam/hermanmiller/logos/herman-miller-logo.png
-images:
-  - https://www.hermanmiller.com/content/dam/hermanmiller/images/products/seating/gaming-chairs/gaming-chair-1.jpg
-  - https://www.hermanmiller.com/content/dam/hermanmiller/images/products/seating/gaming-chairs/gaming-chair-2.jpg
-category: gaming-chairs
+category: Gaming Chairs
 tags:
   - ergonomic
   - lumbar-support
   - adjustable
+featured: true
 markdown: |-
   # Herman Miller Gaming Chair
 
@@ -41,4 +36,9 @@ markdown: |-
 
   ## Source
   For more information, visit the [official website](https://www.logitechg.com/en-au/logitech-g-and-herman-miller.html).
-updated_at: 2025-12-18 06:32
+brand: herman-miller
+brand_logo_url: https://www.hermanmiller.com/content/dam/hermanmiller/logos/herman-miller-logo.png
+images:
+  - https://www.hermanmiller.com/content/dam/hermanmiller/images/products/seating/gaming-chairs/gaming-chair-1.jpg
+  - https://www.hermanmiller.com/content/dam/hermanmiller/images/products/seating/gaming-chairs/gaming-chair-2.jpg
+updated_at: 2026-04-04 23:43

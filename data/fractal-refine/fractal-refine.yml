@@ -6,17 +6,12 @@ description: The Fractal Refine is a gaming chair that combines elements of a
   without aggressive styling. Priced at $549, it is a solid contender in the
   gaming chair market, though the mesh may feel scratchy.
 source_url: https://www.tomshardware.com/peripherals/gaming-chairs-desks/fractal-refine-review
-featured: false
-brand: fractal
-brand_logo_url: https://www.fractal-design.com/images/logo.png
-images:
-  - https://www.fractal-design.com/images/refine-mesh.png
-  - https://www.fractal-design.com/images/refine-fabric.png
-category: gaming-chairs
+category: Gaming Chairs
 tags:
   - 4d-armrests
   - racing-inspired
   - adjustable
+featured: false
 markdown: |-
   # Fractal Refine Gaming Chair
 
@@ -49,4 +44,9 @@ markdown: |-
   The Fractal Refine stands out in the gaming chair market with its blend of comfort, functionality, and subtle design. While it faces minor drawbacks like the scratchy mesh texture and a slightly creaky backrest, its sturdy build and ergonomic features make it a strong contender among gaming chairs.
 
   For more details, visit the [Fractal Refine Review](https://www.tomshardware.com/peripherals/gaming-chairs-desks/fractal-refine-review).
-updated_at: 2025-12-16 06:23
+brand: fractal
+brand_logo_url: https://www.fractal-design.com/images/logo.png
+images:
+  - https://www.fractal-design.com/images/refine-mesh.png
+  - https://www.fractal-design.com/images/refine-fabric.png
+updated_at: 2026-04-04 23:43

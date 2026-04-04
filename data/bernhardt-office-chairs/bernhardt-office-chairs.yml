@@ -4,12 +4,9 @@ description: High-performance ergonomic office and executive chairs from
   EcoComfort materials to provide durable, comfortable seating for extended
   computer use in professional environments.
 source_url: https://www.bernhardt.com
-featured: true
-brand: bernhardt-furniture-company
-brand_logo_url: /
-images: null
-category: chair-accessories
+category: Chair Accessories
 tags: []
+featured: true
 markdown: >-
   # Bernhardt Office Chairs
 
@@ -67,4 +64,6 @@ markdown: >-
 
   Pricing information is not provided in the available content. For current
   pricing and available models, refer to Bernhardt or authorized retailers.
-updated_at: 2025-12-23 09:31
+brand: bernhardt-furniture-company
+brand_logo_url: /
+updated_at: 2026-04-04 23:43

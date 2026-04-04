@@ -3,11 +3,9 @@ description: 9to5 Seating is a U.S. manufacturer dedicated to ergonomic office
   and task chairs, specifically designed for 8‑plus‑hour computer and desk work
   in corporate and home‑office environments.
 source_url: https://www.9to5seating.com
-featured: false
-brand_logo_url: null
-images: null
-category: chair-accessories
+category: Chair Accessories
 tags: []
+featured: false
 markdown: >-
   ## 9to5 Seating LLC
 
@@ -57,4 +55,5 @@ markdown: >-
 
   Pricing information is not provided on the referenced content. Contact 9to5
   Seating directly for quotes or product-specific pricing.
-updated_at: 2025-12-23 09:31
+brand_logo_url: null
+updated_at: 2026-04-04 23:43

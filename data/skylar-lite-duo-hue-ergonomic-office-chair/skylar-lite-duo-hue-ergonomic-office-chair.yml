@@ -4,13 +4,9 @@ description: The Skylar-Lite Duo Hue Ergonomic Office Chair combines modern
   for home offices. Its mesh back promotes airflow, keeping users cool during
   long work sessions.
 source_url: https://eurekaergonomic.com/collections/chairs-flash-sale?srsltid=AfmBOoqa3Bj6cSY1tZ2xlheBXt38TWzb74qgWavLtvzvx_qGe6KXeLnQ
-featured: true
-brand: onyx
-brand_logo_url: https://www.example.com/brand-logos/onyx-logo.png
-images:
-  - https://www.example.com/images/skylar-lite-ergonomic-office-chair.png
-category: chair-accessories
+category: Chair Accessories
 tags: []
+featured: true
 markdown: |-
   ## Skylar-Lite Duo Hue Ergonomic Office Chair
 
@@ -40,4 +36,8 @@ markdown: |-
 
   ### Note
   This product is featured for its innovative design and ergonomic benefits, making it a top choice for anyone seeking comfort and style in their home office setup.
-updated_at: 2025-12-16 06:23
+brand: onyx
+brand_logo_url: https://www.example.com/brand-logos/onyx-logo.png
+images:
+  - https://www.example.com/images/skylar-lite-ergonomic-office-chair.png
+updated_at: 2026-04-04 23:43

@@ -6,13 +6,9 @@ description: A mid-range drafting chair designed for high desks and
   option for extended computer work at elevated surfaces, though not regarded as
   best-in-class for the price.
 source_url: https://www.wired.com/gallery/best-office-chairs/
-featured: false
-brand: hon
-brand_logo_url: null
-images:
-  - https://media.wired.com/photos/68af75ee52be2b76ffa4c01c/master/w_1600%2Cc_limit/Hon%2520Altern%2520SOURCE%2520Julian%2520Chokkattu.png
-category: chair-accessories
+category: Chair Accessories
 tags: []
+featured: false
 markdown: |-
   ### Hon Nucleus Drafting Chair
 
@@ -39,4 +35,8 @@ markdown: |-
   #### Source
   - More details: <https://www.wired.com/gallery/best-office-chairs/>
   - Image: https://media.wired.com/photos/68af75ee52be2b76ffa4c01c/master/w_1600%2Cc_limit/Hon%2520Altern%2520SOURCE%2520Julian%2520Chokkattu.png
-updated_at: 2025-12-23 09:31
+brand: hon
+brand_logo_url: null
+images:
+  - https://media.wired.com/photos/68af75ee52be2b76ffa4c01c/master/w_1600%2Cc_limit/Hon%2520Altern%2520SOURCE%2520Julian%2520Chokkattu.png
+updated_at: 2026-04-04 23:43

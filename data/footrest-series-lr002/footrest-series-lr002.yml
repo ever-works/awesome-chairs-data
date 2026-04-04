@@ -3,14 +3,9 @@ description: The Footrest Series LR002 features a technological cloth design
   with an independent pocket spring cushion, offering superior comfort and
   support for prolonged sitting sessions.
 source_url: https://gtracing.co/fr/products/footrest-series-lr002
-featured: true
-brand: gt-racing
-brand_logo_url: https://example.com/logos/gtracing.png
-images:
-  - https://example.com/images/lr002_1.png
-  - https://example.com/images/lr002_2.png
-category: chair-accessories
+category: Chair Accessories
 tags: []
+featured: true
 markdown: >-
   # Footrest Series LR002
 
@@ -70,4 +65,9 @@ markdown: >-
 
   For more details or to purchase, visit the [official product
   page](https://gtracing.co/fr/products/footrest-series-lr002).
-updated_at: 2025-12-17 06:35
+brand: gt-racing
+brand_logo_url: https://example.com/logos/gtracing.png
+images:
+  - https://example.com/images/lr002_1.png
+  - https://example.com/images/lr002_2.png
+updated_at: 2026-04-04 23:43

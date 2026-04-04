@@ -3,18 +3,12 @@ description: A family of high-end, ergonomic office chairs by Herman Miller
   designed for long hours at a computer, featuring an automatically adjusting
   tilt and flexible frame for continuous support during all-day sitting.
 source_url: https://www.hermanmiller.com/products/seating/office-chairs/cosm-chairs/
-featured: false
-brand: herman-miller
-brand_logo_url: https://www.hermanmiller.com/content/dam/hermanmiller/img/logo/herman-miller-logo.png
-images:
-  - https://www.hermanmiller.com/content/dam/hermanmiller/na/product-images/cosm-chairs/herman-miller-cosm-chairs-aeron-blue-HMCOSM.jpg
-  - https://www.hermanmiller.com/content/dam/hermanmiller/na/product-images/cosm-chairs/herman-miller-cosm-chair-high-back-HMCOSM.jpg
-  - https://www.hermanmiller.com/content/dam/hermanmiller/na/product-images/cosm-chairs/herman-miller-cosm-chair-mid-back-HMCOSM.jpg
-category: ergonomic-office-chairs
+category: Ergonomic Office Chairs
 tags:
   - automatic-adjustment
   - ergonomic
   - premium
+featured: false
 markdown: >-
   # Cosm Chairs
 
@@ -101,4 +95,10 @@ markdown: >-
   Chairs. Pricing appears to be available via the online store or through
   specification/sales channels, but no concrete amounts are included in the
   given information.
-updated_at: 2025-12-26 08:37
+brand: herman-miller
+brand_logo_url: https://www.hermanmiller.com/content/dam/hermanmiller/img/logo/herman-miller-logo.png
+images:
+  - https://www.hermanmiller.com/content/dam/hermanmiller/na/product-images/cosm-chairs/herman-miller-cosm-chairs-aeron-blue-HMCOSM.jpg
+  - https://www.hermanmiller.com/content/dam/hermanmiller/na/product-images/cosm-chairs/herman-miller-cosm-chair-high-back-HMCOSM.jpg
+  - https://www.hermanmiller.com/content/dam/hermanmiller/na/product-images/cosm-chairs/herman-miller-cosm-chair-mid-back-HMCOSM.jpg
+updated_at: 2026-04-04 23:43

@@ -4,14 +4,9 @@ description: The World Upholstered Chair by Humanscale offers an advanced
   the iconic World Family collection, providing support and comfort for extended
   periods of sitting, suitable for both office and gaming environments.
 source_url: https://www.humanscale.com/products/seating/world-chair
-featured: false
-brand: humanscale
-brand_logo_url: https://www.humanscale.com/images/logo.png
-images:
-  - https://www.humanscale.com/images/products/world-chair/world-chair-1.jpg
-  - https://www.humanscale.com/images/products/world-chair/world-chair-2.jpg
-category: chair-accessories
+category: Chair Accessories
 tags: []
+featured: false
 markdown: >-
   ## Humanscale World Upholstered Chair
 
@@ -70,4 +65,9 @@ markdown: >-
   Chair, highlighting its main features and design benefits without any
   marketing fluff. For more detailed inquiries, visit the official [Humanscale
   website](https://www.humanscale.com/products/seating/world-chair).
-updated_at: 2025-12-13 05:58
+brand: humanscale
+brand_logo_url: https://www.humanscale.com/images/logo.png
+images:
+  - https://www.humanscale.com/images/products/world-chair/world-chair-1.jpg
+  - https://www.humanscale.com/images/products/world-chair/world-chair-2.jpg
+updated_at: 2026-04-04 23:43

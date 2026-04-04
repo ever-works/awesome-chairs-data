@@ -10,13 +10,9 @@ description: "The Humanscale Path is a compact, ergonomic computer and office
   upholstered in FormSense Eco Knit, a 100% post‑consumer recycled polyester
   textile that is cool, comfortable, and easy to clean."
 source_url: https://www.humanscale.com/products/task-chairs/path.cfm
-featured: true
-brand: humanscale
-brand_logo_url: null
-images:
-  - https://media.wired.com/photos/62b369ee79907f238941ad55/4:3/w_640%2Cc_limit/Humanscale-Path-SOURCE-Humanscale-Gear.jpg
-category: chair-accessories
+category: Chair Accessories
 tags: []
+featured: true
 markdown: |-
   ## Humanscale Path Chair
 
@@ -61,4 +57,8 @@ markdown: |-
 
   ### Source
   [Humanscale Path Chair — Product Page](https://www.humanscale.com/products/task-chairs/path.cfm)
-updated_at: 2025-12-23 09:31
+brand: humanscale
+brand_logo_url: null
+images:
+  - https://media.wired.com/photos/62b369ee79907f238941ad55/4:3/w_640%2Cc_limit/Humanscale-Path-SOURCE-Humanscale-Gear.jpg
+updated_at: 2026-04-04 23:43

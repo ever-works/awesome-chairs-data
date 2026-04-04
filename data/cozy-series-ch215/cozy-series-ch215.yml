@@ -3,14 +3,9 @@ description: The Cozy Series CH215 is an ergonomic gaming chair designed for
   comfort and support, featuring a sleek design and available at a competitive
   price.
 source_url: https://gtracing.com/?srsltid=AfmBOooIpWksIkqNdZdtFxcDi2UoJ8-KbmqKLA-lGx6ubwV3GrzGtpqn
-featured: true
-brand: gt-racing
-brand_logo_url: https://example.com/logos/gtracing.png
-images:
-  - https://example.com/images/ch215_1.png
-  - https://example.com/images/ch215_2.png
-category: chair-accessories
+category: Chair Accessories
 tags: []
+featured: true
 markdown: |-
   # Cozy Series CH215
 
@@ -35,4 +30,9 @@ markdown: |-
   ## Availability
   - **Featured Product**: Yes
   - **Source URL**: [Visit Product Page](https://gtracing.com/?srsltid=AfmBOooIpWksIkqNdZdtFxcDi2UoJ8-KbmqKLA-lGx6ubwV3GrzGtpqn)
-updated_at: 2025-12-17 06:35
+brand: gt-racing
+brand_logo_url: https://example.com/logos/gtracing.png
+images:
+  - https://example.com/images/ch215_1.png
+  - https://example.com/images/ch215_2.png
+updated_at: 2026-04-04 23:43

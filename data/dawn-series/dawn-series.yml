@@ -4,17 +4,12 @@ description: The DAWN Series by noblechairs offers sleek and modern gaming
   support for long gaming sessions or work hours, the DAWN Series focuses on
   functionality and ergonomic support.
 source_url: https://www.noblechairs.com/en-us/?srsltid=AfmBOorrQrDFLfkjNn2Xyn0-UzLXQt2xrLltFxm_q5x6i7XT0cqOJlGv
-featured: true
-brand: noblechairs
-brand_logo_url: https://img.noblechairs.com/logo/noblechairs-logo.png
-images:
-  - https://img.noblechairs.com/products/plp/gaming-chair-black-noblechairs-dawn.png
-  - https://img.noblechairs.com/products/plp/gaming-chair-tx-granite-noblechairs-dawn.png
-category: gaming-chairs
+category: Gaming Chairs
 tags:
   - modern
   - sleek
   - ergonomic
+featured: true
 markdown: |-
   # DAWN Series
 
@@ -49,4 +44,9 @@ markdown: |-
   - Ergonomic
 
   Discover the DAWN Series and elevate your gaming or working experience with noblechairs' commitment to quality and comfort.
-updated_at: 2025-12-14 06:04
+brand: noblechairs
+brand_logo_url: https://img.noblechairs.com/logo/noblechairs-logo.png
+images:
+  - https://img.noblechairs.com/products/plp/gaming-chair-black-noblechairs-dawn.png
+  - https://img.noblechairs.com/products/plp/gaming-chair-tx-granite-noblechairs-dawn.png
+updated_at: 2026-04-04 23:43

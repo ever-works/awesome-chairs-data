@@ -1,66 +1,63 @@
 name: Modway Articulate Ergonomic Mesh
-description: The Modway Articulate Ergonomic Mesh is an affordable office and
-  gaming chair that offers good comfort and breathability. It features
-  adjustable armrests and lumbar support, making it a suitable choice for those
-  who need a comfortable chair for work and occasional gaming. While it lacks
-  the extensive adjustability and features of premium gaming chairs, its price
-  point makes it an attractive option for budget-conscious buyers.
+description: Budget mesh office chair around $100–130 with a breathable mesh
+  back, padded seat, height-adjustable armrests, pneumatic height adjustment,
+  and a 200 lb weight capacity. Ideal for budget-conscious first-time buyers,
+  light-use home offices, and secondary desk setups where mesh ventilation at a
+  low price point is desired. While it offers essential adjustability and
+  reliable mesh airflow, it lacks the lumbar precision, seat depth
+  adjustability, and build longevity of the Steelcase Series 1 or Herman Miller
+  Sayl at 4–5x the price.
 source_url: https://www.amazon.com/Modway-Articulate-Ergonomic-Office-Chair/dp/B00S3JRJ0Y
-featured: true
-brand: modway
-brand_logo_url: /path/to/modway-logo.png
+category: Ergonomic Office Chairs
+tags:
+  - budget-friendly
+  - mesh
+  - adjustable-armrests
+featured: false
+markdown: >-
+  ## Overview
+
+
+  The Modway Articulate Ergonomic Mesh is a budget-friendly office chair
+  designed to offer comfort and breathability with a mesh back and padded seat.
+  It is an excellent choice for cost-conscious users seeking a lightweight,
+  adjustable office chair.
+
+
+  ## Features
+
+
+  - **Breathable Mesh Back**: Designed with a ventilated mesh panel for air
+  circulation and reduced heat buildup
+
+  - **Padded Seat**: Soft cushion for seated comfort
+
+  - **Adjustable Armrests**: Height-adjustable padded arms
+
+  - **Height Adjustment**: Pneumatic gas lift
+
+  - **Swivel Base**: Five-star base with smooth-rolling casters
+
+  - **Multiple Colors**: Available in a variety of color options
+
+
+  ## Specifications
+
+
+  - Weight Capacity: Up to 200 lbs
+
+  - Dimensions: 26"D x 26"W x 41.5"H
+
+  - Warranty: 1-year limited warranty
+
+
+  ## Pricing
+
+
+  Starting at approximately $109.99
+brand: Modway
+brand_logo_url: https://www.modwayfurniture.com/pub/media/logo/stores/1/default.png
 images:
   - https://images-na.ssl-images-amazon.com/images/I/71pVhNf1xML._AC_SL1500_.jpg
   - https://images-na.ssl-images-amazon.com/images/I/81pVhNf1xML._AC_SL1500_.jpg
-category: ergonomic-office-chairs
-tags:
-  - affordable
-  - breathable
-  - lumbar-support
-markdown: |-
-  # Modway Articulate Ergonomic Mesh
-
-  ![Modway Logo](/path/to/modway-logo.png)
-
-  ## Overview
-  The **Modway Articulate Ergonomic Mesh** is a budget-friendly office and gaming chair designed to offer comfort and breathability. It is an excellent choice for those seeking a cost-effective seating solution for work and gaming.
-
-  ![Modway Articulate Ergonomic Mesh](https://images-na.ssl-images-amazon.com/images/I/71pVhNf1xML._AC_SL1500_.jpg)
-
-  ## Features
-  - **Ergonomic Design**: The chair features ergonomic elements, including adjustable armrests and lumbar support, to enhance comfort during long hours of use.
-  - **Breathable Mesh Back**: Designed with a breathable mesh back to ensure air circulation and reduce heat buildup.
-  - **Swivel Base**: Equipped with a five-star base allowing for smooth movement and stability.
-  - **Adjustable Height**: The seat height can be adjusted to suit different desk heights and user preferences.
-  - **Reclining Positions**: Offers 2 to 3 reclining positions for added relaxation.
-  - **Durable Construction**: Made with quality materials, including fabric upholstery, ensuring durability.
-  - **Maximum Weight Capacity**: Supports up to 331 pounds, accommodating a variety of users.
-
-  ## Specifications
-  - **Brand**: Modway
-  - **Color**: Green
-  - **Dimensions**: 26"D x 26"W x 41.5"H
-  - **Item Weight**: 30 pounds
-  - **Model Number**: EEI-757-GRN
-  - **Assembly**: Assembly required
-
-  ## Additional Information
-  - **UPC**: 848387056803
-  - **ASIN**: B00S3JRJ0Y
-  - **Customer Reviews**: 4.0 out of 5 stars from 6,692 ratings
-
-  ## Pricing
-  For the latest pricing and purchase options, please visit the [product page](https://www.amazon.com/Modway-Articulate-Ergonomic-Office-Chair/dp/B00S3JRJ0Y).
-
-  ## Category
-  - Ergonomic Office Chairs
-
-  ## Tags
-  - Affordable
-  - Breathable
-  - Lumbar Support
-
-  ---
-
-  For more details or to make a purchase, visit [Modway Articulate Ergonomic Mesh on Amazon](https://www.amazon.com/Modway-Articulate-Ergonomic-Office-Chair/dp/B00S3JRJ0Y).
-updated_at: 2025-12-16 06:23
+updated_at: 2026-04-04 23:43

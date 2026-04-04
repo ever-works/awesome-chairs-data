@@ -4,18 +4,12 @@ description: Leap is Steelcase’s flagship ergonomic task chair designed for
   seat that glides as you recline, and customizable support for a wide range of
   body types and working styles—ideal for people who sit at a computer all day.
 source_url: https://www.steelcase.com/eu-en/products/office-chairs/leap/
-featured: true
-brand: steelcase
-brand_logo_url: https://dumy1g3ng547g.cloudfront.net/content/themes/steelcase/img/logo.svg
-images:
-  - https://images.steelcase.com/image/upload/c_fill,dpr_auto,q_70,h_656,w_1166/v1684770440/23-0206628.jpg
-  - https://images.steelcase.com/image/upload/c_fill,q_auto,f_auto,h_656,w_1166/v1684770440/23-0206628.jpg
-  - https://images.steelcase.com/image/upload/c_fill,q_auto,f_auto,h_656,w_1166/v1421747641/www.steelcase.com/eu-en/C6702_1600x900_20150120-100.jpg
-category: ergonomic-office-chairs
+category: Ergonomic Office Chairs
 tags:
   - ergonomic
   - adjustable
   - lumbar-support
+featured: true
 markdown: |-
   # Leap
 
@@ -106,4 +100,10 @@ markdown: |-
 
   ## Pricing
   Pricing information is not provided in the available content.
-updated_at: 2025-12-30 18:02
+brand: steelcase
+brand_logo_url: https://dumy1g3ng547g.cloudfront.net/content/themes/steelcase/img/logo.svg
+images:
+  - https://images.steelcase.com/image/upload/c_fill,dpr_auto,q_70,h_656,w_1166/v1684770440/23-0206628.jpg
+  - https://images.steelcase.com/image/upload/c_fill,q_auto,f_auto,h_656,w_1166/v1684770440/23-0206628.jpg
+  - https://images.steelcase.com/image/upload/c_fill,q_auto,f_auto,h_656,w_1166/v1421747641/www.steelcase.com/eu-en/C6702_1600x900_20150120-100.jpg
+updated_at: 2026-04-04 23:43

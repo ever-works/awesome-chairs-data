@@ -4,14 +4,9 @@ description: The Liberty Task Chair offers a unique form-sensing mesh technology
   Its sleek design and automatic recline mechanism make it an ideal choice for
   modern workspaces.
 source_url: https://www.humanscale.com/products/liberty-task-chair
-featured: false
-brand: humanscale
-brand_logo_url: https://www.humanscale.com/images/logo.png
-images:
-  - https://www.humanscale.com/images/products/liberty-task-chair-1.jpg
-  - https://www.humanscale.com/images/products/liberty-task-chair-2.jpg
-category: chair-accessories
+category: Chair Accessories
 tags: []
+featured: false
 markdown: >-
   # Liberty Task Chair
 
@@ -71,4 +66,9 @@ markdown: >-
 
 
   **Note**: Pricing information is not provided in the available content.
-updated_at: 2025-12-13 05:58
+brand: humanscale
+brand_logo_url: https://www.humanscale.com/images/logo.png
+images:
+  - https://www.humanscale.com/images/products/liberty-task-chair-1.jpg
+  - https://www.humanscale.com/images/products/liberty-task-chair-2.jpg
+updated_at: 2026-04-04 23:43

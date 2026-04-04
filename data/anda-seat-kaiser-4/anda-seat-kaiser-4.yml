@@ -4,14 +4,9 @@ description: The Anda Seat Kaiser 4 is a robust gaming chair designed for larger
   ergonomic features make it a popular choice among gamers seeking durability
   and style.
 source_url: https://www.andaseat.com/
-featured: true
-brand: anda-seat
-brand_logo_url: https://www.andaseat.com/logo.png
-images:
-  - https://www.andaseat.com/images/kaiser-4-1.png
-  - https://www.andaseat.com/images/kaiser-4-2.png
-category: chair-accessories
+category: Chair Accessories
 tags: []
+featured: true
 markdown: >-
   # Anda Seat Kaiser 4
 
@@ -58,4 +53,9 @@ markdown: >-
 
   *Note: All prices are subject to change and may vary based on promotions or
   offers available at the time of purchase.*
-updated_at: 2025-12-16 06:23
+brand: anda-seat
+brand_logo_url: https://www.andaseat.com/logo.png
+images:
+  - https://www.andaseat.com/images/kaiser-4-1.png
+  - https://www.andaseat.com/images/kaiser-4-2.png
+updated_at: 2026-04-04 23:43

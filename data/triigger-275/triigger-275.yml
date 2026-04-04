@@ -3,13 +3,9 @@ description: The Triigger 275 is a high-end gaming chair that supports users up
   to 350 lbs and 6'6" in height. It is part of the Triigger Line, known for its
   advanced ergonomic features and premium build quality.
 source_url: https://www.vertagear.com/products/gaming-series-triigger-line-275-gaming-chair
-featured: false
-brand: vertagear
-brand_logo_url: https://www.vertagear.com/logo.png
-images:
-  - https://www.vertagear.com/images/triigger275.jpg
-category: chair-accessories
+category: Chair Accessories
 tags: []
+featured: false
 markdown: |-
   # Triigger 275 Gaming Chair
 
@@ -56,4 +52,8 @@ markdown: |-
 
   ## Additional Information
   - **Source:** [Triigger 275 Product Page](https://www.vertagear.com/products/gaming-series-triigger-line-275-gaming-chair)
-updated_at: 2025-12-21 06:47
+brand: vertagear
+brand_logo_url: https://www.vertagear.com/logo.png
+images:
+  - https://www.vertagear.com/images/triigger275.jpg
+updated_at: 2026-04-04 23:43

@@ -3,14 +3,9 @@ description: Noblechairs designs premium gaming and office chairs with an
   emphasis on ergonomics, high-quality materials, and long-term comfort for
   people who spend many hours at a computer.
 source_url: https://www.noblechairs.com
-featured: false
-brand: noblechairs
-brand_logo_url: https://www.noblechairs.com/themes/noblechairs/frontend/dist/img/logo-noblechairs.svg
-images:
-  - https://www.noblechairs.com/media/53/4a/f5/1702562270/NBL-HRO-PU-BRD_Gallery_01.jpg
-  - https://www.noblechairs.com/media/90/51/f0/1702562269/NBL-HRO-PU-BRD_Gallery_02.jpg
-category: others
+category: Others
 tags: []
+featured: false
 markdown: >
   # Noblechairs
 
@@ -61,4 +56,9 @@ markdown: >
   The provided content does not list specific prices or pricing tiers. For
   current pricing and regional availability, visit the Noblechairs website and
   check each chair series or edition.
-updated_at: 2025-12-31 19:09
+brand: noblechairs
+brand_logo_url: https://www.noblechairs.com/themes/noblechairs/frontend/dist/img/logo-noblechairs.svg
+images:
+  - https://www.noblechairs.com/media/53/4a/f5/1702562270/NBL-HRO-PU-BRD_Gallery_01.jpg
+  - https://www.noblechairs.com/media/90/51/f0/1702562269/NBL-HRO-PU-BRD_Gallery_02.jpg
+updated_at: 2026-04-04 23:43

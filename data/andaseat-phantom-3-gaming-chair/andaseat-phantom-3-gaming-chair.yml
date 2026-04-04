@@ -5,17 +5,12 @@ description: The AndaSeat Phantom 3 is a high-quality gaming chair that offers
   of AndaSeat's premium line, providing a balance of aesthetics and
   functionality.
 source_url: https://www.andaseat.com/blogs/news/the-best-budget-gaming-chair
-featured: false
-brand: andaseat
-brand_logo_url: https://www.andaseat.com/logo.png
-images:
-  - https://www.andaseat.com/images/phantom-3-1.png
-  - https://www.andaseat.com/images/phantom-3-2.png
-category: gaming-chairs
+category: Gaming Chairs
 tags:
   - premium
   - stylish
   - functional
+featured: false
 markdown: >-
   ## **AndaSeat Phantom 3 Gaming Chair**
 
@@ -84,4 +79,9 @@ markdown: >-
   The AndaSeat Phantom 3 Gaming Chair is a testament to the brand's commitment
   to delivering high-quality products that enhance the gaming experience through
   superior design and functionality.
-updated_at: 2025-12-18 06:32
+brand: andaseat
+brand_logo_url: https://www.andaseat.com/logo.png
+images:
+  - https://www.andaseat.com/images/phantom-3-1.png
+  - https://www.andaseat.com/images/phantom-3-2.png
+updated_at: 2026-04-04 23:43

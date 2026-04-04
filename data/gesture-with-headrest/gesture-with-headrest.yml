@@ -2,12 +2,9 @@ name: Gesture with Headrest
 description: An upgraded Gesture ergonomic chair configuration that includes a
   headrest for additional neck support during long computer or gaming sessions.
 source_url: https://store.steelcase.com/seating/ergonomic-chairs/gesture-with-headrest
-featured: false
-brand: steelcase
-brand_logo_url: https://www.steelcase.com/content/themes/steelcase/assets/images/logos/steelcase-logo.svg
-images: null
-category: others
+category: Others
 tags: []
+featured: false
 markdown: >-
   # Gesture with Headrest
 
@@ -47,4 +44,6 @@ markdown: >-
   Pricing information and plan variants are not available in the provided
   content. Refer to the product page for current price and configuration
   options.
-updated_at: 2025-12-31 19:09
+brand: steelcase
+brand_logo_url: https://www.steelcase.com/content/themes/steelcase/assets/images/logos/steelcase-logo.svg
+updated_at: 2026-04-04 23:43

@@ -3,14 +3,9 @@ description: The Razer Enki is designed for all-day comfort with optimized
   weight distribution to minimize pressure and sitting fatigue. It's perfect for
   long hours of gaming or work, providing a comfortable seating experience.
 source_url: https://www.razer.com/gaming-chairs/razer-enki
-featured: true
-brand: razer
-brand_logo_url: https://assets.razerzone.com/razer-logo.png
-images:
-  - https://assets.razerzone.com/enki-image1.png
-  - https://assets.razerzone.com/enki-image2.png
-category: chair-accessories
+category: Chair Accessories
 tags: []
+featured: true
 markdown: >-
   # Razer Enki
 
@@ -69,4 +64,9 @@ markdown: >-
 
   For more information, visit the [Razer Enki product
   page](https://www.razer.com/gaming-chairs/razer-enki).
-updated_at: 2025-12-13 05:58
+brand: razer
+brand_logo_url: https://assets.razerzone.com/razer-logo.png
+images:
+  - https://assets.razerzone.com/enki-image1.png
+  - https://assets.razerzone.com/enki-image2.png
+updated_at: 2026-04-04 23:43

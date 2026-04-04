@@ -1,47 +1,51 @@
 name: Sihoo M56B Ergonomic Chair
-description: The Sihoo M56B is designed to provide optimal comfort and support
-  for those who spend long hours sitting. It features an ergonomic design that
-  promotes healthy posture and reduces strain, making it ideal for both work and
-  gaming environments.
-source_url: https://sa.sihoo.com/products/sihoo-m56b-office-chair?srsltid=AfmBOopIQ1RriSkaWRsr3wekj1QL2dE0ZVgzq3grOAcgB39SQ4izxkEe
+description: The Sihoo M56B is a budget-friendly ergonomic office chair
+  featuring a breathable mesh backrest, adjustable lumbar support, 3D armrests,
+  and a high-back frame with integrated headrest for 6–8 hour desk sessions
+  rated up to 300 lbs. Designed for WFH and gaming setups where comprehensive
+  adjustability is needed at entry-level pricing. Compared to the Steelcase
+  Leap's premium LiveBack and the Herman Miller Aeron's PostureFit, it offers
+  simpler mesh-based support with headrest and arm controls at roughly
+  $180–$250.
+source_url: https://sa.sihoo.com/products/sihoo-m56b-office-chair
+category: Ergonomic Office Chairs
+tags:
+  - high-back
+  - mesh-back
+  - budget
 featured: true
-brand: sihoo
-brand_logo_url: https://www.sihoooffice.com/logo.png
+markdown: >-
+  ## Sihoo M56B Ergonomic Chair
+
+
+  ### Features
+
+  - **High-back mesh design**: Comprehensive back and shoulder support
+
+  - **Adjustable lumbar support**: Customizable lower-back alignment
+
+  - **Integrated headrest**: Height and angle adjustment for neck support
+
+  - **3D armrests**: Height, depth, and angle control
+
+  - **Breathable mesh**: Airflow for extended sessions
+
+  - **Tilt mechanism**: Standard recline with tension control
+
+
+  ### Specifications
+
+  - Weight Capacity: 300 lbs
+
+
+  ### Pricing
+
+  Approximately $180–$250. Visit the [Sihoo M56B
+  page](https://sa.sihoo.com/products/sihoo-m56b-office-chair) for current
+  pricing.
+brand: Sihoo
+brand_logo_url: https://sihoooffice.com/cdn/shop/files/d1163c6c79dbd29abd30e0d32a5b83d8_973bd250-6b12-4af6-bbd8-f688190aad72.png?v=1649489425&width=240
 images:
-  - https://www.sihoooffice.com/images/sihoo-m56b-1.png
-  - https://www.sihoooffice.com/images/sihoo-m56b-2.png
-category: chair-accessories
-tags: []
-markdown: |-
-  ### Sihoo M56B Ergonomic Chair
-
-  ![Sihoo M56B Ergonomic Chair](https://www.sihoooffice.com/images/sihoo-m56b-1.png)
-
-  #### Overview
-  The **Sihoo M56B Ergonomic Chair** is crafted to offer exceptional comfort and support for individuals who spend extensive hours seated, whether in a work or gaming environment. Its ergonomic design is specifically focused on promoting healthy posture and minimizing physical strain.
-
-  #### Features
-  - **Ergonomic Design:** Tailored to encourage proper posture and reduce strain on the back and neck.
-  - **Adjustable Components:** Includes adjustable armrests, seat height, and backrest for personalized comfort.
-  - **Breathable Material:** Constructed with breathable mesh fabric to enhance air circulation, keeping you cool during long sessions.
-  - **Sturdy Base:** Equipped with a durable base and smooth-rolling casters for stability and mobility.
-  - **Lumbar Support:** Integrated lumbar support to alleviate lower back pressure.
-  - **High-Back Support:** Offers comprehensive support to the entire back, including the shoulders and head.
-
-  #### Brand
-  - **Brand Name:** Sihoo
-  - ![Brand Logo](https://www.sihoooffice.com/logo.png)
-
-  #### Images
-  - ![Image 1](https://www.sihoooffice.com/images/sihoo-m56b-1.png)
-  - ![Image 2](https://www.sihoooffice.com/images/sihoo-m56b-2.png)
-
-  #### Source
-  For more information, visit the [Sihoo M56B product page](https://sa.sihoo.com/products/sihoo-m56b-office-chair?srsltid=AfmBOopIQ1RriSkaWRsr3wekj1QL2dE0ZVgzq3grOAcgB39SQ4izxkEe).
-
-  #### Category
-  - **Category:** Chair Accessories
-
-  #### Tags
-  - Currently, no specific tags are associated with this product.
-updated_at: 2025-12-13 05:58
+  - https://sihoooffice.com/cdn/shop/files/M56B-Ergonomic-Office-Chair_1.webp
+  - https://sihoooffice.com/cdn/shop/files/M56B-Ergonomic-Office-Chair_2.webp
+updated_at: 2026-04-04 23:43

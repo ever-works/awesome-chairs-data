@@ -3,12 +3,9 @@ description: The Sihoo Doro Series of high-performance ergonomic chairs,
   engineered for intensive computer work with advanced adjustability and
   high-tech styling suitable for both office and gaming setups.
 source_url: https://sihoooffice.com/collections/doro-series
-featured: true
-brand: sihoo
-brand_logo_url: null
-images: null
-category: chair-accessories
+category: Chair Accessories
 tags: []
+featured: true
 markdown: |-
   # Sihoo Doro Series Ergonomic Chairs
 
@@ -50,4 +47,6 @@ markdown: |-
   | Sihoo C300 Pro Ergonomic Office Chair with Seat Depth for Long Sitting| $359.99           | $789.99       | Unavailable |
   | Sihoo Doro S300 “Gravity-Defying” Ergonomic Chair for Premium Comfort | $599.99           | $999.99       | Unavailable |
   | Sihoo S100 Dynamic Ergonomic Office Chair with Lumbar Support         | $299.99           | $499.99       | Unavailable |
-updated_at: 2025-12-23 09:31
+brand: sihoo
+brand_logo_url: null
+updated_at: 2026-04-04 23:43

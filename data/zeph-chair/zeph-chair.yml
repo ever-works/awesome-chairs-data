@@ -4,12 +4,9 @@ description: The Herman Miller Zeph Chair is an ergonomic task and side chair
   seat-and-back shell with optional seat pad for comfort at home offices and
   workstations.
 source_url: https://store.hermanmiller.com/office-chairs-home-office/zeph-multipurpose-chair/2537105.html?lang=en_US
-featured: true
-brand: herman-miller
-brand_logo_url: null
-images: null
-category: chair-accessories
+category: Chair Accessories
 tags: []
+featured: true
 markdown: |-
   # Zeph Chair
 
@@ -35,4 +32,6 @@ markdown: |-
 
   ## Source
   - Official product page: https://store.hermanmiller.com/office-chairs-home-office/zeph-multipurpose-chair/2537105.html?lang=en_US
-updated_at: 2025-12-23 09:31
+brand: herman-miller
+brand_logo_url: null
+updated_at: 2026-04-04 23:43

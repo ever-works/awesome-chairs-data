@@ -4,13 +4,9 @@ description: The Sitmatic GoodFit Mesh Back chair is designed to adapt to the
   promotes airflow, while the standard seat ensures a comfortable sitting
   experience for long hours.
 source_url: https://www.officechairsusa.com/sitmatic-goodfit-mesh-back-with-standard-seat/
-featured: false
-brand: sitmatic
-brand_logo_url: /path/to/sitmatic-logo.png
-images:
-  - https://cdn11.bigcommerce.com/s-lpku7oc/stencil/e2ffdcc0-5522-013e-75ce-268ccf9b665c/e/dc501ef0-b9d3-013e-70a3-3a6e55e893d9/img/loading.svg
-category: chair-accessories
+category: Chair Accessories
 tags: []
+featured: false
 markdown: |-
   # Sitmatic GoodFit Mesh Back Chair
 
@@ -46,4 +42,8 @@ markdown: |-
   For more details or to customize your chair, visit the [Sitmatic GoodFit Mesh Back Chair product page](https://www.officechairsusa.com/sitmatic-goodfit-mesh-back-with-standard-seat/).
 
   ![Chair Image](https://cdn11.bigcommerce.com/s-lpku7oc/stencil/e2ffdcc0-5522-013e-75ce-268ccf9b665c/e/dc501ef0-b9d3-013e-70a3-3a6e55e893d9/img/loading.svg)
-updated_at: 2025-12-13 05:58
+brand: sitmatic
+brand_logo_url: /path/to/sitmatic-logo.png
+images:
+  - https://cdn11.bigcommerce.com/s-lpku7oc/stencil/e2ffdcc0-5522-013e-75ce-268ccf9b665c/e/dc501ef0-b9d3-013e-70a3-3a6e55e893d9/img/loading.svg
+updated_at: 2026-04-04 23:43

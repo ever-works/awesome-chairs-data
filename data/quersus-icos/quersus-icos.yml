@@ -4,17 +4,12 @@ description: The Quersus Icos is a distinctive gaming chair with a design
   with firm sculpting, catering to users who prefer a more structured seating
   experience.
 source_url: https://www.quersus.com/art3_quersus-chair-icos-edition-one-uhl.html
-featured: false
-brand: quersus
-brand_logo_url: https://www.quersus.com/images/quersus-logo.png
-images:
-  - https://www.quersus.com/images/icos-1-1-image1.png
-  - https://www.quersus.com/images/icos-1-1-image2.png
-category: gaming-chairs
+category: Gaming Chairs
 tags:
   - gaming
   - structured
   - distinctive-design
+featured: false
 markdown: >-
   # Quersus Icos Gaming Chair
 
@@ -73,4 +68,9 @@ markdown: >-
 
   The Quersus Icos is not only a chair but a statement piece for any gaming
   setup, offering a blend of cutting-edge design and practical features.
-updated_at: 2025-12-17 06:35
+brand: quersus
+brand_logo_url: https://www.quersus.com/images/quersus-logo.png
+images:
+  - https://www.quersus.com/images/icos-1-1-image1.png
+  - https://www.quersus.com/images/icos-1-1-image2.png
+updated_at: 2026-04-04 23:43

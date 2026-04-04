@@ -4,14 +4,9 @@ description: The Kaiser 3 Pro Gaming Chair by AndaSeat is engineered to boost
   professionals, it helps alleviate back pain and wrist discomfort, ensuring
   users can maintain focus and comfort during extended periods of use.
 source_url: https://www.andaseat.com/blogs/news/why-ergonomics-matter-boost-performance-with-the-kaiser-3-pro-gaming-chair
-featured: false
-brand: andaseat
-brand_logo_url: https://www.andaseat.com/logo.png
-images:
-  - https://www.andaseat.com/images/kaiser-3-pro-1.png
-  - https://www.andaseat.com/images/kaiser-3-pro-2.png
-category: chair-accessories
+category: Chair Accessories
 tags: []
+featured: false
 markdown: |-
   ## AndaSeat Kaiser 3 Pro Gaming Chair
 
@@ -39,4 +34,9 @@ markdown: |-
   - **Brand**: AndaSeat
 
   For more details, visit the [official website](https://www.andaseat.com/blogs/news/why-ergonomics-matter-boost-performance-with-the-kaiser-3-pro-gaming-chair).
-updated_at: 2025-12-17 06:35
+brand: andaseat
+brand_logo_url: https://www.andaseat.com/logo.png
+images:
+  - https://www.andaseat.com/images/kaiser-3-pro-1.png
+  - https://www.andaseat.com/images/kaiser-3-pro-2.png
+updated_at: 2026-04-04 23:43

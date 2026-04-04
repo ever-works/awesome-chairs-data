@@ -5,17 +5,12 @@ description: The X3 Management Office Chair is designed for those who spend long
   for optimal comfort. Available in multiple colors, this chair combines style
   with functionality, making it a top choice for professionals.
 source_url: https://www.xchair.com/products/x3-atr-management-office-chair?variant=44508921921818
-featured: true
-brand: x-chair
-brand_logo_url: https://www.xchair.com/logo.png
-images:
-  - https://www.xchair.com/images/x3-management-office-chair-1.jpg
-  - https://www.xchair.com/images/x3-management-office-chair-2.jpg
-category: ergonomic-office-chairs
+category: Ergonomic Office Chairs
 tags:
   - ergonomic
   - dynamic-support
   - stylish
+featured: true
 markdown: |-
   ## X3 Management Office Chair
 
@@ -58,4 +53,9 @@ markdown: |-
   ---
 
   This markdown summary provides a concise overview of the **X3 Management Office Chair**, highlighting its ergonomic features, available options, and price details, ensuring you have all the necessary information to consider this chair for your office setup.
-updated_at: 2025-12-18 06:32
+brand: x-chair
+brand_logo_url: https://www.xchair.com/logo.png
+images:
+  - https://www.xchair.com/images/x3-management-office-chair-1.jpg
+  - https://www.xchair.com/images/x3-management-office-chair-2.jpg
+updated_at: 2026-04-04 23:43

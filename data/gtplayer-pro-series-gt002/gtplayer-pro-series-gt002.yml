@@ -1,49 +1,51 @@
 name: GTPLAYER Pro Series GT002
-description: The GTPLAYER Pro Series GT002 is a premium gaming chair designed
-  for comfort and durability, perfect for long hours of gaming or office work.
-  It features ergonomic design elements, adjustable armrests, and a high
-  backrest to support your posture.
+description: Mid-range gaming chair at approximately $150–180 with PU leather
+  upholstery, 4D adjustable armrests, removable lumbar and neck support pillows,
+  high-density foam cushioning, 90°–155° recline, and a ~300 lb weight capacity.
+  Designed for first-time gaming chair buyers and budget-conscious home office
+  workers who want advanced adjustability without premium pricing. At roughly
+  one-third the cost of the Secretlab Titan Evo, it includes 4D armrests rarely
+  found at this tier, though it trades the Titan's integrated lumbar system,
+  magnetic accessories, and premium build quality for a traditional design.
 source_url: https://gtplayer.com/collections/gaming-chair-1/products/pro-serie-gt002
-featured: true
-brand: gtplayer
+category: Gaming Chairs
+tags:
+  - budget-friendly
+  - 4d-armrests
+  - entry-level
+featured: false
+markdown: >-
+  ## Overview
+
+
+  The GTPLAYER Pro Series GT002 is a budget-friendly gaming chair offering
+  premium features like 4D armrests at an accessible price, ideal for first-time
+  buyers and secondary desk setups.
+
+
+  ## Features
+
+
+  - **4D Adjustable Armrests**: Height, angle, depth, and rotation adjustments
+
+  - **PU Leather Upholstery**: Durable, easy-to-clean surface
+
+  - **High-Density Foam**: Firm support for extended sessions
+
+  - **Removable Cushions**: Lumbar and neck pillow support
+
+  - **Reclining Function**: Up to 155° tilt with lock
+
+  - **Pneumatic Height Adjustment**: Standard gas lift
+
+
+  ## Pricing
+
+
+  Starting at approximately $159.99
+brand: GTPLAYER
 brand_logo_url: http://gtplayer.com/cdn/shop/files/logo_1024x1024.jpg?v=1659426424
 images:
   - https://gtplayer.com/cdn/shop/products/pro-serie-gt002_1.jpg
   - https://gtplayer.com/cdn/shop/products/pro-serie-gt002_2.jpg
-category: gaming-chairs
-tags:
-  - ergonomic
-  - durable
-  - adjustable
-markdown: |-
-  # GTPLAYER Pro Series GT002
-
-  ![GTPLAYER Pro Series GT002](https://gtplayer.com/cdn/shop/products/pro-serie-gt002_1.jpg)
-
-  ## Overview
-  The **GTPLAYER Pro Series GT002** is a high-quality gaming chair crafted for extended comfort and robust support. Ideal for both gaming enthusiasts and professionals who spend long hours seated, this chair integrates a sleek design with practical features.
-
-  ## Features
-  - **Ergonomic Design:**  Tailored to support optimal posture, reducing strain during prolonged usage.
-  - **Adjustable Armrests:** Provides flexibility and personalized comfort.
-  - **High Backrest:** Ensures comprehensive back support, promoting good spinal health.
-  - **Durability:** Constructed with high-quality materials to withstand regular use.
-
-  ## Brand
-  - **Brand Name:** GTPLAYER
-  - **Brand Logo:** ![GTPLAYER Logo](http://gtplayer.com/cdn/shop/files/logo_1024x1024.jpg?v=1659426424)
-
-  ## Images
-  - ![Image 1](https://gtplayer.com/cdn/shop/products/pro-serie-gt002_1.jpg)
-  - ![Image 2](https://gtplayer.com/cdn/shop/products/pro-serie-gt002_2.jpg)
-
-  ## Category
-  - **Type:** Gaming Chairs
-  - **Tags:** Ergonomic, Durable, Adjustable
-
-  ## Additional Information
-  - **Source URL:** [GTPLAYER Pro Series GT002 Product Page](https://gtplayer.com/collections/gaming-chair-1/products/pro-serie-gt002)
-
-  ## Note
-  No pricing information is available for this product at the moment.
-updated_at: 2025-12-20 06:37
+updated_at: 2026-04-04 23:43

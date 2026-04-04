@@ -4,16 +4,12 @@ description: The HERO ST TX Anthracite is a reimagined version of the HERO
   breathable fabric, ergonomic features, adjustable lumbar support, 4D armrests,
   cold-foam upholstery, and XL casters, supporting up to 150 kg.
 source_url: https://www.noblechairs.com/en-us/hero-st-series/tx
-featured: true
-brand: noblechairs
-brand_logo_url: https://www.noblechairs.com/images/logo.png
-images:
-  - https://www.noblechairs.com/images/hero-st-tx-anthracite.jpg
-category: gaming-chairs
+category: Gaming Chairs
 tags:
   - ergonomic
   - breathable
   - 4d-armrests
+featured: true
 markdown: >-
   # HERO ST TX Anthracite
 
@@ -77,4 +73,8 @@ markdown: >-
 
   For more details, visit the [official product
   page](https://www.noblechairs.com/en-us/hero-st-series/tx).
-updated_at: 2025-12-18 06:32
+brand: noblechairs
+brand_logo_url: https://www.noblechairs.com/images/logo.png
+images:
+  - https://www.noblechairs.com/images/hero-st-tx-anthracite.jpg
+updated_at: 2026-04-04 23:43

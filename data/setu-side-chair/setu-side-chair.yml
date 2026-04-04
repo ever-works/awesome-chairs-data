@@ -4,12 +4,9 @@ description: The Herman Miller Setu Side Chair is a lightweight, flexible office
   kinematic spine that automatically adjusts to posture changes without complex
   mechanisms.
 source_url: https://www.hermanmiller.com/products/seating/side-chairs/setu-side-chair/
-featured: true
-brand: herman-miller
-brand_logo_url: null
-images: null
-category: chair-accessories
+category: Chair Accessories
 tags: []
+featured: true
 markdown: |
   # Setu Side Chair
 
@@ -50,4 +47,6 @@ markdown: |
   ## Additional Details
   - **Intended use:** Side / guest seating and computer or desk work contexts.  
   - **Brand:** Herman Miller
-updated_at: 2025-12-23 09:31
+brand: herman-miller
+brand_logo_url: null
+updated_at: 2026-04-04 23:43

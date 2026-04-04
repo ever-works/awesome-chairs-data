@@ -4,14 +4,9 @@ description: The Footrest Series GT905 is a tech fabric gaming chair featuring a
   designed to provide ergonomic support, making it perfect for long gaming
   sessions.
 source_url: https://comhoma.com/products/footrest-series-gt905
-featured: true
-brand: ace
-brand_logo_url: https://example.com/ace-logo.png
-images:
-  - https://example.com/images/gt905-1.png
-  - https://example.com/images/gt905-2.png
-category: chair-accessories
+category: Chair Accessories
 tags: []
+featured: true
 markdown: >-
   # Footrest Series GT905
 
@@ -82,4 +77,9 @@ markdown: >-
 
   **Note:** Further details such as pricing plans are not provided in the
   available content.
-updated_at: 2025-12-17 06:35
+brand: ace
+brand_logo_url: https://example.com/ace-logo.png
+images:
+  - https://example.com/images/gt905-1.png
+  - https://example.com/images/gt905-2.png
+updated_at: 2026-04-04 23:43

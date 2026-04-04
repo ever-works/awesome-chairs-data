@@ -4,14 +4,9 @@ description: The Razer Fujin is a mesh gaming chair line that offers
   extended gaming or work sessions. It features integrated lumbar support and
   adjustable arms.
 source_url: https://www.razer.com/gaming-chairs/razer-fujin
-featured: true
-brand: razer
-brand_logo_url: https://assets.razerzone.com/razer-logo.png
-images:
-  - https://assets.razerzone.com/fujin-image1.png
-  - https://assets.razerzone.com/fujin-image2.png
-category: chair-accessories
+category: Chair Accessories
 tags: []
+featured: true
 markdown: >-
   ## Razer Fujin
 
@@ -72,4 +67,9 @@ markdown: >-
 
   This markdown summary provides a concise overview of the Razer Fujin,
   highlighting its key features and offering links for further exploration.
-updated_at: 2025-12-13 05:58
+brand: razer
+brand_logo_url: https://assets.razerzone.com/razer-logo.png
+images:
+  - https://assets.razerzone.com/fujin-image1.png
+  - https://assets.razerzone.com/fujin-image2.png
+updated_at: 2026-04-04 23:43

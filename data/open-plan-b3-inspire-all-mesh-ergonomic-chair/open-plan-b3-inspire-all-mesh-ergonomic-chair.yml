@@ -5,16 +5,12 @@ description: The Open Plan B3 Inspire is an ergonomic chair featuring an
   suitable for long hours of work or gaming. The chair's modern design fits well
   in any office or gaming setup.
 source_url: https://www.officechairsusa.com/open-plan-b3-inspire-all-mesh-ergonomic-chair/
-featured: true
-brand: open-plan
-brand_logo_url: /path/to/openplan/logo.png
-images:
-  - https://cdn11.bigcommerce.com/s-lpku7oc/stencil/e2ffdcc0-5522-013e-75ce-268ccf9b665c/e/dc501ef0-b9d3-013e-70a3-3a6e55e893d9/img/loading.svg
-category: ergonomic-office-chairs
+category: Ergonomic Office Chairs
 tags:
   - mesh
   - lumbar-support
   - adjustable
+featured: true
 markdown: |-
   # Open Plan B3 Inspire All Mesh Ergonomic Chair
 
@@ -60,4 +56,8 @@ markdown: |-
   - [Visit Product Page](https://www.officechairsusa.com/open-plan-b3-inspire-all-mesh-ergonomic-chair/)
 
   With its comprehensive set of features, the Open Plan B3 Inspire is a robust choice for those seeking a high-performance ergonomic chair that doesn't compromise on style or affordability. Whether for work or play, this chair offers the support and comfort you need to stay focused and comfortable throughout the day.
-updated_at: 2025-12-13 05:58
+brand: open-plan
+brand_logo_url: /path/to/openplan/logo.png
+images:
+  - https://cdn11.bigcommerce.com/s-lpku7oc/stencil/e2ffdcc0-5522-013e-75ce-268ccf9b665c/e/dc501ef0-b9d3-013e-70a3-3a6e55e893d9/img/loading.svg
+updated_at: 2026-04-04 23:43

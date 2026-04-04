@@ -4,17 +4,12 @@ description: A classic series of Eames-designed chairs produced by Herman
   executive offices and stylish computer workspaces where users may sit for
   extended periods.
 source_url: https://www.hermanmiller.com/products/seating/office-chairs/eames-aluminum-group-chairs/
-featured: false
-brand: herman-miller
-brand_logo_url: https://www.hermanmiller.com/content/dam/hermanmiller/img/logo/herman-miller-logo.png
-images:
-  - https://www.hermanmiller.com/content/dam/hermanmiller/na/product-images/eames-aluminum-group-chairs/herman-miller-eames-aluminum-group-management-chair-HMEALU.jpg
-  - https://www.hermanmiller.com/content/dam/hermanmiller/na/product-images/eames-aluminum-group-chairs/herman-miller-eames-aluminum-group-executive-chair-HMEALU.jpg
-category: ergonomic-office-chairs
+category: Ergonomic Office Chairs
 tags:
   - executive
   - stylish
   - supportive
+featured: false
 markdown: |
   # Eames Aluminum Group Chairs
 
@@ -100,4 +95,9 @@ markdown: |
 
   Original product page: https://www.hermanmiller.com/products/seating/office-chairs/eames-aluminum-group-chairs/  
   Brand logo: https://www.hermanmiller.com/content/dam/hermanmiller/img/logo/herman-miller-logo.png
-updated_at: 2025-12-26 08:37
+brand: herman-miller
+brand_logo_url: https://www.hermanmiller.com/content/dam/hermanmiller/img/logo/herman-miller-logo.png
+images:
+  - https://www.hermanmiller.com/content/dam/hermanmiller/na/product-images/eames-aluminum-group-chairs/herman-miller-eames-aluminum-group-management-chair-HMEALU.jpg
+  - https://www.hermanmiller.com/content/dam/hermanmiller/na/product-images/eames-aluminum-group-chairs/herman-miller-eames-aluminum-group-executive-chair-HMEALU.jpg
+updated_at: 2026-04-04 23:43

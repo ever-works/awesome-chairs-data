@@ -4,12 +4,9 @@ description: A mesh office chair similar in style and function to the Staples
   need more room. It’s aimed at computer users who sit for long periods and want
   breathable mesh support in a roomier frame.
 source_url: https://www.staples.com/union-scale-flexfit-dexley-ergonomic-mesh-swivel-task-chair-black-un56946/product_24398921
-featured: true
-brand: staples
-brand_logo_url: "null"
-images: null
-category: chair-accessories
+category: Chair Accessories
 tags: []
+featured: true
 markdown: |-
   # Staples Dexley
 
@@ -31,4 +28,6 @@ markdown: |-
   - **Category:** Chair accessories / office chair
   - **Product type:** Ergonomic mesh swivel task chair
   - **Source:** [Staples product page](/https://www.staples.com/union-scale-flexfit-dexley-ergonomic-mesh-swivel-task-chair-black-un56946/product_24398921)
-updated_at: 2025-12-23 09:31
+brand: staples
+brand_logo_url: "null"
+updated_at: 2026-04-04 23:43

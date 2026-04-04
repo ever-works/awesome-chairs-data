@@ -3,14 +3,9 @@ description: X Rocker produces floor and pedestal-style gaming chairs, many with
   built-in audio and vibration, designed for console and PC gamers who spend
   long periods seated.
 source_url: https://xrockergaming.com/collections/gaming-chairs
-featured: false
-brand: x-rocker
-brand_logo_url: https://xrockergaming.com/cdn/shop/files/x-rocker-logo_200x.png
-images:
-  - https://xrockergaming.com/cdn/shop/files/x-rocker-pro-series-2-1-gaming-chair-01.jpg
-  - https://xrockergaming.com/cdn/shop/files/x-rocker-vortex-gaming-chair-02.jpg
-category: others
+category: Others
 tags: []
+featured: false
 markdown: |-
   # X Rocker Gaming Chairs
 
@@ -75,4 +70,9 @@ markdown: |-
   ## Source
 
   - **Collection page:** https://xrockergaming.com/collections/gaming-chairs
-updated_at: 2025-12-31 19:09
+brand: x-rocker
+brand_logo_url: https://xrockergaming.com/cdn/shop/files/x-rocker-logo_200x.png
+images:
+  - https://xrockergaming.com/cdn/shop/files/x-rocker-pro-series-2-1-gaming-chair-01.jpg
+  - https://xrockergaming.com/cdn/shop/files/x-rocker-vortex-gaming-chair-02.jpg
+updated_at: 2026-04-04 23:43

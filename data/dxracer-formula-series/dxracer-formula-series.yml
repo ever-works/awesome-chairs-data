@@ -4,17 +4,12 @@ description: The DXRacer FORMULA Series offers a range of models with unique
   excellent choice for gamers looking to make a statement while enjoying
   ergonomic support.
 source_url: https://www.dxracer.com/collections/gaming-chairs?srsltid=AfmBOoq2AAJqLRIcMgoNqB1Y4mgIdfzoADh4D-JYprBwxzn8D_Hpnezf
-featured: false
-brand: dxracer
-brand_logo_url: https://www.dxracer.com/logo.png
-images:
-  - https://nex-img.dxracer.cc/20001/a10e0935-5573-4ecc-af57-3628d797f2d6-1.png
-  - https://nex-img.dxracer.cc/20001/191d3fff-5933-4839-bf81-1087be56952a-1.png
-category: gaming-chairs
+category: Gaming Chairs
 tags:
   - stylish
   - ergonomic
   - vibrant
+featured: false
 markdown: |-
   # DXRacer FORMULA Series
 
@@ -38,4 +33,9 @@ markdown: |-
   - **Tags:** Stylish, Ergonomic, Vibrant
 
   For more details and to view the full range of models, visit the [DXRacer FORMULA Series page](https://www.dxracer.com/collections/gaming-chairs?srsltid=AfmBOoq2AAJqLRIcMgoNqB1Y4mgIdfzoADh4D-JYprBwxzn8D_Hpnezf).
-updated_at: 2025-12-19 06:33
+brand: dxracer
+brand_logo_url: https://www.dxracer.com/logo.png
+images:
+  - https://nex-img.dxracer.cc/20001/a10e0935-5573-4ecc-af57-3628d797f2d6-1.png
+  - https://nex-img.dxracer.cc/20001/191d3fff-5933-4839-bf81-1087be56952a-1.png
+updated_at: 2026-04-04 23:43

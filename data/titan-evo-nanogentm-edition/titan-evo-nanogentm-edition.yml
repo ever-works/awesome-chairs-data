@@ -1,18 +1,19 @@
 name: TITAN Evo NanoGen™ Edition
-description: The TITAN Evo NanoGen™ Edition incorporates next-generation
-  materials into Secretlab's flagship chair, offering enhanced durability and
-  comfort for extended use.
+description: The TITAN Evo NanoGen™ Edition upgrades Secretlab's flagship Titan
+  Evo with advanced NanoGen Hybrid Leatherette and extra Nanofoam Composite
+  cushioning for noticeably softer, silkier comfort during extended gaming or
+  streaming sessions. Ideal for users who prioritize plush seating over cost
+  savings, as it carries a premium over the standard Titan Evo. While the Razer
+  Iskur V2 offers comparable adaptive lumbar support, the NanoGen's velvety
+  material feel and hot-swappable 4D armrest cushion system provide a more
+  luxurious daily experience.
 source_url: https://www.secretlab.co/products/titan-evo-2022-series?upholstery=nanogen&sku=M07-E24NN-WHITE1R
-featured: false
-brand: secretlab
-brand_logo_url: https://www.secretlab.co/assets/logo.png
-images:
-  - https://www.secretlab.co/assets/titan-evo-nanogen.jpg
-category: ergonomic-office-chairs
+category: Ergonomic Office Chairs
 tags:
   - durable
   - comfortable
   - next-gen
+featured: false
 markdown: |-
   # TITAN Evo NanoGen™ Edition
 
@@ -37,4 +38,8 @@ markdown: |-
   - **Free Shipping:** Available for a limited time on select chairs, including the TITAN Evo NanoGen™ Edition, during the Christmas Sale.
 
   For more details, visit the [official product page](https://www.secretlab.co/products/titan-evo-2022-series?upholstery=nanogen&sku=M07-E24NN-WHITE1R).
-updated_at: 2025-12-20 06:37
+brand: secretlab
+brand_logo_url: https://www.secretlab.co/assets/logo.png
+images:
+  - https://www.secretlab.co/assets/titan-evo-nanogen.jpg
+updated_at: 2026-04-04 23:43

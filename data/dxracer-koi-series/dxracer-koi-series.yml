@@ -4,17 +4,12 @@ description: The DXRacer KOI Series is a premium gaming chair designed for
   desks. It features ergonomic support, adjustable armrests, and a high backrest
   to ensure proper posture during extended gaming or work sessions.
 source_url: https://www.dxracer.com/us/en-us/product/KOI
-featured: true
-brand: dxracer
-brand_logo_url: https://www.dxracer.com/us/en-us/images/logo.png
-images:
-  - https://nex-img.dxracer.cc/20001/0aedddfd-d8a9-45fa-8d13-95536e685c39-1.png
-  - https://nex-img.dxracer.cc/20001/0aedddfd-d8a9-45fa-8d13-95536e685c39-1.png
-category: gaming-chairs
+category: Gaming Chairs
 tags:
   - ergonomic
   - adjustable
   - high-back
+featured: true
 markdown: |-
   ## DXRacer KOI Series
 
@@ -41,4 +36,9 @@ markdown: |-
   - **Product Link**: [DXRacer KOI Series](https://www.dxracer.com/us/en-us/product/KOI)
 
   *Note: Pricing information is not available in the provided content.*
-updated_at: 2025-12-19 06:33
+brand: dxracer
+brand_logo_url: https://www.dxracer.com/us/en-us/images/logo.png
+images:
+  - https://nex-img.dxracer.cc/20001/0aedddfd-d8a9-45fa-8d13-95536e685c39-1.png
+  - https://nex-img.dxracer.cc/20001/0aedddfd-d8a9-45fa-8d13-95536e685c39-1.png
+updated_at: 2026-04-04 23:43

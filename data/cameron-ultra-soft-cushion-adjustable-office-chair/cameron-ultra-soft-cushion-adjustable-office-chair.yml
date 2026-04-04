@@ -3,14 +3,9 @@ description: The Cameron Ultra Soft Cushion Adjustable Office Chair is a
   best-seller known for its plush cushioning and adjustable features. Ideal for
   both home and office settings, it ensures comfort throughout the workday.
 source_url: https://eurekaergonomic.com/collections/best-seller-chairs?srsltid=AfmBOoo8Lp-d4usczl-LNkHlXEboHUN7TQGL_iXkBCkcuJAzS1U64kNI
-featured: true
-brand: awesome-chairs-co
-brand_logo_url: https://example.com/logos/awesome-chairs-co.png
-images:
-  - https://example.com/images/cameron-chair-1.png
-  - https://example.com/images/cameron-chair-2.png
-category: chair-accessories
+category: Chair Accessories
 tags: []
+featured: true
 markdown: |-
   ## Cameron Ultra Soft Cushion Adjustable Office Chair
 
@@ -43,4 +38,9 @@ markdown: |-
   ---
 
   This markdown summary provides a concise overview of the Cameron Ultra Soft Cushion Adjustable Office Chair, focusing on its features and essential details without delving into promotional language or unsolicited testimonials.
-updated_at: 2025-12-16 06:23
+brand: awesome-chairs-co
+brand_logo_url: https://example.com/logos/awesome-chairs-co.png
+images:
+  - https://example.com/images/cameron-chair-1.png
+  - https://example.com/images/cameron-chair-2.png
+updated_at: 2026-04-04 23:43

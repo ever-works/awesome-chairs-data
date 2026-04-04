@@ -4,16 +4,12 @@ description: The Eames Executive Aluminum Group Chair is an executive office
   designed to provide ergonomic comfort while maintaining a sophisticated
   appearance, suitable for high-level professional environments.
 source_url: https://www.pinterest.com/pin/442619469683891122/
-featured: false
-brand: herman-miller
-brand_logo_url: https://store.hermanmiller.com/on/demandware.static/-/Sites-HermanMiller-Library/default/dw2f5e5c5e/images/logo.png
-images:
-  - https://store.hermanmiller.com/on/demandware.static/-/Sites-HermanMiller-Library/default/dw2f5e5c5e/images/eames-executive-chair.jpg
-category: ergonomic-office-chairs
+category: Executive & Task Chairs
 tags:
   - executive
   - sophisticated
   - ergonomic
+featured: false
 markdown: |-
   # Eames Executive Aluminum Group Chair
 
@@ -44,4 +40,8 @@ markdown: |-
 
   ## Note
   This item is not currently featured and there is no pricing information available. For more details, please visit the [Herman Miller Official Website](https://store.hermanmiller.com).
-updated_at: 2025-12-16 06:23
+brand: herman-miller
+brand_logo_url: https://store.hermanmiller.com/on/demandware.static/-/Sites-HermanMiller-Library/default/dw2f5e5c5e/images/logo.png
+images:
+  - https://store.hermanmiller.com/on/demandware.static/-/Sites-HermanMiller-Library/default/dw2f5e5c5e/images/eames-executive-chair.jpg
+updated_at: 2026-04-04 23:43

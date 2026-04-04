@@ -4,17 +4,12 @@ description: The Noblechairs Hero is the best choice for larger individuals,
   lumbar support and a high backrest, ensuring comfort and proper posture for
   users of all sizes.
 source_url: https://www.noblechairs.com/en-us/chairs?srsltid=AfmBOorp3QeqclM320JzDqFql-WLjwziYjVW6O04XKNTbh64gcGGQSxM
-featured: true
-brand: noblechairs
-brand_logo_url: https://www.noblechairs.com/logo.png
-images:
-  - https://www.noblechairs.com/images/hero-1.jpg
-  - https://www.noblechairs.com/images/hero-2.jpg
-category: gaming-chairs
+category: Gaming Chairs
 tags:
   - spacious
   - lumbar-support
   - robust
+featured: true
 markdown: |-
   ## Noblechairs Hero
 
@@ -51,4 +46,9 @@ markdown: |-
 
   ### Source
   For more information, visit the [Noblechairs website](https://www.noblechairs.com/en-us/chairs?srsltid=AfmBOorp3QeqclM320JzDqFql-WLjwziYjVW6O04XKNTbh64gcGGQSxM).
-updated_at: 2025-12-18 06:32
+brand: noblechairs
+brand_logo_url: https://www.noblechairs.com/logo.png
+images:
+  - https://www.noblechairs.com/images/hero-1.jpg
+  - https://www.noblechairs.com/images/hero-2.jpg
+updated_at: 2026-04-04 23:43

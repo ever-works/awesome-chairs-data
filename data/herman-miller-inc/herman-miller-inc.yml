@@ -3,11 +3,9 @@ description: Herman Miller is an iconic office furniture brand best known for
   ergonomic computer chairs like the Aeron, Embody, and Mirra, designed to
   support all‑day sitting for intensive computer and creative work.
 source_url: https://www.hermanmiller.com
-featured: false
-brand_logo_url: null
-images: null
-category: chair-accessories
+category: Chair Accessories
 tags: []
+featured: false
 markdown: >-
   # Herman Miller Inc
 
@@ -83,4 +81,5 @@ markdown: >-
 
   - Current prices and available configurations are provided on the Herman
   Miller online store and through sales channels for business customers.
-updated_at: 2025-12-23 09:31
+brand_logo_url: null
+updated_at: 2026-04-04 23:43

@@ -3,17 +3,12 @@ description: The Blacklyte Kraken is a gaming chair that offers a unique design
   but falls short in terms of comfort and build quality, particularly for taller
   individuals.
 source_url: https://blacklyte.com/products/blacklyte-kraken-gaming-chair?variant=50189829439719
-featured: false
-brand: blacklyte
-brand_logo_url: /path/to/blacklyte-logo.png
-images:
-  - https://example.com/images/blacklyte-kraken-1.jpg
-  - https://example.com/images/blacklyte-kraken-2.jpg
-category: gaming-chairs
+category: Gaming Chairs
 tags:
   - gaming
   - unique-design
   - stylish
+featured: false
 markdown: |-
   ## Blacklyte Kraken
 
@@ -42,4 +37,9 @@ markdown: |-
   - [Product Page](https://blacklyte.com/products/blacklyte-kraken-gaming-chair?variant=50189829439719)
 
   Note: Pricing details were not available in the provided content.
-updated_at: 2025-12-17 06:35
+brand: blacklyte
+brand_logo_url: /path/to/blacklyte-logo.png
+images:
+  - https://example.com/images/blacklyte-kraken-1.jpg
+  - https://example.com/images/blacklyte-kraken-2.jpg
+updated_at: 2026-04-04 23:43

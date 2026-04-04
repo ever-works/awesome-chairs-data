@@ -4,13 +4,9 @@ description: The AMQ Zilo Ergonomic Task Chair features a sable mesh back and a
   3-way arms for added customization, making it suitable for various office
   settings.
 source_url: https://www.officechairsusa.com/amq-black-zilo-ergonomic-task-chair/
-featured: false
-brand: amq
-brand_logo_url: /path/to/amq-logo.png
-images:
-  - https://cdn11.bigcommerce.com/s-lpku7oc/stencil/e2ffdcc0-5522-013e-75ce-268ccf9b665c/e/dc501ef0-b9d3-013e-70a3-3a6e55e893d9/img/loading.svg
-category: chair-accessories
+category: Chair Accessories
 tags: []
+featured: false
 markdown: |-
   # AMQ Zilo Ergonomic Task Chair
 
@@ -42,4 +38,8 @@ markdown: |-
   - **Free Shipping**: Enjoy complimentary shipping on all orders.
 
   The AMQ Zilo Ergonomic Task Chair is a remarkable choice for those seeking a blend of comfort, style, and functionality in their office furniture.
-updated_at: 2025-12-13 05:58
+brand: amq
+brand_logo_url: /path/to/amq-logo.png
+images:
+  - https://cdn11.bigcommerce.com/s-lpku7oc/stencil/e2ffdcc0-5522-013e-75ce-268ccf9b665c/e/dc501ef0-b9d3-013e-70a3-3a6e55e893d9/img/loading.svg
+updated_at: 2026-04-04 23:43

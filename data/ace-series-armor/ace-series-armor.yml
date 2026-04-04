@@ -4,14 +4,9 @@ description: The Ace Series ARMOR is a high-quality gaming chair known for its
   making it a top choice for gamers and professionals alike. The chair is
   available at a reduced price, offering significant savings.
 source_url: https://gtracing.com/collections/ace-series?srsltid=AfmBOorRh3ekeTBLDSzR3Og9jJDvihWN3vv9uOYX4CaXW5QVKkbbjV94
-featured: true
-brand: ace
-brand_logo_url: https://example.com/ace-logo.png
-images:
-  - https://example.com/images/armor-1.png
-  - https://example.com/images/armor-2.png
-category: chair-accessories
+category: Chair Accessories
 tags: []
+featured: true
 markdown: |-
   ### Ace Series ARMOR
 
@@ -40,4 +35,9 @@ markdown: |-
   ---
 
   For more information and to view other products in the Ace Series, [click here](https://gtracing.com/collections/ace-series/products/ace-armor).
-updated_at: 2025-12-17 06:35
+brand: ace
+brand_logo_url: https://example.com/ace-logo.png
+images:
+  - https://example.com/images/armor-1.png
+  - https://example.com/images/armor-2.png
+updated_at: 2026-04-04 23:43

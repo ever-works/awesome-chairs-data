@@ -1,104 +1,68 @@
 name: Haworth Assure
-description: The Haworth Assure is an entry-level computer chair from a renowned
-  office furniture brand, Haworth. Known for its comfortable mesh backrest and
-  thick seat pad, this chair offers a 5-year warranty and free returns, making
-  it a reliable choice for those who sit all day. Despite its basic features,
-  such as height-adjustable arms and a simple synchro-tilt mechanism, it stands
-  out for its customer service and brand reputation.
-source_url: https://haworth.pxf.io/PyKn2X
-featured: true
-brand: haworth
-brand_logo_url: /path/to/haworth-logo.png
-images:
-  - https://haworth.pxf.io/PyKn2X/image1.jpg
-  - https://haworth.pxf.io/PyKn2X/image2.jpg
-category: others
-tags: []
+description: The Haworth Assure is an entry-level ergonomic task chair with a
+  breathable mesh backrest, molded synchro-tilt seat, adjustable arm height, and
+  fixed lumbar contour for standard 6–8 hour desk sessions rated up to 300 lbs.
+  Designed for budget-conscious corporate offices and WFH users who want
+  reliable Haworth construction without premium pricing. Compared to the Herman
+  Miller Aeron's advanced PostureFit SL and the Steelcase Leap's dynamic
+  LiveBack, it offers simpler, fixed-support ergonomics at roughly $280–$350.
+source_url: https://store.haworth.com/products/assure-chair
+category: Ergonomic Office Chairs
+tags:
+  - entry-level
+  - mesh-back
+  - budget
+featured: false
 markdown: >-
   ## Haworth Assure Office Chair
 
 
-  ![Haworth Logo](/path/to/haworth-logo.png)
-
-
-  ### Overview
-
-  The **Haworth Assure** is designed for the modern workday, offering superior
-  comfort and adjustability for those who spend long hours at their desks. Known
-  for its ergonomic features, it is a reliable choice for anyone seeking a
-  durable and comfortable seating solution.
-
-
   ### Features
 
-  - **Ergonomic Design**: 
-    - Center tension synchro-tilt mechanism with an upright back lock.
-    - Adjustable arm height.
-    - 3" seat height adjustment.
-    - Single-position back lock.
-    - Mid-back profile.
-  - **Comfort**:
-    - Generous seat cushion.
-    - Molded seat conforms to your body.
-    - Plenty of lumbar support.
-  - **Durability**: 
-    - 5-year warranty.
-    - Warrantied for people up to 300 lbs.
+  - **Mesh backrest** for breathability
 
-  ### Dimensions
+  - **Molded conforming seat cushion**
 
-  - **Overall Height**: 38.75"–42.75"
+  - **Center tension synchro-tilt** with upright back lock
 
-  - **Overall Width**: 26"
+  - **Height-adjustable arms**
 
-  - **Overall Depth**: 24"
+  - **Seat height adjustment**: 3" range
 
-  - **Seat Height**: 16"-20"
 
-  - **Seat Width**: 20"
+  ### Specifications
 
-  - **Seat Depth**: 16"–19"
+  - Weight Capacity: 300 lbs
 
-  - **Arm Height**: 7.5"-10"
+  - Overall Height: 38.75"–42.75"
+
+  - Overall Width: 26"
+
+  - Overall Depth: 24"
+
+  - Seat Height: 16"–20"
+
+  - Seat Width: 20"
+
+  - Seat Depth: 16"–19"
 
 
   ### Pricing
 
-  - **Standard Price**: $350.00
-
-  - **Discounted Price**: $280.00 (20% OFF)
+  Standard: ~$350 (often available at ~$280 with promotions).
 
 
-  ### Additional Information
+  ## Warranty & Returns
 
-  - **Shipping**: Free ground shipping.
+  - 5-year warranty, 30-day free returns
 
-  - **Returns**: Free returns if initiated within 30 days of order receipt.
-
-  - **Certification**: BIFMA Certified.
-
-  - **Trial**: 30-Day Trial available.
-
-  - **Assembly**: Some assembly required.
+  - Free ground shipping
 
 
-  ### Care Instructions
-
-  - Vacuum your chair as needed.
-
-  - For deeper cleaning, use a solution of lukewarm water and mild detergent,
-  apply gently, rinse with warm water, and dry with a soft cloth.
-
-
-  For further details, visit the [Haworth Assure
-  page](https://haworth.pxf.io/PyKn2X). 
-
-
-  ---
-
-
-  This markdown summary provides an extensive overview of the Haworth Assure
-  chair, covering its key features, dimensions, pricing, and additional
-  information to give potential buyers a comprehensive understanding of the
-  product.
-updated_at: 2025-12-22 06:56
+  For more details, visit [Haworth
+  Assure](https://store.haworth.com/products/assure-chair).
+brand: Haworth
+brand_logo_url: https://www.haworth.com/content/dam/haworth/na/en/images/logos/haworth-logo.png
+images:
+  - https://www.haworth.com/content/dam/haworth/na/en/images/products/seating/task/assure/assure-hero.jpg
+updated_at: 2026-04-04 23:43

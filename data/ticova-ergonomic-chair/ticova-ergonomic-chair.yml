@@ -5,14 +5,9 @@ description: The Ticova Ergonomic Chair is a budget-friendly option for those
   it a top choice for those looking for value under $200. Despite lacking a
   substantial warranty, it remains a strong contender for its price range.
 source_url: https://www.ticova.net/
-featured: true
-brand: ticova
-brand_logo_url: /path/to/ticova/logo.png
-images:
-  - https://example.com/ticova-image1.jpg
-  - https://example.com/ticova-image2.jpg
-category: others
+category: Others
 tags: []
+featured: true
 markdown: >-
   # Ticova Ergonomic Chair
 
@@ -77,4 +72,9 @@ markdown: >-
   The Ticova Ergonomic Chair stands out as a strong contender in its price
   range, offering essential features and adjustability for those prioritizing
   ergonomic comfort on a budget.
-updated_at: 2025-12-22 06:56
+brand: ticova
+brand_logo_url: /path/to/ticova/logo.png
+images:
+  - https://example.com/ticova-image1.jpg
+  - https://example.com/ticova-image2.jpg
+updated_at: 2026-04-04 23:43

@@ -3,16 +3,12 @@ description: The PL4800 is a robust ergonomic gaming chair that supports users
   up to 360 lbs and heights between 5'9" and 6'6". It is part of the 800 Series,
   known for its durability and comfort, catering to larger individuals.
 source_url: https://www.vertagear.com/products/pl4800-ergonomic-gaming-chair
-featured: false
-brand: vertagear
-brand_logo_url: https://www.vertagear.com/logo.png
-images:
-  - https://www.vertagear.com/images/pl4800.jpg
-category: gaming-chairs
+category: Gaming Chairs
 tags:
   - ergonomic
   - durable
   - robust
+featured: false
 markdown: >-
   # PL4800 Ergonomic Gaming Chair
 
@@ -69,4 +65,8 @@ markdown: >-
 
 
   ---
-updated_at: 2025-12-21 06:47
+brand: vertagear
+brand_logo_url: https://www.vertagear.com/logo.png
+images:
+  - https://www.vertagear.com/images/pl4800.jpg
+updated_at: 2026-04-04 23:43

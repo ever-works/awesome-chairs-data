@@ -3,14 +3,9 @@ description: EWin Racing produces ergonomic racing-style gaming and office
   chairs with thick cushioning, adjustable armrests, and high backrests designed
   for prolonged computer use.
 source_url: https://www.ewinracing.com
-featured: false
-brand: ewin-racing
-brand_logo_url: https://www.ewinracing.com/media/wysiwyg/ewin-logo.svg
-images:
-  - https://www.ewinracing.com/media/catalog/product/ewin-knight-series-gaming-chair-01.jpg
-  - https://www.ewinracing.com/media/catalog/product/ewin-champion-series-gaming-chair-02.jpg
-category: others
+category: Others
 tags: []
+featured: false
 markdown: >-
   # EWin Racing
 
@@ -111,4 +106,9 @@ markdown: >-
   Pricing and specific plans are not detailed in the provided content. Current
   prices and any promotions (such as sales or discounts) are available directly
   on the website: https://www.ewinracing.com
-updated_at: 2025-12-31 19:09
+brand: ewin-racing
+brand_logo_url: https://www.ewinracing.com/media/wysiwyg/ewin-logo.svg
+images:
+  - https://www.ewinracing.com/media/catalog/product/ewin-knight-series-gaming-chair-01.jpg
+  - https://www.ewinracing.com/media/catalog/product/ewin-champion-series-gaming-chair-02.jpg
+updated_at: 2026-04-04 23:43

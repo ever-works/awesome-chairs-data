@@ -3,11 +3,9 @@ description: Haworth is a global office furniture manufacturer offering advanced
   ergonomic task chairs like Fern and Zody, engineered to support long hours of
   computer use in modern workspaces.
 source_url: https://www.amazon.com/haworth-chair/s?k=haworth+chair&page=4&xpid=svyeModeUAgDc
-featured: false
-brand_logo_url: null
-images: null
-category: chair-accessories
+category: Chair Accessories
 tags: []
+featured: false
 markdown: >-
   # Haworth Inc.
 
@@ -61,4 +59,5 @@ markdown: >-
 
   Pricing is not specified in the provided content and varies by chair model and
   configuration.
-updated_at: 2025-12-23 09:31
+brand_logo_url: null
+updated_at: 2026-04-04 23:43

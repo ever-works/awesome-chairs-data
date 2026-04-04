@@ -3,17 +3,12 @@ description: The AndaSeat FlyQuest Gaming Chair is tailored for gamers who
   demand high adjustability and comfort. It features customizable armrests and
   ergonomic design, making it a favorite among professional gamers.
 source_url: https://www.andaseat.com/pages/andaseat-x-flyquest-gaming-chair-ultimate-comfort-style
-featured: true
-brand: andaseat
-brand_logo_url: https://www.andaseat.com/logo.png
-images:
-  - https://www.andaseat.com/images/flyquest-gaming-chair-1.png
-  - https://www.andaseat.com/images/flyquest-gaming-chair-2.png
-category: gaming-chairs
+category: Gaming Chairs
 tags:
   - adjustable
   - ergonomic
   - professional
+featured: true
 markdown: |-
   # AndaSeat FlyQuest Gaming Chair
 
@@ -46,4 +41,9 @@ markdown: |-
   ---
 
   For more information, visit the [official AndaSeat website](https://www.andaseat.com) and explore their range of products designed for gamers who prioritize comfort and functionality.
-updated_at: 2025-12-18 06:32
+brand: andaseat
+brand_logo_url: https://www.andaseat.com/logo.png
+images:
+  - https://www.andaseat.com/images/flyquest-gaming-chair-1.png
+  - https://www.andaseat.com/images/flyquest-gaming-chair-2.png
+updated_at: 2026-04-04 23:43

@@ -1,76 +1,39 @@
 name: Herman Miller Embody
-description: The Herman Miller Embody is the epitome of luxury in gaming chairs.
-  Known for its premium build and ergonomic design, it offers unparalleled
-  comfort and comes with a warranty that spans over a decade, making it a
-  worthwhile investment for those prioritizing ergonomics.
-source_url: https://eustore.hermanmiller.com/products/embody-gaming-chair
+description: Co-designed with a team of physicians and biomechanics experts, the
+  Embody draws from human-spine research to create its pixel-matrix backrest
+  that distributes weight evenly and promotes natural micro-movement across the
+  entire back surface. Its BackFit dial, adjustable arms, and seat-depth slider
+  accommodate a wide range of body types (up to 300 lbs), making it the go-to
+  choice for professionals, programmers, and gamers who demand all-day spinal
+  health. Starting at $1,400–$1,700 it sits at the top of Herman Miller's
+  premium tier, rivaling only the Aeron in price.
+source_url: https://www.hermanmiller.com/products/seating/office-chairs/embody-chair/
+category: Ergonomic Office Chairs
+tags:
+  - pixelated-back
+  - spinal-support
+  - premium
 featured: false
-brand: herman-miller
-brand_logo_url: https://www.hermanmiller.com/logo.png
-images:
-  - https://www.hermanmiller.com/images/embody-1.png
-  - https://www.hermanmiller.com/images/embody-2.png
-category: chair-accessories
-tags: []
-markdown: >-
-  ## Herman Miller Embody Gaming Chair
-
-
-  ![Herman Miller Logo](https://www.hermanmiller.com/logo.png)
-
-
-  ### Description
-
-  The Herman Miller Embody is a high-end gaming chair designed with an emphasis
-  on ergonomic support and premium comfort. It is renowned for its sophisticated
-  design and durable construction, making it an excellent choice for those who
-  spend extended hours gaming or working at a desk. The chair is backed by a
-  comprehensive warranty lasting over a decade, ensuring it remains a reliable
-  part of your setup for years.
-
+markdown: |-
+  ## Herman Miller Embody Chair
 
   ### Features
+  - **Pixel-matrix backrest**: Distributes weight evenly, reducing pressure on the spine and promoting healthy circulation
+  - **BackFit adjustment**: Allows the backrest to conform to the natural curve of the spine
+  - **Adjustable arms**: Height and width adjustable for personalized arm support
+  - **Seat depth adjustment**: Slides forward or backward to reduce leg pressure
+  - **Copper-infused foam layer** (in gaming variant): Improves heat dissipation
 
-  - **Ergonomic Design:** Engineered to support natural alignment, reducing
-  pressure on your spine and fostering a healthy sitting posture.
-
-  - **Premium Build Quality:** Constructed with high-quality materials that
-  provide both durability and a luxurious feel.
-
-  - **Adjustability:** Offers multiple adjustment options to cater to individual
-  preferences, enhancing comfort.
-
-  - **Long-lasting Warranty:** Comes with an extensive warranty period,
-  highlighting the brand's confidence in the product's longevity.
-
-
-  ### Images
-
-  - ![Embody Gaming Chair 1](https://www.hermanmiller.com/images/embody-1.png)
-
-  - ![Embody Gaming Chair 2](https://www.hermanmiller.com/images/embody-2.png)
-
+  ### Specifications
+  - Weight Capacity: 300 lbs
+  - Warranty: 12-year Herman Miller warranty
 
   ### Pricing
+  - Starting at approximately $1,400–$1,700 for standard models; gaming variants run higher.
 
-  - **Standard Price:** €2,001.00
-
-  - **Discounted Price:** €0.00 (100% off)
-
-
-  ### Colors Available
-
-  - Cyan
-
-  - Black
-
-  - Amethyst
-
-  - Galaxy
-
-
-  ### Purchase
-
-  For more details, visit the [Herman Miller Embody product
-  page](https://eustore.hermanmiller.com/products/embody-gaming-chair).
-updated_at: 2025-12-17 06:35
+  For more details, visit [Herman Miller Embody](https://www.hermanmiller.com/products/seating/office-chairs/embody-chair/).
+brand: Herman Miller
+brand_logo_url: https://www.hermanmiller.com/etc/designs/hm-master/clientlibs-common/resources/img/hm-logo.svg
+images:
+  - https://images.hermanmiller.com/products/seating/office-chairs/embody-chair/primary/01.jpg
+updated_at: 2026-04-04 23:43

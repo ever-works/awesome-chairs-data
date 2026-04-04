@@ -4,14 +4,9 @@ description: The HBADA E3 Air Ergonomic Office Chair offers a sleek design
   sitting periods. Available in multiple colors, it suits various office
   aesthetics.
 source_url: https://hbada.com/?srsltid=AfmBOoo_h9VcpNWyf77qzznzIzyP4fDslk3tUqfAJDgKZLARlzu5w24S
-featured: false
-brand: hbada
-brand_logo_url: https://hbada.com/logo.png
-images:
-  - https://hbada.com/cdn/shop/files/1_89cc6cea-31bb-424e-a9b0-99426a811d1c.jpg?v=1740132557&width=1200
-  - https://hbada.com/cdn/shop/files/4_e86d9eb2-f561-4afa-8b2a-dfdac8aa794a.jpg?v=1740132557&width=1200
-category: chair-accessories
+category: Chair Accessories
 tags: []
+featured: false
 markdown: |-
   ### HBADA E3 Air Ergonomic Office Chair
 
@@ -41,4 +36,9 @@ markdown: |-
   ---
 
   The HBADA E3 Air Ergonomic Office Chair is a versatile and stylish addition to any workspace, ensuring comfort and ergonomic support without compromising on design. It's a reliable choice for those seeking an effective solution to improve their office seating experience.
-updated_at: 2025-12-21 06:47
+brand: hbada
+brand_logo_url: https://hbada.com/logo.png
+images:
+  - https://hbada.com/cdn/shop/files/1_89cc6cea-31bb-424e-a9b0-99426a811d1c.jpg?v=1740132557&width=1200
+  - https://hbada.com/cdn/shop/files/4_e86d9eb2-f561-4afa-8b2a-dfdac8aa794a.jpg?v=1740132557&width=1200
+updated_at: 2026-04-04 23:43

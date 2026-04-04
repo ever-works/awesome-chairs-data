@@ -4,14 +4,9 @@ description: The X-Tech Executive Office Chair is a premium seating solution for
   superior ergonomic features and is available in Grey and Black Flex Mesh
   options, providing a sleek and modern look for any office environment.
 source_url: https://www.xchair.com/products/xtech-ultimate-executive-office-chair?variant=44508860350746
-featured: true
-brand: x-chair
-brand_logo_url: /path/to/x-chair-logo.png
-images:
-  - https://cld.accentuate.io/66995585306/1678743177943/XC_Flex_Mesh_Gray.jpg?v=1678743177943&options=w_24
-  - https://cld.accentuate.io/66995585306/1678743198133/XC_Flex_Mesh_Black.jpg?v=1678743198134&options=w_24
-category: chair-accessories
+category: Executive & Task Chairs
 tags: []
+featured: true
 markdown: |-
   ## X-Tech Executive Office Chair
 
@@ -41,4 +36,9 @@ markdown: |-
   ---
 
   This markdown summary provides an overview of the X-Tech Executive Office Chair, highlighting its key features, available configurations, and current pricing. The chair is designed to cater to the needs of executives and professionals, ensuring both functionality and style in any office setting. For further exploration, visit the product's online source.
-updated_at: 2025-12-13 05:58
+brand: x-chair
+brand_logo_url: /path/to/x-chair-logo.png
+images:
+  - https://cld.accentuate.io/66995585306/1678743177943/XC_Flex_Mesh_Gray.jpg?v=1678743177943&options=w_24
+  - https://cld.accentuate.io/66995585306/1678743198133/XC_Flex_Mesh_Black.jpg?v=1678743198134&options=w_24
+updated_at: 2026-04-04 23:43

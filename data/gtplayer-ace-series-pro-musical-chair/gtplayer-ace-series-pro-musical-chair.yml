@@ -3,17 +3,12 @@ description: The GTPLAYER ACE Series Pro Musical Chair combines comfort with
   entertainment, featuring built-in speakers for an immersive audio experience.
   Ideal for gamers who enjoy a multi-sensory environment.
 source_url: https://gtplayer.com/collections/gaming-chair-1/products/ace-series-pro
-featured: false
-brand: gtplayer
-brand_logo_url: http://gtplayer.com/cdn/shop/files/logo_1024x1024.jpg?v=1659426424
-images:
-  - https://gtplayer.com/cdn/shop/products/ace-series-pro_1.jpg
-  - https://gtplayer.com/cdn/shop/products/ace-series-pro_2.jpg
-category: gaming-chairs
+category: Gaming Chairs
 tags:
   - comfortable
   - immersive
   - entertainment
+featured: false
 markdown: |-
   # GTPLAYER ACE Series Pro Musical Chair
 
@@ -41,4 +36,9 @@ markdown: |-
 
   ---
   **Note:** Pricing information is not available. Please check the official website for the latest offers and pricing details.
-updated_at: 2025-12-20 06:37
+brand: gtplayer
+brand_logo_url: http://gtplayer.com/cdn/shop/files/logo_1024x1024.jpg?v=1659426424
+images:
+  - https://gtplayer.com/cdn/shop/products/ace-series-pro_1.jpg
+  - https://gtplayer.com/cdn/shop/products/ace-series-pro_2.jpg
+updated_at: 2026-04-04 23:43

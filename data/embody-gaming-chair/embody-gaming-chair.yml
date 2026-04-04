@@ -6,14 +6,9 @@ description: The Embody Gaming Chair is a collaboration between Herman Miller
   features an ergonomic design that promotes a healthy posture, ensuring comfort
   and reducing strain during long hours of gameplay.
 source_url: https://store.hermanmiller.com/gaming-chairs?lang=en_US
-featured: true
-brand: herman-miller
-brand_logo_url: https://www.hermanmiller.com/content/dam/hermanmiller/page-assets/en_us/home/herman-miller-logo.png
-images:
-  - https://store.hermanmiller.com/dw/image/v2/AAHX_PRD/on/demandware.static/-/Sites-hermanmiller-master-catalog/default/dw3c8e8b7d/images/large/embody-gaming-chair-black.jpg
-  - https://store.hermanmiller.com/dw/image/v2/AAHX_PRD/on/demandware.static/-/Sites-hermanmiller-master-catalog/default/dw3c8e8b7d/images/large/embody-gaming-chair-blue.jpg
-category: chair-accessories
+category: Chair Accessories
 tags: []
+featured: true
 markdown: |-
   # Embody Gaming Chair
 
@@ -50,4 +45,9 @@ markdown: |-
   ---
 
   *Explore the world of gaming chairs and discover the difference that ergonomic excellence can make in your gaming experience.*
-updated_at: 2025-12-13 05:58
+brand: herman-miller
+brand_logo_url: https://www.hermanmiller.com/content/dam/hermanmiller/page-assets/en_us/home/herman-miller-logo.png
+images:
+  - https://store.hermanmiller.com/dw/image/v2/AAHX_PRD/on/demandware.static/-/Sites-hermanmiller-master-catalog/default/dw3c8e8b7d/images/large/embody-gaming-chair-black.jpg
+  - https://store.hermanmiller.com/dw/image/v2/AAHX_PRD/on/demandware.static/-/Sites-hermanmiller-master-catalog/default/dw3c8e8b7d/images/large/embody-gaming-chair-blue.jpg
+updated_at: 2026-04-04 23:43

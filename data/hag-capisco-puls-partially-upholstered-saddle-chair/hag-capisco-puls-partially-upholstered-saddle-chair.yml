@@ -5,13 +5,9 @@ description: The HAG Capisco Puls is a versatile saddle chair designed to
   upholstered for added comfort and is available for express shipping, making it
   a convenient choice for those needing a quick setup.
 source_url: https://www.officechairsusa.com/hag-capisco-puls-partially-upholstered-saddle-chair-5-day-express-ship/
-featured: true
-brand: hag
-brand_logo_url: /path/to/hag/logo.png
-images:
-  - https://cdn11.bigcommerce.com/s-lpku7oc/stencil/e2ffdcc0-5522-013e-75ce-268ccf9b665c/e/dc501ef0-b9d3-013e-70a3-3a6e55e893d9/img/loading.svg
-category: chair-accessories
+category: Standing & Active Seating
 tags: []
+featured: true
 markdown: |-
   # HAG Capisco Puls Partially Upholstered Saddle Chair
 
@@ -45,4 +41,8 @@ markdown: |-
   ---
 
   This summary provides an overview of the HAG Capisco Puls chair's key features and benefits, emphasizing its ergonomic design and suitability for various environments.
-updated_at: 2025-12-13 05:58
+brand: hag
+brand_logo_url: /path/to/hag/logo.png
+images:
+  - https://cdn11.bigcommerce.com/s-lpku7oc/stencil/e2ffdcc0-5522-013e-75ce-268ccf9b665c/e/dc501ef0-b9d3-013e-70a3-3a6e55e893d9/img/loading.svg
+updated_at: 2026-04-04 23:43

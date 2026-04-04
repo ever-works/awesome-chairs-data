@@ -3,14 +3,9 @@ description: The Razer Clio is an ergonomic gaming and computer chair aimed at
   everyday PC users and gamers, offering comfort and support for extended
   sitting sessions at a more affordable price point.
 source_url: https://www.razer.com/gaming-chairs-accessories/razer-clio?srsltid=AfmBOoplkrKqxehmTTEdY8ByxedFexA7K04BTLP0-kHhVwpxmiCohhYs
-featured: false
-brand: razer
-brand_logo_url: https://assets3.razerzone.com/razer-web-store/default/logo-razer-store.svg
-images:
-  - https://medias-p1.phoenix.razer.com/sys-master-phoenix-images-container/hb3/h8f/9904339320862/clio-500x500.png
-  - https://assets3.razerzone.com/hQd4shjDFpq4nAjzPimkJlHUeMI=/1920x1280/https%3A%2F%2Fmedias-p1.phoenix.razer.com%2Fsys-master-phoenix-images-container%2Fhb3%2Fh8f%2F9904339320862%2Fclio-500x500.png
-category: others
+category: Others
 tags: []
+featured: false
 markdown: >
   # Razer Clio
 
@@ -114,4 +109,9 @@ markdown: >
   ## Pricing
 
   Pricing information is not provided in the supplied content.
-updated_at: 2025-12-31 19:09
+brand: razer
+brand_logo_url: https://assets3.razerzone.com/razer-web-store/default/logo-razer-store.svg
+images:
+  - https://medias-p1.phoenix.razer.com/sys-master-phoenix-images-container/hb3/h8f/9904339320862/clio-500x500.png
+  - https://assets3.razerzone.com/hQd4shjDFpq4nAjzPimkJlHUeMI=/1920x1280/https%3A%2F%2Fmedias-p1.phoenix.razer.com%2Fsys-master-phoenix-images-container%2Fhb3%2Fh8f%2F9904339320862%2Fclio-500x500.png
+updated_at: 2026-04-04 23:43

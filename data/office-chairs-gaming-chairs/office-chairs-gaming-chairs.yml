@@ -4,17 +4,9 @@ description: A curated collection of ergonomic office and gaming chairs from
   hours. The range focuses on posture support, comfort, and adjustability for
   work and gaming setups.
 source_url: https://eurekaergonomic.com/collections/ergonomic-office-desk-chairs
-featured: true
-brand: eureka-ergonomic
-brand_logo_url: null
-images:
-  - https://eurekaergonomic.com/cdn/shop/files/Office-Chair.jpg?format=webp&v=1711364279&width=300
-  - https://eurekaergonomic.com/cdn/shop/files/Aero_Banner_Banner-PC_275e7796-d672-46a6-8942-fcbe3d80930a.jpg?format=webp&v=1765350438&width=2000
-  - https://eurekaergonomic.com/cdn/shop/files/Aero_Banner_Banner-PC_2_06b2b166-27e8-416e-a547-f4ddb09b3590.jpg?format=webp&v=1765350438&width=2000
-  - https://eurekaergonomic.com/cdn/shop/files/Aero_BannerAero_Banner-PC_8a3bceff-05cf-4817-97c0-24fcc3950b2d.jpg?format=webp&v=1765350439&width=2000
-  - https://eurekaergonomic.com/cdn/shop/files/2_96800c70-1d22-4ff1-8844-186b224a451d.jpg?format=webp&v=1756692227&width=2000
-category: chair-accessories
+category: Chair Accessories
 tags: []
+featured: true
 markdown: |-
   # Office Chairs & Gaming Chairs
 
@@ -67,4 +59,12 @@ markdown: |-
   - https://eurekaergonomic.com/cdn/shop/files/Aero_Banner_Banner-PC_2_06b2b166-27e8-416e-a547-f4ddb09b3590.jpg?format=webp&v=1765350438&width=2000
   - https://eurekaergonomic.com/cdn/shop/files/Aero_BannerAero_Banner-PC_8a3bceff-05cf-4817-97c0-24fcc3950b2d.jpg?format=webp&v=1765350439&width=2000
   - https://eurekaergonomic.com/cdn/shop/files/2_96800c70-1d22-4ff1-8844-186b224a451d.jpg?format=webp&v=1756692227&width=2000
-updated_at: 2025-12-23 09:31
+brand: eureka-ergonomic
+brand_logo_url: null
+images:
+  - https://eurekaergonomic.com/cdn/shop/files/Office-Chair.jpg?format=webp&v=1711364279&width=300
+  - https://eurekaergonomic.com/cdn/shop/files/Aero_Banner_Banner-PC_275e7796-d672-46a6-8942-fcbe3d80930a.jpg?format=webp&v=1765350438&width=2000
+  - https://eurekaergonomic.com/cdn/shop/files/Aero_Banner_Banner-PC_2_06b2b166-27e8-416e-a547-f4ddb09b3590.jpg?format=webp&v=1765350438&width=2000
+  - https://eurekaergonomic.com/cdn/shop/files/Aero_BannerAero_Banner-PC_8a3bceff-05cf-4817-97c0-24fcc3950b2d.jpg?format=webp&v=1765350439&width=2000
+  - https://eurekaergonomic.com/cdn/shop/files/2_96800c70-1d22-4ff1-8844-186b224a451d.jpg?format=webp&v=1756692227&width=2000
+updated_at: 2026-04-04 23:43

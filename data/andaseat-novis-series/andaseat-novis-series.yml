@@ -4,19 +4,12 @@ description: The AndaSeat Novis Series is a premium gaming chair that combines
   features, and high-quality materials to ensure comfort and durability for
   gamers and professionals who spend long hours seated.
 source_url: https://www.andaseat.com/products/andaseat-novis-series-best-budget-ergonomic-gaming-chair
-featured: true
-brand: andaseat
-brand_logo_url: https://andaseat.com/logo.png
-images:
-  - https://andaseat.com/images/novis-series-1.png
-  - https://andaseat.com/images/novis-series-2.png
-  - https://www.andaseat.com/images/novis-1.png
-  - https://www.andaseat.com/images/novis-2.png
-category: gaming-chairs
+category: Gaming Chairs
 tags:
   - luxury
   - ergonomic
   - durable
+featured: true
 markdown: |-
   ## AndaSeat Novis Series
 
@@ -49,4 +42,11 @@ markdown: |-
   ![AndaSeat Novis Series](https://andaseat.com/images/novis-series-1.png)
 
   For more details or to make a purchase, visit the [official product page](https://www.andaseat.com/products/andaseat-novis-series-best-budget-ergonomic-gaming-chair).
-updated_at: 2025-12-19 06:33
+brand: andaseat
+brand_logo_url: https://andaseat.com/logo.png
+images:
+  - https://andaseat.com/images/novis-series-1.png
+  - https://andaseat.com/images/novis-series-2.png
+  - https://www.andaseat.com/images/novis-1.png
+  - https://www.andaseat.com/images/novis-2.png
+updated_at: 2026-04-04 23:43

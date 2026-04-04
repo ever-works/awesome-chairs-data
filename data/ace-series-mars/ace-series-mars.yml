@@ -3,14 +3,9 @@ description: The Ace Series MARS is a stylish gaming chair with a unique
   patchwork design and PU leather finish. It offers excellent comfort and
   support, making it a popular choice among gamers.
 source_url: https://gtracing.com/collections/ace-series?srsltid=AfmBOorHJARckHaHwf2_nA3NzhQ2OwgTSETBzB8rzri7O2l_pEJnCw_-
-featured: true
-brand: ace
-brand_logo_url: https://example.com/ace-logo.png
-images:
-  - https://example.com/images/mars-1.png
-  - https://example.com/images/mars-2.png
-category: chair-accessories
+category: Chair Accessories
 tags: []
+featured: true
 markdown: |-
   # Ace Series MARS Gaming Chair
 
@@ -38,4 +33,9 @@ markdown: |-
   ---
 
   **Note**: Pricing information is not available in the provided content. Please visit the product page for the latest pricing and availability details.
-updated_at: 2025-12-17 06:35
+brand: ace
+brand_logo_url: https://example.com/ace-logo.png
+images:
+  - https://example.com/images/mars-1.png
+  - https://example.com/images/mars-2.png
+updated_at: 2026-04-04 23:43

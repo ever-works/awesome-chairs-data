@@ -3,13 +3,9 @@ description: The Sitmatic GoodFit Mid Back chair is designed with a medium seat
   to accommodate various body types. Its ergonomic design ensures comfort and
   support for long hours of use.
 source_url: https://www.officechairsusa.com/sitmatic-goodfit-mid-back-with-medium-seat/
-featured: true
-brand: sitmatic
-brand_logo_url: /path/to/sitmatic/logo.png
-images:
-  - https://cdn11.bigcommerce.com/s-lpku7oc/stencil/e2ffdcc0-5522-013e-75ce-268ccf9b665c/e/dc501ef0-b9d3-013e-70a3-3a6e55e893d9/img/loading.svg
-category: chair-accessories
+category: Chair Accessories
 tags: []
+featured: true
 markdown: |-
   # Sitmatic GoodFit Mid Back Chair
 
@@ -51,4 +47,8 @@ markdown: |-
   ---
 
   For more information or to customize your chair, please refer to the [product page](https://www.officechairsusa.com/sitmatic-goodfit-mid-back-with-medium-seat/).
-updated_at: 2025-12-13 05:58
+brand: sitmatic
+brand_logo_url: /path/to/sitmatic/logo.png
+images:
+  - https://cdn11.bigcommerce.com/s-lpku7oc/stencil/e2ffdcc0-5522-013e-75ce-268ccf9b665c/e/dc501ef0-b9d3-013e-70a3-3a6e55e893d9/img/loading.svg
+updated_at: 2026-04-04 23:43

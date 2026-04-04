@@ -3,14 +3,9 @@ description: The RESPAWN SPIRE features a 3D knitted breathable mesh back with
   honeycomb support and seat cooling technology. It offers a 115-degree recline
   and flip-back arms for a customizable seating experience.
 source_url: https://www.respawnproducts.com/products/respawn-spire
-featured: true
-brand: respawn
-brand_logo_url: https://www.respawnproducts.com/logo.png
-images:
-  - https://www.respawnproducts.com/images/respawn-spire-1.png
-  - https://www.respawnproducts.com/images/respawn-spire-2.png
-category: others
+category: Others
 tags: []
+featured: true
 markdown: >-
   # RESPAWN SPIRE
 
@@ -81,4 +76,9 @@ markdown: >-
 
 
   ![Brand Logo](https://www.respawnproducts.com/logo.png)
-updated_at: 2025-12-22 06:56
+brand: respawn
+brand_logo_url: https://www.respawnproducts.com/logo.png
+images:
+  - https://www.respawnproducts.com/images/respawn-spire-1.png
+  - https://www.respawnproducts.com/images/respawn-spire-2.png
+updated_at: 2026-04-04 23:43

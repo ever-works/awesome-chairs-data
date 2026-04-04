@@ -4,16 +4,12 @@ description: The SL1800 is an ergonomic gaming chair designed for comfort and
   6'1" in height, making it suitable for a wide range of individuals. The chair
   is part of the 800 Series, known for its affordability and quality.
 source_url: https://www.vertagear.com/products/sl1800
-featured: false
-brand: vertagear
-brand_logo_url: https://www.vertagear.com/logo.png
-images:
-  - https://www.vertagear.com/images/sl1800.jpg
-category: gaming-chairs
+category: Gaming Chairs
 tags:
   - ergonomic
   - affordable
   - supportive
+featured: false
 markdown: >-
   # SL1800 Gaming Chair
 
@@ -72,4 +68,8 @@ markdown: >-
 
 
   ---
-updated_at: 2025-12-21 06:47
+brand: vertagear
+brand_logo_url: https://www.vertagear.com/logo.png
+images:
+  - https://www.vertagear.com/images/sl1800.jpg
+updated_at: 2026-04-04 23:43

@@ -4,14 +4,9 @@ description: The BTOD Akir Chair is a high-quality ergonomic office chair
   breathable mesh back, and a comfortable seat cushion, making it ideal for both
   office and gaming setups.
 source_url: https://www.btod.com/office-chairs.php?srsltid=AfmBOoqo8c9oSVrxU4Bl8xfm6uYmMEqwaQ-u4CBzN9JI0wonMcOnNGhI
-featured: true
-brand: btod
-brand_logo_url: https://www.btod.com/images/logo.png
-images:
-  - https://www.btod.com/images/akir-chair-1.png
-  - https://www.btod.com/images/akir-chair-2.png
-category: others
+category: Others
 tags: []
+featured: true
 markdown: |-
   ## BTOD Akir Chair
 
@@ -39,4 +34,9 @@ markdown: |-
   - No specific tags available.
 
   > Note: Pricing information is not available in the provided content.
-updated_at: 2025-12-22 06:56
+brand: btod
+brand_logo_url: https://www.btod.com/images/logo.png
+images:
+  - https://www.btod.com/images/akir-chair-1.png
+  - https://www.btod.com/images/akir-chair-2.png
+updated_at: 2026-04-04 23:43

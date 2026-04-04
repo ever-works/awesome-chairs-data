@@ -3,13 +3,9 @@ description: A collection of ergonomic office and computer chairs from Eureka
   Ergonomic, designed for people who sit at a desk all day. These chairs focus
   on long-session comfort with supportive design for work and gaming setups.
 source_url: https://eurekaergonomic.com/collections/office-chairs
-featured: true
-brand: eureka-ergonomic
-brand_logo_url: /
-images:
-  - https://eurekaergonomic.com/cdn/shop/files/2-Office-Chairs.png?v=1724396155&width=375
-category: chair-accessories
+category: Chair Accessories
 tags: []
+featured: true
 markdown: |
   # Eureka Ergonomic Office Chairs
 
@@ -69,4 +65,8 @@ markdown: |
   - **Royal II, Silicone & Leather Executive Ergonomic Office Chair**  
     - Current price: **$489.99**  
     - Original price: **$569.99**
-updated_at: 2025-12-23 09:31
+brand: eureka-ergonomic
+brand_logo_url: /
+images:
+  - https://eurekaergonomic.com/cdn/shop/files/2-Office-Chairs.png?v=1724396155&width=375
+updated_at: 2026-04-04 23:43
