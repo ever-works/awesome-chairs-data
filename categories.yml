@@ -6,3 +6,7 @@
   name: Gaming Chairs
 - id: others
   name: Others
+- id: standing-active-seating
+  name: Standing & Active Seating
+- id: executive-task-chairs
+  name: Executive & Task Chairs

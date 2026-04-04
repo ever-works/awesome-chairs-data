@@ -7,183 +7,183 @@
 - id: budget-friendly
   name: Budget Friendly
 - id: supportive
-  name: supportive
+  name: Supportive
 - id: customizable
-  name: customizable
+  name: Customizable
 - id: lumbar-support
-  name: lumbar-support
+  name: Lumbar Support
 - id: reclining
-  name: reclining
+  name: Reclining
 - id: compact
   name: Compact
 - id: 3d-lumbar
-  name: 3D-lumbar
+  name: 3d Lumbar
 - id: waterfall-seat
-  name: waterfall-seat
+  name: Waterfall Seat
 - id: posture-support
-  name: posture-support
+  name: Posture Support
 - id: racing-style
   name: Racing Style
 - id: high-density-foam
   name: high-density-foam
 - id: leather
-  name: leather
+  name: Leather
 - id: affordable
   name: Affordable
 - id: padded
   name: padded
 - id: quiet
-  name: quiet
+  name: Quiet
 - id: smooth-glide
-  name: smooth-glide
+  name: Smooth Glide
 - id: durable
-  name: durable
+  name: Durable
 - id: liveback
-  name: LiveBack
+  name: Liveback
 - id: premium
   name: Premium
 - id: pu-leather
-  name: PU-leather
+  name: Pu Leather
 - id: asymmetrical-adjustment
   name: asymmetrical-adjustment
 - id: posture
   name: Posture
 - id: luxury
-  name: luxury
+  name: Luxury
 - id: steel-frame
-  name: steel-frame
+  name: Steel Frame
 - id: collaborative
-  name: collaborative
+  name: Collaborative
 - id: stylish
-  name: stylish
+  name: Stylish
 - id: aesthetic
-  name: aesthetic
+  name: Aesthetic
 - id: versatile
-  name: versatile
+  name: Versatile
 - id: robust
-  name: robust
+  name: Robust
 - id: comfortable
   name: Comfortable
 - id: space-saving
-  name: space-saving
+  name: Space Saving
 - id: health
   name: health
 - id: support
-  name: support
+  name: Support
 - id: minimalist
   name: Minimalist
 - id: comfort
-  name: comfort
+  name: Comfort
 - id: dynamic-headrest
-  name: dynamic-headrest
+  name: Dynamic Headrest
 - id: sustainable
   name: Sustainable
 - id: adjustable-headrest
-  name: adjustable-headrest
+  name: Adjustable Headrest
 - id: modern
-  name: modern
+  name: Modern
 - id: sleek
-  name: sleek
+  name: Sleek
 - id: state-of-the-art
   name: state-of-the-art
 - id: memory-foam
   name: Memory Foam
 - id: automatic-adjustment
-  name: automatic-adjustment
+  name: Automatic Adjustment
 - id: professional
   name: Professional
 - id: high-back
   name: High Back
 - id: high-price
-  name: high-price
+  name: High Price
 - id: gaming
   name: Gaming
 - id: dynamic-support
-  name: dynamic-support
+  name: Dynamic Support
 - id: flexible
-  name: flexible
+  name: Flexible
 - id: executive
   name: Executive
 - id: sophisticated
-  name: sophisticated
+  name: Sophisticated
 - id: tailored-fit
-  name: tailored-fit
+  name: Tailored Fit
 - id: eco-friendly
   name: Eco Friendly
 - id: breathable
   name: Breathable
 - id: plush
-  name: plush
+  name: Plush
 - id: value-for-money
-  name: value-for-money
+  name: Value For Money
 - id: refurbished
-  name: refurbished
+  name: Refurbished
 - id: warranties
-  name: warranties
+  name: Warranties
 - id: quality
-  name: quality
+  name: Quality
 - id: traditional
-  name: traditional
+  name: Traditional
 - id: craftsmanship
-  name: craftsmanship
+  name: Craftsmanship
 - id: pivoting-design
-  name: pivoting-design
+  name: Pivoting Design
 - id: back-comfort
-  name: back-comfort
+  name: Back Comfort
 - id: snug-fit
-  name: snug-fit
+  name: Snug Fit
 - id: budget
-  name: budget
+  name: Budget
 - id: lightweight
-  name: lightweight
+  name: Lightweight
 - id: weight-activated
   name: weight-activated
 - id: luxurious
-  name: luxurious
+  name: Luxurious
 - id: real-leather
-  name: real-leather
+  name: Real Leather
 - id: statement-piece
-  name: statement-piece
+  name: Statement Piece
 - id: 4d-armrests
-  name: 4D-armrests
+  name: 4d Armrests
 - id: racing-inspired
-  name: racing-inspired
+  name: Racing Inspired
 - id: unique-design
-  name: unique-design
+  name: Unique Design
 - id: wide-seat
-  name: wide-seat
+  name: Wide Seat
 - id: structured
-  name: structured
+  name: Structured
 - id: distinctive-design
-  name: distinctive-design
+  name: Distinctive Design
 - id: performance
-  name: performance
+  name: Performance
 - id: functional
-  name: functional
+  name: Functional
 - id: collaboration
   name: Collaboration
 - id: competitive
-  name: competitive
+  name: Competitive
 - id: elegant
   name: elegant
 - id: high-performance
   name: high-performance
 - id: spacious
-  name: spacious
+  name: Spacious
 - id: massage
   name: Massage
 - id: refined
-  name: refined
+  name: Refined
 - id: easy-assembly
-  name: easy-assembly
+  name: Easy Assembly
 - id: extreme-comfort
   name: extreme-comfort
 - id: value
   name: Value
 - id: extra-wide
-  name: extra-wide
+  name: Extra Wide
 - id: vibrant
-  name: vibrant
+  name: Vibrant
 - id: colorful
   name: Colorful
 - id: esports
@@ -191,27 +191,27 @@
 - id: electric
   name: Electric
 - id: classic
-  name: classic
+  name: Classic
 - id: footrest
   name: Footrest
 - id: rgb-lighting
-  name: RGB-lighting
+  name: Rgb Lighting
 - id: immersive
-  name: immersive
+  name: Immersive
 - id: entertainment
-  name: entertainment
+  name: Entertainment
 - id: next-gen
-  name: next-gen
+  name: Next Gen
 - id: big-and-tall
   name: Big And Tall
 - id: modular
-  name: modular
+  name: Modular
 - id: standing-desk
-  name: standing-desk
+  name: Standing Desk
 - id: spinal-support
-  name: spinal-support
+  name: Spinal Support
 - id: rgb
-  name: RGB
+  name: Rgb
 - id: stool
   name: Stool
 - id: xl-size
@@ -308,3 +308,297 @@
   name: Dvl Support
 - id: premium-leather
   name: Premium Leather
+- id: active-seating
+  name: Active Seating
+- id: german-design
+  name: German Design
+- id: 3d-movement
+  name: 3d Movement
+- id: adjustable-depth
+  name: Adjustable Depth
+- id: petite-support
+  name: Petite Support
+- id: office
+  name: Office
+- id: bonded-leather
+  name: Bonded Leather
+- id: crocodile-texture-leather
+  name: Crocodile Texture Leather
+- id: hand-upholstered
+  name: Hand Upholstered
+- id: acoustic-panel
+  name: Acoustic Panel
+- id: aeron-accessory
+  name: Aeron Accessory
+- id: pellicle-mesh
+  name: Pellicle Mesh
+- id: themed
+  name: Themed
+- id: frameless-design
+  name: Frameless Design
+- id: mesh-backrest
+  name: Mesh Backrest
+- id: 3d-printed
+  name: 3d Printed
+- id: all-mesh
+  name: All Mesh
+- id: height-adjustable
+  name: Height Adjustable
+- id: entry-level
+  name: Entry Level
+- id: executive-style
+  name: Executive Style
+- id: dynamic-lumbar
+  name: Dynamic Lumbar
+- id: adjustable-armrests
+  name: Adjustable Armrests
+- id: adjustable-recline
+  name: Adjustable Recline
+- id: faux-leather
+  name: Faux Leather
+- id: 24-hour
+  name: 24 Hour
+- id: dual-backrest
+  name: Dual Backrest
+- id: kids
+  name: Kids
+- id: mid-range
+  name: Mid Range
+- id: bariatric
+  name: Bariatric
+- id: made-in-usa
+  name: Made In Usa
+- id: seat-cushion
+  name: Seat Cushion
+- id: odor-resistant
+  name: Odor Resistant
+- id: compact-fit
+  name: Compact Fit
+- id: massage-lumbar
+  name: Massage Lumbar
+- id: pink
+  name: Pink
+- id: temperature-controlled
+  name: Temperature Controlled
+- id: heating-cooling
+  name: Heating Cooling
+- id: pioneer
+  name: Pioneer
+- id: iconic-design
+  name: Iconic Design
+- id: aftermarket
+  name: Aftermarket
+- id: mesh-back
+  name: Mesh Back
+- id: overview
+  name: Overview
+- id: herman-miller
+  name: Herman Miller
+- id: extra-large
+  name: Extra Large
+- id: high-capacity
+  name: High Capacity
+- id: leather-options
+  name: Leather Options
+- id: adaptive
+  name: Adaptive
+- id: mes
+  name: Mes
+- id: recliner
+  name: Recliner
+- id: heat-function
+  name: Heat Function
+- id: mid-century
+  name: Mid Century
+- id: danish-design
+  name: Danish Design
+- id: iconic
+  name: Iconic
+- id: contract-grade
+  name: Contract Grade
+- id: task-chair
+  name: Task Chair
+- id: pocket-sprung
+  name: Pocket Sprung
+- id: geo-stretch-mesh
+  name: Geo Stretch Mesh
+- id: petite-fit
+  name: Petite Fit
+- id: digital-knit
+  name: Digital Knit
+- id: edgeless-backrest
+  name: Edgeless Backrest
+- id: wave-suspension
+  name: Wave Suspension
+- id: 4d-arms
+  name: 4d Arms
+- id: responsive-flex-back
+  name: Responsive Flex Back
+- id: asymmetrical-lumbar
+  name: Asymmetrical Lumbar
+- id: pelvic-support
+  name: Pelvic Support
+- id: adaptive-mesh
+  name: Adaptive Mesh
+- id: 3d-armrests
+  name: 3d Armrests
+- id: full-grain-leather
+  name: Full Grain Leather
+- id: pixel-matrix-backrest
+  name: Pixel Matrix Backrest
+- id: copper-cooling
+  name: Copper Cooling
+- id: pixel-matrix
+  name: Pixel Matrix
+- id: pixelated-back
+  name: Pixelated Back
+- id: suspension-back
+  name: Suspension Back
+- id: suspension-frame
+  name: Suspension Frame
+- id: designer
+  name: Designer
+- id: kinematic-spine
+  name: Kinematic Spine
+- id: kinetic-back
+  name: Kinetic Back
+- id: rgb-led
+  name: Rgb Led
+- id: auto-tilt
+  name: Auto Tilt
+- id: auto-adjusting
+  name: Auto Adjusting
+- id: recycled-materials
+  name: Recycled Materials
+- id: adjustable-arms
+  name: Adjustable Arms
+- id: ikea
+  name: Ikea
+- id: flex-back
+  name: Flex Back
+- id: canadian-made
+  name: Canadian Made
+- id: tall-users
+  name: Tall Users
+- id: ventilated
+  name: Ventilated
+- id: fully-adjustable
+  name: Fully Adjustable
+- id: carpet-friendly
+  name: Carpet Friendly
+- id: ergonomic-accessories
+  name: Ergonomic Accessories
+- id: lumbar-supports
+  name: Lumbar Supports
+- id: seat-cushions
+  name: Seat Cushions
+- id: slim-profile
+  name: Slim Profile
+- id: recline-friendly
+  name: Recline Friendly
+- id: office-chair
+  name: Office Chair
+- id: racing-sim
+  name: Racing Sim
+- id: logitech-g
+  name: Logitech G
+- id: cockpit-seat
+  name: Cockpit Seat
+- id: oversized-headrest
+  name: Oversized Headrest
+- id: segmented-padded
+  name: Segmented Padded
+- id: saddle-seat
+  name: Saddle Seat
+- id: custom-designs
+  name: Custom Designs
+- id: protective-cover
+  name: Protective Cover
+- id: franchise-themed
+  name: Franchise Themed
+- id: nanofoam
+  name: Nanofoam
+- id: premium-leatherette
+  name: Premium Leatherette
+- id: ultra-comfort
+  name: Ultra Comfort
+- id: magnetic-pillow
+  name: Magnetic Pillow
+- id: work-and-play
+  name: Work And Play
+- id: depth-adjustment
+  name: Depth Adjustment
+- id: adaptive-lumbar
+  name: Adaptive Lumbar
+- id: headrest
+  name: Headrest
+- id: auto-adaptive-lumbar
+  name: Auto Adaptive Lumbar
+- id: 6d-armrests
+  name: 6d Armrests
+- id: anti-gravity-recline
+  name: Anti Gravity Recline
+- id: dual-lumbar
+  name: Dual Lumbar
+- id: full-mesh
+  name: Full Mesh
+- id: dual-section-backrest
+  name: Dual Section Backrest
+- id: flip-up-armrests
+  name: Flip Up Armrests
+- id: petite-friendly
+  name: Petite Friendly
+- id: faux-suede
+  name: Faux Suede
+- id: 400-lb-capacity
+  name: 400 Lb Capacity
+- id: 3d-liveback
+  name: 3d Liveback
+- id: 360-arms
+  name: 360 Arms
+- id: hybrid-suspension
+  name: Hybrid Suspension
+- id: workplace-furniture
+  name: Workplace Furniture
+- id: liveback-technology
+  name: Liveback Technology
+- id: weight-activated-tilt
+  name: Weight Activated Tilt
+- id: padded-headrest
+  name: Padded Headrest
+- id: recline-focused
+  name: Recline Focused
+- id: flexor-backrest
+  name: Flexor Backrest
+- id: flexible-backrest
+  name: Flexible Backrest
+- id: under-desk
+  name: Under Desk
+- id: scandinavian-design
+  name: Scandinavian Design
+- id: portable
+  name: Portable
+- id: swivel
+  name: Swivel
+- id: ball-chair
+  name: Ball Chair
+- id: premium-design
+  name: Premium Design
+- id: high-weight-capacity
+  name: High Weight Capacity
+- id: glass
+  name: Glass
+- id: floor-protection
+  name: Floor Protection
+- id: floor-chair
+  name: Floor Chair
+- id: built-in-audio
+  name: Built In Audio
+- id: foldable
+  name: Foldable
+- id: speakers
+  name: Speakers
+- id: subwoofer
+  name: Subwoofer
+- id: pedestal
+  name: Pedestal
