@@ -10,3 +10,7 @@
   name: Standing & Active Seating
 - id: executive-task-chairs
   name: Executive & Task Chairs
+- id: budget-gaming-chairs
+  name: Budget Gaming Chairs
+- id: big-tall-chairs
+  name: Big & Tall Chairs

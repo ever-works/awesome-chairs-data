@@ -24,8 +24,8 @@ metadata:
     badge_evaluation_enabled: false
     website_repository_creation_method: create-using-template
     name: Awesome Computer and Gaming Chairs
-    prompt: A directory of the best computer and gaming chairs for people who sit
-      all day!
+    prompt: "A directory of the best computer and gaming chairs for people who sit
+      all day! "
     initial_categories: []
     priority_categories: []
     target_keywords: []
@@ -40,4 +40,4 @@ metadata:
       capture_screenshots: false
       max_pages_to_process: 20
     _processedPluginConfig: {}
-version: 0.1.1
+version: 0.1.2

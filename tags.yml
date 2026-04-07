@@ -25,7 +25,7 @@
 - id: racing-style
   name: Racing Style
 - id: high-density-foam
-  name: high-density-foam
+  name: High Density Foam
 - id: leather
   name: Leather
 - id: affordable
@@ -602,3 +602,43 @@
   name: Subwoofer
 - id: pedestal
   name: Pedestal
+- id: footrest-included
+  name: Footrest Included
+- id: versatile-use
+  name: Versatile Use
+- id: dynamic-backrest
+  name: Dynamic Backrest
+- id: european-design
+  name: European Design
+- id: vibration
+  name: Vibration
+- id: soft-seat
+  name: Soft Seat
+- id: posturefit
+  name: Posturefit
+- id: health-focused
+  name: Health Focused
+- id: no-lumbar-needed
+  name: No Lumbar Needed
+- id: class-4-lift
+  name: Class 4 Lift
+- id: luxury-gaming
+  name: Luxury Gaming
+- id: 4d-lumbar
+  name: 4d Lumbar
+- id: haptic-compatible
+  name: Haptic Compatible
+- id: breathable-fabric
+  name: Breathable Fabric
+- id: pet-friendly
+  name: Pet Friendly
+- id: faux-fur
+  name: Faux Fur
+- id: fun-design
+  name: Fun Design
+- id: multi-tilt
+  name: Multi Tilt
+- id: custom-skins
+  name: Custom Skins
+- id: multi-posture
+  name: Multi Posture
