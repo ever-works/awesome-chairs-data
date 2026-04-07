@@ -14,3 +14,13 @@
   name: Budget Gaming Chairs
 - id: big-tall-chairs
   name: Big & Tall Chairs
+- id: all-mesh-chairs
+  name: All Mesh Chairs
+- id: premium-gaming-chairs
+  name: Premium Gaming Chairs
+- id: reclining-chairs
+  name: Reclining Chairs
+- id: big-tall-gaming-chairs
+  name: Big & Tall Gaming Chairs
+- id: mesh-back-chairs
+  name: Mesh Back Chairs

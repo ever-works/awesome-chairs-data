@@ -225,7 +225,7 @@
 - id: 14-adjustments
   name: 14 Adjustments
 - id: bifma-certified
-  name: Bifma Certified
+  name: BIFMA Certified
 - id: fabric
   name: Fabric
 - id: kneeling-chair
@@ -642,3 +642,41 @@
   name: Custom Skins
 - id: multi-posture
   name: Multi Posture
+- id: esports-ready
+  name: Esports Ready
+- id: recline-heavy
+  name: Recline Heavy
+- id: 24-hour-use
+  name: 24 Hour Use
+- id: active-lifestyle
+  name: Active Lifestyle
+- id: professional-grade
+  name: Professional Grade
+- id: silicone-leather
+  name: Silicone Leather
+- id: accessory
+  name: Accessory
+- id: wide-build
+  name: Wide Build
+- id: contoured-seat
+  name: Contoured Seat
+- id: 2026-model
+  name: 2026 Model
+- id: budget-pick
+  name: Budget Pick
+- id: napa-leather
+  name: Napa Leather
+- id: laptop-table
+  name: Laptop Table
+- id: genuine-leather
+  name: Genuine Leather
+- id: optimized-weight
+  name: Optimized Weight
+- id: microfiber-leather
+  name: Microfiber Leather
+- id: cold-cure-foam
+  name: Cold Cure Foam
+- id: cooling-gel
+  name: Cooling Gel
+- id: flex-mesh
+  name: Flex Mesh
