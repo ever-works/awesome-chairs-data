@@ -1,20 +1,24 @@
 name: Asus ROG Destrier Core
-description: The Asus ROG Destrier Core is a gaming chair with a mesh suspension
-  system and ergonomic design. Despite its adjustable features, it is noted for
-  having some stability issues with its armrests.
-source_url: https://www.pcgamer.com/hardware/gaming-chairs/asus-rog-destrier-core-review/
+description: Entry-level mesh gaming chair for long sessions, Destrier Core
+  employs suspension mesh back/seat for breathability, adjustable
+  height/tilt/armrests, lumbar cushion, supporting posture in heat. Despite
+  armrest wobble notes, materials provide solid value. Suited for casual esports
+  and streaming beginners, it offers mesh cooling superior to PU budget chairs
+  like Dowinx, but less stable than premium Asus ROG Destrier.
+source_url: https://rog.asus.com/gaming-chairs/rog-destrier-core-model/
 category: Gaming Chairs
 tags:
   - gaming
   - ergonomic
   - mesh
+  - breathable
 featured: false
 markdown: |-
   ## Asus ROG Destrier Core Gaming Chair
 
   ![Asus Logo](/path/to/asus-logo.png)
 
-  ![Asus ROG Destrier Core](https://example.com/images/asus-rog-destrier-core-1.jpg)
+  ![Asus ROG Destrier Core](https://rog.asus.com/media/global/products/rog-destrier-core/01.png)
 
   ### Description
   The **Asus ROG Destrier Core** is a gaming chair designed for comfort and ergonomics, featuring a mesh suspension system. While it offers adjustable features, it has been noted to have some stability issues, particularly with its armrests.
@@ -25,8 +29,8 @@ markdown: |-
   - **Adjustable Features**: Customizable options for height, tilt, and armrest positioning.
 
   ### Images
-  - ![Image 1](https://example.com/images/asus-rog-destrier-core-1.jpg)
-  - ![Image 2](https://example.com/images/asus-rog-destrier-core-2.jpg)
+  - ![Image 1](https://rog.asus.com/media/global/products/rog-destrier-core/01.png)
+  - ![Image 2](https://rog.asus.com/media/global/products/rog-destrier-core/02.png)
 
   ### Category
   - **Gaming Chairs**
@@ -45,8 +49,8 @@ markdown: |-
 
   > Note: The information provided here is drawn from a review and aims to present an objective summary of the product's features and characteristics.
 brand: asus
-brand_logo_url: /path/to/asus-logo.png
+brand_logo_url: https://rog.asus.com/favicon.ico
 images:
-  - https://example.com/images/asus-rog-destrier-core-1.jpg
-  - https://example.com/images/asus-rog-destrier-core-2.jpg
-updated_at: 2026-04-04 23:43
+  - https://rog.asus.com/media/global/products/rog-destrier-core/01.png
+  - https://rog.asus.com/media/global/products/rog-destrier-core/02.png
+updated_at: 2026-04-07 13:28

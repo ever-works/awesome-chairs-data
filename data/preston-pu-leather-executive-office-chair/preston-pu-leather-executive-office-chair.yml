@@ -1,11 +1,17 @@
 name: Preston, PU Leather Executive Office Chair
-description: The Preston PU Leather Executive Office Chair offers a luxurious
-  seating experience with its high-quality PU leather finish. Designed for
-  comfort and style, this chair is perfect for long hours at the desk, providing
-  excellent support and a professional look.
+description: Ergonomic executive chair designed for long-hour professional
+  office or home office use, featuring high-quality PU leather for polished
+  breathability, adjustable tilt and height, robust frame, and supportive
+  cushioning for sustained comfort. It blends style and functionality for
+  desk-bound management tasks. Superior to gaming chairs' aesthetics and casual
+  simplicity with professional durability.
 source_url: https://www.sihooofficer.com/product/preston-pu-leather-executive-office-chair-ergonomic-comfort-style/
 category: Executive & Task Chairs
-tags: []
+tags:
+  - Professional Grade
+  - Synchro-Tilt
+  - pu-leather
+  - ergonomic
 featured: true
 markdown: |-
   # Preston, PU Leather Executive Office Chair
@@ -43,4 +49,4 @@ brand_logo_url: https://example.com/logos/awesome-chairs-co.png
 images:
   - https://example.com/images/preston-chair-1.png
   - https://example.com/images/preston-chair-2.png
-updated_at: 2026-04-04 23:43
+updated_at: 2026-04-07 13:28

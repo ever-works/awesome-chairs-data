@@ -1,14 +1,18 @@
 name: AndaSeat Novis Series
-description: The AndaSeat Novis Series is a premium gaming chair that combines
-  luxury with ergonomic design. It offers excellent lumbar support, adjustable
-  features, and high-quality materials to ensure comfort and durability for
-  gamers and professionals who spend long hours seated.
+description: Tailored for long-haul gaming and office work, the Novis Series
+  ensures sustained posture with 5cm dynamic lumbar support, 7cm vertical
+  armrest adjustment, high-density foam under durable upholstery, optional
+  head/lumbar pillows, and a stable base for all-day reliability. Features focus
+  on breathability and customization. Ideal for hybrid gamers/streamers, it
+  offers superior value over entry-level racing seats like Respawn 110, with
+  closer ergonomics to mid-tier Secretlab Omega at fraction of price.
 source_url: https://www.andaseat.com/products/andaseat-novis-series-best-budget-ergonomic-gaming-chair
 category: Gaming Chairs
 tags:
   - luxury
   - ergonomic
   - durable
+  - recline-heavy
 featured: true
 markdown: |-
   ## AndaSeat Novis Series
@@ -49,4 +53,4 @@ images:
   - https://andaseat.com/images/novis-series-2.png
   - https://www.andaseat.com/images/novis-1.png
   - https://www.andaseat.com/images/novis-2.png
-updated_at: 2026-04-04 23:43
+updated_at: 2026-04-07 13:28

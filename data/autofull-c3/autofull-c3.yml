@@ -1,14 +1,18 @@
 name: AutoFull C3
-description: The AutoFull C3 is a gaming chair that ranks well for back comfort,
-  though it may feel warmer over time. It is designed for gamers with wider
-  shoulders and offers comfort for up to 6 hours. The chair's bolsters provide a
-  snug fit without being uncomfortable.
+description: Snug racing-style chair for gamers with broader builds during
+  extended play, C3 offers contoured bolsters, strong backrest support, padded
+  fixed armrests, height adjustment, tilt lock, PU leather over foam up to 300
+  lbs capacity for reliable comfort up to 6 hours. It maintains temperature but
+  warms over time. Perfect for casual streaming and daily gaming, it fits wider
+  users better than narrow Secretlab Omega, though less adjustable than AutoFull
+  G7.
 source_url: https://autofull.com/products/c3
 category: Gaming Chairs
 tags:
   - back-comfort
   - snug-fit
   - gaming
+  - wide-build
 featured: false
 markdown: >-
   # AutoFull C3 Gaming Chair
@@ -64,4 +68,4 @@ brand_logo_url: https://autofull.com/logo.png
 images:
   - https://autofull.com/c3-image1.png
   - https://autofull.com/c3-image2.png
-updated_at: 2026-04-04 23:43
+updated_at: 2026-04-07 13:28

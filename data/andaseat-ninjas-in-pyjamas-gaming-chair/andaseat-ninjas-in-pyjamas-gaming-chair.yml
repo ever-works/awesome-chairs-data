@@ -1,14 +1,18 @@
 name: AndaSeat Ninjas in Pyjamas Gaming Chair
-description: This gaming chair is a collaboration with the Ninjas in Pyjamas
-  esports team, offering advanced ergonomic features for enhanced comfort and
-  support. It's praised by professional gamers for its game-changing comfort and
-  adjustability.
+description: Developed with esports pros for long-duration competitive play,
+  this collaboration chair features advanced pop-out lumbar support,
+  multi-adjustable armrests, extended recline, premium PU leather and foam
+  construction, and team-branded styling on a stable frame. It prioritizes
+  pro-level ergonomics to minimize fatigue. Perfect for esports athletes and
+  content creators streaming tournaments, it edges out generic DXRacer models in
+  lumbar innovation and team appeal versus pricier Noblechairs Hero.
 source_url: https://www.andaseat.com/pages/andaseat-ninjas-in-pyjamas-gaming-chair
 category: Gaming Chairs
 tags:
   - ergonomic
   - adjustable
   - collaboration
+  - esports-ready
 featured: true
 markdown: >-
   # AndaSeat Ninjas in Pyjamas Gaming Chair
@@ -81,4 +85,4 @@ brand_logo_url: https://www.andaseat.com/logo.png
 images:
   - https://www.andaseat.com/images/nip-gaming-chair-1.png
   - https://www.andaseat.com/images/nip-gaming-chair-2.png
-updated_at: 2026-04-04 23:43
+updated_at: 2026-04-07 13:28

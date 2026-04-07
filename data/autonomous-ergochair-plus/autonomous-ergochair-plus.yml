@@ -1,18 +1,18 @@
 name: Autonomous ErgoChair Plus
-description: An ergonomic office chair built with a unique frameless
-  thermoplastic elastomer (TPE) back and spring-based seat cushioning, offering
-  dynamic spinal support and even weight distribution without foam sag. Its
-  25-degree tilt range and arm height adjustability suit WFH users seeking
-  breathable, sag-resistant seating. Compared to the mesh-based Herman Miller
-  Aeron and the steel-framed Steelcase Leap, the TPE construction provides
-  unusual flexibility but sacrifices the fine-tuned lumbar adjustability of its
-  premium peers.
+description: Autonomous ErgoChair Plus supports all-day work with frameless TPE
+  mesh back for dynamic support, spring seat cushioning, adjustable arms, and
+  25-degree tilt, ideal for remote work and back pain relief. Key features
+  include breathable TPE and even weight distribution. Compared to gaming chairs
+  or executive chairs, it offers flexible contouring superior to rigid gaming
+  frames.
 source_url: https://www.autonomous.ai/office-chairs/ergochair-plus
 category: Ergonomic Office Chairs
 tags:
   - frameless-design
   - ergonomic
   - breathable
+  - 24-Hour Use
+  - BIFMA Certified
 featured: false
 markdown: >-
   ## Overview
@@ -124,4 +124,7 @@ markdown: >-
   a headrest, though it reportedly loses the spring-based seat cushioning.
 brand: Autonomous
 brand_logo_url: https://cdn.autonomous.ai/image/upload/w_120,h_40,f_auto,q_auto/v1/production/homepage/header/autonomous-logo.svg
-updated_at: 2026-04-04 23:43
+images:
+  - https://www.autonomous.ai/cdn/shop/files/ErgoChair_Plus_1_1024x1024.jpg
+  - https://www.autonomous.ai/cdn/shop/files/ErgoChair_Plus_2.jpg
+updated_at: 2026-04-07 13:28

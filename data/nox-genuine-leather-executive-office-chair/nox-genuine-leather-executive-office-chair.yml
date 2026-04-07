@@ -1,11 +1,17 @@
 name: Nox, Genuine Leather Executive Office Chair
-description: The Nox Genuine Leather Executive Office Chair combines luxury with
-  practicality. Its genuine leather finish and contract-grade construction make
-  it a durable and stylish choice for any office setting. Available in Black, it
-  offers a classic look that complements any workspace.
+description: Classic executive chair for enduring long hours in professional
+  office or home management environments, with genuine leather upholstery
+  providing a polished breathable surface, contract-grade build, and tilt
+  functionality for stylish durability. Ideal for workspaces needing timeless
+  black aesthetics and robust support. Outperforms gaming or casual chairs in
+  professional refinement and material longevity.
 source_url: https://eurekaergonomic.com/products/serene-nox-genuine-leather-executive-office-chair?srsltid=AfmBOoqHAp9g8McqacxBeLbPBZJ-UHWsXGg2i-hxCJ4-czXnM3owOJ6f
 category: Executive & Task Chairs
-tags: []
+tags:
+  - Professional Grade
+  - Synchro-Tilt
+  - genuine-leather
+  - contract-grade
 featured: true
 markdown: |-
   # Nox Genuine Leather Executive Office Chair
@@ -43,4 +49,4 @@ brand: nox
 brand_logo_url: https://www.example.com/brand-logos/nox.png
 images:
   - https://www.example.com/images/nox-black.jpg
-updated_at: 2026-04-04 23:43
+updated_at: 2026-04-07 13:28

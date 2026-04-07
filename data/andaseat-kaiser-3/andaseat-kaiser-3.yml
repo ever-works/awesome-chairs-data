@@ -5,8 +5,11 @@ description: The AndaSeat Kaiser 3 is a racing-style gaming chair designed for
   metal frame supports a range of body weights, and its bucket seat design
   includes bolsters for added support.
 source_url: https://zdcs.link/oP3v6?_ga=549648315.1689878480&object_uuid=796ee8d2-2c15-49d5-82fa-b5855dcf853a&t=article
-category: Chair Accessories
-tags: []
+category: Premium Gaming Chairs
+tags:
+  - premium
+  - racing-style
+  - wide-seat
 featured: true
 markdown: |-
   # AndaSeat Kaiser 3 Gaming Chair
@@ -42,4 +45,4 @@ brand: andaseat
 brand_logo_url: https://www.andaseat.com/media/logo/stores/1/AndaSeat-Logo.png
 images:
   - https://www.andaseat.com/media/catalog/product/cache/1/image/800x800/9df78eab33525d08d6e5fb8d27136e95/k/a/kaiser-3-gaming-chair.png
-updated_at: 2026-04-04 23:43
+updated_at: 2026-04-07 13:28

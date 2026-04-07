@@ -1,15 +1,18 @@
 name: AndaSeat Phantom 3 Gaming Chair
-description: The AndaSeat Phantom 3 is a high-quality gaming chair that offers
-  exceptional comfort and ergonomic support. It is designed for users who need a
-  stylish and functional chair for gaming or work setups. The Phantom 3 is part
-  of AndaSeat's premium line, providing a balance of aesthetics and
-  functionality.
-source_url: https://www.andaseat.com/blogs/news/the-best-budget-gaming-chair
+description: Premium gaming seat for intensive long-session use, Phantom 3
+  supplies high-back ergonomic envelopment with adjustable lumbar/armrests,
+  superior foam density, durable premium fabrics/leather, wide recline, and
+  stylish contours to sustain comfort and focus. It excels in support
+  distribution for spine health. For pro-level streaming and esports arenas, it
+  outshines mid-range Vertagear SL5000 in material quality, approaching
+  Noblechairs Legend luxury at better pricing.
+source_url: https://www.andaseat.com/products/phantom-3-series
 category: Gaming Chairs
 tags:
   - premium
   - stylish
   - functional
+  - esports-ready
 featured: false
 markdown: >-
   ## **AndaSeat Phantom 3 Gaming Chair**
@@ -84,4 +87,4 @@ brand_logo_url: https://www.andaseat.com/logo.png
 images:
   - https://www.andaseat.com/images/phantom-3-1.png
   - https://www.andaseat.com/images/phantom-3-2.png
-updated_at: 2026-04-04 23:43
+updated_at: 2026-04-07 13:28

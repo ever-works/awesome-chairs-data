@@ -1,13 +1,17 @@
 name: Black World Chair
-description: The Black World Chair features a minimalist design with Black
-  Catena Mesh, offering breathability and support. It's a versatile chair
-  suitable for both office and gaming environments.
+description: Black World Chair supports all-day work with breathable Black
+  Catena mesh back, ergonomic structure for posture, suitable for remote work,
+  office, or gaming with back pain relief. Minimalist design fits versatile use.
+  Compared to gaming-style or executive chairs, it emphasizes breathability over
+  padding.
 source_url: https://www.humanscale.com/products/seating/black-world
 category: Ergonomic Office Chairs
 tags:
   - minimalist
   - breathable
   - versatile
+  - 24-Hour Use
+  - BIFMA Certified
 featured: false
 markdown: >-
   # Black World Chair by Humanscale
@@ -81,4 +85,4 @@ brand: humanscale
 brand_logo_url: https://www.humanscale.com/images/logo.png
 images:
   - https://www.humanscale.com/images/products/black-world.jpg
-updated_at: 2026-04-04 23:43
+updated_at: 2026-04-07 13:28

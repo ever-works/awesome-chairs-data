@@ -1,12 +1,17 @@
 name: Mathias, Napa Leather Executive Office Chair
-description: The Mathias Executive Office Chair is crafted from genuine Napa
-  leather, offering a luxurious seating experience. Designed for those who spend
-  long hours at their desks, it features ergonomic support and a sleek design.
-  Available in Black and Off-White, this chair is FSC® Certified and Contract
-  Grade, ensuring durability and sustainability.
+description: Luxury executive chair for long professional hours in office or
+  home management, utilizing genuine Napa leather for a polished breathable
+  finish, ergonomic support, FSC-certified sustainability, and contract-grade
+  tilt mechanisms for durable comfort. Available in Black/Off-White, it suits
+  executive desks with superior material quality. Contrasts gaming chairs'
+  synthetic flash and casual basicness with premium professional endurance.
 source_url: https://shop.app/products/8370272633136/serene-napa-leather-executive-office-chair
 category: Executive & Task Chairs
-tags: []
+tags:
+  - Professional Grade
+  - Synchro-Tilt
+  - napa-leather
+  - contract-grade
 featured: true
 markdown: |-
   # Mathias, Napa Leather Executive Office Chair
@@ -45,4 +50,4 @@ brand_logo_url: /images/brands/mathias-logo.png
 images:
   - https://www.example.com/images/products/mathias-black.jpg
   - https://www.example.com/images/products/mathias-off-white.jpg
-updated_at: 2026-04-04 23:43
+updated_at: 2026-04-07 13:28

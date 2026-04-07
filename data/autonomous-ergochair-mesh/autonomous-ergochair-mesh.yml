@@ -1,17 +1,16 @@
 name: Autonomous ErgoChair Mesh
-description: A mid-range ergonomic chair with a fully breathable mesh seat and
-  backrest, 9 adjustment points including adjustable lumbar support and
-  synchro-tilt mechanism, and seat depth adjustment from 19" to 21.5". Designed
-  for WFH and corporate desk workers who want premium ergonomic features at an
-  accessible price. Compared to the Herman Miller Aeron's advanced PostureFit SL
-  and the Steelcase Gesture's LiveBack, it offers similar mesh breathability and
-  multiple adjustments at roughly a third of flagship pricing.
+description: Autonomous ErgoChair Mesh supports all-day work with breathable
+  mesh back and seat, 9 adjustment points including lumbar support, 4D arms,
+  synchro-tilt, and seat depth adjustment, perfect for remote work and back pain
+  relief. It offers premium features at mid-range price. Compared to gaming
+  chairs or executive models, it provides better breathability and adjustability
+  than padded gaming styles.
 source_url: https://www.autonomous.ai/office-chairs/ergochair-mesh
-category: Ergonomic Office Chairs
+category: All Mesh Chairs
 tags:
-  - mesh
+  - all-mesh
   - breathable
-  - ergonomic
+  - lumbar-support
 featured: false
 markdown: >-
   ## Overview
@@ -46,7 +45,7 @@ markdown: >-
 
   - Recline Range: Up to 18° tilt
 
-  - Seat Depth: Adjustable from 19" to 21.5"
+  - Seat Depth: Adjustable from 19\" to 21.5\"
 
   - Warranty: 2-year warranty with 30-day returns
 
@@ -56,4 +55,4 @@ markdown: >-
 
   Starting at $449
 brand: Autonomous
-updated_at: 2026-04-04 23:43
+updated_at: 2026-04-07 13:28

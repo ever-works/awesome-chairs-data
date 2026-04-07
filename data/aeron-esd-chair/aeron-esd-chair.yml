@@ -1,13 +1,18 @@
 name: Aeron ESD Chair
-description: An ergonomic ESD-safe version of Herman Miller’s Aeron chair,
-  designed for computer and technical work environments requiring electrostatic
-  discharge protection while providing long-duration sitting comfort.
+description: Aeron ESD Chair supports all-day work in ESD-safe environments with
+  breathable Pellicle mesh back, adjustable PostureFit lumbar support, and
+  synchro-tilt mechanism, perfect for remote technical work and back pain
+  relief. Key features include ESD protection for electronics labs. Compared to
+  gaming chairs or executive leather chairs, it provides superior breathability
+  and adjustability.
 source_url: https://www.hermanmiller.com/products/seating/office-chairs/aeron-chair/
 category: Ergonomic Office Chairs
 tags:
   - ergonomic
   - supportive
   - mesh
+  - 24-Hour Use
+  - BIFMA Certified
 featured: false
 markdown: |-
   # Aeron ESD Chair
@@ -52,4 +57,4 @@ brand_logo_url: https://www.hermanmiller.com/content/dam/hermanmiller/img/logo/h
 images:
   - https://www.hermanmiller.com/content/dam/hmicom/page_assets/products/aeron_esd_chairs/mm_aeron_esd_chairs_hero.jpg
   - https://www.hermanmiller.com/content/dam/hmicom/page_assets/products/aeron_esd_chairs/hm_aeron_esd_chair_detail.jpg
-updated_at: 2026-04-04 23:43
+updated_at: 2026-04-07 13:28

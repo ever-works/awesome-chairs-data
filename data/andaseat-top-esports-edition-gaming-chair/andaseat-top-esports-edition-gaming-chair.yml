@@ -1,13 +1,19 @@
 name: AndaSeat Top Esports Edition Gaming Chair
-description: This gaming chair is crafted for those who seek the best in
-  comfort, durability, and style. It's a collaboration with Top Esports and is
-  praised for its comprehensive features and high-quality build.
+description: Esports collaboration chair for ultra-long competitive sits,
+  featuring pro-tuned ergonomics like dynamic lumbar, full adjustability,
+  high-resilience cushioning, reinforced chassis, breathable performance
+  fabric/PU, and aggressive styling. Built to handle tournament grind. Optimized
+  for top-tier esports players and broadcast streamers, it delivers
+  team-endorsed support surpassing standard Boulies Ninja Pro, with value edge
+  over Razer Iskur V2.
 source_url: https://www.andaseat.com/pages/andaseat-top-esports-edition-gaming-chair
 category: Gaming Chairs
 tags:
   - durable
   - stylish
   - collaboration
+  - esports-ready
+  - recline-heavy
 featured: true
 markdown: |-
   # AndaSeat Top Esports Edition Gaming Chair
@@ -46,4 +52,4 @@ brand_logo_url: https://www.andaseat.com/logo.png
 images:
   - https://www.andaseat.com/images/tes-gaming-chair-1.png
   - https://www.andaseat.com/images/tes-gaming-chair-2.png
-updated_at: 2026-04-04 23:43
+updated_at: 2026-04-07 13:28

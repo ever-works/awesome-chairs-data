@@ -1,11 +1,17 @@
 name: Royal, Microfiber Leather Executive Office Chair
-description: The Royal Executive Office Chair combines style and comfort with
-  its microfiber leather upholstery. Ideal for long working hours, it offers
-  ergonomic support and is available in Beige White, Black, and Brown. This
-  chair is Contract Grade, ensuring it meets high standards of durability.
+description: Executive office chair optimized for long-hour professional use in
+  offices or home management, with microfiber leather providing breathable
+  polished upholstery, ergonomic support, contract-grade tilt, and color options
+  (Beige White, Black, Brown) for versatile professional settings. Delivers
+  comfort and durability for daily leadership tasks. Superior to gaming or
+  casual chairs in refined aesthetics and sustained support.
 source_url: https://www.target.com/c/office-chairs-home-furniture/studio-designs-home/-/N-5xtmtZhkvey?Nao=1128
 category: Executive & Task Chairs
-tags: []
+tags:
+  - Professional Grade
+  - Synchro-Tilt
+  - microfiber-leather
+  - contract-grade
 featured: true
 markdown: |-
   ## Royal Microfiber Leather Executive Office Chair
@@ -45,4 +51,4 @@ images:
   - https://www.example.com/images/products/royal-beige-white.jpg
   - https://www.example.com/images/products/royal-black.jpg
   - https://www.example.com/images/products/royal-brown.jpg
-updated_at: 2026-04-04 23:43
+updated_at: 2026-04-07 13:28

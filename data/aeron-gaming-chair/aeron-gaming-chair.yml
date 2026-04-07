@@ -3,8 +3,11 @@ description: The Aeron Gaming Chair combines iconic design with advanced
   ergonomics, making it a top choice for gamers seeking comfort and style. Its
   breathable mesh and adjustable features support extended gaming sessions.
 source_url: https://store.hermanmiller.com/gaming-chairs/aeron-gaming-chair/100263479.html?lang=en_US
-category: Chair Accessories
-tags: []
+category: All Mesh Chairs
+tags:
+  - all-mesh
+  - breathable
+  - ergonomic
 featured: true
 markdown: |-
   ## Aeron Gaming Chair
@@ -39,4 +42,4 @@ brand: herman-miller
 brand_logo_url: https://www.hermanmiller.com/content/dam/hermanmiller/logos/herman-miller-logo.png
 images:
   - https://store.hermanmiller.com/dw/image/v2/AAQN_PRD/on/demandware.static/-/Sites-hermanmiller-master-catalog/default/dw1a1a1a1a/images/large/aeron-gaming-chair.jpg
-updated_at: 2026-04-04 23:43
+updated_at: 2026-04-07 13:28

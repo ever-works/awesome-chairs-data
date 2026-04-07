@@ -1,20 +1,26 @@
-name: Asus ROG
-description: The Asus ROG gaming chair offers a wide range of adjustability and
-  features, but it underperformed in comfort tests. Despite its high price, it
-  may not be the best choice for those prioritizing comfort.
+name: Asus ROG Destrier Ergo Gaming Chair
+description: Futuristic ergo gaming chair for prolonged desk marathons,
+  featuring cyborg exoskeleton design, extensive adjustability (height, tilt,
+  360° armrests up 14cm for mobile mode), detachable acoustic panel, breathable
+  mesh/PU foam on aluminum frame. Emphasizes versatility for gaming/office
+  hybrid. Ideal for multi-device esports and immersive streaming, it provides
+  unique mobile positioning over standard Noblechairs, but comfort trails top
+  ergonomic like Secretlab Titan Evo.
 source_url: https://rog.asus.com/apparel-bags-gear/gear/rog-destrier-ergo-gaming-chair-model/
 category: Gaming Chairs
 tags:
   - adjustable
   - high-price
   - gaming
+  - esports-ready
+  - breathable
 featured: false
 markdown: |-
   ## Asus ROG Destrier Ergo Gaming Chair
 
-  ![Asus ROG Logo](https://asus.com/logo.png)
+  ![Asus ROG Logo](https://rog.asus.com/media/logo.png)
 
-  ![Asus ROG Chair](https://asus.com/images/rog-chair-1.png) ![Asus ROG Chair](https://asus.com/images/rog-chair-2.png)
+  ![Asus ROG Chair](https://rog.asus.com/media/global/products/rog-destrier-ergo/01.png) ![Asus ROG Chair](https://rog.asus.com/media/global/products/rog-destrier-ergo/02.png)
 
   ### Overview
   The Asus ROG Destrier Ergo Gaming Chair is designed with a futuristic cyborg aesthetic and boasts a range of versatile seat adjustments. While it offers a unique style and adjustability, it may not be the best choice for those whose primary concern is comfort.
@@ -40,8 +46,8 @@ markdown: |-
   ### Source
   For more information, visit the [Asus ROG Destrier Ergo Gaming Chair page](https://rog.asus.com/apparel-bags-gear/gear/rog-destrier-ergo-gaming-chair-model/).
 brand: asus
-brand_logo_url: https://asus.com/logo.png
+brand_logo_url: https://rog.asus.com/media/logo.png
 images:
-  - https://asus.com/images/rog-chair-1.png
-  - https://asus.com/images/rog-chair-2.png
-updated_at: 2026-04-04 23:43
+  - https://rog.asus.com/media/global/products/rog-destrier-ergo/01.png
+  - https://rog.asus.com/media/global/products/rog-destrier-ergo/02.png
+updated_at: 2026-04-07 13:28

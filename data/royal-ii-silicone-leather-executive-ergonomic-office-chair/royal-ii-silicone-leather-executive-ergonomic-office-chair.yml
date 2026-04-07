@@ -1,12 +1,18 @@
 name: Royal II, Silicone & Leather Executive Ergonomic Office Chair
-description: The Royal II Executive Chair combines silicone and leather
-  materials for a premium seating experience. It is ergonomically designed to
-  support long hours of sitting, available in Beige Gray, Iron Gray, and Brown.
-  This chair is Contract Grade certified, ensuring it meets high durability
-  standards.
+description: Premium executive ergonomic chair for professionals enduring long
+  hours in office or home office management, blending silicone and leather for a
+  polished breathable upholstery, contract-grade durability, and tilt mechanisms
+  supporting extended comfort. Available in Beige Gray, Iron Gray, Brown, it
+  offers sophisticated aesthetics ideal for leadership roles. Outperforms gaming
+  chairs' casual flair and basic casual seating with superior professional
+  endurance and style.
 source_url: https://eurekaergonomic.com/pages/the-royal-series-luxury-and-comfortable-leather-executive-office-chairs?srsltid=AfmBOop1ZBKFMsS1nage8dRRaXYWY_I9K5W6Fh9u4aijusstP8_XRZnH
 category: Executive & Task Chairs
-tags: []
+tags:
+  - Professional Grade
+  - Synchro-Tilt
+  - silicone-leather
+  - contract-grade
 featured: true
 markdown: |-
   ## Royal II Executive Ergonomic Office Chair
@@ -49,4 +55,4 @@ images:
   - https://www.example.com/images/products/royal-ii-beige-gray.jpg
   - https://www.example.com/images/products/royal-ii-iron-gray.jpg
   - https://www.example.com/images/products/royal-ii-brown.jpg
-updated_at: 2026-04-04 23:43
+updated_at: 2026-04-07 13:28

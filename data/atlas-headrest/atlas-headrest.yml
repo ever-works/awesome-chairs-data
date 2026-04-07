@@ -1,13 +1,14 @@
 name: Atlas Headrest
-description: Premium Aeron-compatible headrest made by former Herman Miller
-  engineers, using the same pellicle mesh and frame materials as the Aeron
-  chair. Offers height, depth, and pivot adjustments with excellent stability.
+description: Enhances main Aeron chairs with premium matching pellicle mesh
+  headrest, promoting neck posture correction and comfort during reclined active
+  work. Adjustable height, depth, pivot provide superior customization over
+  generic accessories. Ideal for long sessions reducing upper back strain.
 source_url: https://www.engineerednow.com/collections/aeron-atlas-headrest
 category: Chair Accessories
 tags:
   - aeron-accessory
   - pellicle-mesh
-  - premium
+  - Accessory
 featured: false
 markdown: >-
   ## Headrest Review
@@ -56,4 +57,4 @@ markdown: >-
   alternatives
 brand: Engineered Now
 brand_logo_url: https://www.engineerednow.com/cdn/shop/files/logo.png
-updated_at: 2026-04-04 23:43
+updated_at: 2026-04-07 13:28

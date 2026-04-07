@@ -1,18 +1,16 @@
 name: Aeris Swopper
-description: An active-sitting stool with 3D spring-driven movement that
-  promotes dynamic posture through side-to-side, forward-backward, and vertical
-  bouncing, strengthening core and back muscles over time. Its seat height is
-  fully adjustable and the 360-degree swivel allows easy repositioning, making
-  it ideal for sit-stand desk users who want to alternate between sitting and
-  standing. Unlike the static support of the Herman Miller Aeron or Steelcase
-  Leap, the Swopper's backrest-free design demands continuous muscular
-  engagement, trading passive comfort for active muscular conditioning.
+description: Promotes continuous movement via 3D spring-driven action,
+  encouraging core engagement, posture correction, and spinal health benefits
+  during active work. Ideal for sit-stand desks, its backless design fosters
+  muscular activation unlike static ergonomic chairs such as Aeron or Leap.
+  Features include adjustable height and 360-degree swivel for versatile use
+  cases.
 source_url: https://www.aeris.de/en/swopper
 category: Standing & Active Seating
 tags:
   - active-sitting
   - 3d-movement
-  - ergonomic
+  - Active Lifestyle
 featured: false
 markdown: "## Overview
 
@@ -68,4 +66,4 @@ markdown: "## Overview
   ergonomic stools start at under â¬300, with the Swopper positioned in the
   mid-to-upper range depending on the model and upholstery configuration."
 brand: Aeris
-updated_at: 2026-04-04 23:43
+updated_at: 2026-04-07 13:28

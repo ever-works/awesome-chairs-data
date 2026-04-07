@@ -1,18 +1,18 @@
 name: AIS Bolton Series Task Chair
-description: An adjustable ergonomic task chair offering customizable seat
-  depth, arm height, and seat height, specifically engineered to support users
-  of smaller stature with proportional frame dimensions. The chair's multi-point
-  adjustability and scaled-down build make it ideal for petite users in all-day
-  office or WFH environments. Compared to the Herman Miller Aeron in its size-A
-  variant or the Steelcase Leap's narrow arm-width settings, the Bolton delivers
-  comparable petite-specific ergonomics at a more accessible
-  commercial-furniture price point.
+description: AIS Bolton Series Task Chair supports all-day work for petite users
+  with adjustable seat depth, arm height, synchro-tilt, and proportional frame,
+  ideal for remote work and back pain relief in smaller statures. Key features
+  include customizable adjustments for proper posture. Compared to gaming chairs
+  or executive chairs, it offers scaled ergonomics at commercial pricing vs
+  premium petite options.
 source_url: https://www.ais-inc.com/
 category: Ergonomic Office Chairs
 tags:
   - adjustable-depth
   - petite-support
   - office
+  - 24-Hour Use
+  - BIFMA Certified
 featured: false
 markdown: >-
   ## Overview
@@ -37,4 +37,4 @@ markdown: >-
 
   - Seat depth adjustment ensures correct back contact with lumbar support
 brand: AIS
-updated_at: 2026-04-04 23:43
+updated_at: 2026-04-07 13:28

@@ -1,14 +1,18 @@
 name: AndaSeat X-Air Series
-description: The AndaSeat X-Air Series is designed to provide superior comfort
-  and ergonomic support for gamers and office workers who spend long hours
-  seated. It features advanced tilt mechanisms and mesh materials that enhance
-  breathability and flexibility, making it ideal for hybrid work environments.
+description: Breathable mesh gaming chair for all-day immersion, X-Air uses
+  full-mesh back/seat for airflow, dynamic lumbar, 3D headrest, 4D/5D armrests,
+  ergonomic spine-following frame, tilt mechanisms, ideal for hot climates or
+  sweaty marathons. Materials enhance flexibility and cooling. For esports
+  endurance and streaming in warm setups, it beats leather-heavy Secretlab Titan
+  in ventilation, matching office ergonomics of Flexispot GC4 at gaming style.
 source_url: https://www.andaseat.com/pages/x-air-series-features
 category: Gaming Chairs
 tags:
   - breathable
   - ergonomic
   - flexible
+  - mesh
+  - esports-ready
 featured: true
 markdown: >-
   ## AndaSeat X-Air Series
@@ -78,4 +82,4 @@ images:
   - https://www.andaseat.com/images/x-air-series-2.png
   - https://www.andaseat.com/images/x-air-series-mesh-chair-1.png
   - https://www.andaseat.com/images/x-air-series-mesh-chair-2.png
-updated_at: 2026-04-04 23:43
+updated_at: 2026-04-07 13:28

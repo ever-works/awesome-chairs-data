@@ -1,14 +1,19 @@
 name: AndaSeat Jungle Series
-description: The AndaSeat Jungle Series offers a balance of ergonomic design and
-  affordability. It includes features like adjustable armrests and lumbar
-  support, making it suitable for long hours of sitting. The chair is built with
-  a robust steel frame and high-density foam, providing durability and comfort.
-source_url: https://www.thesixthaxis.com/2020/12/15/andaseat-jungle-series-gaming-chair-review-best-gaming-chair/
+description: Built for gamers spending hours in front of screens, the Jungle
+  Series promotes sustained comfort with adjustable 2D armrests, detachable
+  lumbar and neck pillows, high-density foam padding, PVC leather covering a
+  steel frame, and 135° recline capability supporting up to 308 lbs. Its robust
+  5-star aluminum base and easy-clean materials enhance longevity. Suitable for
+  daily streaming and casual esports, it provides more durable construction than
+  budget options like GTPlayer while being more affordable than flagship
+  AndaSeat Kaiser models.
+source_url: https://www.andaseat.com/collections/jungle-series-gaming-chair
 category: Gaming Chairs
 tags:
   - affordable
   - ergonomic
   - durable
+  - recline-heavy
 featured: false
 markdown: |-
   # AndaSeat Jungle Series
@@ -45,4 +50,4 @@ brand_logo_url: https://www.andaseat.com/logo.png
 images:
   - https://www.andaseat.com/images/jungle-1.png
   - https://www.andaseat.com/images/jungle-2.png
-updated_at: 2026-04-04 23:43
+updated_at: 2026-04-07 13:28

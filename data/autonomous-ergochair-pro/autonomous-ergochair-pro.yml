@@ -1,19 +1,17 @@
 name: Autonomous ErgoChair Pro
-description: A mid-range ergonomic chair offering six adjustable
-  features—adjustable headrest, lumbar cushion with dual tension settings, 3D
-  armrests, seat depth slider, tilt tension control, and height adjustment—on a
-  breathable mesh backrest rated for up to 350 lbs. Suitable for desk workers up
-  to 6'5" tall who want comprehensive adjustability without flagship pricing.
-  Compared to the Steelcase Gesture's 4D arms and the Herman Miller Aeron's
-  PostureFit SL, it packs more adjustment points than either benchmark at
-  roughly $499, though plastic components and free-moving armrests compromise
-  long-term durability and locking precision.
+description: Autonomous ErgoChair Pro supports all-day work with mesh back,
+  adjustable headrest, dual lumbar, 3D armrests, synchro-tilt, and seat depth
+  slider, ideal for remote work up to 6'5" users and back pain relief. Weight
+  capacity up to 350 lbs. Compared to gaming or executive chairs, it delivers
+  more adjustments at lower cost than premium models like Gesture.
 source_url: https://www.autonomous.ai/office-chairs/ergochair-pro
 category: Ergonomic Office Chairs
 tags:
   - ergonomic
   - mesh-backrest
   - adjustable
+  - 24-Hour Use
+  - BIFMA Certified
 featured: false
 markdown: >-
   ## Overview
@@ -44,7 +42,7 @@ markdown: >-
 
   - **Weight capacity:** Up to 350 pounds
 
-  - **Height accommodation:** Suitable for users up to 6'5" tall
+  - **Height accommodation:** Suitable for users up to 6'5\" tall
 
   - **Color options:** Multiple colors available beyond basic black
 
@@ -100,4 +98,7 @@ markdown: >-
   - Assembly instructions and part labeling are unclear
 brand: Autonomous
 brand_logo_url: https://www.autonomous.ai/cdn/shop/files/autonomous-logo.svg
-updated_at: 2026-04-04 23:43
+images:
+  - https://www.autonomous.ai/cdn/shop/files/ErgoChair_Pro_1_1024x1024.jpg
+  - https://www.autonomous.ai/cdn/shop/files/ErgoChair_Pro_2.jpg
+updated_at: 2026-04-07 13:28

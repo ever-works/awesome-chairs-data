@@ -1,17 +1,18 @@
 name: Autofull Bunny Chair
-description: Themed gaming chair with a distinctive bunny-ear headrest cover,
-  bunny tail cushion, and soft white armrest covers, featuring adjustable lumbar
-  support, adjustable armrests, a 330 lb weight capacity, and recline
-  functionality. Ideal for streamers, cosplayers, and aesthetic-focused gamers
-  who want a viral-worthy centerpiece for their setup. Compared to the Secretlab
-  Titan Evo's more understated design, the Bunny Chair prioritizes visual
-  personality over ergonomic refinement and office versatility.
+description: Cute themed gaming chair optimized for stylish long-hour sits, with
+  bunny-ear headrest, tail lumbar cushion, soft armrest covers, adjustable
+  height/recline/lumbar, PU leather/high-density foam build supporting 330 lbs
+  for cozy endurance. Features prioritize viral aesthetics alongside basic
+  ergonomics. Ideal for streamers and cosplay enthusiasts building themed
+  setups, it stands out visually over functional Secretlab Titan Evo but
+  sacrifices pro adjustability for personality.
 source_url: https://autofull.com
 category: Gaming Chairs
 tags:
   - themed
   - aesthetic
   - adjustable
+  - recline-heavy
 markdown: >-
   ## Overview
 
@@ -53,4 +54,7 @@ markdown: >-
   Typically priced around $400, but often available on sale.
 brand: Autofull
 brand_logo_url: https://autofull.com/cdn/shop/files/autofull-logo.svg
-updated_at: 2026-04-04 23:43
+images:
+  - https://autofull.com/cdn/shop/files/bunny-chair-1.png
+  - https://autofull.com/cdn/shop/files/bunny-chair-2.png
+updated_at: 2026-04-07 13:28
