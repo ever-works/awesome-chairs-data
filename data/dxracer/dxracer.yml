@@ -1,77 +1,36 @@
 name: DXRacer
-description: Pioneer gaming chair brand that introduced the world's first gaming
-  chair in 2006, producing ergonomic gaming chairs, desks, and accessories
-  across multiple series (Formula, Blade, Craft, Master, KOI, Air, and Martian)
-  with rigorous stability, load-bearing, and durability testing. Ideal for
-  gamers seeking established brand heritage and a wide range of specialized
-  chair types including mesh, temperature-controlled, eco-friendly, and
-  collaboration editions. While individual models vary widely in features and
-  price, DXRacer chairs collectively compete with Secretlab's Titan lineup and
-  Herman Miller's Vantum by offering more variety in aesthetics, special
-  features, and themed designs.
+description: DXRacer gaming chairs feature robust steel frames and PU leather
+  for durable racing-style seating during esports or streaming. They offer
+  high-back design, lumbar support, 135-degree recline, and wider seats suited
+  for competitive setups. More affordable than some premium brands but less
+  breathable than mesh alternatives.
 source_url: https://www.dxracer.com
-category: Gaming Chairs
+category: gaming-chairs
 tags:
-  - ergonomic
-  - gaming
-  - pioneer
+  - steel-frame
+  - racing-style
+  - wide-seat
 featured: true
-markdown: >-
+markdown: |-
   ## Overview
 
+  DXRacer pioneered gaming chairs in 2006 with the Formula Series.
 
-  DXRacer is a gaming chair brand that introduced the world's first gaming chair
-  in 2006, known as the Formula Series. This marked a groundbreaking milestone
-  in the gaming industry and established DXRacer's legendary status in the
-  gaming chair market.
+  ## Features
 
-
-  ## Manufacturing & Quality
-
-
-  DXRacer chairs undergo a series of rigorous tests including:
-
-  - Stability testing
-
-  - Load-bearing testing
-
-  - Application testing
-
-
-  The company emphasizes building products that are durable and safe, with close
-  attention to detail in every aspect of manufacturing.
-
+  - Robust steel frames
+  - PU leather upholstery
+  - High-back design
+  - Lumbar support
+  - 135-degree recline
+  - Wide seat options
 
   ## Product Range
 
-
-  DXRacer offers a range of products including:
-
-  - Ergonomic gaming chairs (multiple series including Formula, Blade, Craft,
-  Master, KOI, and others)
-
-  - Desks
-
-  - Accessories
-
-
-  All products are designed to ensure comfort during long hours of gaming or
-  working.
-
-
-  ## History
-
-
-  Founded in 2006, DXRacer pioneered the gaming chair category with the Formula
-  Series — the world's first chair specifically designed for gamers. The brand
-  has since expanded its product lineup and maintains a presence in esports
-  events and collaborations.
-
+  Multiple series: Formula, Blade, Craft, Master, Air, etc.
 
   ## Pricing
 
-
-  Pricing varies by product series and model. DXRacer chairs are positioned in
-  the mid-to-premium range, with regular promotions and sales available.
+  Mid-to-premium range, varies by model.
 brand: DXRacer
-updated_at: 2026-04-04 23:43
+updated_at: 2026-04-07 10:24

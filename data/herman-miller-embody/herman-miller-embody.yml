@@ -1,39 +1,45 @@
 name: Herman Miller Embody
-description: Co-designed with a team of physicians and biomechanics experts, the
-  Embody draws from human-spine research to create its pixel-matrix backrest
-  that distributes weight evenly and promotes natural micro-movement across the
-  entire back surface. Its BackFit dial, adjustable arms, and seat-depth slider
-  accommodate a wide range of body types (up to 300 lbs), making it the go-to
-  choice for professionals, programmers, and gamers who demand all-day spinal
-  health. Starting at $1,400–$1,700 it sits at the top of Herman Miller's
-  premium tier, rivaling only the Aeron in price.
+description: Herman Miller Embody chair promotes dynamic sitting with pixelated
+  backrest and no back support needed, ideal for programmers and heavy users
+  preventing back pain. Premium ergonomic choice outperforming gaming chairs in
+  health focus, though pricier than Secretlab. Features include pixel matrix
+  suspension, adjustable backfit, and tilt limiter.
 source_url: https://www.hermanmiller.com/products/seating/office-chairs/embody-chair/
 category: Ergonomic Office Chairs
 tags:
-  - pixelated-back
-  - spinal-support
-  - premium
+  - pixel-matrix
+  - health-focused
+  - no-lumbar-needed
 featured: false
-markdown: |-
-  ## Herman Miller Embody Chair
+markdown: >-
+  ## Overview
 
-  ### Features
-  - **Pixel-matrix backrest**: Distributes weight evenly, reducing pressure on the spine and promoting healthy circulation
-  - **BackFit adjustment**: Allows the backrest to conform to the natural curve of the spine
-  - **Adjustable arms**: Height and width adjustable for personalized arm support
-  - **Seat depth adjustment**: Slides forward or backward to reduce leg pressure
-  - **Copper-infused foam layer** (in gaming variant): Improves heat dissipation
 
-  ### Specifications
-  - Weight Capacity: 300 lbs
-  - Warranty: 12-year Herman Miller warranty
+  The Herman Miller Embody chair features a pixelated backrest that promotes
+  dynamic sitting without the need for additional back support.
 
-  ### Pricing
-  - Starting at approximately $1,400–$1,700 for standard models; gaming variants run higher.
 
-  For more details, visit [Herman Miller Embody](https://www.hermanmiller.com/products/seating/office-chairs/embody-chair/).
+  ## Features
+
+
+  - Pixel matrix suspension
+
+  - Adjustable backfit
+
+  - Tilt limiter
+
+  - BackFit adjustment
+
+  - Seat depth adjustment
+
+
+  ## Pricing
+
+
+  Starting at $1,400–$1,700.
 brand: Herman Miller
 brand_logo_url: https://www.hermanmiller.com/etc/designs/hm-master/clientlibs-common/resources/img/hm-logo.svg
 images:
   - https://images.hermanmiller.com/products/seating/office-chairs/embody-chair/primary/01.jpg
-updated_at: 2026-04-04 23:43
+  - https://store.hermanmiller.com/embody-chair
+updated_at: 2026-04-07 10:24
