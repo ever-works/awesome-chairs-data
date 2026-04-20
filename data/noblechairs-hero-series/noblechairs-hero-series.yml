@@ -1,15 +1,19 @@
 name: Noblechairs Hero Series
-description: The Noblechairs Hero Series is a high-end gaming chair that
-  combines ergonomic design with luxury materials. It features adjustable lumbar
-  support, a reclining backrest, and a robust steel frame, making it a durable
-  and comfortable choice for gamers and office workers alike.
+description: Ergonomic gaming chair series designed for marathon sessions in
+  esports, streaming, and PC building. Key features include 165° recline, 4D
+  armrests, PU leather or breathable fabric, adjustable lumbar support,
+  reclining backrest, and robust steel frame. More stylish and flashy than
+  subtle office chairs like Aeron but less understated; offers superior lumbar
+  tracking compared to Razer Iskur.
 source_url: https://www.noblechairs.com/en-us/hero-series/tx?srsltid=AfmBOor085GqWGvRsZc_ZHmqOyDNWf6kw1RKhcdoND3AHGcAlHof3IDE
 category: Gaming Chairs
 tags:
   - luxury
   - steel-frame
   - adjustable
-featured: false
+  - Marathon Gaming
+  - Esports Certified
+featured: true
 markdown: |-
   # Noblechairs Hero Series
 
@@ -32,4 +36,4 @@ markdown: |-
 
   ### Additional Information
   - For more details, visit the [official website](https://www.noblechairs.com/en-us/hero-series/tx?srsltid=AfmBOor085GqWGvRsZc_ZHmqOyDNWf6kw1RKhcdoND3AHGcAlHof3IDE).
-updated_at: 2026-04-04 23:43
+updated_at: 2026-04-20 23:17

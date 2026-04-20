@@ -1,41 +1,61 @@
 name: Rush Series
-description: The Rush Series is a collection of premium gaming chairs designed
-  for comfort and durability, ideal for those who spend long hours at their
-  computer. Each model features ergonomic support, adjustable armrests, and a
-  high backrest to ensure proper posture during extended gaming or work
-  sessions.
+description: Premium gaming chairs with 160° recline for full relaxation,
+  including footrest and massage, ideal for gaming breaks and desk napping. High
+  backrest and adjustable armrests ensure ergonomic support for extended use.
+  Outperforms standard office recline; akin to Secretlab Titan with durable
+  premium materials.
 source_url: https://gtracing.com/products/gts04
 category: Premium Gaming Chairs
-tags: []
+tags:
+  - Deep Recline
+  - Relax Mode
+  - ergonomic
 featured: true
-markdown: |
-  ## Rush Series
+markdown: >-
+  ## Overview
 
-  ![Rush Series](https://cdn.shopify.com/s/files/1/0092/3828/2340/files/info.png?v=1759197808)
 
-  ### Overview
-  The **Rush Series** by **GTRacing** is a collection of premium gaming chairs tailored for both gaming enthusiasts and professionals who spend extensive hours at their desks. These chairs prioritize comfort and durability, ensuring users maintain proper posture and alleviate strain during prolonged use.
+  GTRacing Rush Series provides 160°+ recline with footrest and massage for
+  ultimate relax during gaming or work breaks.
 
-  ![GTRacing Logo](https://cdn.shopify.com/s/files/1/0092/3828/2340/files/label22_1.svg?v=1759197808)
 
-  ### Features
-  - **Ergonomic Support**: Each model is designed to promote healthy posture, reducing the risk of discomfort and strain.
-  - **Adjustable Armrests**: Customizable armrests allow users to find their ideal arm position, enhancing comfort and reducing shoulder strain.
-  - **High Backrest**: The high backrest offers comprehensive support for the spine, promoting a more relaxed seating experience.
+  ## Features
 
-  ### Brand
-  - **Brand Name**: GTRacing
-  - **Website**: [Visit GTRacing](https://gtracing.com/products/gts04)
 
-  ### Category
-  - **Category**: Others
+  - Recline: 160°+
 
-  ### Additional Information
-  - **Featured**: Yes
+  - Footrest: Included
 
-  Explore the Rush Series to find the perfect gaming chair that aligns with your comfort and style preferences, ensuring a superior seating experience for gaming and work alike.
-brand: gtracing
+  - Massage: Lumbar support
+
+  - Adjustable armrests
+
+  - High backrest
+
+
+  ## Use Cases
+
+
+  - Gaming with recovery naps
+
+  - Prolonged desk work
+
+
+  ## Comparisons
+
+
+  - Vs standard office: Deeper, more versatile recline
+
+  - Vs Secretlab Titan: Similar premium construction
+
+
+  ## Pricing
+
+
+  Affordable premium, under $500.
+brand: GTRacing
 brand_logo_url: https://cdn.shopify.com/s/files/1/0092/3828/2340/files/label22_1.svg?v=1759197808
 images:
   - https://cdn.shopify.com/s/files/1/0092/3828/2340/files/info.png?v=1759197808
-updated_at: 2026-04-07 13:28
+  - https://gtracing.com/cdn/shop/files/rush-recline.png
+updated_at: 2026-04-20 23:17

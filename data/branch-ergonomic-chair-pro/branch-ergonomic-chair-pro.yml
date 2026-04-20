@@ -1,17 +1,19 @@
 name: Branch Ergonomic Chair Pro
-description: Branch's premium ergonomic model featuring 14 adjustment points,
-  adjustable lumbar height and depth, premium breathable mesh, 4D armrests,
-  adjustable headrest, and seat depth adjustment with a lifetime frame warranty.
-  Designed for professionals demanding precision ergonomics with GREENGUARD Gold
-  certification. Compared to the Steelcase Gesture's comprehensive adjustability
-  and Herman Miller Aeron's advanced suspension, the ErgoChair Pro matches their
-  adjustment breadth at roughly $549 with superior warranty coverage.
+description: "Branch Ergonomic Chair Pro supports long-hour sitting with premium
+  ergonomic design, 14 adjustment points including adjustable lumbar
+  height/depth, breathable mesh back, 4D armrests, headrest, and seat depth.
+  Perfect for programming, office work, and professional tasks with GREENGUARD
+  Gold certification. Compared to Herman Miller Aeron: matches adjustment
+  variety at lower price but different mesh tech; vs. Secretlab, superior office
+  ergonomics over gaming recline."
 source_url: https://www.branchfurniture.com/products/ergonomic-chair-pro
 category: Ergonomic Office Chairs
 tags:
   - premium
   - 14-adjustments
   - professional
+  - Breathable Mesh
+  - Long Hours Certified
 featured: true
 markdown: >-
   ## Overview
@@ -49,7 +51,7 @@ markdown: >-
 
   - Warranty: Lifetime warranty on frame, 5 years on parts
 
-  - Height Range: Suitable for users 5'0" to 6'4"
+  - Height Range: Suitable for users 5'0\" to 6'4\" 
 
   - Certifications: GREENGUARD Gold certified
 
@@ -59,4 +61,8 @@ markdown: >-
 
   Starting at $549
 brand: Branch
-updated_at: 2026-04-04 23:43
+brand_logo_url: https://www.branchfurniture.com/logo.svg
+images:
+  - https://www.branchfurniture.com/cdn/shop/products/ErgonomicChairPro_1_1800x1800.jpg?v=1641000000
+  - https://www.branchfurniture.com/cdn/shop/products/ErgonomicChairPro_2_1800x1800.jpg?v=1641000000
+updated_at: 2026-04-20 23:17

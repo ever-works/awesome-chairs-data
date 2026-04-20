@@ -1,46 +1,60 @@
 name: Amia
 description: Ergonomic task chair focused on back support and comfort for
   long-duration computer work, suitable for both office and home setups.
+  Features LiveBack technology that mimics spinal motion. Versatile hybrid
+  design for mixed professional and casual use.
 source_url: https://store.steelcase.com/seating/ergonomic-chairs/amia
-category: Others
-tags: []
+category: Ergonomic Office Chairs
+tags:
+  - ergonomic
+  - task-chair
+  - back-support
+  - versatile-hybrid
 featured: false
-markdown: |-
-  # Amia
+markdown: >-
+  ## Overview
 
-  **Brand:** Steelcase  
-  **Category:** Others  
-  **Use case:** Ergonomic task chair designed for long-duration computer work in office or home environments.
 
-  ---
+  Amia is an ergonomic task chair focused on back support and overall comfort
+  during extended periods of sitting. It is suitable for both professional
+  office workstations and home office setups, supporting healthy posture while
+  working at a computer.
 
-  ## Description
-  Amia is an ergonomic task chair focused on back support and overall comfort during extended periods of sitting. It is suitable for both professional office workstations and home office setups, supporting healthy posture while working at a computer.
 
-  ---
+  ## Use Cases
+
+
+  - Versatile for mixed use in office and home office environments.
+
+  - Ideal for long-duration computer work requiring dynamic back support.
+
 
   ## Features
-  - Ergonomic task chair design
-  - Focused on enhanced back support
+
+
+  - LiveBack® technology that adjusts to spinal motion
+
+  - Enhanced back support
+
   - Built for comfort during long-duration computer work
+
   - Suitable for office workstations
+
   - Suitable for home office setups
 
-  ---
+
+  ## Comparisons
+
+
+  - Offers more adaptive back support compared to static lumbar chairs.
+
 
   ## Pricing
-  Pricing information is not available in the provided content. Please visit the product page for current pricing: https://store.steelcase.com/seating/ergonomic-chairs/amia
 
-  ---
 
-  ## Brand
-  - **Manufacturer:** Steelcase  
-  - **Brand logo:** https://www.steelcase.com/content/themes/steelcase/assets/images/logos/steelcase-logo.svg
-
-  ---
-
-  ## Source
-  Original product page: https://store.steelcase.com/seating/ergonomic-chairs/amia
-brand: steelcase
+  Pricing information is not available in the provided content. Please visit the
+  product page for current pricing:
+  https://store.steelcase.com/seating/ergonomic-chairs/amia
+brand: Steelcase
 brand_logo_url: https://www.steelcase.com/content/themes/steelcase/assets/images/logos/steelcase-logo.svg
-updated_at: 2026-04-04 23:43
+updated_at: 2026-04-20 23:17

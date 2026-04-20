@@ -1,17 +1,20 @@
 name: Boulies EP500
-description: An ergonomic mesh office chair with chiropractor-designed dynamic
-  lumbar support that moves with your posture in real-time, foldable 5D
-  armrests, adjustable seat depth, and an integrated footrest. Its 50 cm wide
-  seat and multi-angle recline (98°, 110°, 126°) suit users who shift positions
-  frequently during long work sessions. Where the Steelcase Leap offers
-  proprietary LiveBack technology, the EP500 achieves comparable real-time
-  lumbar adaptation and arm adjustability at a fraction of the cost.
+description: Boulies EP500 supports long-hour sitting with ergonomic design
+  featuring chiropractor-designed dynamic lumbar support that adapts in
+  real-time, breathable mesh back, foldable 5D armrests, adjustable seat depth,
+  and integrated footrest. Key features include multi-angle recline and wide
+  seat for comfort during programming, office work, or gaming sessions. Compared
+  to Herman Miller Aeron, it is more affordable with dynamic lumbar and
+  extensive arm adjustments but less premium suspension; vs. Secretlab chairs,
+  it provides better posture support and breathability for professional use.
 source_url: https://boulies.com/products/ep500
 category: Ergonomic Office Chairs
 tags:
   - dynamic-lumbar
   - mesh
   - adjustable-armrests
+  - Breathable Mesh
+  - Long Hours Certified
 featured: false
 markdown: >-
   ## Overview
@@ -61,4 +64,8 @@ markdown: >-
   found only on premium chairs over $1,000 from brands like Steelcase or Herman
   Miller
 brand: Boulies
-updated_at: 2026-04-04 23:43
+brand_logo_url: https://boulies.com/logo-black.svg
+images:
+  - https://boulies.com/cdn/shop/files/EP500_Hero_1800x1800.jpg?v=1705580067
+  - https://boulies.com/cdn/shop/files/EP500_side_1800x1800.jpg?v=1705580067
+updated_at: 2026-04-20 23:17

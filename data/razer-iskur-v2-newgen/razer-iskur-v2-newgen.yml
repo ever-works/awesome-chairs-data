@@ -1,19 +1,18 @@
 name: Razer Iskur V2 NewGen
-description: Latest Razer gaming chair featuring CoolTouch EPU leather
-  technology, redesigned inner foam for cooler sitting, built-in adaptive lumbar
-  curve, 4D armrests, multi-layered foam cushioning, and 90°–152° recline,
-  supporting up to 299 lbs at $649 with a 3-year warranty. Ideal for competitive
-  gamers and streamers who want Razer's signature racing aesthetic with advanced
-  temperature regulation. Compared to the Secretlab Titan Evo's 165° recline and
-  magnetic accessories, the Iskur V2 NewGen offers superior cooling technology
-  and a more aggressive gaming look, while undercutting Herman Miller Vantum's
-  $930+ price while still lacking the Titan Evo's full-flat resting ability.
+description: Ergonomic gaming chair designed for marathon sessions in esports,
+  streaming, and PC building. Key features include 152° recline, 4D armrests,
+  breathable CoolTouch PU leather, adaptive lumbar curve with superior tracking,
+  and multi-layered foam cushioning supporting up to 299 lbs. More stylish and
+  flashy than subtle office chairs like Aeron, with advanced lumbar system
+  outperforming many competitors.
 source_url: https://www.razer.com/gaming-chairs/razer-iskur-v2
 category: Gaming Chairs
 tags:
   - gaming
   - cooling-technology
   - premium
+  - Marathon Gaming
+  - Esports Certified
 featured: true
 markdown: >-
   ## Overview
@@ -61,5 +60,5 @@ markdown: >-
 
   Starting at $649
 brand: Razer
-brand_logo_url: https://www.razer.com/favicon.ico
-updated_at: 2026-04-04 23:43
+brand_logo_url: https://assets.razer.com/assets/images/razer-logo.svg
+updated_at: 2026-04-20 23:17

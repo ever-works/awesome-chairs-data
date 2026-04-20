@@ -1,17 +1,18 @@
 name: BODI Chair
 description: Ergonomic task chair by AMQ with adjustable features tailored for
   daily desk and computer work, supporting users who sit for extended periods.
+  Affordable comfort with modern aesthetic for office or home. Versatile for
+  mixed professional and casual seating needs.
 source_url: https://www.steelcase.com/products/office-chairs/bodi-chair
-category: Others
-tags: []
+category: Ergonomic Office Chairs
+tags:
+  - ergonomic
+  - task-chair
+  - mesh-back
+  - versatile-hybrid
 featured: false
 markdown: >-
-  ## BODI Chair
-
-
-  **Brand:** AMQ  
-
-  **Category:** Office / Task Chair
+  ## Overview
 
 
   Ergonomic task chair designed for daily desk and computer work, supporting
@@ -19,36 +20,37 @@ markdown: >-
   maintaining a clean, modern aesthetic.
 
 
-  ---
+  ## Use Cases
 
 
-  ### Features
+  - Versatile for mixed use in office, home office, and casual setups.
 
-  - **Ergonomic task chair** suitable for all-day desk and computer work
-
-  - **Open mesh back** for breathability and airflow
-
-  - **Supportive backrest** designed for extended sitting
-
-  - **Adjustable features** (task-chair style adjustments to tailor fit and
-  posture)
-
-  - **Available colors:** Light Grey and Black
-
-  - **Designed for all‑day seating environments** (office, home office, and
-  similar work settings)
-
-  - **Affordable design** without sacrificing functionality or visual appeal
+  - Suitable for all-day seating environments.
 
 
-  ---
+  ## Features
 
 
-  ### Pricing
+  - Open mesh back for breathability and airflow
 
-  The source content does not provide specific pricing or plan information.
-  Pricing appears to be available through the online store’s “Buy
-  Now”/“Configure Now” options.
-brand: amq
+  - Supportive backrest designed for extended sitting
+
+  - Adjustable features to tailor fit and posture
+
+  - Available in Light Grey and Black
+
+
+  ## Comparisons
+
+
+  - Balances affordability and functionality better than premium models for
+  everyday use.
+
+
+  ## Pricing
+
+
+  Pricing available through online store’s configuration options.
+brand: AMQ
 brand_logo_url: null
-updated_at: 2026-04-04 23:43
+updated_at: 2026-04-20 23:17

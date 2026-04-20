@@ -1,18 +1,18 @@
 name: DXRacer Air Pro
-description: Eco-friendly gaming chair constructed from recycled materials,
-  featuring ultra-breathable form-fitting design, magnetic lumbar support with
-  plush memory foam, high-strength components, and highly-adjustable ergonomics
-  across six colorways, supporting up to 330 lbs with 90°–135° recline. Ideal
-  for environmentally-conscious gamers and office workers seeking premium
-  breathable comfort with sustainability credentials. Compared to the Herman
-  Miller Vantum's mesh-backed office-grade design, the Air Pro offers a more
-  gaming-focused aesthetic with recycled materials at roughly half the price.
+description: Ergonomic gaming chair designed for marathon sessions in esports,
+  streaming, and PC building. Key features include 135° recline, 4D armrests,
+  breathable recycled fabric, magnetic memory foam lumbar support, and
+  high-strength components supporting up to 330 lbs. More stylish and flashy
+  than subtle office chairs like Aeron but less understated; offers superior
+  lumbar tracking compared to Razer Iskur.
 source_url: https://www.dxracer.com/collections/air-pro
 category: Gaming Chairs
 tags:
   - eco-friendly
   - breathable
   - sustainable
+  - Marathon Gaming
+  - Esports Certified
 featured: true
 markdown: >-
   ## Overview
@@ -58,4 +58,4 @@ markdown: >-
 
   Starting at $499
 brand: DXRacer
-updated_at: 2026-04-04 23:43
+updated_at: 2026-04-20 23:17

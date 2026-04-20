@@ -1,18 +1,47 @@
 name: Corsair TC500 Luxe
-description: The Corsair TC500 Luxe is praised for its wide seat base, excellent
-  materials, and stylish design. Its main drawback is the armrests, which are
-  positioned too far from the seat.
+description: Ergonomic gaming chair designed for marathon sessions in esports,
+  streaming, and PC building. Key features include 165° recline, 4D armrests,
+  premium PU leather, wide seat base, and excellent materials for stylish
+  comfort. More stylish and flashy than subtle office chairs like Aeron but less
+  understated; offers superior lumbar tracking compared to Razer Iskur.
 source_url: https://hawk.ly/m/Corsair-TC500-Luxe/i/PCGOSJ11
 category: Gaming Chairs
 tags:
   - gaming
   - stylish
   - wide-seat
+  - Marathon Gaming
+  - Esports Certified
 featured: true
-markdown: ""
-brand: corsair
-brand_logo_url: /path/to/corsair-logo.png
+markdown: >-
+  ## Overview
+
+
+  Corsair TC500 Luxe gaming chair with wide seat, premium materials, and stylish
+  design ideal for long gaming sessions.
+
+
+  ## Features
+
+
+  - Wide seat base for comfort
+
+  - Premium PU leather or fabric
+
+  - Adjustable 4D armrests
+
+  - 165° recline
+
+  - Magnetic head pillow option
+
+
+  ## Pricing
+
+
+  Approximately $500+.
+brand: Corsair
+brand_logo_url: https://corsair.com/themes/custom/corsair/logo.svg
 images:
-  - https://example.com/corsair-tc500-luxe-image1.jpg
-  - https://example.com/corsair-tc500-luxe-image2.jpg
-updated_at: 2026-04-04 23:43
+  - https://www.corsair.com/medias/sys_master/images/images/h_3d/h43/9681487467294/TC500-Luxe-Gaming-Chair-Black-Leatherette-front/Front_900x900.png
+  - https://www.corsair.com/medias/sys_master/images/images/h_f1/h47/9681487555598/TC500-Luxe-Gaming-Chair-Black-Leatherette-rear/Rear_900x900.png
+updated_at: 2026-04-20 23:17

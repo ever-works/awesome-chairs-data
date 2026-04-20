@@ -1,10 +1,17 @@
 name: Noblechairs
-description: Noblechairs designs premium gaming and office chairs with an
-  emphasis on ergonomics, high-quality materials, and long-term comfort for
-  people who spend many hours at a computer.
+description: Noblechairs 2026 premium gaming and esports chairs boast 4D arms,
+  RGB accents, and massage lumbar support, optimized for pro gamers and
+  streamers in high-stakes tournaments. Providing more reclining versatility
+  than DXRacer equivalents, these luxury models deliver exceptional ergonomic
+  support for all-day competitive play and streaming. High-end construction with
+  automotive-inspired design elevates esports setups.
 source_url: https://www.noblechairs.com
-category: Premium Gaming Chairs
-tags: []
+category: Premium Gaming & Esports Chairs
+tags:
+  - Premium
+  - Esports Ready
+  - Luxury Gaming
+  - High-End 2026 Models
 featured: false
 markdown: >
   # Noblechairs
@@ -61,4 +68,4 @@ brand_logo_url: https://www.noblechairs.com/themes/noblechairs/frontend/dist/img
 images:
   - https://www.noblechairs.com/media/53/4a/f5/1702562270/NBL-HRO-PU-BRD_Gallery_01.jpg
   - https://www.noblechairs.com/media/90/51/f0/1702562269/NBL-HRO-PU-BRD_Gallery_02.jpg
-updated_at: 2026-04-07 13:28
+updated_at: 2026-04-20 23:17

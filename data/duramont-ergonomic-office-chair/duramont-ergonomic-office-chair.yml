@@ -1,14 +1,9 @@
 name: Duramont Ergonomic Office Chair
-description: A budget ergonomic chair featuring 4D adjustable lumbar support
-  (up, down, in, out), 0.5" of lumbar depth travel, a thick memory foam seat,
-  breathable mesh back, optional rollerblade wheels, and an integrated headrest
-  backed by a 5-year warranty. Suitable for cost-conscious WFH users needing
-  solid lumbar adjustability with memory foam cushioning. Compared to the Herman
-  Miller Aeron's PostureFit suspension seat, the Duramont's memory foam offers
-  plush comfort rather than mesh suspension, with comparable lumbar
-  adjustability at under $200.
+description: Ergonomic chair under $300 with 4D lumbar, memory foam seat, mesh
+  back, and headrest for WFH comfort. High value-for-money, providing
+  Noblechairs-like adjustability and style at half the premium cost.
 source_url: https://www.duramont.com/
-category: Ergonomic Office Chairs
+category: Budget Chairs Under $300
 tags:
   - ergonomic
   - budget-friendly
@@ -67,4 +62,4 @@ markdown: >-
 
   - Price: $199.99
 brand: Duramont
-updated_at: 2026-04-04 23:43
+updated_at: 2026-04-20 23:17

@@ -1,18 +1,20 @@
 name: Boulies Master Max
-description: A big-and-tall ergonomic chair with extended seat dimensions
-  supporting up to 150 kg, featuring 4D aluminum armrests, a customizable lumbar
-  pillow, cold-cure foam seating, and a 95°–165° recline range with optional
-  built-in leg rest. Built for larger users needing robust construction during
-  short-to-moderate desk sessions. Compared to the Herman Miller Aeron size C,
-  the Master Max offers similar weight capacity with a wider, cushioned foam
-  seat but lacks the advanced mesh suspension and PostureFit lumbar
-  adjustability of its premium counterpart.
+description: Boulies Master Max supports long-hour sitting for big-and-tall
+  users with ergonomic design, featuring extended seat dimensions, 4D aluminum
+  armrests, customizable lumbar pillow, cold-cure foam seating, and wide recline
+  range with optional leg rest. Ideal for office work, programming, and
+  executive tasks. Compared to Herman Miller Aeron size C, it offers similar
+  weight capacity with more cushioned comfort but less breathable mesh; vs.
+  Secretlab Titan Evo, provides better lumbar customization for posture during
+  work.
 source_url: https://boulies.com/products/master-max
 category: Ergonomic Office Chairs
 tags:
   - big-and-tall
   - ergonomic
   - lumbar-support
+  - Long Hours Certified
+  - Heavy Duty
 featured: false
 markdown: >-
   ## Overview
@@ -74,4 +76,8 @@ markdown: >-
 
   - Sizeable chair footprint that may take up more room
 brand: Boulies
-updated_at: 2026-04-04 23:43
+brand_logo_url: https://boulies.com/logo-black.svg
+images:
+  - https://boulies.com/cdn/shop/files/Master_Max_Hero.jpg?v=1705580067
+  - https://boulies.com/cdn/shop/files/Master_Max_side.jpg?v=1705580067
+updated_at: 2026-04-20 23:17

@@ -1,12 +1,10 @@
 name: Desky Pinnacle Executive
-description: Stylish executive chair optimized for long professional hours in
-  office or home office management, delivering ergonomic spine support, soft
-  breathable upholstery, multi-adjustable tilt and armrests for personalized
-  comfort and polished modern look. Key features include high-density
-  cushioning, seat height/depth adjustments, and durable build for daily
-  endurance. Versus gaming chairs' bold contours or casual options' limited
-  ergonomics, it balances professional aesthetics with functional support for
-  extended sessions.
+description: Sophisticated executive chair for management and professional
+  settings such as boardrooms and home offices. Features soft breathable
+  upholstery options, multi-adjustable tilt, armrests, high-density cushioning,
+  and seat depth adjustments. Premium build lasts 10 years versus budget task
+  chairs; classier than gaming chairs with less recline but superior
+  professional aesthetics.
 source_url: https://desky.com/?srsltid=AfmBOopbyGAQo2mNC79sebua12AJL9_CcJj_6wyUPGuxk68soJGvPHYo
 category: Executive & Task Chairs
 tags:
@@ -15,6 +13,8 @@ tags:
   - support
   - Professional Grade
   - Synchro-Tilt
+  - Professional Executive
+  - 10-Year Durability
 featured: false
 markdown: |-
   ### Desky Pinnacle Executive
@@ -52,4 +52,4 @@ brand_logo_url: https://www.desky.com.au/logo.png
 images:
   - https://www.desky.com.au/images/pinnacle-1.png
   - https://www.desky.com.au/images/pinnacle-2.png
-updated_at: 2026-04-07 13:28
+updated_at: 2026-04-20 23:17

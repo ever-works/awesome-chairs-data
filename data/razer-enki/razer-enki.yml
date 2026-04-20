@@ -1,75 +1,61 @@
 name: Razer Enki
-description: The Razer Enki is designed for all-day comfort with optimized
-  weight distribution to minimize pressure and sitting fatigue. It's perfect for
-  long hours of gaming or work, providing a comfortable seating experience.
+description: Gaming chair with 160° recline capability for full relax during
+  gaming breaks or desk napping, featuring footrest and massage options.
+  Optimized weight distribution and ergonomic design reduce fatigue for all-day
+  use. Deeper recline than standard office chairs; premium build similar to
+  Secretlab Titan but with Razer styling and leather.
 source_url: https://www.razer.com/gaming-chairs/razer-enki
 category: Reclining Chairs
 tags:
-  - reclining
+  - Deep Recline
+  - Relax Mode
   - ergonomic
-  - optimized-weight
 featured: true
 markdown: >-
-  # Razer Enki
-
-
-  ![Razer Enki](https://assets.razerzone.com/enki-image1.png)
-
-
   ## Overview
 
 
-  The **Razer Enki** is a gaming chair designed to provide all-day comfort
-  through optimized weight distribution, minimizing pressure and sitting
-  fatigue. Ideal for long hours of gaming or work, the Enki ensures a
-  comfortable seating experience.
-
-
-  **Brand:** [Razer](https://www.razer.com)
-
-
-  ![Razer Logo](https://assets.razerzone.com/razer-logo.png)
+  Razer Enki offers 152-160° recline for relax mode, perfect for gaming breaks
+  and napping at the desk.
 
 
   ## Features
 
 
-  - **All-Day Comfort:** Engineered for prolonged use, the Enki offers a seating
-  solution that caters to both gaming and work needs.
+  - Recline: Up to 160°
 
-  - **Optimized Weight Distribution:** The chair is designed to distribute
-  weight evenly, reducing pressure on key areas and ensuring comfort during long
-  sessions.
+  - Footrest: Included
 
-  - **Durability:** Built with high-quality materials to withstand extensive
-  use.
+  - Massage: Optional lumbar
 
-  - **Ergonomic Design:** Supports natural posture, reducing strain on the back
-  and neck.
+  - Optimized weight distribution
+
+  - High-quality leather
 
 
-  ## Category
+  ## Use Cases
 
 
-  - **Chair Accessories**
+  - Extended gaming or work with breaks
+
+  - Desk-side relaxation
 
 
-  ## Image Gallery
+  ## Comparisons
 
 
-  ![Razer Enki Image 1](https://assets.razerzone.com/enki-image1.png)
+  - Vs standard office: Far deeper recline
 
-  ![Razer Enki Image 2](https://assets.razerzone.com/enki-image2.png)
-
-
-  ## Learn More
+  - Vs Secretlab Titan: Similar premium leather, Razer ergonomics
 
 
-  For more information, visit the [Razer Enki product
-  page](https://www.razer.com/gaming-chairs/razer-enki).
-brand: razer
+  ## Pricing
+
+
+  Competitive premium pricing.
+brand: Razer
 brand_logo_url: https://assets.razerzone.com/razer-logo.png
 images:
   - https://assets.razerzone.com/enki-image1.png
-  - https://assets.razerzone.com/enki-image2.png
-updated_at: 2026-04-07 13:28
+  - https://assets.razerzone.com/enki-recline.png
+updated_at: 2026-04-20 23:17

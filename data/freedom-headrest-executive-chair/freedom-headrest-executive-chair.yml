@@ -1,11 +1,10 @@
 name: Freedom Headrest Executive Chair
-description: Premium executive chair for long-hour professional sessions in
-  offices or home management, featuring dynamic self-adjusting headrest,
-  weight-sensitive recline with tilt mechanism, contoured breathable cushions,
-  and polished design for ergonomic posture support. Key highlights include
-  automatic adjustments reducing fatigue, high-quality materials, and robust
-  build for daily endurance. Surpasses gaming chairs' fixed gaming focus and
-  casual chairs' simplicity with intuitive professional comfort.
+description: Sophisticated executive chair for management and professional
+  settings such as boardrooms and home offices. Features dynamic self-adjusting
+  headrest, contoured cushions, weight-sensitive recline, and premium upholstery
+  options including leather. Premium build lasts 10 years versus budget task
+  chairs; classier than gaming chairs with less recline but intuitive
+  professional comfort.
 source_url: https://www.humanscale.com/products/seating/freedom-headrest-executive-chair
 category: Executive & Task Chairs
 tags:
@@ -14,6 +13,8 @@ tags:
   - posture
   - Professional Grade
   - Synchro-Tilt
+  - Professional Executive
+  - 10-Year Durability
 featured: true
 markdown: |-
   ## Freedom Headrest Executive Chair
@@ -61,4 +62,4 @@ brand_logo_url: https://www.humanscale.com/images/logo.png
 images:
   - https://www.humanscale.com/images/products/freedom-headrest-executive-chair.jpg
   - https://www.humanscale.com/images/products/freedom-headrest-executive-chair-side.jpg
-updated_at: 2026-04-07 13:28
+updated_at: 2026-04-20 23:17
