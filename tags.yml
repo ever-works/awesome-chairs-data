@@ -31,7 +31,7 @@
 - id: affordable
   name: Affordable
 - id: padded
-  name: padded
+  name: Padded
 - id: quiet
   name: Quiet
 - id: smooth-glide
@@ -680,3 +680,53 @@
   name: Cooling Gel
 - id: flex-mesh
   name: Flex Mesh
+- id: full-breathable-mesh
+  name: Full Breathable Mesh
+- id: versatile-hybrid
+  name: Versatile Hybrid
+- id: high-end-2026-models
+  name: High End 2026 Models
+- id: deep-recline
+  name: Deep Recline
+- id: relax-mode
+  name: Relax Mode
+- id: professional-executive
+  name: Professional Executive
+- id: 10-year-durability
+  name: 10 Year Durability
+- id: marathon-gaming
+  name: Marathon Gaming
+- id: esports-certified
+  name: Esports Certified
+- id: movement-encouraging
+  name: Movement Encouraging
+- id: posture-promoting
+  name: Posture Promoting
+- id: long-hours
+  name: Long Hours
+- id: breathable-mesh
+  name: Breathable Mesh
+- id: long-hours-certified
+  name: Long Hours Certified
+- id: heavy-duty-capacity
+  name: Heavy Duty Capacity
+- id: wide-seat-base
+  name: Wide Seat Base
+- id: endurance-rated
+  name: Endurance Rated
+- id: coder-optimized
+  name: Coder Optimized
+- id: 12-hour-comfort
+  name: 12 Hour Comfort
+- id: standing-chair
+  name: Standing Chair
+- id: high-adjustability
+  name: High Adjustability
+- id: clinical
+  name: Clinical
+- id: stability
+  name: Stability
+- id: powered
+  name: Powered
+- id: mobility
+  name: Mobility
