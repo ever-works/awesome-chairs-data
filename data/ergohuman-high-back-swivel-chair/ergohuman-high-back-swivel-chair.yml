@@ -1,13 +1,14 @@
 name: Ergohuman High Back Swivel Chair
-description: High-back ergonomic chair optimized for programmer coding marathons
-  with dynamic lumbar support adapting to posture shifts, multi-adjustable arms
-  reducing wrist strain from keyboard use, and breathable mesh back for airflow
-  during 12+ hour remote work sessions. Features auto-tilt recline and seat
-  slider for dynamic positioning. Offers warmer, more affordable alternative to
-  Aeron with subtler design than gaming chairs like Titan Evo.
+description: High-back chair for programmer endurance, dynamic lumbar for
+  posture support, breathable mesh for airflow, adjustable
+  arms/headrest/tilt/seat for long hours. More office-suitable and less flashy
+  than gaming chairs, warmer alternative to Aeron.
 source_url: https://www.ergohuman.com/products/ergohuman-high-back-swivel-chair
-category: Endurance Programmer Chairs
+category: Endurance & Programmer Chairs
 tags:
+  - 24-Hour Use
+  - Posture Correction
+  - Mesh Breathable
   - ergonomic
   - lumbar-support
   - adjustable
@@ -18,49 +19,41 @@ markdown: >-
   ## Overview
 
 
-  Ergohuman High Back Swivel Chair provides exceptional support for extended
-  sitting, ideal for software developers and remote professionals.
+  High-back swivel chair emphasizing posture, breathability, and adjustability
+  for programmers' long sessions.
 
 
   ## Features
 
 
-  - Dynamic adjustable lumbar support adapts to posture changes
+  - Dynamic adjustable lumbar support
 
-  - Multi-adjustable arms (height, width, depth) reduce wrist strain
+  - Breathable mesh back with suspension
 
-  - Breathable mesh back with pixelated suspension for airflow
+  - Multi-adjustable arms to reduce strain
 
-  - Auto-tilt mechanism and seat slider for recline and depth
-
-  - Adjustable headrest for neck support
-
-
-  ## Use Cases
-
-
-  - Coding marathons and software development
-
-  - Remote work exceeding 12 hours daily
-
-  - Prolonged desk-based tasks
-
-
-  ## Comparisons
-
-
-  - Vs. Aeron: Warmer materials, cheaper price
-
-  - Vs. Titan Evo: Subtler professional design
+  - Auto-tilt, seat slider, adjustable headrest
 
 
   ## Pricing
 
 
-  Starting around $600-800.
+  ~$600-800
+
+
+  ## Use Cases
+
+
+  - 12+ hour coding and remote work
+
+
+  ## Comparisons
+
+
+  - Subtler than gaming chairs, warmer than Aeron
 brand: ergohuman
 brand_logo_url: https://www.ergohuman.com/images/logo.png
 images:
   - https://www.ergohuman.com/images/products/ergohuman-high-back-1.jpg
   - https://www.ergohuman.com/images/products/ergohuman-high-back-2.jpg
-updated_at: 2026-04-21 08:14
+updated_at: 2026-04-21 14:17

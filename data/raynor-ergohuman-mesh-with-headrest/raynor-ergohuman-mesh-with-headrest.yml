@@ -1,64 +1,46 @@
 name: Raynor Ergohuman Mesh with Headrest
-description: All-mesh ergonomic chair tailored for long-hours programmers,
-  featuring independent lumbar flex support adapting to shifts in posture,
-  adjustable arms to minimize wrist strain, and pivoting headrest for neck
-  relief during 12+ hour coding sessions. Breathable design ensures airflow;
-  subtler and more office-appropriate than gaming Titan Evo, with warmer feel
-  than cool Aeron mesh at mid-range pricing.
+description: All-mesh chair for long-hour programmers with independent lumbar
+  flex for posture support, pivoting headrest, adjustable arms/seat/tilt for
+  comfort, breathable design for airflow. Office-appropriate and subtler than
+  gaming chairs like Titan Evo.
 source_url: https://www.ergohuman.com/products/ergohuman-mesh-chair-with-headrest
-category: Endurance Programmer Chairs
+category: Endurance & Programmer Chairs
 tags:
+  - 24-Hour Use
+  - Posture Correction
+  - Mesh Breathable
   - mesh
   - high-back
   - adjustable-headrest
   - Coder Optimized
   - 12-Hour Comfort
 featured: false
-markdown: >-
+markdown: |-
   ## Overview
 
-
-  Raynor Ergohuman Mesh with Headrest delivers premium adjustability for
-  endurance seating in programming and remote work.
-
+  Full mesh with headrest for breathable endurance seating.
 
   ## Features
 
-
-  - Height-adjustable backrest up to 30.5"
-
+  - Independent flex lumbar for posture
   - Pivoting padded mesh headrest
-
-  - Independent flexing lumbar support
-
-  - Seat slider for depth adjustment
-
-  - Tilt lock and tension control
-
+  - Seat slider, tilt lock/tension
   - Adjustable arms
-
-
-  ## Use Cases
-
-
-  - Extended software development sessions
-
-  - Remote work marathons over 12 hours
-
-  - High-focus desk professions
-
-
-  ## Comparisons
-
-
-  - Vs. Aeron: More affordable, added headrest
-
-  - Vs. Titan Evo: Professional subtlety over gaming aesthetics
-
+  - Height-adjustable backrest
 
   ## Pricing
 
+  ~$865
 
-  Starting at $865.
+  ## Use Cases
+
+  - 12+ hour remote programming
+
+  ## Comparisons
+
+  - Professional vs flashy gaming; affordable with headrest vs Aeron
 brand: Raynor
-updated_at: 2026-04-21 08:14
+images:
+  - https://www.ergohuman.com/images/products/mesh-headrest-1.jpg
+  - https://www.ergohuman.com/images/products/mesh-headrest-2.jpg
+updated_at: 2026-04-21 14:18

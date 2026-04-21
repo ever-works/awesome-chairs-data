@@ -8,12 +8,15 @@ description: Optimized for professional gamers in marathon sessions, the
   adjustability than standard racing chairs like DXRacer while approaching
   Secretlab's magnetic features at a competitive price.
 source_url: https://www.andaseat.com/pages/andaseat-x-flyquest-gaming-chair-ultimate-comfort-style
-category: Gaming Chairs
+category: Ergonomic Gaming Chairs 2026
 tags:
   - adjustable
   - ergonomic
   - professional
   - esports-ready
+  - High Recline
+  - Racing Design
+  - All-Day Comfort
 featured: true
 markdown: |-
   # AndaSeat FlyQuest Gaming Chair
@@ -52,4 +55,5 @@ brand_logo_url: https://www.andaseat.com/logo.png
 images:
   - https://www.andaseat.com/images/flyquest-gaming-chair-1.png
   - https://www.andaseat.com/images/flyquest-gaming-chair-2.png
-updated_at: 2026-04-07 13:28
+  - https://example.com/andaseat-chair.jpg
+updated_at: 2026-04-21 14:17

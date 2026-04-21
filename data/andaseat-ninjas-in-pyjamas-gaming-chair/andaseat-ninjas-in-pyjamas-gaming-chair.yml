@@ -1,18 +1,22 @@
 name: AndaSeat Ninjas in Pyjamas Gaming Chair
-description: Developed with esports pros for long-duration competitive play,
-  this collaboration chair features advanced pop-out lumbar support,
-  multi-adjustable armrests, extended recline, premium PU leather and foam
-  construction, and team-branded styling on a stable frame. It prioritizes
-  pro-level ergonomics to minimize fatigue. Perfect for esports athletes and
-  content creators streaming tournaments, it edges out generic DXRacer models in
-  lumbar innovation and team appeal versus pricier Noblechairs Hero.
+description: Developed with esports pros for long-duration competitive play and
+  marathon coding/gaming sessions, featuring advanced pop-out lumbar support,
+  multi-adjustable armrests, extended recline up to 165°, premium PU leather and
+  high-density foam, and team-branded racing design on a stable frame for
+  all-day ergonomic comfort. It prioritizes pro-level ergonomics to minimize
+  fatigue during 12+ hour use cases. Outperforms budget gaming chairs in
+  durability and lumbar innovation; more stylish and reclinable than standard
+  office chairs.
 source_url: https://www.andaseat.com/pages/andaseat-ninjas-in-pyjamas-gaming-chair
-category: Gaming Chairs
+category: Ergonomic Gaming Chairs 2026
 tags:
   - ergonomic
   - adjustable
   - collaboration
   - esports-ready
+  - High Recline
+  - Racing Design
+  - All-Day Comfort
 featured: true
 markdown: >-
   # AndaSeat Ninjas in Pyjamas Gaming Chair
@@ -85,4 +89,5 @@ brand_logo_url: https://www.andaseat.com/logo.png
 images:
   - https://www.andaseat.com/images/nip-gaming-chair-1.png
   - https://www.andaseat.com/images/nip-gaming-chair-2.png
-updated_at: 2026-04-07 13:28
+  - https://example.com/andaseat-chair.jpg
+updated_at: 2026-04-21 14:17

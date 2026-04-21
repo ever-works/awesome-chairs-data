@@ -1,18 +1,21 @@
 name: AndaSeat Phantom 3 Gaming Chair
-description: Premium gaming seat for intensive long-session use, Phantom 3
-  supplies high-back ergonomic envelopment with adjustable lumbar/armrests,
-  superior foam density, durable premium fabrics/leather, wide recline, and
-  stylish contours to sustain comfort and focus. It excels in support
-  distribution for spine health. For pro-level streaming and esports arenas, it
-  outshines mid-range Vertagear SL5000 in material quality, approaching
-  Noblechairs Legend luxury at better pricing.
+description: Premium high-back gaming chair providing ergonomic envelopment and
+  support for intensive long-session gaming or coding marathons over 12 hours,
+  with adjustable lumbar and armrests, superior high-density foam, durable
+  premium PU leather or fabric materials, wide recline, and contoured design.
+  Excels in spine health and fatigue reduction. Superior to budget options in
+  material quality and durability; more stylish and reclinable than office
+  chairs.
 source_url: https://www.andaseat.com/products/phantom-3-series
-category: Gaming Chairs
+category: Ergonomic Gaming Chairs 2026
 tags:
   - premium
   - stylish
   - functional
   - esports-ready
+  - High Recline
+  - Racing Design
+  - All-Day Comfort
 featured: false
 markdown: >-
   ## **AndaSeat Phantom 3 Gaming Chair**
@@ -87,4 +90,5 @@ brand_logo_url: https://www.andaseat.com/logo.png
 images:
   - https://www.andaseat.com/images/phantom-3-1.png
   - https://www.andaseat.com/images/phantom-3-2.png
-updated_at: 2026-04-07 13:28
+  - https://example.com/andaseat-chair.jpg
+updated_at: 2026-04-21 14:17
