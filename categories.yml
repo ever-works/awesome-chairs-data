@@ -55,7 +55,7 @@
 - id: ergonomic-gaming-hybrids
   name: Ergonomic Gaming Hybrids
 - id: budget-chairs-under-500
-  name: Budget Chairs Under $500
+  name: Budget Chairs (Under $500)
 - id: recliner-chairs
   name: Recliner Chairs
 - id: 2026-new-releases
@@ -66,3 +66,7 @@
   name: Esports & Racing Chairs
 - id: premium-ergonomic-chairs
   name: Premium Ergonomic Chairs
+- id: rgb-gaming-chairs
+  name: RGB Gaming Chairs
+- id: massage-chairs
+  name: Massage Chairs

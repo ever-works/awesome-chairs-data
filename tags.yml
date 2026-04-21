@@ -211,7 +211,7 @@
 - id: spinal-support
   name: Spinal Support
 - id: rgb
-  name: RGB
+  name: Rgb
 - id: stool
   name: Stool
 - id: xl-size
@@ -615,7 +615,7 @@
 - id: soft-seat
   name: Soft Seat
 - id: posturefit
-  name: PostureFit
+  name: Posturefit
 - id: health-focused
   name: Health Focused
 - id: no-lumbar-needed
@@ -743,7 +743,7 @@
 - id: 6d-support
   name: 6d Support
 - id: rgb-sync
-  name: RGB Sync
+  name: Rgb Sync
 - id: pebble-seat
   name: Pebble Seat
 - id: neo-leatherette
@@ -772,3 +772,33 @@
   name: Mid Tier Gaming
 - id: multi-device
   name: Multi Device
+- id: armrest-upgrade
+  name: Armrest Upgrade
+- id: 4d-adjustable
+  name: 4d Adjustable
+- id: 180-recline
+  name: 180 Recline
+- id: vibration-massage
+  name: Vibration Massage
+- id: lumbar-heat
+  name: Lumbar Heat
+- id: caster-wheels
+  name: Caster Wheels
+- id: silent
+  name: Silent
+- id: drafting
+  name: Drafting
+- id: stackable
+  name: Stackable
+- id: meeting-room
+  name: Meeting Room
+- id: auto-recline
+  name: Auto Recline
+- id: fabric-seat
+  name: Fabric Seat
+- id: hybrid-mesh
+  name: Hybrid Mesh
+- id: self-adjusting-lumbar
+  name: Self Adjusting Lumbar
+- id: upgrade-kit
+  name: Upgrade Kit
