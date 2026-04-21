@@ -187,7 +187,7 @@
 - id: colorful
   name: Colorful
 - id: esports
-  name: esports
+  name: Esports
 - id: electric
   name: Electric
 - id: classic
@@ -211,7 +211,7 @@
 - id: spinal-support
   name: Spinal Support
 - id: rgb
-  name: Rgb
+  name: RGB
 - id: stool
   name: Stool
 - id: xl-size
@@ -730,3 +730,7 @@
   name: Powered
 - id: mobility
   name: Mobility
+- id: endurance
+  name: Endurance
+- id: 2026-updated
+  name: 2026 Updated
