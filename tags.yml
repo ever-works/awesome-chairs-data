@@ -195,7 +195,7 @@
 - id: footrest
   name: Footrest
 - id: rgb-lighting
-  name: RGB Lighting
+  name: Rgb Lighting
 - id: immersive
   name: Immersive
 - id: entertainment
@@ -860,3 +860,11 @@
   name: Hybrid
 - id: shiatsu
   name: Shiatsu
+- id: 2026-releases
+  name: 2026 Releases
+- id: 8z-pellicle
+  name: 8z Pellicle
+- id: triflex
+  name: Triflex
+- id: ergonomic-gaming-hybrids
+  name: Ergonomic Gaming Hybrids
