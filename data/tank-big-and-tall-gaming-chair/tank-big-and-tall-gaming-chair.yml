@@ -1,15 +1,16 @@
 name: TANK Big and Tall Gaming Chair
-description: Robust gaming chair for larger users with 400lb+ capacity,
-  extra-wide seat base, heavy-duty reinforced frame for prolonged gaming or
-  office hybrid use. Emphasizes stability and comfort for bariatric support in
-  extended sessions. Outperforms standard chairs in durability for big & tall
-  builds.
+description: Robust gaming chair designed for larger users with 400lb+ capacity,
+  extra-wide seat base, and heavy-duty reinforced steel frame, offering superior
+  stability and durability over standard gaming chairs. Features high-density
+  foam, adjustable lumbar, and reclining for prolonged immersive gaming or
+  office hybrid sessions. Perfect for big & tall gamers needing reliable
+  heavy-duty support.
 source_url: https://www.dxracer.com/collections/tank
-category: Big & Tall & High Capacity Chairs
+category: Big & Tall Chairs
 tags:
-  - bariatric
-  - extra-wide
-  - heavy-duty
+  - Heavy Duty Capacity
+  - Wide Build
+  - gaming
 featured: true
 markdown: |-
   ## Features
@@ -32,4 +33,5 @@ brand: DXRacer
 brand_logo_url: https://www.dxracer.com/logo.png
 images:
   - https://nex-img.dxracer.cc/20001/084e4830-2c8a-45b1-91b7-2fc12fc5bc98-1.png
-updated_at: 2026-04-21 14:18
+  - https://www.dxracer.com/us/en-us/assets/images/product/tank/tank-2.jpg
+updated_at: 2026-04-21 17:22

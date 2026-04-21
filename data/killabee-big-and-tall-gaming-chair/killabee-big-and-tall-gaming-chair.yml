@@ -1,14 +1,15 @@
 name: Killabee Big and Tall Gaming Chair
 description: Heavy-duty gaming chair with 350lb+ capacity (optimized for 400lb
-  users), extra-wide seat, reinforced frame, massage lumbar, and footrest for
-  larger gamers or office workers in extended sessions. Focuses on bariatric
-  comfort with memory foam and deep recline. Suitable for big & tall daily use.
+  users), featuring extra-wide seat, reinforced metal frame, and high weight
+  limits for superior support over standard chairs. Includes massage lumbar,
+  memory foam, footrest, and deep recline for larger gamers or office workers in
+  extended sessions. Ideal for bariatric comfort in prolonged use.
 source_url: https://www.amazon.com/KILLABEE-Gaming-Chair-Massage/dp/B07FYND3W4
-category: Big & Tall & High Capacity Chairs
+category: Big & Tall Chairs
 tags:
-  - bariatric
-  - extra-wide
-  - heavy-duty
+  - Heavy Duty Capacity
+  - Wide Build
+  - massage
 featured: false
 markdown: |-
   ## Features
@@ -29,4 +30,7 @@ markdown: |-
 
   Starting at $229.99
 brand: Killabee
-updated_at: 2026-04-21 14:17
+brand_logo_url: https://killabeechairs.com/logo.png
+images:
+  - https://m.media-amazon.com/images/I/71+5Z6Z6Z6L._AC_SL1500_.jpg
+updated_at: 2026-04-21 17:22

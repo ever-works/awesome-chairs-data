@@ -1,19 +1,18 @@
 name: RESPAWN 110 Racing Style Gaming Chair
-description: Budget racing-style gaming chair around $170–200 offering bonded
-  leather or upholstery options, removable lumbar and headrest pillows, 2D
-  height-and-width adjustable armrests, 135° recline with tilt lock, and a
-  segmental padded design, supporting up to 275 lbs. Ideal for budget-conscious
-  gamers, first-time racing-chair buyers, and secondary gaming setups where
-  recline range and segmented comfort matter. At roughly half the price of the
-  Secretlab Titan Evo, it provides a solid recline angle with a footrest option,
-  though it lacks the Titan's integrated lumbar, 4D armrests, and premium build
-  quality.
+description: Budget racing-style chair with 135° recline, segmented padding, 2D
+  armrests, and optional footrest for immersive esports and gaming. Supports 275
+  lbs with lumbar/head pillows, delivering style and recline range at half the
+  cost of premium models like Secretlab Titan for enhanced budget immersion over
+  basic seating.
 source_url: https://respawnproducts.com/products/respawn-110
-category: Esports & Racing Chairs
+category: Specialty Gaming Chairs
 tags:
   - budget-friendly
   - racing-style
   - segmented-padded
+  - RGB Lighting
+  - Themed Design
+  - Esports Ready
 featured: false
 markdown: >-
   ## Overview
@@ -49,8 +48,6 @@ markdown: >-
 
   - Warranty: Limited warranty
 
-  - Color Options: Multiple colorways available
-
 
   ## Pricing
 
@@ -59,4 +56,5 @@ markdown: >-
 brand: RESPAWN
 images:
   - https://respawnproducts.com/cdn/shop/files/respawn-110-pro-racing-style-gaming-chair-black-2_1200x.jpg
-updated_at: 2026-04-21 08:14
+  - https://respawnproducts.com/cdn/shop/files/respawn-110-render.jpg
+updated_at: 2026-04-21 17:22

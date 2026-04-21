@@ -1,18 +1,18 @@
 name: Haworth Fern
-description: The Haworth Fern is a premium ergonomic task chair featuring an
-  edgeless digital knit backrest that flexes naturally with spine movement,
-  integrated lumbar support, and a wave suspension system with full seat depth
-  adjustment for users up to 350 lbs. Designed for 8+ hour all-day desk sessions
-  in corporate or WFH environments, it emphasizes natural movement and
-  breathability without mesh or foam panels. Compared to the Herman Miller
-  Aeron's Pellicle mesh seat and the Steelcase Gesture's 3D LiveBack, the Fern's
-  knit construction offers superior tactile comfort at roughly $1,000–$1,400.
+description: Haworth Fern provides posture support for all-day sitting with an
+  edgeless digital knit backrest that flexes with spine movement, integrated
+  lumbar, and wave suspension system plus full seat depth adjustment for up to
+  350 lbs. Breathable knit design promotes natural posture in office or WFH
+  settings. Outperforms gaming chairs in adjustability and tactile comfort for
+  prolonged upright work.
 source_url: https://haworth.pxf.io/4eQJYL
 category: Ergonomic Office Chairs
 tags:
   - digital-knit
   - edgeless-backrest
   - wave-suspension
+  - Posture Correction
+  - All Day Comfort
 featured: true
 markdown: >-
   ## Haworth Fern
@@ -50,4 +50,5 @@ brand_logo_url: https://www.haworth.com/content/dam/haworth/na/en/images/logos/h
 images:
   - https://www.haworth.com/content/dam/haworth/na/en/images/products/seating/task/fern/fern-hero.jpg
   - https://www.haworth.com/content/dam/haworth/na/en/images/products/seating/task/fern/fern-back.jpg
-updated_at: 2026-04-04 23:43
+  - https://www.haworth.com/-/media/images/products/seating/fern/fern-side-view.jpg
+updated_at: 2026-04-21 17:22

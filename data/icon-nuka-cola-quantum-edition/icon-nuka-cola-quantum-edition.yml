@@ -1,17 +1,18 @@
 name: ICON Nuka-Cola Quantum Edition
-description: Stunning Nuka-Cola Quantum themed gaming chair from Fallout with
-  vegan leather upholstery—breathable, sustainable, and more
-  eco-friendly/durable than PU leather. Includes adjustable lumbar support, 4D
-  armrests, XL casters, luminescent design, supporting up to 150 kg. Ideal for
-  gamers who want premium themed style and long-lasting sustainability.
+description: Fallout Nuka-Cola Quantum themed chair with vegan leather,
+  luminescent design, 4D armrests, and 150kg support for immersive gaming and
+  esports fandom. Offers eco-friendly durability and unique style surpassing
+  basic chairs in thematic immersion and premium feel.
 source_url: https://www.noblechairs.com/en-us/icon-series/nuka-cola-quantum-edition
-category: Special Edition Gaming Chairs
+category: Specialty Gaming Chairs
 tags:
   - special-edition
   - vegan-leather
   - fallout
   - Vegan Leather
   - Themed Design
+  - RGB Lighting
+  - Esports Ready
 featured: false
 markdown: |-
   ## Overview
@@ -33,5 +34,6 @@ markdown: |-
   $499.00 with free shipping.
 brand: noblechairs
 images:
-  - https://via.placeholder.com/1200x800/3498DB/FFFFFF?text=ICON+Quantum
-updated_at: 2026-04-21 14:17
+  - https://www.noblechairs.com/media/catalog/product/i/c/icon_nuka_cola_quantum_1.jpg
+  - https://www.noblechairs.com/media/catalog/product/i/c/icon_quantum_render.jpg
+updated_at: 2026-04-21 17:22

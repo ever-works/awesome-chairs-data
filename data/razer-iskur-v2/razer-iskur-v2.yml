@@ -1,41 +1,69 @@
 name: Razer Iskur V2
-description: Razer Iskur V2 gaming chair features an adaptive lumbar curve
-  system that auto-adjusts to spine shape, 6D lumbar support, contoured
-  headrest, and breathable memory foam with mesh. Supports 300lbs, 180-degree
-  recline, and RGB lighting sync. Great for immersive gaming; improves on
-  original Iskur with better lumbar tech, competing with AndaSeat in ergonomics
-  at a mid-premium price.
+description: Gaming chair optimized for VR/AR immersive experiences with haptic
+  feedback compatibility, adaptive 6D lumbar support that auto-adjusts to user
+  movements, 180-degree recline, RGB lighting synchronization, and contoured
+  headrest. Designed for extended VR sessions, it provides superior ergonomics
+  and immersion compared to standard gaming chairs like Secretlab or DXRacer,
+  enhancing feedback from VR haptics.
 source_url: https://www.razer.com/gaming-chairs/razer-iskur-v2
-category: gaming-chairs
+category: VR/AR & Immersive Chairs
 tags:
-  - 4d-lumbar
-  - haptic-compatible
-  - breathable-fabric
+  - VR Ready
+  - Haptic Feedback
+  - RGB
+  - reclining
   - adaptive-lumbar
-  - 6d-support
-  - rgb-sync
 featured: true
-markdown: |-
+markdown: >-
   ## Overview
 
-  Razer Iskur V2 gaming chair with advanced ergonomic design.
+
+  Razer Iskur V2 is engineered for VR/AR smart integration, supporting haptic
+  devices for tactile feedback during gameplay.
+
 
   ## Features
 
-  - 4D lumbar tracking
-  - 6D armrests
-  - Breathable fabric
-  - 152-degree recline
-  - Haptic feedback compatibility
+
+  - Haptic feedback compatible for synchronized VR vibrations
+
+  - 180-degree recline with anti-gravity positioning for relaxed extended
+  sessions
+
+  - 6D adaptive lumbar support auto-adjusts to spine
+
+  - RGB lighting syncs with gaming setups
+
+  - Breathable mesh and memory foam for long wear
+
+
+  ## Use Cases
+
+
+  - Extended VR/AR sessions (4+ hours) with full-body immersion
+
+  - Competitive esports with haptic enhancements
+
+  - Home sim racing or flight sims requiring recline
+
+
+  ## Comparisons
+
+
+  - Superior haptic integration vs. DXRacer Tank (no haptics)
+
+  - Better auto-lumbar than Secretlab Titan (manual adjust)
+
 
   ## Pricing
 
-  Check official site for current pricing.
+
+  Mid-premium range; check Razer site for current offers.
 brand: Razer
 brand_logo_url: https://assets.razerzone.com/razer-site/global/images/razer-logo.svg
 images:
   - https://assets.razerzone.com/razer-site/global/images/products/razer-iskur-v2/razer-iskur-v2-gallery-1.jpg
   - https://assets.razerzone.com/razer-site/global/images/products/razer-iskur-v2/razer-iskur-v2-gallery-2.jpg
-  - https://www.razer.com/gaming-chairs/razer-iskur-v2
+  - https://assets.razerzone.com/razer-site/global/images/products/razer-iskur-v2/razer-iskur-v2-gallery-3.jpg
   - https://assets.razer.net/product-images/iskur-v2/800x800/Razer-Iskur-V2_6D-Lumbar-Front.png
-updated_at: 2026-04-21 05:15
+updated_at: 2026-04-21 17:22

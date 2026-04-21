@@ -1,15 +1,18 @@
 name: GTRacing GT905
-description: Affordable racing-style gaming chair with basic lumbar support and
-  RGB lighting, good for entry-level long-hour sitting. Features reclining
-  backrest and padded cushions. Less durable than premium options like Secretlab
-  but offers excellent budget value.
+description: Budget racing-style chair with RGB lighting, lumbar support, and
+  reclining backrest for entry-level immersive gaming and esports. Adds vibrant
+  style and padded comfort over basic chairs, ideal for long-hour budget setups
+  with excellent value.
 source_url: https://gtracing.com/products/gt905
-category: RGB Gaming Chairs
+category: Specialty Gaming Chairs
 tags:
   - budget-friendly
   - racing-style
   - RGB
   - rgb-sync
+  - RGB Lighting
+  - Themed Design
+  - Esports Ready
 featured: true
 markdown: >-
   ## Overview
@@ -38,6 +41,6 @@ markdown: >-
 brand: GTRacing
 brand_logo_url: https://shopify.gtracing.com/img/icons/01/1.png
 images:
-  - https://gtracing.com/cdn/shop/t/125/assets/transparent.png?v=74725729134931200321747901099
-  - https://via.placeholder.com/800x600?text=GTRacing+GT905
-updated_at: 2026-04-21 11:28
+  - https://gtracing.com/cdn/shop/files/GT905_RGB_1.jpg?v=74725729134931200321747901099
+  - https://gtracing.com/cdn/shop/files/GT905_recline.jpg
+updated_at: 2026-04-21 17:22

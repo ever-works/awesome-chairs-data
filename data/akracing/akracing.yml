@@ -1,15 +1,19 @@
 name: AKRacing
-description: Premium gaming chairs with 160°+ recline for full relax, footrest,
-  and massage in select models, suited for gaming breaks and desk napping.
-  Ergonomic racing-inspired design for long-hour comfort. Deeper recline vs
-  standard office chairs; comparable to Secretlab Titan with premium leather
-  options.
+description: Premium gaming chairs with 160°+ recline angles, retractable
+  footrests, and massage features in select models, designed for immersive
+  esports and gaming marathons. Ideal for pro gamers seeking recovery during
+  long tournaments, offering deeper recline and racing-style aesthetics compared
+  to basic chairs for enhanced style and immersion. Provides superior relaxation
+  and ergonomic support over standard seating.
 source_url: https://www.akracing.com/
-category: Esports & Racing Chairs
+category: Specialty Gaming Chairs
 tags:
   - Deep Recline
   - Relax Mode
   - racing-style
+  - RGB Lighting
+  - Themed Design
+  - Esports Ready
 featured: false
 markdown: >-
   ## Overview
@@ -59,4 +63,4 @@ images:
   - https://www.akracing.com/cdn/shop/files/core-series-ex-gaming-chair-01.jpg
   - https://www.akracing.com/cdn/shop/files/master-series-premium-gaming-chair-02.jpg
   - https://www.akracing.com/cdn/shop/files/akracing-recline.jpg
-updated_at: 2026-04-21 08:14
+updated_at: 2026-04-21 17:22

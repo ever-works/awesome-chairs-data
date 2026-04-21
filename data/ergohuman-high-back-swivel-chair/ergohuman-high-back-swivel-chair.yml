@@ -1,10 +1,11 @@
 name: Ergohuman High Back Swivel Chair
-description: High-back chair for programmer endurance, dynamic lumbar for
-  posture support, breathable mesh for airflow, adjustable
-  arms/headrest/tilt/seat for long hours. More office-suitable and less flashy
-  than gaming chairs, warmer alternative to Aeron.
+description: "High-back chair designed for programmer endurance and long coding
+  sessions. Key features: dynamic lumbar support, breathable mesh back,
+  adjustable arms, headrest, tilt, and seat for optimal comfort. Ideal for 12+
+  hour days; more office-suitable than standard gaming chairs and warmer
+  alternative to Aeron."
 source_url: https://www.ergohuman.com/products/ergohuman-high-back-swivel-chair
-category: Endurance & Programmer Chairs
+category: Programmer & Endurance Chairs
 tags:
   - 24-Hour Use
   - Posture Correction
@@ -14,6 +15,7 @@ tags:
   - adjustable
   - Coder Optimized
   - 12-Hour Comfort
+  - Marathon Sessions
 featured: false
 markdown: >-
   ## Overview
@@ -56,4 +58,4 @@ brand_logo_url: https://www.ergohuman.com/images/logo.png
 images:
   - https://www.ergohuman.com/images/products/ergohuman-high-back-1.jpg
   - https://www.ergohuman.com/images/products/ergohuman-high-back-2.jpg
-updated_at: 2026-04-21 14:17
+updated_at: 2026-04-21 17:22

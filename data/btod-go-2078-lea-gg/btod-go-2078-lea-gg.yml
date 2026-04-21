@@ -1,14 +1,15 @@
 name: BTOD GO-2078-LEA-GG
-description: 500lb capacity big & tall office chair with 22" extra-wide seat,
-  heavy-duty frame, 24/7 rating, and plush LeatherSoft for larger users in
-  gaming, dispatch, or office marathons. Delivers bariatric-level support and
-  fatigue prevention. Enhanced adjustability over budget options.
+description: Heavy-duty office chair supporting up to 500 lbs with 22"
+  extra-wide seat, reinforced heavy-duty frame, offering greater capacity and
+  stability than standard chairs for larger users. Features 24/7 rating, plush
+  LeatherSoft, and built-in headrest for prolonged gaming, dispatch, or office
+  marathons. Suited for bariatric support and fatigue prevention.
 source_url: https://www.btod.com/office-chairs/btod-go-2078-lea-gg
-category: Big & Tall & High Capacity Chairs
+category: Big & Tall Chairs
 tags:
+  - Heavy Duty Capacity
+  - Wide Build
   - bariatric
-  - extra-wide
-  - heavy-duty
 featured: false
 markdown: |-
   ## Features
@@ -29,4 +30,7 @@ markdown: |-
 
   ~$593.99
 brand: BTOD
-updated_at: 2026-04-21 14:17
+brand_logo_url: https://www.btod.com/images/logo.png
+images:
+  - https://www.btod.com/images/products/go-2078-lea-gg/go-2078-main.jpg
+updated_at: 2026-04-21 17:22

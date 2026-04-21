@@ -1,18 +1,19 @@
 name: Vertagear SL5000
-description: Ergonomic gaming chair designed for marathon sessions in esports,
-  streaming, and PC building. Key features include 140° recline, 4D armrests,
-  PUC leather (PU softness with PVC durability), removable memory foam cushions,
-  optional RGB lighting, and 330 lb capacity. More stylish and flashy than
-  subtle office chairs like Aeron but less understated; offers superior lumbar
-  tracking compared to Razer Iskur.
+description: Ergonomic esports chair with 140° recline, 4D armrests, optional
+  RGB lighting, PUC leather, and memory foam cushions for marathon immersive
+  gaming. Features quick assembly and 330 lb capacity, providing flashy style
+  and superior lumbar over basic or subtle office chairs.
 source_url: https://www.vertagear.com/products/sl5000-gaming-chair
-category: Esports & Racing Chairs
+category: Specialty Gaming Chairs
 tags:
   - premium
   - rgb-compatible
   - racing-style
   - Marathon Gaming
   - Esports Certified
+  - RGB Lighting
+  - Themed Design
+  - Esports Ready
 featured: true
 markdown: >-
   ## Overview
@@ -47,11 +48,7 @@ markdown: >-
 
   - Recline Range: 90° to 140°
 
-  - Seat Dimensions: Spacious for various body types
-
   - Warranty: 2-year manufacturer warranty
-
-  - RGB Kit: Available as separate upgrade
 
 
   ## Pricing
@@ -60,4 +57,7 @@ markdown: >-
   Starting at $499.99
 brand: Vertagear
 brand_logo_url: https://www.vertagear.com/cdn/shop/files/vertagear-logo.png
-updated_at: 2026-04-21 08:14
+images:
+  - https://www.vertagear.com/cdn/shop/files/SL5000_1.jpg
+  - https://www.vertagear.com/cdn/shop/files/SL5000_RGB_render.jpg
+updated_at: 2026-04-21 17:22

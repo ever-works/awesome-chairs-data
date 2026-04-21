@@ -1,16 +1,18 @@
 name: Rush Series
-description: Premium gaming chairs with 160° recline for full relaxation,
-  including footrest and massage, ideal for gaming breaks and desk napping. High
-  backrest and adjustable armrests ensure ergonomic support for extended use.
-  Outperforms standard office recline; akin to Secretlab Titan with durable
-  premium materials.
+description: Premium series with real leather options, aluminum base,
+  high-density foam, 4D armrests, dynamic lumbar massage, and 160° recline with
+  footrest. Suited for luxury executive setups, gaming recovery, and prolonged
+  desk use. Excels budget chairs in material quality, warranty length, and
+  feature-rich relaxation.
 source_url: https://gtracing.com/products/gts04
-category: Premium Gaming Chairs
+category: Premium Chairs
 tags:
   - Deep Recline
   - Relax Mode
   - ergonomic
   - 2026 Model
+  - Luxury Materials
+  - Pro Grade
 featured: true
 markdown: >-
   ## Overview
@@ -29,24 +31,26 @@ markdown: >-
 
   - Massage: Lumbar support
 
-  - Adjustable armrests
+  - Adjustable 4D armrests
 
   - High backrest
+
+  - Real leather, aluminum base
+
+
+  ## Use Cases
+
+
+  - Gaming with recovery naps in executive setups
+
+  - Prolonged desk work
 
 
   ## Comparisons
 
 
   Deep recline matches new Secretlab 2026 updates; massage feature edges out
-  Noblechairs standard lines for recovery.
-
-
-  ## Use Cases
-
-
-  - Gaming with recovery naps
-
-  - Prolonged desk work
+  Noblechairs standard lines for recovery. Better durability than budget.
 
 
   ## Pricing
@@ -58,4 +62,5 @@ brand_logo_url: https://cdn.shopify.com/s/files/1/0092/3828/2340/files/label22_1
 images:
   - https://cdn.shopify.com/s/files/1/0092/3828/2340/files/info.png?v=1759197808
   - https://gtracing.com/cdn/shop/files/rush-recline.png
-updated_at: 2026-04-21 14:18
+  - https://gtracing.com/images/rush-series-detail.png
+updated_at: 2026-04-21 17:22

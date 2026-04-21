@@ -1,12 +1,11 @@
 name: Noblechairs
-description: Noblechairs 2026 premium gaming and esports chairs boast 4D arms,
-  RGB accents, and massage lumbar support, optimized for pro gamers and
-  streamers in high-stakes tournaments. Providing more reclining versatility
-  than DXRacer equivalents, these luxury models deliver exceptional ergonomic
-  support for all-day competitive play and streaming. High-end construction with
-  automotive-inspired design elevates esports setups.
+description: 2026 premium gaming chairs with 4D arms, RGB accents, massage
+  lumbar, and themed esports editions for immersive pro tournaments and
+  streaming. Offers greater recline versatility and automotive-inspired luxury
+  over basic chairs, enhancing style and endurance. Perfect for high-stakes
+  competitive setups.
 source_url: https://www.noblechairs.com
-category: Themed & Limited Edition Chairs
+category: Specialty Gaming Chairs
 tags:
   - Premium
   - Esports Ready
@@ -15,18 +14,11 @@ tags:
   - Racing Inspired
   - Limited Edition
   - 2026 Model
+  - RGB Lighting
+  - Themed Design
+  - Esports Ready
 featured: false
-markdown: >
-  # Noblechairs
-
-
-  **Website:** https://www.noblechairs.com  
-
-  **Category:** Others (Gaming & Office Chairs)  
-
-  **Brand:** noblechairs
-
-
+markdown: >-
   ## Overview
 
   Noblechairs designs premium gaming and office chairs for people who spend long
@@ -47,27 +39,6 @@ markdown: >
     - Special and licensed editions (e.g., DOOM The Dark Ages, Starfield, e-sports editions)
     - Accessories such as pillow sets
 
-  - **Design & Ergonomics**
-    - Ergonomic design intended for extended desk and computer use
-    - Inspired by high-class car seat manufacturing
-    - Focus on posture support and long-term sitting comfort
-
-  - **Materials & Build**
-    - Use of high-quality, durable materials across chair ranges
-    - Emphasis on excellent build quality and refined finish
-
-  - **Aesthetic & Variants**
-    - Classy, refined visual design
-    - Multiple editions and color variants per series (e.g., DAWN TX Granite, HERO Black Edition, EPIC TX)
-    - Themed and licensed designs for specific franchises and e-sports teams
-
-  ## Comparisons
-
-
-  Special editions rival Secretlab themed chairs in licensing, with
-  automotive-grade materials offering superior durability.
-
-
   ## Pricing
 
   The provided content does not list specific prices or pricing tiers. For
@@ -78,4 +49,5 @@ brand_logo_url: https://www.noblechairs.com/themes/noblechairs/frontend/dist/img
 images:
   - https://www.noblechairs.com/media/53/4a/f5/1702562270/NBL-HRO-PU-BRD_Gallery_01.jpg
   - https://www.noblechairs.com/media/90/51/f0/1702562269/NBL-HRO-PU-BRD_Gallery_02.jpg
-updated_at: 2026-04-21 14:18
+  - https://www.noblechairs.com/media/catalog/product/noble-themed-render.jpg
+updated_at: 2026-04-21 17:22

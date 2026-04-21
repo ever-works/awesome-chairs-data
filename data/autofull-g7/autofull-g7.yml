@@ -1,16 +1,19 @@
 name: AutoFull G7
-description: Ergonomic gaming chair with 160°+ recline for full relaxation mode,
-  including footrest and massage features for gaming breaks and desk napping.
-  Unique elasticated mesh backrest and adaptive lumbar support offer
-  breathability and dynamic posture guidance. Provides deeper recline than
-  standard office chairs; similar to Secretlab Titan but with premium mesh over
-  leather for better ventilation.
+description: Ergonomic gaming chair with 160°+ recline, footrest, massage
+  lumbar, and elasticated mesh backrest for breathable immersive gaming and
+  esports use. Suited for long sessions with dynamic posture support, it offers
+  greater ventilation and recline depth than basic chairs, elevating style and
+  immersion for competitive play. Perfect for gamers prioritizing recovery and
+  comfort.
 source_url: https://autofull.com/pages/g7
-category: Reclining Chairs
+category: Specialty Gaming Chairs
 tags:
   - Deep Recline
   - Relax Mode
   - mesh-backrest
+  - RGB Lighting
+  - Themed Design
+  - Esports Ready
 featured: false
 markdown: >-
   ## Overview
@@ -57,4 +60,7 @@ markdown: >-
 
   Mid-premium range, varies by retailer.
 brand: AutoFull
-updated_at: 2026-04-20 23:17
+images:
+  - https://autofull.com/cdn/shop/files/G7_1.jpg
+  - https://autofull.com/cdn/shop/files/G7_recline.jpg
+updated_at: 2026-04-21 17:22

@@ -1,11 +1,11 @@
 name: Haworth Zody Chair
-description: Ergonomic chair with asymmetrical adjustable lumbar for posture
-  support, flexible mesh back for breathability, pelvic support and
-  dual-position for long-hour adjustability ideal for programmers. Promotes
-  circulation; less flashy, more office-appropriate than gaming chairs like
-  DXRacer.
+description: Ergonomic chair optimized for programmer endurance and long coding
+  sessions. Key features include asymmetrical adjustable lumbar and pelvic
+  support, flexible mesh back for breathability, and full adjustability for
+  posture. Suited for 12+ hour days promoting circulation; less flashy and more
+  office-appropriate than standard gaming chairs like DXRacer.
 source_url: https://store.haworth.com/products/zody-executive-chair
-category: Endurance & Programmer Chairs
+category: Programmer & Endurance Chairs
 tags:
   - 24-Hour Use
   - Posture Correction
@@ -13,6 +13,8 @@ tags:
   - asymmetrical-lumbar
   - flexible-mesh
   - circulation-support
+  - Coder Optimized
+  - Marathon Sessions
 featured: false
 markdown: >-
   ## Overview
@@ -56,4 +58,4 @@ brand: Haworth
 images:
   - https://store.haworth.com/cdn/shop/files/Zody_Executive_Chair_1.jpg?v=1692923456
   - https://store.haworth.com/cdn/shop/files/Zody_Executive_Chair_2.jpg?v=1692923456
-updated_at: 2026-04-21 14:17
+updated_at: 2026-04-21 17:22

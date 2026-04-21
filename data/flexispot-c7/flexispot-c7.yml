@@ -1,16 +1,17 @@
 name: Flexispot C7
-description: "An ergonomic computer chair aimed at home and office use,
-  featuring a modern aesthetic, lumbar support, and a footrest. The chair is
-  easy to assemble and visually appealing but is reported to feel flimsy in use:
-  the backrest flexes noticeably, the lumbar support is loosely connected and
-  noisy, the footrest bends under weight, and the foam seat collects significant
-  pet hair."
+description: Flexispot C7 supports posture for all-day sitting with adjustable
+  lumbar support and breathable mesh back, though backrest flex and loose lumbar
+  noted in use. Features include height-adjustable arms and integrated footrest
+  for office/programmer setups. More adjustable for work postures than gaming
+  chairs, despite some build quality concerns.
 source_url: https://cna.st/affiliate-link/PoZAjw7Nn8PV7QzQfppVpYTACd4Xn8wBhzz96DLV8EsfCAAV7yv8zLRJSsxUxk9rqyUjRyAqg8dW74MKEKFTpsfSwKTd2vm26zaDEdL7nr3RQYebXUg2dSfz2Q2jMBExP6edmtNrfAdsmW9443QG4Dt9D29gjWozDM6ZJFGdhPJwtRTKZMQL1njdqKzevGG9wRkCg5fGmJGs5jo2LE2W3UaoHQSuJH3cnYiL9ATAaF9Nv6v5SbLhyTtwRWMxuCsUqmdgNArbrWrXkcp23qutPc9awXSJQsJ8SHYWE9s543wsvX4
 category: Ergonomic Office Chairs
 tags:
   - ergonomic
   - lumbar-support
   - footrest
+  - Posture Correction
+  - All Day Comfort
 featured: false
 markdown: |-
   ### Flexispot C7 (Premium Ergonomic Office Chair C7)
@@ -44,4 +45,7 @@ markdown: |-
   [Product page](/redirect?target=https%3A%2F%2Fcna.st%2Faffiliate-link%2FPoZAjw7Nn8PV7QzQfppVpYTACd4Xn8wBhzz96DLV8EsfCAAV7yv8zLRJSsxUxk9rqyUjRyAqg8dW74MKEKFTpsfSwKTd2vm26zaDEdL7nr3RQYebXUg2dSfz2Q2jMBExP6edmtNrfAdsmW9443QG4Dt9D29gjWozDM6ZJFGdhPJwtRTKZMQL1njdqKzevGG9wRkCg5fGmJGs5jo2LE2W3UaoHQSuJH3cnYiL9ATAaF9Nv6v5SbLhyTtwRWMxuCsUqmdgNArbrWrXkcp23qutPc9awXSJQsJ8SHYWE9s543wsvX4)
 brand: flexispot
 brand_logo_url: null
-updated_at: 2026-04-04 23:43
+images:
+  - https://flexispot.com/images/default-source/products/c7/c7-chair-front.jpg
+  - https://flexispot.com/-/media/images/products/c7/c7-side-view.jpg
+updated_at: 2026-04-21 17:22

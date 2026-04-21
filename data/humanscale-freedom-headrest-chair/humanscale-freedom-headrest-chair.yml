@@ -1,19 +1,17 @@
 name: Humanscale Freedom Headrest Chair
-description: The Humanscale Freedom with Headrest is a premium ergonomic office
-  chair featuring a weight-activated self-adjusting recline that calibrates
-  automatically to body weight, a pivoting backrest that tracks spinal movement,
-  and a dynamic headrest that follows head motion during recline. Rated for
-  users up to 300 lbs, it is ideal for corporate offices and WFH environments
-  where hands-free comfort during long desk sessions or frequent reclining is
-  prioritized. Compared to the Steelcase Leap's manually tuned lumbar and the
-  Herman Miller Aeron's PostureFit SL, the Freedom eliminates dials and knobs
-  entirely, favoring instinctive adjustment at roughly $1,900–$2,050.
+description: Humanscale Freedom Headrest supports posture for all-day sitting
+  with weight-activated self-adjusting recline, pivoting backrest tracking
+  spinal movement, and dynamic headrest following head motion, up to 300 lbs. No
+  dials for intuitive use in offices or WFH. Superior to gaming chairs in
+  hands-free adjustability and instinctive support.
 source_url: https://www.humanscale.com/products/seating/freedom-headrest
 category: Ergonomic Office Chairs
 tags:
   - auto-tilt
   - dynamic-headrest
   - premium
+  - Posture Correction
+  - All Day Comfort
 featured: true
 markdown: >-
   # Humanscale Freedom Headrest Chair
@@ -47,4 +45,5 @@ brand_logo_url: https://www.humanscale.com/asset/image/brand/logo.svg
 images:
   - https://media.wired.com/photos/681d68c9b5d0aa056d907788/4:3/w_640,c_limit/DSC_3854.jpg
   - https://media.wired.com/photos/62212d233699f7c7bb66476c/4:3/w_640,c_limit/Gear-Humanscale-Freedom-Headrest-SOURCE-Humanscale.jpg
-updated_at: 2026-04-04 23:43
+  - https://www.humanscale.com/-/media/images/products/freedom-headrest/freedom-headrest-front.jpg
+updated_at: 2026-04-21 17:22

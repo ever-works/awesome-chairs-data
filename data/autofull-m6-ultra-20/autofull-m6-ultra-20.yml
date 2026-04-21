@@ -1,59 +1,67 @@
 name: Autofull M6 Ultra 2.0
-description: The AutoFull M6 Ultra 2.0 is a premium esports gaming chair
-  equipped with advanced cooling technology, massaging lumbar support, and RGB
-  lighting to enhance immersive gaming experiences. Perfect for competitive
-  players enduring 8+ hour sessions, it offers greater adjustability than
-  standard office chairs and rivals high-end models like Herman Miller at half
-  the price. Standout features include 6D armrests, anti-gravity recline, and
-  built-in speakers for superior audio.
+description: Premium VR/AR immersive chair with RGB lighting, haptic-compatible
+  massage lumbar, cooling/heating seat, 160-degree anti-gravity recline, and 6D
+  armrests. Built for extended VR sessions with smart ventilation and audio
+  integration, offering better endurance and features than standard RGB chairs
+  like GTRacing models.
 source_url: https://autofull.com/products/m6-ultra-gaming-chair
-category: RGB Gaming Chairs
+category: VR/AR & Immersive Chairs
 tags:
+  - VR Ready
+  - Haptic Feedback
+  - RGB
+  - reclining
   - cooling-technology
-  - massage-lumbar
-  - rgb
-  - vibration-massage
-  - lumbar-heat
-  - rgb-sync
-featured: false
+featured: true
 markdown: >-
   ## Overview
 
 
-  Autofull M6 Ultra 2.0 builds on previous Mechanical Master chairs with refined
-  6D armrests (height, width, pivot, depth, tilt, 360° rotation) optimized for
-  various gaming inputs including handheld devices.
+  Autofull M6 Ultra 2.0 provides smart VR/AR integration via haptic massage and
+  RGB ambiance.
 
 
   ## Features
 
 
-  - Adaptive 2D lumbar support: height (1.9″) x depth (3.94″) adjustable, tracks
-  user movement
+  - Haptic-compatible lumbar massage and vibration
 
-  - 6D armrests: height, width, pivot, depth + tilt + 360° rotational
+  - 160° anti-gravity recline with footrest
 
-  - Clip-on neck pillow: depth (1.26″) and height (3.94″) adjustable
+  - Cooling/heating seat fan
 
-  - Luxury extras: deep back massager, battery-powered heating and cooling fan
-  seat controls, retractable footrest
+  - RGB lighting with sync
 
-  - Recline: 90-160°, rock or lock upright modes (no multifunction tilt lock)
+  - 6D armrests and adjustable pillows
 
-  - Sizing: Seat 20″ (W) x 20″ (D), Backrest 20.2″ (W) x 32″ (H), Seat height
-  16.3-19.5″
 
-  - Size rating: 5’7″ to 6’4″; 330 lbs
+  ## Use Cases
 
-  - Warranty: 3 years
+
+  - Prolonged VR immersion with temperature control
+
+  - Haptic-enhanced gaming and sim racing
+
+  - Multi-hour AR development sessions
+
+
+  ## Comparisons
+
+
+  - More smart features (cooling/haptics) than Razer Iskur
+
+  - Superior recline vs. budget LED chairs
 
 
   ## Pricing
 
 
-  $499 on Amazon
+  $499.
 brand: Autofull
 brand_logo_url: https://autofull.com/cdn/shop/files/autofull_logo.png
 images:
   - https://autofull.com/cdn/shop/files/M6Ultra2.0_1.png
-updated_at: 2026-04-21 11:28
+  - https://autofull.com/cdn/shop/files/M6Ultra_RGB.jpg
+  - https://autofull.com/cdn/shop/files/M6Ultra2.0_side.jpg
+  - https://autofull.com/cdn/shop/files/M6Ultra_massage.jpg
+updated_at: 2026-04-21 17:22

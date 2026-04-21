@@ -1,10 +1,10 @@
 name: Raynor Ergohuman Mesh with Headrest
-description: All-mesh chair for long-hour programmers with independent lumbar
-  flex for posture support, pivoting headrest, adjustable arms/seat/tilt for
-  comfort, breathable design for airflow. Office-appropriate and subtler than
-  gaming chairs like Titan Evo.
+description: All-mesh chair for long-hour programmers supporting extended
+  coding. Features independent lumbar flex for posture, pivoting headrest,
+  adjustable arms, seat, tilt, and breathable design. Perfect for 12+ hour days;
+  office-appropriate and subtler than standard gaming chairs like Titan Evo.
 source_url: https://www.ergohuman.com/products/ergohuman-mesh-chair-with-headrest
-category: Endurance & Programmer Chairs
+category: Programmer & Endurance Chairs
 tags:
   - 24-Hour Use
   - Posture Correction
@@ -14,6 +14,7 @@ tags:
   - adjustable-headrest
   - Coder Optimized
   - 12-Hour Comfort
+  - Marathon Sessions
 featured: false
 markdown: |-
   ## Overview
@@ -43,4 +44,4 @@ brand: Raynor
 images:
   - https://www.ergohuman.com/images/products/mesh-headrest-1.jpg
   - https://www.ergohuman.com/images/products/mesh-headrest-2.jpg
-updated_at: 2026-04-21 14:18
+updated_at: 2026-04-21 17:22

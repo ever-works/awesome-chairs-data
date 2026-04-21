@@ -1,17 +1,20 @@
 name: EPIC Nuka-Cola Edition
-description: Fallout-themed Nuka-Cola Edition gaming chair with vegan leather
-  that's breathable, eco-friendlier, and as durable as PU leather but more
-  sustainable. Equipped with adjustable lumbar, 4D armrests, dense cold-foam
-  padding, XL casters, supporting up to 120 kg. Perfect for gamers desiring
-  immersive themed style and sustainable ergonomics.
+description: Fallout-themed gaming chair featuring vegan leather for
+  breathability, adjustable lumbar, 4D armrests, and dense cold-foam padding
+  with themed Nuka-Cola design for immersive esports and gaming. Supports up to
+  120 kg with XL casters, offering sustainable style and ergonomics superior to
+  basic chairs in immersion and durability. Ideal for fans enhancing setups with
+  unique themed aesthetics.
 source_url: https://www.noblechairs.com/en-us/epic-series/nuka-cola-edition
-category: Special Edition Gaming Chairs
+category: Specialty Gaming Chairs
 tags:
   - special-edition
   - vegan-leather
   - ergonomic
   - Vegan Leather
   - Themed Design
+  - RGB Lighting
+  - Esports Ready
 featured: false
 markdown: |-
   ## Overview
@@ -33,5 +36,6 @@ markdown: |-
   $499.00 with free shipping.
 brand: noblechairs
 images:
-  - https://via.placeholder.com/1200x800/E74C3C/FFFFFF?text=EPIC+Nuka-Cola
-updated_at: 2026-04-21 14:17
+  - https://www.noblechairs.com/media/catalog/product/e/p/epic_nuka_cola_1.jpg
+  - https://www.noblechairs.com/media/catalog/product/e/p/epic_nuka_cola_render.jpg
+updated_at: 2026-04-21 17:22

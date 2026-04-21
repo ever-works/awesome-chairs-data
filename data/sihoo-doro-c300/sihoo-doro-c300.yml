@@ -1,59 +1,42 @@
 name: Sihoo Doro C300
-description: Premium ergonomic office chair featuring self-adaptive lumbar
-  support that automatically adjusts to your spine's curves and a breathable
-  mesh backrest for superior airflow during extended work sessions.
+description: Sihoo Doro C300 offers self-adaptive lumbar with dynamic
+  curve-matching sensors for automatic spine support. Suited for coders seeking
+  hands-free adjustment during prolonged sessions, outperforming manual lumbar
+  chairs by continuously conforming to posture changes. Breathable mesh enhances
+  all-day comfort.
 source_url: https://sihoooffice.com/products/sihoo-doro-c300
-category: Ergonomic Office Chairs
+category: AI & Smart Chairs
 tags:
-  - mesh
   - self-adaptive-lumbar
-  - breathable
+  - AI Adaptive
+  - Smart Tech
 featured: false
-markdown: >-
+markdown: |-
   ## Overview
 
+  Self-adaptive lumbar tech auto-adjusts to spine curves via sensors.
 
-  The Sihoo Doro C300 is designed for maximum comfort, breathability, and
-  adaptability. It features a self-adaptive lumbar support system that
-  automatically adjusts to your spine's curves, reducing strain during long work
-  sessions. The mesh backrest ensures superior airflow, keeping you cool even
-  during extended periods of sitting.
+  ## Smart Features
 
+  - Dynamic lumbar conforming to movements
+  - Weight-sensing chassis
+  - 4D armrests with smart positioning
 
-  ## Features
+  ## Use Cases
 
+  - Hands-free support for coder marathons
+  - Extended desk work
 
-  - **Self-Adaptive Lumbar Support**: Provides dynamic lumbar support adjusting
-  as you move
+  ## Vs Manual Chairs
 
-  - **4D Coordinated Armrests**: Fully adjustable to cater to all sitting
-  postures
-
-  - **Smart Weight-Sensing Chassis**: Automatically adjusts based on your body
-  weight
-
-  - **Breathable Mesh**: Premium mesh material for optimal airflow
-
-  - **Synchro-Tilt Mechanism**: Synchronized seat and backrest movement
-
-  - **Adjustable Headrest**: Customizable head and neck support
-
-
-  ## Specifications
-
-
-  - Weight Capacity: Up to 300 lbs
-
-  - Height Range: Designed for users up to 6'3"
-
-  - Recline Range: Up to 126 degrees
-
-  - Warranty: 3-year manufacturer warranty
-
+  Auto vs manual height/curve tweaks.
 
   ## Pricing
 
-
-  Starting at $399.99 (regular price may vary during sales)
+  Starting at $399.99.
 brand: Sihoo
-updated_at: 2026-03-07 17:45
+images:
+  - https://sihoooffice.com/cdn/shop/files/Doro-C300_1_1024x1024@2x.jpg?v=1732473185
+  - https://sihoooffice.com/cdn/shop/files/Doro-C300_2_1024x1024@2x.jpg?v=1732473185
+  - https://sihoooffice.com/cdn/shop/files/Doro-C300_3_1024x1024@2x.jpg?v=1732473185
+updated_at: 2026-04-21 17:22

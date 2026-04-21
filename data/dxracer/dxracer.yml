@@ -1,15 +1,18 @@
 name: DXRacer
-description: DXRacer chairs, like the Drifting series, offer racing-inspired
-  design with PU leather, high-density foam padding, and 135° recline with
-  lumbar pillow. Supports 275lbs with steel frame, multiple color options for
-  esports setups. Great budget premium alternative to Noblechairs with similar
-  style but lower cost.
+description: Racing-inspired chairs with 135° recline, PU leather, high-density
+  foam, and steel frame for esports and racing sim use. Multiple colors enhance
+  immersive setups, offering pro-style durability and aesthetics over basic
+  chairs for competitive gaming. Supports 275 lbs with lumbar pillow for long
+  sessions.
 source_url: https://www.dxracer.com
-category: Esports & Racing Chairs
+category: Specialty Gaming Chairs
 tags:
   - racing-style
   - high-density-foam
   - esports
+  - RGB Lighting
+  - Themed Design
+  - Esports Ready
 featured: true
 markdown: |-
   ## Overview
@@ -37,4 +40,4 @@ images:
   - https://www.dxracer.com/cdn/shop/products/DriftingSeries_1024x1024.jpg
   - https://www.dxracer.com/cdn/shop/files/air-pro_1.png
   - https://www.dxracer.com/cdn/shop/products/DriftingSeries_DB01_NW_1.jpg
-updated_at: 2026-04-21 11:28
+updated_at: 2026-04-21 17:22

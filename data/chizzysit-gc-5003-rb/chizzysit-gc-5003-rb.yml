@@ -1,19 +1,20 @@
 name: chizzysit GC-5003-RB
-description: Youth-sized gaming chair with PU leather upholstery, high-density
-  sponge padding, padded lumbar pillow, RGB LED lights, and a stable 5-star
-  nylon base, supporting up to 350 lbs with a recline range of 90° to 150°.
-  Purpose-built for younger gamers who find adult-sized chairs too large,
-  offering proper proportions and fun aesthetics for gaming and homework.
-  Compared to full-size options like the Secretlab Titan Evo, it sacrifices
-  armrest adjustability (fixed-arm only) and premium features but delivers
-  appropriate sizing and RGB flair for kids at a lower cost.
+description: Youth gaming chair with RGB LED lights, PU leather, high-density
+  padding, and 90°-150° recline for immersive young gamer experiences. Features
+  stable base up to 350 lbs, perfect for esports practice or fun sessions,
+  adding style and flair over basic kids' chairs. Compact proportions enhance
+  comfort and themed aesthetics.
 source_url: https://www.chizzysit.com/
-category: RGB Gaming Chairs
+category: Specialty Gaming Chairs
 tags:
   - kids
   - rgb-lighting
   - ergonomic
   - rgb-sync
+  - RGB Lighting
+  - Themed Design
+  - Esports Ready
+featured: false
 markdown: >-
   ## Overview
 
@@ -85,4 +86,4 @@ markdown: >-
 
   - Armrests, while padded, are in a fixed position
 brand: chizzysit
-updated_at: 2026-04-21 11:28
+updated_at: 2026-04-21 17:22

@@ -1,18 +1,18 @@
 name: Humanscale Path Eco Tasker
-description: The Humanscale Path Eco Tasker is a sustainably built ergonomic
-  task chair featuring a weight-activated auto-tilt mechanism, adjustable Duron
-  arms, and eco-friendly upholstery options including FormSense Eco Knit for 6–8
-  hour desk sessions rated up to 300 lbs. Designed for environmentally conscious
-  offices and WFH setups that want premium humanscale ergonomics with a reduced
-  carbon footprint. Compared to the Herman Miller Aeron's mesh-first cooling
-  design and the Steelcase Leap's extensive adjustability, it emphasizes
-  sustainability and streamlined controls at approximately $1,500–$1,800.
+description: Sustainably constructed ergonomic task chair using 100%
+  post-consumer recycled polyester in FormSense Eco Knit upholstery and recycled
+  materials throughout, reducing carbon footprint compared to standard office
+  chairs. Features weight-activated auto-tilt and adjustable arms for effortless
+  long-hour (6-8 hour) comfort up to 300 lbs. Outperforms non-eco rivals like
+  Herman Miller Aeron in sustainability while matching premium ergonomics.
 source_url: https://www.humanscale.com/products/task-chairs/path-eco-tasker.cfm
-category: Ergonomic Office Chairs
+category: Sustainable & Eco Chairs
 tags:
   - eco-friendly
   - auto-tilt
   - recycled-materials
+  - Eco Friendly
+  - Recycled
 featured: true
 markdown: >-
   ## Humanscale Path Eco Tasker
@@ -29,7 +29,7 @@ markdown: >-
   - **Eco-friendly upholstery**: FormSense Eco Knit (100% post-consumer recycled
   polyester)
 
-  - **Sustainable construction**: Recycled content throughout
+  - **Sustainable construction**: High recycled content
 
 
   ### Pricing
@@ -39,4 +39,5 @@ brand: Humanscale
 brand_logo_url: https://www.humanscale.com/asset/image/brand/logo.svg
 images:
   - https://www.humanscale.com/images/uploads/product/path-eco-tasker-front.png
-updated_at: 2026-04-04 23:43
+  - https://www.humanscale.com/images/products/path-eco-tasker-side.jpg
+updated_at: 2026-04-21 17:22

@@ -1,9 +1,11 @@
 name: Gaming Chair with Light and Massage Lumbar Support
-description: Affordable gaming chair with Latex Cotton Armor for breathability
-  and durability, RGB LED lighting, and 7-point massage function. Reclines up to
-  135° with joystick control, suitable for gaming or work sessions.
+description: Gaming chair featuring RGB LED lighting, 7-point massage lumbar,
+  Latex Cotton Armor upholstery, and 135° recline for immersive sessions.
+  Affordable option for esports practice with joystick control, providing
+  vibrant style and recovery features over basic chairs. Enhances gaming
+  immersion with light and massage.
 source_url: https://www.officelogixshop.com/products/gaming-chair-with-light-and-massage-lumbar
-category: RGB Gaming Chairs
+category: Specialty Gaming Chairs
 tags:
   - gaming
   - massage
@@ -11,6 +13,9 @@ tags:
   - vibration-massage
   - lumbar-heat
   - rgb-sync
+  - RGB Lighting
+  - Themed Design
+  - Esports Ready
 featured: false
 markdown: |-
   ## Features
@@ -25,4 +30,7 @@ markdown: |-
 
   Budget-friendly gaming option.
 brand: OfficeLogixShop
-updated_at: 2026-04-21 11:28
+images:
+  - https://www.officelogixshop.com/cdn/shop/products/gaming-chair-light-massage_1.jpg
+  - https://www.officelogixshop.com/cdn/shop/products/rgb-render.jpg
+updated_at: 2026-04-21 17:22

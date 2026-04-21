@@ -1,15 +1,15 @@
 name: BodyBilt J3504 Big & Tall
-description: Heavy-duty ergonomic chair rated for 500 lbs capacity with
-  extra-wide contoured seat, waterfall edge, reinforced frame, and adjustable
-  lumbar/synchro-tilt for larger users in extended gaming or office sessions.
-  Ideal for bariatric support needs during marathon work or play. Provides
-  superior durability and comfort over standard chairs.
+description: Heavy-duty ergonomic chair providing robust support for users up to
+  500 lbs with extra-wide contoured seats and reinforced frames, surpassing
+  standard chair capacities and durability. Features adjustable lumbar,
+  synchro-tilt, and high backrest for comfort during extended gaming or office
+  use by larger individuals. Ideal for bariatric needs in marathon sessions.
 source_url: https://bodybilt.com/product/j3504-big-tall-chair/
-category: Big & Tall & High Capacity Chairs
+category: Big & Tall Chairs
 tags:
+  - Heavy Duty Capacity
+  - Wide Build
   - bariatric
-  - extra-wide
-  - heavy-duty
 featured: false
 markdown: |-
   ## Features
@@ -29,7 +29,8 @@ markdown: |-
 
   £1,390+
 brand: BodyBilt
-brand_logo_url: ""
+brand_logo_url: https://bodybilt.com/wp-content/uploads/2020/02/bodybilt-logo.png
 images:
-  - https://bodybilt.com/product/j3504-big-tall-chair/
-updated_at: 2026-04-21 14:17
+  - https://bodybilt.com/wp-content/uploads/J3504-BT-1.jpg
+  - https://bodybilt.com/wp-content/uploads/J3504-BT-2.jpg
+updated_at: 2026-04-21 17:22
