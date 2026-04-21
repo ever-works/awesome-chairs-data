@@ -145,7 +145,7 @@
 - id: statement-piece
   name: Statement Piece
 - id: 4d-armrests
-  name: 4D Armrests
+  name: 4d Armrests
 - id: racing-inspired
   name: Racing Inspired
 - id: unique-design
@@ -195,7 +195,7 @@
 - id: footrest
   name: Footrest
 - id: rgb-lighting
-  name: Rgb Lighting
+  name: RGB Lighting
 - id: immersive
   name: Immersive
 - id: entertainment
@@ -211,7 +211,7 @@
 - id: spinal-support
   name: Spinal Support
 - id: rgb
-  name: Rgb
+  name: RGB
 - id: stool
   name: Stool
 - id: xl-size
@@ -828,3 +828,35 @@
   name: Limited Edition
 - id: 4-way-lumbar
   name: 4 Way Lumbar
+- id: luxury-materials
+  name: Luxury Materials
+- id: all-day-ventilation
+  name: All Day Ventilation
+- id: new-release
+  name: New Release
+- id: ai-lumbar
+  name: AI Lumbar
+- id: cooling-tech
+  name: Cooling Tech
+- id: vr-ready
+  name: VR Ready
+- id: haptic-feedback
+  name: Haptic Feedback
+- id: marathon-sessions
+  name: Marathon Sessions
+- id: ai-adaptive
+  name: AI Adaptive
+- id: smart-tech
+  name: Smart Tech
+- id: recycled
+  name: Recycled
+- id: usb-charging
+  name: USB Charging
+- id: knit-mesh
+  name: Knit Mesh
+- id: recovery
+  name: Recovery
+- id: hybrid
+  name: Hybrid
+- id: shiatsu
+  name: Shiatsu
