@@ -1,14 +1,14 @@
 name: DXRacer Air Pink
-description: DXRacer Air Pink gaming chair has a racing-style frame with
-  high-density foam pillows, full-mesh breathable fabric, 3D armrests, and
-  recline for endurance sitting suited to esports and everyday PC use. Provides
-  cooling comfort for long hours. Delivers racing aesthetics more affordably
-  than Secretlab.
-source_url: https://www.dxracerchair.uk/pages/blog/find-the-best-pink-gaming-chair-to-fit-your-setup
-category: Gaming Chairs
+description: High-end racing-style gaming chair in pink for competitive esports
+  and long PC sessions. Includes SWM mechanism, 4D armrests (upgradable from
+  3D), breathable mesh fabric, PU accents, supporting high capacities.
+  Affordable big/tall option vs Secretlab, aggressive style over office chairs.
+source_url: https://www.dxracer.com/collections/air-pro
+category: Premium Gaming Chairs
 tags:
   - racing-style
-  - mesh
+  - high-capacity
+  - 4d-arms
   - pink
 featured: false
 markdown: >-
@@ -59,6 +59,7 @@ markdown: >-
   - Anyone wanting a customizable gaming chair experience
 brand: DXRacer
 images:
-  - https://nex-img.dxracer.cc/20001/[pink-image-if-known]
   - https://www.dxracer.com/cdn/shop/files/air-pink.png
-updated_at: 2026-04-21 02:14
+  - https://nex-img.dxracer.cc/20001/[pink-image-if-known]
+  - https://www.dxracer.com/cdn/shop/products/Drifting-Series.jpg
+updated_at: 2026-04-21 23:18

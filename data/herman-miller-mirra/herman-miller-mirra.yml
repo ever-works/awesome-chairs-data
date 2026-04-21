@@ -1,18 +1,18 @@
 name: Herman Miller Mirra
-description: A mid-range Herman Miller ergonomic task chair with a flexible
-  polymer back that responds to user movement, adjustable lumbar support, tilt
-  tension control, and adjustable arms on a five-star base. Designed for
-  professionals who want Herman Miller ergonomic quality without the premium
-  Aeron price during daily desk sessions. Compared to the Herman Miller Aeron's
-  PostureFit SL and the Steelcase Leap's adjustable lumbar, the Mirra's
-  integrated back flex provides similar adaptive lumbar support in a simpler
-  configuration that works well for most body types.
+description: Posture-perfecting ergonomic chair for 8+ hour use featuring
+  flexible lattice backrest akin to pixelated support, PostureFit-style lumbar,
+  breathable mesh, and highly adjustable arms, tilt, and height. Suited for
+  programmers, office pros, and endurance gamers prioritizing health over style.
+  Excels vs gaming chairs in ergonomics (less racer aesthetic) and vs budget
+  chairs with 12-year warranty.
 source_url: https://www.hermanmiller.com/products/seating/office-chairs/mirra-chairs/
 category: Ergonomic Office Chairs
 tags:
-  - ergonomic
-  - herman-miller
-  - mid-range
+  - Pixelated Backrest
+  - Pellicle Mesh
+  - 12 Year Warranty
+  - flexible-back
+  - lumbar-support
 featured: false
 markdown: >-
   ## Overview
@@ -55,4 +55,7 @@ markdown: >-
   Mid-range pricing, lower than the Aeron at comparable condition.
 brand: Herman Miller
 brand_logo_url: https://www.hermanmiller.com/etc/designs/hm-master/clientlibs-common/resources/img/hm-logo.svg
-updated_at: 2026-04-04 23:43
+images:
+  - https://www.hermanmiller.com/images/mirra-chair.jpg
+  - https://images.hermanmiller.com/products/seating/office-chairs/mirra-chairs/primary/01.jpg
+updated_at: 2026-04-21 23:18
