@@ -41,7 +41,7 @@
 - id: luxury-premium-chairs
   name: Luxury Premium Chairs
 - id: endurance-programmer-chairs
-  name: Endurance & Programmer Chairs
+  name: Endurance Programmer Chairs
 - id: 2026-models
   name: 2026 Models
 - id: hybrid-work-gaming-chairs
@@ -62,3 +62,7 @@
   name: 2026 New Releases
 - id: high-capacity-chairs
   name: High Capacity Chairs
+- id: esports-racing-chairs
+  name: Esports & Racing Chairs
+- id: premium-ergonomic-chairs
+  name: Premium Ergonomic Chairs

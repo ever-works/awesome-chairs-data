@@ -743,8 +743,32 @@
 - id: 6d-support
   name: 6d Support
 - id: rgb-sync
-  name: Rgb Sync
+  name: RGB Sync
 - id: pebble-seat
   name: Pebble Seat
 - id: neo-leatherette
   name: NEO Leatherette
+- id: 500-lb-capacity
+  name: 500 Lb Capacity
+- id: 2026-models
+  name: 2026 Models
+- id: budget-ergonomic
+  name: Budget Ergonomic
+- id: flexible-mesh
+  name: Flexible Mesh
+- id: circulation-support
+  name: Circulation Support
+- id: lattice-back
+  name: Lattice Back
+- id: a-grade-posture
+  name: A Grade Posture
+- id: sim-racing
+  name: Sim Racing
+- id: advanced
+  name: Advanced
+- id: contoured
+  name: Contoured
+- id: mid-tier-gaming
+  name: Mid Tier Gaming
+- id: multi-device
+  name: Multi Device
