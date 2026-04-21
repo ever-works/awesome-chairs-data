@@ -1,18 +1,17 @@
-name: RESPAWN 110 Racing Style Gaming Chair
-description: Budget racing-style chair with 135° recline, segmented padding, 2D
-  armrests, and optional footrest for immersive esports and gaming. Supports 275
-  lbs with lumbar/head pillows, delivering style and recline range at half the
-  cost of premium models like Secretlab Titan for enhanced budget immersion over
-  basic seating.
-source_url: https://respawnproducts.com/products/respawn-110
-category: Specialty Gaming Chairs
+name: Respawn 110 Pro
+description: The Respawn 110 Pro is a budget-friendly racing-style gaming chair
+  designed for comfort during extended PC gaming sessions, featuring a sturdy
+  steel frame, PU leather upholstery, adjustable lumbar support, and a
+  multi-position recline up to 155 degrees. Key features include 4D armrests, a
+  removable head pillow, and high-density foam padding for superior pressure
+  relief compared to basic rockers like the GTPlayer. Ideal for gamers under 250
+  lbs seeking value under $200.
+source_url: https://respawnproducts.com/products/respawn-110-pro
+category: Budget Chairs (Under $500)
 tags:
-  - budget-friendly
-  - racing-style
-  - segmented-padded
-  - RGB Lighting
-  - Themed Design
-  - Esports Ready
+  - Budget Pick
+  - Racing Style
+  - 4d Armrests
 featured: false
 markdown: >-
   ## Overview
@@ -28,21 +27,21 @@ markdown: >-
 
   - **Segmented Padding**: Contoured zones for targeted support
 
-  - **Reclining Back**: 135° recline with infinite angle lock
+  - **Reclining Back**: 155° recline with infinite angle lock
 
   - **Extendable Footrest**: Optional leg support for relaxation
 
   - **Removable Lumbar & Headrest Pillows**: Adjustable cushion support
 
-  - **2D Adjustable Armrests**: Height and width adjustment
+  - **4D Adjustable Armrests**: Height, width, depth, and angle adjustment
 
-  - **Multiple Upholstery Options**: Bonded leather or fabric
+  - **Multiple Upholstery Options**: PU leather
 
 
   ## Specifications
 
 
-  - Weight Capacity: Up to 275 lbs
+  - Weight Capacity: Up to 250 lbs
 
   - Seat Height Range: 18.5\" to 22.4\"
 
@@ -52,9 +51,10 @@ markdown: >-
   ## Pricing
 
 
-  Starting at approximately $179.99
+  Under $200.
 brand: RESPAWN
 images:
   - https://respawnproducts.com/cdn/shop/files/respawn-110-pro-racing-style-gaming-chair-black-2_1200x.jpg
   - https://respawnproducts.com/cdn/shop/files/respawn-110-render.jpg
-updated_at: 2026-04-21 17:22
+  - https://respawnproducts.com/products/respawn-110-pro
+updated_at: 2026-04-21 20:18

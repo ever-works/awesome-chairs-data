@@ -1,15 +1,15 @@
 name: DXRacer Tank Series
-description: Extra-large gaming chair series for big & tall users with 400lb+
-  capacity, wide seats, and reinforced heavy-duty build, providing better
-  support and longevity than typical gaming chairs. Designed for immersive
-  extended gaming or office endurance with adjustable features. Essential for
-  larger gamers seeking stability.
+description: Heavy-duty gaming chair for big and tall users, supporting 400lb
+  capacity with steel frame, PU leather, wide seat, and high recline. Compares
+  favorably to Staples big/tall office chairs with a superior gaming aesthetic
+  and reinforced build for extended sessions. Provides stability and support for
+  larger gamers.
 source_url: https://www.dxracer.com/us/en-us/product/6/tank-series
-category: Big & Tall Chairs
+category: Big & Tall Gaming Chairs
 tags:
-  - Heavy Duty Capacity
-  - Wide Build
-  - gaming
+  - heavy-duty
+  - big-and-tall
+  - high-capacity
 featured: false
 markdown: |-
   ## Features
@@ -33,4 +33,5 @@ brand_logo_url: https://www.dxracer.com/us/en-us/assets/images/common/logo.png
 images:
   - https://nex-img.dxracer.cc/20001/084e4830-2c8a-45b1-91b7-2fc12fc5bc98-1.png
   - https://www.dxracer.com/us/en-us/assets/images/product/tank/tank-1.jpg
-updated_at: 2026-04-21 17:22
+  - https://www.dxracer.com/us/en-us/assets/images/product/tank/tank-main.jpg
+updated_at: 2026-04-21 20:18

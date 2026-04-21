@@ -1,38 +1,45 @@
 name: Herman Miller Aeron Chair
-description: Iconic Herman Miller Aeron uses Pellicle mesh suspension for
-  breathability and support, PostureFit SL lumbar, and fully adjustable tilt for
-  ergonomic precision in office/gaming hybrids. Available in three sizes,
-  12-year warranty, weight-activated mechanism. Gold standard for long-hour
-  sitting, outshines mesh competitors like Sihoo with superior durability and
-  airflow.
+description: Iconic ergonomic mesh chair for 24/7 use featuring Pellicle
+  suspension for airflow, PostureFit for spinal alignment, and CAR tilt for
+  natural recline. Outperforms gaming PU leather chairs in breathability, ideal
+  for coders and office workers. 12-year warranty with sizes A, B, and C
+  available.
 source_url: https://www.hermanmiller.com/products/seating/office-chairs/aeron-chair/
 category: ergonomic-office-chairs
 tags:
+  - iconic-design
   - pellicle-mesh
-  - posturefit
-  - 12-year-warranty
-  - Pellicle Mesh
-  - PostureFit
-  - 12 Year Warranty
 featured: true
-markdown: |-
+markdown: >-
   ## Features
 
-  - Pellicle mesh for breathable support and airflow
-  - PostureFit sacral support for proper alignment
-  - Tilt limiter and adjustable recline
-  - Fully adjustable arms and height
-  - Available in sizes A (small), B (medium), C (large)
+
+  - Pellicle mesh suspension for breathability and even support distribution
+
+  - PostureFit SL for lumbar and sacral support
+
+  - CAR (Centered Action Recline) tilt mechanism for natural posture
+
+  - Adjustable arms, seat height, and tilt tension
+
+  - Three sizes: A (95th percentile women/5th percentile men), B (most users), C
+  (95th percentile men)
+
 
   ## Warranty
 
-  12-year warranty
+
+  12 years
+
 
   ## Pricing
 
-  Premium pricing, starting around $1,400 depending on size and configuration.
+
+  Starts at approximately $1,400 USD, varying by size and options.
 brand: Herman Miller
+brand_logo_url: ""
 images:
   - https://images.hermanmiller.com/products/seating/office-chairs/aeron-chair/primary/01.jpg
   - https://www.hermanmiller.com/content/dam/hermanmiller/images/products/aeron/aeron-chair-hero.jpg
-updated_at: 2026-04-21 11:28
+  - https://www.hermanmiller.com/products/aeron-chairs/images/hero-aeron-chair.jpg
+updated_at: 2026-04-21 20:18
