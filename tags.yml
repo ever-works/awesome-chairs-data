@@ -802,3 +802,29 @@
   name: Self Adjusting Lumbar
 - id: upgrade-kit
   name: Upgrade Kit
+- id: high-recline
+  name: High Recline
+- id: racing-design
+  name: Racing Design
+- id: all-day-comfort
+  name: All Day Comfort
+- id: posture-correction
+  name: Posture Correction
+- id: mesh-breathable
+  name: Mesh Breathable
+- id: synthetic-leather
+  name: Synthetic Leather
+- id: vegan-leather
+  name: Vegan Leather
+- id: special-edition
+  name: Special Edition
+- id: themed-design
+  name: Themed Design
+- id: team-edition
+  name: Team Edition
+- id: fallout
+  name: Fallout
+- id: limited-edition
+  name: Limited Edition
+- id: 4-way-lumbar
+  name: 4 Way Lumbar

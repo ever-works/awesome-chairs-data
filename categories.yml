@@ -41,7 +41,7 @@
 - id: luxury-premium-chairs
   name: Luxury Premium Chairs
 - id: endurance-programmer-chairs
-  name: Endurance Programmer Chairs
+  name: Endurance & Programmer Chairs
 - id: 2026-models
   name: 2026 Models
 - id: hybrid-work-gaming-chairs
@@ -70,3 +70,15 @@
   name: RGB Gaming Chairs
 - id: massage-chairs
   name: Massage Chairs
+- id: 2026-premium-releases
+  name: 2026 Premium Releases
+- id: budget-friendly-chairs-under-500
+  name: Budget Friendly Chairs (Under $500)
+- id: ergonomic-gaming-chairs-2026
+  name: Ergonomic Gaming Chairs 2026
+- id: big-tall-high-capacity-chairs
+  name: Big & Tall & High Capacity Chairs
+- id: special-edition-gaming-chairs
+  name: Special Edition Gaming Chairs
+- id: themed-limited-edition-chairs
+  name: Themed & Limited Edition Chairs
