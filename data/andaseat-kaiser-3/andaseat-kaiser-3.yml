@@ -1,16 +1,15 @@
 name: AndaSeat Kaiser 3
-description: Racing-style gaming chair with a wide seat, durable PU leather
-  upholstery, and multi-adjustable 4D armrests, lumbar support, and 180° recline
-  for comfortable long-hour sits in gaming or office hybrid setups. It shares
-  DXRacer's aggressive racing aesthetic but features more dynamic, adjustable
-  lumbar support rather than a fixed pillow. Ideal for endurance gaming sessions
-  and professional work without fatigue.
+description: AndaSeat Kaiser 3 is a high-end gaming chair with 4D armrests,
+  dynamic lumbar support, PU leather or fabric options, and a wide seat for big
+  users up to 395lbs. Features 155-degree recline, waterfall edge seat, and
+  magnetic pillows. Suited for heavy-duty gaming and office use; offers better
+  capacity than DXRacer and comparable to Secretlab at competitive pricing.
 source_url: https://www.andaseat.com/products/andaseat-kaiser-3-gaming-chair
 category: Premium Gaming Chairs
 tags:
+  - 4d-armrests
   - wide-seat
-  - pu-leather
-  - racing-style
+  - heavy-duty
 featured: true
 markdown: >-
   ## Overview
@@ -47,4 +46,5 @@ brand_logo_url: https://www.andaseat.com/media/logo/stores/1/AndaSeat-Logo.png
 images:
   - https://www.andaseat.com/media/catalog/product/cache/1/image/800x800/9df78eab33525d08d6e5fb8d27136e95/k/a/kaiser-3-gaming-chair.png
   - https://www.andaseat.com/media/catalog/product/cache/1/image/800x/9df78eab33525d08d6e5fb8d27136e95/k/a/kaiser_3_side_view.png
-updated_at: 2026-04-21 02:14
+  - https://www.andaseat.com/cdn/shop/files/K3_1_1024x1024@2x.jpg
+updated_at: 2026-04-21 05:15

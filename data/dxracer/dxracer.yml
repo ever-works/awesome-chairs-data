@@ -1,15 +1,16 @@
 name: DXRacer
-description: DXRacer gaming chairs feature racing-style builds with high-density
-  foam, steel frames, adjustable armrests, lumbar support, and recline designed
-  for endurance sitting in esports and daily PC use. Wide range of models for
-  competitive and casual setups. More affordable than Secretlab with authentic
-  racing aesthetics.
+description: DXRacer chairs, pioneers in racing-style gaming seats, feature
+  high-density foam padding, PU leather, and robust steel frames supporting up
+  to 300lbs. Models like Air Pro offer mesh backs for breathability, adjustable
+  lumbar pillows, and 135-degree recline. Suited for esports and long gaming
+  marathons; more affordable than Secretlab with similar style but less premium
+  materials.
 source_url: https://www.dxracer.com
 category: Gaming Chairs
 tags:
   - racing-style
   - high-density-foam
-  - esports
+  - steel-frame
 featured: true
 markdown: |-
   ## Overview
@@ -33,4 +34,6 @@ markdown: |-
 
   Mid-to-premium range, varies by model.
 brand: DXRacer
-updated_at: 2026-04-21 02:14
+images:
+  - https://www.dxracer.com/cdn/shop/products/DriftingSeries_1024x1024.jpg
+updated_at: 2026-04-21 05:15

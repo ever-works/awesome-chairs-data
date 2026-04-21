@@ -3,8 +3,11 @@ description: The SL1800 is touted as the best comfort-per-dollar gaming chair in
   the industry. It offers ergonomic support and is designed for gamers seeking a
   budget-friendly yet comfortable seating solution.
 source_url: https://www.vertagear.com/products/sl1800?variant=50029305725227
-category: Chair Accessories
-tags: []
+category: 2026 New Releases
+tags:
+  - ergonomic
+  - budget
+  - lumbar-support
 featured: false
 markdown: >-
   ---
@@ -68,4 +71,4 @@ brand_logo_url: https://www.vertagear.com/logo.png
 images:
   - https://www.vertagear.com/images/sl1800-1.png
   - https://www.vertagear.com/images/sl1800-2.png
-updated_at: 2026-04-04 23:43
+updated_at: 2026-04-21 05:15

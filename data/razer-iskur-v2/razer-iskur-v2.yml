@@ -1,14 +1,19 @@
 name: Razer Iskur V2
-description: "Razer Iskur V2 gaming chair boasts 4D lumbar tracking and
-  ergonomic curves for immersive play, with haptic feedback compatibility. Great
-  for Razer ecosystem users, better lumbar than standard PU chairs like
-  GTRacing. Features: 6D armrests, breathable fabric, 152-degree recline."
+description: Razer Iskur V2 gaming chair features an adaptive lumbar curve
+  system that auto-adjusts to spine shape, 6D lumbar support, contoured
+  headrest, and breathable memory foam with mesh. Supports 300lbs, 180-degree
+  recline, and RGB lighting sync. Great for immersive gaming; improves on
+  original Iskur with better lumbar tech, competing with AndaSeat in ergonomics
+  at a mid-premium price.
 source_url: https://www.razer.com/gaming-chairs/razer-iskur-v2
 category: gaming-chairs
 tags:
   - 4d-lumbar
   - haptic-compatible
   - breathable-fabric
+  - adaptive-lumbar
+  - 6d-support
+  - rgb-sync
 featured: true
 markdown: |-
   ## Overview
@@ -32,4 +37,5 @@ images:
   - https://assets.razerzone.com/razer-site/global/images/products/razer-iskur-v2/razer-iskur-v2-gallery-1.jpg
   - https://assets.razerzone.com/razer-site/global/images/products/razer-iskur-v2/razer-iskur-v2-gallery-2.jpg
   - https://www.razer.com/gaming-chairs/razer-iskur-v2
-updated_at: 2026-04-07 10:24
+  - https://assets.razer.net/product-images/iskur-v2/800x800/Razer-Iskur-V2_6D-Lumbar-Front.png
+updated_at: 2026-04-21 05:15

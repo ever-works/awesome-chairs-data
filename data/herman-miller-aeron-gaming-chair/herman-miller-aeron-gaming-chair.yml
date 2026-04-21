@@ -1,15 +1,20 @@
 name: Herman Miller Aeron Gaming Chair
-description: The Herman Miller Aeron Gaming Chair is a gaming-oriented variant
-  of the classic Aeron designed for extended computer and gaming sessions. It
-  retains Aeron’s core ergonomic benefits—8Z Pellicle mesh for breathable
-  support, multiple adjustment options, and advanced lumbar support—while being
-  positioned and styled specifically for gamers who sit for long periods.
+description: The Herman Miller Aeron Gaming Chair adapts the iconic Aeron design
+  for gamers, featuring Pellicle mesh suspension for breathability, PostureFit
+  SL lumbar support, and fully adjustable arms with height, width, and depth
+  settings. It supports up to 350lbs, tilts from 94-135 degrees, and promotes
+  natural posture for marathon gaming sessions. Compared to standard gaming
+  chairs like Secretlab Titan, it offers superior ergonomics and 12-year
+  warranty but lacks recliner-style recline.
 source_url: https://modernplanet.com/herman-miller-aeron-gaming-chair.html?srsltid=AfmBOopbSYpw-VDf8akjLHJaK0o3E7aL4XDcROabDNKBEkk093UVmSTg
-category: Mesh Gaming Chairs
+category: Gaming Chairs
 tags:
   - gaming
   - ergonomic
   - breathable
+  - Pellicle Mesh
+  - PostureFit
+  - Iconic Design
 featured: false
 markdown: |-
   # Herman Miller Aeron® Gaming Chair
@@ -78,4 +83,5 @@ brand_logo_url: https://www.hermanmiller.com/content/dam/hermanmiller/page-asset
 images:
   - https://images.hermanmiller.group/m/47b817af10b59683/W-HM_AERG_18059_F5_B_Transparent.png?auto=format&w=1200&q=68&fit=fill
   - https://images.hermanmiller.group/m/47b817af10b59683/W-HM_AERG_18059_F5_B_Transparent.png?trim=auto&trim-sd=2&blend-mode=darken&blend=fafafa&bg=fafafa&auto=format&w=1200&q=68&h=1200&pad=120&fit=fill
-updated_at: 2026-04-21 02:14
+  - https://store.hermanmiller.com/dw/image/v2/BFND_PRD/on/demandware.static/-/Sites-herman-master-catalog/default/dw0b0b0b0a/hi-res/AeronGaming_001_Main_BK_US.jpg
+updated_at: 2026-04-21 05:15
