@@ -1,18 +1,16 @@
 name: Herman Miller Embody
-description: The Herman Miller Embody chair is engineered for dynamic sitting,
-  promoting health-positive posture through its pixelated backrest that mimics
-  spinal movement and distributes weight evenly. Key features include adjustable
-  backfit, arms, and seat depth; ideal for programmers and gamers enduring long
-  sessions. Compared to standard office chairs, it offers superior breathability
-  and motion support versus Secretlab Titan's racing style.
+description: Herman Miller Embody features pixelated backrest with kinematic
+  spine support mimicking natural movement, promoting circulation and reducing
+  pressure for 12+ hour use. Key elements include no traditional lumbar (uses
+  pixel matrix), adjustable arms, and backfit adjustment. Perfect for
+  programmers/office workers; superior to Aeron for dynamic support in long
+  hours.
 source_url: https://www.hermanmiller.com/products/seating/office-chairs/embody-chair/
-category: Premium Ergonomic Chairs
+category: Ergonomic Office Chairs
 tags:
-  - pixelated-backrest
-  - liveback
-  - 12-year-warranty
-  - 2026-updated
-  - posture-promoting
+  - pixel-matrix-backrest
+  - kinematic-spine
+  - health-focused
 featured: false
 markdown: >-
   ## Overview
@@ -46,4 +44,5 @@ images:
   - https://images.hermanmiller.com/products/seating/office-chairs/embody-chair/primary/01.jpg
   - https://www.hermanmiller.com/images/default-source/products/embody/embody-chair.jpg
   - https://images.hermanmiller.com/products/seating/office-chairs/embody-chair/primary/01.jpg
-updated_at: 2026-04-21 08:14
+  - https://www.hermanmiller.com/content/dam/hermanmiller/images/products/embody/embody-chair-hero.jpg
+updated_at: 2026-04-21 11:28

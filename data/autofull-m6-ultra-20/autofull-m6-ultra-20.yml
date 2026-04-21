@@ -7,11 +7,14 @@ description: The AutoFull M6 Ultra 2.0 is a premium esports gaming chair
   the price. Standout features include 6D armrests, anti-gravity recline, and
   built-in speakers for superior audio.
 source_url: https://autofull.com/products/m6-ultra-gaming-chair
-category: Gaming Chairs
+category: RGB Gaming Chairs
 tags:
   - cooling-technology
   - massage-lumbar
   - rgb
+  - vibration-massage
+  - lumbar-heat
+  - rgb-sync
 featured: false
 markdown: >-
   ## Overview
@@ -53,4 +56,4 @@ brand: Autofull
 brand_logo_url: https://autofull.com/cdn/shop/files/autofull_logo.png
 images:
   - https://autofull.com/cdn/shop/files/M6Ultra2.0_1.png
-updated_at: 2026-04-07 10:24
+updated_at: 2026-04-21 11:28

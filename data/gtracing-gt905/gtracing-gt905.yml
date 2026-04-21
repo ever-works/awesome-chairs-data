@@ -4,11 +4,12 @@ description: Affordable racing-style gaming chair with basic lumbar support and
   backrest and padded cushions. Less durable than premium options like Secretlab
   but offers excellent budget value.
 source_url: https://gtracing.com/products/gt905
-category: Budget Chairs Under $500
+category: RGB Gaming Chairs
 tags:
   - budget-friendly
   - racing-style
   - RGB
+  - rgb-sync
 featured: true
 markdown: >-
   ## Overview
@@ -39,4 +40,4 @@ brand_logo_url: https://shopify.gtracing.com/img/icons/01/1.png
 images:
   - https://gtracing.com/cdn/shop/t/125/assets/transparent.png?v=74725729134931200321747901099
   - https://via.placeholder.com/800x600?text=GTRacing+GT905
-updated_at: 2026-04-21 05:15
+updated_at: 2026-04-21 11:28

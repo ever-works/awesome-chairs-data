@@ -1,13 +1,15 @@
 name: Branch Ergonomic Chair
-description: An affordable, fully-adjustable ergonomic office chair designed for
-  long hours at a computer. It features a double-woven nylon mesh back,
-  high-density foam seat, adjustable lumbar support, three-way adjustable
-  armrests, seat depth adjustment, and recline lock. With a 275-pound capacity,
-  17–21 inch seat height range, and a 7-year warranty, it’s a strong
-  budget-friendly choice for all-day computer or gaming use.
+description: Branch Ergonomic Chair offers a modern mesh back for breathability,
+  adjustable lumbar support, 3D armrests, and synchro-tilt mechanism ideal for
+  hybrid work setups. Affordable at under $300 with BIFMA certification,
+  supports 275lbs comfortably for 8-hour days. Better value than IKEA Markus
+  with superior adjustability and style.
 source_url: https://www.branchfurniture.com/products/ergonomic-chair
 category: Chair Accessories
-tags: []
+tags:
+  - Mesh Back
+  - Synchro Tilt
+  - Budget Ergonomic
 featured: true
 markdown: |-
   # Branch Ergonomic Chair
@@ -47,4 +49,5 @@ brand: branch
 brand_logo_url: null
 images:
   - https://media.wired.com/photos/67327cd5ecebc4e6a15de92f/4:3/w_640%2Cc_limit/Branch%2520Ergonomic%2520Chair%2520Shadow.png
-updated_at: 2026-04-04 23:43
+  - https://www.branchfurniture.com/cdn/shop/products/ergonomic-chair-1.jpg
+updated_at: 2026-04-21 11:28

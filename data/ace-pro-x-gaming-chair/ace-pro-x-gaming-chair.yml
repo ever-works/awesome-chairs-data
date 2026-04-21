@@ -9,13 +9,14 @@ description: The Ace Pro X Gaming Chair is tailored for gamers engaged in
   racing-style chairs in comfort and features while offering better value than
   premium alternatives like the Razer Iskur V2.
 source_url: https://www.gtracing.com/products/ace-pro-x
-category: Gaming Chairs
+category: RGB Gaming Chairs
 tags:
   - ergonomic
   - lumbar-support
   - rgb-lighting
   - esports-ready
   - recline-heavy
+  - rgb-sync
 featured: true
 markdown: >-
   ## Ace Pro X Gaming Chair
@@ -66,4 +67,4 @@ brand_logo_url: https://www.gtracing.com/logo.png
 images:
   - https://www.gtracing.com/images/ace-pro-x-1.png
   - https://www.gtracing.com/images/ace-pro-x-2.png
-updated_at: 2026-04-07 13:28
+updated_at: 2026-04-21 11:28
