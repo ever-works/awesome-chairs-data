@@ -50,3 +50,15 @@
   name: Budget Under $200
 - id: mesh-gaming-chairs
   name: Mesh Gaming Chairs
+- id: mesh-chairs
+  name: Mesh Chairs
+- id: ergonomic-gaming-hybrids
+  name: Ergonomic Gaming Hybrids
+- id: budget-chairs-under-500
+  name: Budget Chairs Under $500
+- id: recliner-chairs
+  name: Recliner Chairs
+- id: 2026-new-releases
+  name: 2026 New Releases
+- id: high-capacity-chairs
+  name: High Capacity Chairs

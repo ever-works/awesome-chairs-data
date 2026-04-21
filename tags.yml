@@ -145,7 +145,7 @@
 - id: statement-piece
   name: Statement Piece
 - id: 4d-armrests
-  name: 4d Armrests
+  name: 4D Armrests
 - id: racing-inspired
   name: Racing Inspired
 - id: unique-design
@@ -615,7 +615,7 @@
 - id: soft-seat
   name: Soft Seat
 - id: posturefit
-  name: Posturefit
+  name: PostureFit
 - id: health-focused
   name: Health Focused
 - id: no-lumbar-needed
@@ -734,3 +734,17 @@
   name: Endurance
 - id: 2026-updated
   name: 2026 Updated
+- id: pixelated-backrest
+  name: Pixelated Backrest
+- id: eco-leather
+  name: ECO Leather
+- id: aluminum-base
+  name: Aluminum Base
+- id: 6d-support
+  name: 6d Support
+- id: rgb-sync
+  name: Rgb Sync
+- id: pebble-seat
+  name: Pebble Seat
+- id: neo-leatherette
+  name: NEO Leatherette
