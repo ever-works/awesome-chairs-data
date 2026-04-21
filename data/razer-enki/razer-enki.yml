@@ -1,22 +1,22 @@
 name: Razer Enki
-description: Gaming chair with 160° recline capability for full relax during
-  gaming breaks or desk napping, featuring footrest and massage options.
-  Optimized weight distribution and ergonomic design reduce fatigue for all-day
-  use. Deeper recline than standard office chairs; premium build similar to
-  Secretlab Titan but with Razer styling and leather.
+description: Ergonomic gaming chair with wide seat, seamless PU leather, and
+  adjustable armrests, recline up to 160°, and lumbar for long gaming/office
+  hybrid sessions. Racing-inspired style like DXRacer but with contoured lumbar
+  curve differing from pillow-based designs for better posture support. Suited
+  for immersive gaming and daily work endurance.
 source_url: https://www.razer.com/gaming-chairs/razer-enki
-category: Reclining Chairs
+category: Gaming Chairs
 tags:
-  - Deep Recline
-  - Relax Mode
-  - ergonomic
+  - wide-seat
+  - pu-leather
+  - racing-style
 featured: true
 markdown: >-
   ## Overview
 
 
-  Razer Enki offers 152-160° recline for relax mode, perfect for gaming breaks
-  and napping at the desk.
+  Razer Enki offers ergonomic support with 152-160° recline for gaming breaks
+  and hybrid use.
 
 
   ## Features
@@ -26,36 +26,29 @@ markdown: >-
 
   - Footrest: Included
 
-  - Massage: Optional lumbar
+  - Adjustable lumbar
 
-  - Optimized weight distribution
+  - Multi-layer synthetic leather (PU)
 
-  - High-quality leather
+  - Wide contoured seat
 
 
   ## Use Cases
 
 
-  - Extended gaming or work with breaks
+  - Gaming marathons
 
-  - Desk-side relaxation
-
-
-  ## Comparisons
-
-
-  - Vs standard office: Far deeper recline
-
-  - Vs Secretlab Titan: Similar premium leather, Razer ergonomics
+  - Office hybrid setups
 
 
   ## Pricing
 
 
-  Competitive premium pricing.
+  Premium pricing.
 brand: Razer
 brand_logo_url: https://assets.razerzone.com/razer-logo.png
 images:
   - https://assets.razerzone.com/enki-image1.png
   - https://assets.razerzone.com/enki-recline.png
-updated_at: 2026-04-20 23:17
+  - https://assets.razerzone.com/enki-seating.png
+updated_at: 2026-04-21 02:14

@@ -1,18 +1,15 @@
 name: DXRacer Air Pro
-description: Ergonomic gaming chair designed for marathon sessions in esports,
-  streaming, and PC building. Key features include 135° recline, 4D armrests,
-  breathable recycled fabric, magnetic memory foam lumbar support, and
-  high-strength components supporting up to 330 lbs. More stylish and flashy
-  than subtle office chairs like Aeron but less understated; offers superior
-  lumbar tracking compared to Razer Iskur.
+description: DXRacer Air Pro offers a racing-style build with high-density
+  memory foam lumbar support, breathable recycled fabric, 4D armrests, and 135°
+  recline for endurance sitting in esports tournaments and daily PC sessions.
+  Designed for comfort during extended use with superior airflow. More
+  affordable alternative to Secretlab with a vibrant racing aesthetic.
 source_url: https://www.dxracer.com/collections/air-pro
 category: Gaming Chairs
 tags:
-  - eco-friendly
+  - racing-style
   - breathable
-  - sustainable
-  - Marathon Gaming
-  - Esports Certified
+  - high-density-foam
 featured: true
 markdown: >-
   ## Overview
@@ -58,4 +55,6 @@ markdown: >-
 
   Starting at $499
 brand: DXRacer
-updated_at: 2026-04-20 23:17
+images:
+  - https://www.dxracer.com/cdn/shop/files/air-pro_1.png?v=1712847391
+updated_at: 2026-04-21 02:14

@@ -1,9 +1,9 @@
 name: Herman Miller Aeron Chair
-description: Herman Miller Aeron is an iconic mesh chair with PostureFit support
-  for breathable, adjustable comfort during 8+ hour workdays. Legendary for
-  ergonomics, it provides better airflow than leather gaming chairs like
-  Secretlab, though higher priced. Features include Pellicle mesh, tilt limiter,
-  and sizes A/B/C.
+description: Features innovative Pellicle mesh suspension for all-day comfort,
+  PostureFit for spine support, and fully adjustable design ideal for long hours
+  at the computer or gaming. Perfect for programmers and gamers needing
+  ergonomic support. More office-focused, breathable, and premium-built compared
+  to gaming chairs like Secretlab.
 source_url: https://www.hermanmiller.com/products/seating/office-chairs/aeron-chair/
 category: ergonomic-office-chairs
 tags:
@@ -28,4 +28,6 @@ markdown: |-
 
   Premium pricing, starting around $1,400 depending on size and configuration.
 brand: Herman Miller
-updated_at: 2026-04-07 10:24
+images:
+  - https://images.hermanmiller.com/products/seating/office-chairs/aeron-chair/primary/01.jpg
+updated_at: 2026-04-21 02:14
