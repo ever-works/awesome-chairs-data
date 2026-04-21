@@ -1,14 +1,14 @@
 name: Steelcase Gesture
-description: Steelcase Gesture adapts to multi-posture sitting with 360 arm
-  movement for modern workflows across devices like laptops, tablets, and
-  phones. Superior for dynamic use versus static gaming chairs, comparable to
-  Herman Miller Embody. Features LiveBack technology and highly adjustable arms.
+description: Steelcase Gesture supports natural postures across devices with
+  360-degree armrests, LiveBack technology mimicking spine movement, and
+  adjustable seat depth for programmers switching between keyboard and tablet.
+  Ideal for dynamic work vs static gaming chairs like Secretlab Titan.
 source_url: https://www.steelcase.com/products/office-chairs/gesture/
-category: ergonomic-office-chairs
+category: premium-ergonomic-chairs
 tags:
-  - multi-posture
-  - liveback
-  - commercial-grade
+  - 360-arms
+  - liveback-technology
+  - multi-device
 featured: false
 markdown: |-
   ## Features
@@ -30,4 +30,5 @@ brand: Steelcase
 brand_logo_url: https://www.steelcase.com/eu-en/wp-content/themes/steelcase-com-theme/assets/images/logos/steelcase.svg
 images:
   - https://www.steelcase.com/content/uploads/2014/09/steelcase-gesture-chair-hero.jpg
-updated_at: 2026-04-07 10:24
+  - https://steelcase.scene7.com/is/image/Steelcase/0000582_gesture_01_001
+updated_at: 2026-04-21 08:14

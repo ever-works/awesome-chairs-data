@@ -1,13 +1,15 @@
 name: Mirra 2 Chair
-description: The Mirra 2 Chair by Herman Miller is designed for dynamic support
-  and comfort. It features a flexible backrest and seat that adapt to your
-  movements, providing ergonomic support throughout the day.
+description: Herman Miller Mirra 2 features a flexible yet supportive lattice
+  back that breathes and moves with the user, ideal for long computer sessions
+  with adjustable lumbar support, armrests, and tilt limiter. It excels in
+  posture correction for office workers compared to gaming chairs like DXRacer
+  by offering subtle ergonomics over bold aesthetics.
 source_url: https://store.hermanmiller.com/office-chairs-ergonomic-chairs/mirra-2-chair/1453.html?lang=en_US
-category: Ergonomic Office Chairs
+category: Premium Ergonomic Chairs
 tags:
-  - dynamic-support
-  - flexible
-  - ergonomic
+  - Lattice Back
+  - Breathable Mesh
+  - A-grade Posture
 featured: true
 markdown: |-
   # Mirra 2 Chair
@@ -48,4 +50,4 @@ brand: herman-miller
 brand_logo_url: https://www.hermanmiller.com/content/dam/hermanmiller/images/logos/herman-miller-logo.png
 images:
   - https://store.hermanmiller.com/dw/image/v2/AAWR_PRD/on/demandware.static/-/Sites-herman-miller-master-catalog/default/dw0f8f8f8f/images/large/mirra-2-chair.jpg
-updated_at: 2026-04-04 23:43
+updated_at: 2026-04-21 08:14

@@ -1,19 +1,14 @@
 name: Haworth Zody Chair
-description: The Haworth Zody Chair is a premium ergonomic task chair featuring
-  an asymmetrical lumbar support system that allows independent left/right
-  adjustment, a pelvic support pad for maintaining natural spinal curvature, and
-  a synchro-tilt mechanism for users up to 325 lbs. It accommodates 6+ hour desk
-  sessions in corporate offices or standing-desk setups with its dual-position
-  seated and perched modes. Compared to the Herman Miller Aeron's centered
-  PostureFit lumbar and the Steelcase Leap's LiveBack, the Zody's unique
-  asymmetrical design targets specific pressure points more precisely at roughly
-  $800–$1,200.
+description: Haworth Zody features an adjustable asymmetrical lumbar support and
+  flexible mesh back for custom fit during extended sitting, promoting better
+  circulation than budget mesh chairs. Great for office endurance compared to
+  DXRacer.
 source_url: https://store.haworth.com/products/zody-executive-chair
-category: Ergonomic Office Chairs
+category: Endurance Programmer Chairs
 tags:
   - asymmetrical-lumbar
-  - pelvic-support
-  - premium
+  - flexible-mesh
+  - circulation-support
 featured: false
 markdown: >-
   ## Product Summary: Haworth Zody Chair
@@ -56,4 +51,7 @@ markdown: >-
   For more information, visit the [Haworth Zody
   Chair](https://store.haworth.com/products/zody-executive-chair).
 brand: Haworth
-updated_at: 2026-04-04 23:43
+brand_logo_url: ""
+images:
+  - https://store.haworth.com/products/zody-executive-chair
+updated_at: 2026-04-21 08:14

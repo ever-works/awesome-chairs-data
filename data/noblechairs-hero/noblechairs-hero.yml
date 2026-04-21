@@ -1,12 +1,10 @@
 name: Noblechairs Hero
-description: Noblechairs Hero is a premium racing-style gaming chair with
-  breathable ECO-Leather, 4D armrests, integrated lumbar support, and aluminum
-  base for stability up to 330lbs. It reclines to 135 degrees with a
-  multi-functional mechanism and includes a removable headrest. Ideal for
-  esports pros; rivals DXRacer in style and Secretlab in comfort, with a 2-year
-  warranty and more sophisticated upholstery.
+description: Noblechairs Hero is a premium racing sim-inspired chair with real
+  leather options, 4D armrests, and high-recline for immersive gaming marathons,
+  supporting up to 330 lbs. More luxurious than DXRacer but less adjustable than
+  office ergonomics.
 source_url: https://www.noblechairs.com/en-us/hero-series
-category: Gaming Chairs
+category: Esports & Racing Chairs
 tags:
   - Real Leather
   - Class-4 Lift
@@ -16,6 +14,7 @@ tags:
   - ECO-Leather
   - 4D Armrests
   - Aluminum Base
+  - Sim Racing
 featured: true
 markdown: >-
   ## Overview
@@ -62,4 +61,5 @@ images:
   - https://www.noblechairs.com/images/hero-2.jpg
   - https://noblechairs.com/media/catalog/product/h/e/hero_pu_black_inroom_1.jpg
   - https://www.noblechairs.com/media/catalog/product/h/e/hero-black.png
-updated_at: 2026-04-21 05:15
+  - https://noblechairs.com/media/catalog/product/h/e/hero_tx_black_inroom_1.jpg
+updated_at: 2026-04-21 08:14

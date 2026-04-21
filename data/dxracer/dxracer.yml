@@ -1,16 +1,15 @@
 name: DXRacer
-description: DXRacer chairs, pioneers in racing-style gaming seats, feature
-  high-density foam padding, PU leather, and robust steel frames supporting up
-  to 300lbs. Models like Air Pro offer mesh backs for breathability, adjustable
-  lumbar pillows, and 135-degree recline. Suited for esports and long gaming
-  marathons; more affordable than Secretlab with similar style but less premium
-  materials.
+description: DXRacer offers a range of racing-style gaming chairs with
+  high-density foam, PU leather, and robust steel frames for durability in
+  esports setups. Features include lumbar support, adjustable headrests, and
+  wide seat pans for comfort over long hours. Compares favorably to budget
+  options but lacks the ergonomic finesse of office chairs like Mirra.
 source_url: https://www.dxracer.com
-category: Gaming Chairs
+category: Esports & Racing Chairs
 tags:
   - racing-style
-  - high-density-foam
-  - steel-frame
+  - heavy-duty
+  - 2026-models
 featured: true
 markdown: |-
   ## Overview
@@ -36,4 +35,5 @@ markdown: |-
 brand: DXRacer
 images:
   - https://www.dxracer.com/cdn/shop/products/DriftingSeries_1024x1024.jpg
-updated_at: 2026-04-21 05:15
+  - https://www.dxracer.com/cdn/shop/files/air-pro_1.png
+updated_at: 2026-04-21 08:14
