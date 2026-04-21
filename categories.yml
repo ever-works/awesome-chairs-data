@@ -100,3 +100,9 @@
   name: RGB & Esports Chairs
 - id: sim-racing-cockpit-chairs
   name: Sim Racing & Cockpit Chairs
+- id: budget-chairs
+  name: Budget Chairs
+- id: special-edition-chairs
+  name: Special Edition Chairs
+- id: smart-tech-chairs
+  name: Smart & Tech Chairs
