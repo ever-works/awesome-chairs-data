@@ -4,8 +4,12 @@ description: The ICON Hybrid Leather Series combines premium materials with
   supports up to 150 kg. The chair is designed for both gaming and office use,
   providing comfort and style.
 source_url: https://www.noblechairs.com/en-us/icon-series/black-edition
-category: Chair Accessories
-tags: []
+category: Ergonomic Gaming Hybrids
+tags:
+  - Cold Foam
+  - 4D Arms
+  - 2026 Model
+  - hybrid
 featured: false
 markdown: >-
   # ICON Hybrid Leather Series
@@ -67,4 +71,4 @@ brand_logo_url: https://www.noblechairs.com/logo.png
 images:
   - https://www.noblechairs.com/images/icon-hybrid-1.jpg
   - https://www.noblechairs.com/images/icon-hybrid-2.jpg
-updated_at: 2026-04-04 23:43
+updated_at: 2026-04-22 14:27
