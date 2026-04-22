@@ -95,7 +95,7 @@
 - id: reclining-massage-chairs
   name: Reclining & Massage Chairs
 - id: endurance-long-hours-chairs
-  name: Endurance/Long Hours Chairs
+  name: Endurance & Long Hours Chairs
 - id: rgb-esports-chairs
   name: RGB & Esports Chairs
 - id: sim-racing-cockpit-chairs
@@ -120,3 +120,9 @@
   name: Premium Esports Chairs
 - id: big-tallhigh-capacity-chairs
   name: Big & Tall/High Capacity Chairs
+- id: mid-range-gaming-chairs-300-800
+  name: Mid Range Gaming Chairs ($300 $800)
+- id: special-edition-themed-chairs
+  name: Special Edition & Themed Chairs
+- id: petite-women-chairs
+  name: Petite & Women Chairs
