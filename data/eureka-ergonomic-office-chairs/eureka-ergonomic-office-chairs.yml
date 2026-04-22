@@ -1,16 +1,17 @@
 name: Eureka Ergonomic Office Chairs
-description: Eureka's office chairs emphasize all-day ergonomics with lumbar
-  adjustments, tilt locks, and mesh elements for airflow, tailored for
-  desk-bound professionals. Compared to gaming chairs, they provide better
-  spinal alignment and fatigue reduction for use cases like programming and
-  remote work. Long Hours Certified and BIFMA Certified, ensuring robust
-  performance over extended periods.
+description: "Eureka Ergonomic Office Chairs provide budget-friendly
+  adjustability with flip-up arms, lumbar support, and breathable mesh back for
+  24-hour rated comfort. Waterfall seat edge aids circulation. Great entry-level
+  alternative to premium brands like Steelcase for casual office/gaming hybrid;
+  use cases: student study, startup offices."
 source_url: https://eurekaergonomic.com/collections/office-chairs
 category: Ergonomic Office Chairs
 tags:
   - Long Hours Certified
   - BIFMA Certified
   - tilt-lock
+  - flip-up-arms
+  - 24-hour-rated
 featured: true
 markdown: |-
   # Eureka Ergonomic Office Chairs
@@ -76,4 +77,5 @@ brand_logo_url: /
 images:
   - https://eurekaergonomic.com/cdn/shop/files/2-Office-Chairs.png?v=1724396155&width=375
   - https://eurekaergonomic.com/cdn/shop/files/office-chair-collection.jpg
-updated_at: 2026-04-22 02:15
+  - https://eurekaergonomic.com/cdn/shop/files/ONYX-Elite-Pro_720x720.jpg
+updated_at: 2026-04-22 05:22

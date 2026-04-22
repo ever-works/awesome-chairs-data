@@ -1,13 +1,18 @@
 name: Cougar Gaming Chairs
-description: Gaming and computer chairs with aggressive styling and ergonomic
-  support for extended desktop/gaming. Racing-style design for immersive
-  sessions. Versatile hybrid for gaming and productivity.
+description: "Cougar Gaming Chairs offer high-back support with PU leather
+  upholstery, ideal for extended gaming sessions up to 12 hours. Key features
+  include 4D adjustable armrests, lumbar pillow, and 135-degree recline for
+  relaxation. Great for gamers seeking racing-style aesthetics at a mid-range
+  price, comparable to DXRacer but with better breathability; use cases: esports
+  tournaments, streaming."
 source_url: https://cougargaming.com/en/products/gaming-chairs
 category: Gaming Chairs
 tags:
   - gaming
   - racing-style
   - versatile-hybrid
+  - 4d-armrests
+  - lumbar-pillow
 featured: false
 markdown: |-
   ## Overview
@@ -35,4 +40,5 @@ brand_logo_url: https://cougargaming.com/wp-content/themes/cougargaming/img/logo
 images:
   - https://cougargaming.com/wp-content/uploads/2022/01/armour-gaming-chair-01.jpg
   - https://cougargaming.com/wp-content/uploads/2022/01/armor-titan-gaming-chair-02.jpg
-updated_at: 2026-04-20 23:17
+  - https://cougargaming.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/a/r/armor-series-gaming-chair_1.jpg
+updated_at: 2026-04-22 05:22

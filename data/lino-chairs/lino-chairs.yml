@@ -1,19 +1,19 @@
-name: Lino Chairs
-description: A value-oriented ergonomic task chair from Herman Miller that
-  brings key performance seating features—like adjustable lumbar support and
-  synchronized tilt—to people who sit at a desk or computer for long stretches.
+name: Herman Miller Lino Chairs
+description: "Herman Miller Lino Chairs blend minimalist design with ergonomic
+  flex back for natural movement and pressure relief during long sits. Features
+  include height-adjustable lumbar, pivoting arms, and sustainable materials for
+  eco-conscious users. Premium office-gaming hybrid vs traditional racing chairs
+  like Noblechairs, promotes active sitting; use cases: modern home offices,
+  collaborative workspaces."
 source_url: https://www.hermanmiller.com/products/seating/office-chairs/lino-chairs/
-featured: false
-brand: herman-miller
-brand_logo_url: https://www.hermanmiller.com/content/dam/hermanmiller/img/logo/herman-miller-logo.png
-images:
-  - https://www.hermanmiller.com/content/dam/hermanmiller/na/product-images/lino-chairs/herman-miller-lino-chair-HMLINO.jpg
-  - https://www.hermanmiller.com/content/dam/hermanmiller/na/product-images/lino-chairs/herman-miller-lino-chair-detail-HMLINO.jpg
 category: ergonomic-office-chairs
 tags:
   - ergonomic
   - lumbar-support
   - value-for-money
+  - flex-back
+  - sustainable-materials
+featured: false
 markdown: |-
   # Lino Chairs
 
@@ -62,4 +62,10 @@ markdown: |-
 
   ## Source
   - **Product page:** https://www.hermanmiller.com/products/seating/office-chairs/lino-chairs/
-updated_at: 2025-12-26 08:37
+brand: herman-miller
+brand_logo_url: https://www.hermanmiller.com/content/dam/hermanmiller/img/logo/herman-miller-logo.png
+images:
+  - https://www.hermanmiller.com/content/dam/hermanmiller/na/product-images/lino-chairs/herman-miller-lino-chair-HMLINO.jpg
+  - https://www.hermanmiller.com/content/dam/hermanmiller/na/product-images/lino-chairs/herman-miller-lino-chair-detail-HMLINO.jpg
+  - https://www.hermanmiller.com/content/dam/hermanmiller/images/office_chairs/lino_chair.jpg
+updated_at: 2026-04-22 05:22

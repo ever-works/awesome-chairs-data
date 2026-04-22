@@ -1,11 +1,15 @@
 name: G7 Gaming Chair
-description: The G7 Gaming Chair combines ergonomic design with gaming
-  aesthetics, providing comfort and support for gamers who spend long hours in
-  front of their screens. It features adjustable components to enhance the
-  gaming experience.
+description: "The G7 Gaming Chair from BodyBilt combines ergonomic office design
+  with gaming flair, featuring contoured foam for spinal alignment and
+  synchro-tilt mechanism. Supports heavy users (up to 350lbs) with waterfall
+  seat edge to reduce pressure. Suited for programmers/gamers hybrid use, better
+  than budget PU chairs for all-day comfort vs Homall; use cases: coding
+  marathons, VR gaming."
 source_url: https://bodybilt.com/product/g7-gaming-chair/
-category: Chair Accessories
-tags: []
+category: Gaming Chairs
+tags:
+  - synchro-tilt
+  - heavy-duty
 featured: true
 markdown: >-
   ## G7 Gaming Chair
@@ -89,9 +93,10 @@ markdown: >-
 
   The G7 Gaming Chair is a versatile and stylish choice for gamers looking to
   enhance their gaming setup with comfort and ergonomic support.
-brand: bodybilt
+brand: BodyBilt
 brand_logo_url: https://bodybilt.com/wp-content/uploads/2020/06/BodyBilt-Logo.png
 images:
   - https://bodybilt.com/wp-content/uploads/2020/06/G7-Gaming-Chair-1.jpg
   - https://bodybilt.com/wp-content/uploads/2020/06/G7-Gaming-Chair-2.jpg
-updated_at: 2026-04-04 23:43
+  - https://bodybilt.com/wp-content/uploads/2023/05/G7-Gaming-Chair-Black-Front.jpg
+updated_at: 2026-04-22 05:22

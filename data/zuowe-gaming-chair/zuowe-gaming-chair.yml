@@ -1,10 +1,13 @@
 name: ZUOWE Gaming Chair
-description: A line of gaming chairs from ZUOWE tailored for gamers and
-  intensive computer users, combining supportive ergonomics, high load‑bearing
-  capacity, and stable structure for long gaming or streaming sessions.
+description: "ZUOWE Gaming Chair features eco-leather with high-density foam, 4D
+  arms, and massage lumbar for fatigue relief. Supports 300lbs with 155-degree
+  recline. Budget-friendly rival to GTPlayer for all-day sitting, emphasizes
+  health for programmers; use cases: marathon gaming, remote work."
 source_url: https://www.zuowe.com/gaming-chair/
-category: Chair Accessories
-tags: []
+category: Gaming Chairs
+tags:
+  - massage-lumbar
+  - eco-leather
 featured: true
 markdown: >-
   # ZUOWE Gaming Chair
@@ -157,4 +160,6 @@ markdown: >-
   and terms.
 brand: zuowe
 brand_logo_url: null
-updated_at: 2026-04-04 23:43
+images:
+  - https://www.zuowe.com/cdn/shop/files/1_720x720.jpg
+updated_at: 2026-04-22 05:22

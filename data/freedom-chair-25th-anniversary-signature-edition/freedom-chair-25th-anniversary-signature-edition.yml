@@ -1,11 +1,17 @@
 name: Freedom Chair 25th Anniversary Signature Edition
-description: The Freedom Chair, designed by Niels Diffrient, is celebrated for
-  its ergonomic design and has been a popular choice worldwide for 25 years. The
-  25th Anniversary Signature Edition marks this milestone with a limited
-  release, offering enhanced comfort and style.
+description: "Humanscale Freedom Chair 25th Anniversary Signature Edition
+  delivers self-adjusting recline with FormFit technology that automatically
+  supports the spine through natural movement, ideal for dynamic all-day sitting
+  without manual tweaks. Key features include weight-sensing tilt, flexible
+  backframe, and premium textile upholstery for breathability and durability up
+  to 300lbs. Luxury alternative to Herman Miller Aeron for executives preferring
+  adaptive support over mesh, excels in variable postures; use cases: C-suite
+  offices, creative agencies."
 source_url: https://www.humanscale.com/products/seating/freedom-chair
 category: Chair Accessories
-tags: []
+tags:
+  - self-adjusting-recline
+  - formfit
 featured: true
 markdown: |-
   ## Freedom Chair 25th Anniversary Signature Edition
@@ -43,4 +49,5 @@ brand: humanscale
 brand_logo_url: https://www.humanscale.com/userfiles/images/logos/Humanscale_NoArch_Superscript-R_grey.png
 images:
   - https://www.humanscale.com/userFiles/files/hs-seating-freedom25-studio_224-homepage.jpg
-updated_at: 2026-04-04 23:43
+  - https://www.humanscale.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/f/r/freedom_a02_canv_01_1.jpg
+updated_at: 2026-04-22 05:22
