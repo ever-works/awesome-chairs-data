@@ -1,12 +1,18 @@
 name: Eureka Ergonomic Office Chairs
-description: A collection of ergonomic office and computer chairs from Eureka
-  Ergonomic, designed for people who sit at a desk all day. These chairs focus
-  on long-session comfort with supportive design for work and gaming setups.
+description: Eureka's office chairs emphasize all-day ergonomics with lumbar
+  adjustments, tilt locks, and mesh elements for airflow, tailored for
+  desk-bound professionals. Compared to gaming chairs, they provide better
+  spinal alignment and fatigue reduction for use cases like programming and
+  remote work. Long Hours Certified and BIFMA Certified, ensuring robust
+  performance over extended periods.
 source_url: https://eurekaergonomic.com/collections/office-chairs
-category: Chair Accessories
-tags: []
+category: Ergonomic Office Chairs
+tags:
+  - Long Hours Certified
+  - BIFMA Certified
+  - tilt-lock
 featured: true
-markdown: |
+markdown: |-
   # Eureka Ergonomic Office Chairs
 
   **Brand:** Eureka Ergonomic  
@@ -65,8 +71,9 @@ markdown: |
   - **Royal II, Silicone & Leather Executive Ergonomic Office Chair**  
     - Current price: **$489.99**  
     - Original price: **$569.99**
-brand: eureka-ergonomic
+brand: Eureka Ergonomic
 brand_logo_url: /
 images:
   - https://eurekaergonomic.com/cdn/shop/files/2-Office-Chairs.png?v=1724396155&width=375
-updated_at: 2026-04-04 23:43
+  - https://eurekaergonomic.com/cdn/shop/files/office-chair-collection.jpg
+updated_at: 2026-04-22 02:15

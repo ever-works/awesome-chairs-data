@@ -1,19 +1,17 @@
 name: Noblechairs Hero Series
-description: Ergonomic gaming chair series designed for marathon sessions in
-  esports, streaming, and PC building. Key features include 165° recline, 4D
-  armrests, PU leather or breathable fabric, adjustable lumbar support,
-  reclining backrest, and robust steel frame. More stylish and flashy than
-  subtle office chairs like Aeron but less understated; offers superior lumbar
-  tracking compared to Razer Iskur.
+description: Noblechairs Hero Series is crafted for marathon esports play,
+  streaming marathons, and versatile office hybrid applications, boasting 4D
+  armrests, integrated adjustable lumbar mechanism, 165° recline capability,
+  premium fabric or leather options, and a reinforced steel chassis for
+  unwavering support. It facilitates optimal spinal alignment and relaxation
+  during prolonged use. Elevates beyond basic budget seats with sophisticated
+  aesthetics, superior weight capacity, and enduring craftsmanship.
 source_url: https://www.noblechairs.com/en-us/hero-series/tx?srsltid=AfmBOor085GqWGvRsZc_ZHmqOyDNWf6kw1RKhcdoND3AHGcAlHof3IDE
 category: Gaming Chairs
 tags:
+  - 2026 Compatible
+  - Esports Ready
   - luxury
-  - steel-frame
-  - adjustable
-  - Marathon Gaming
-  - Esports Certified
-  - Racing Inspired
 featured: true
 markdown: |-
   # Noblechairs Hero Series
@@ -37,4 +35,9 @@ markdown: |-
 
   ### Additional Information
   - For more details, visit the [official website](https://www.noblechairs.com/en-us/hero-series/tx?srsltid=AfmBOor085GqWGvRsZc_ZHmqOyDNWf6kw1RKhcdoND3AHGcAlHof3IDE).
-updated_at: 2026-04-21 11:28
+brand: Noblechairs
+brand_logo_url: https://noblechairs.com/wp-content/themes/noblechairs/dist/images/logo.svg
+images:
+  - https://noblechairs.com/media/catalog/product/h/e/hero_tx_black_white_1.jpg
+  - https://noblechairs.com/media/catalog/product/h/e/hero_tx_pu_black_1.jpg
+updated_at: 2026-04-22 02:15
