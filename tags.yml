@@ -145,7 +145,7 @@
 - id: statement-piece
   name: Statement Piece
 - id: 4d-armrests
-  name: 4D Armrests
+  name: 4d Armrests
 - id: racing-inspired
   name: Racing Inspired
 - id: unique-design
@@ -195,7 +195,7 @@
 - id: footrest
   name: Footrest
 - id: rgb-lighting
-  name: Rgb Lighting
+  name: RGB Lighting
 - id: immersive
   name: Immersive
 - id: entertainment
@@ -431,7 +431,7 @@
 - id: wave-suspension
   name: Wave Suspension
 - id: 4d-arms
-  name: 4d Arms
+  name: 4D Arms
 - id: responsive-flex-back
   name: Responsive Flex Back
 - id: asymmetrical-lumbar
@@ -615,7 +615,7 @@
 - id: soft-seat
   name: Soft Seat
 - id: posturefit
-  name: PostureFit
+  name: Posturefit
 - id: health-focused
   name: Health Focused
 - id: no-lumbar-needed
@@ -918,3 +918,13 @@
   name: Breathable Mesh 2026
 - id: endurance-gaming
   name: Endurance Gaming
+- id: cold-foam
+  name: Cold Foam
+- id: flexible-frame
+  name: Flexible Frame
+- id: breathable-elastomer
+  name: Breathable Elastomer
+- id: intuitive-controls
+  name: Intuitive Controls
+- id: spine-mimic
+  name: Spine Mimic

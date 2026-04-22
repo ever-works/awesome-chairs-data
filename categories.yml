@@ -95,7 +95,7 @@
 - id: reclining-massage-chairs
   name: Reclining & Massage Chairs
 - id: endurance-long-hours-chairs
-  name: Endurance Long Hours Chairs
+  name: Endurance/Long Hours Chairs
 - id: rgb-esports-chairs
   name: RGB & Esports Chairs
 - id: sim-racing-cockpit-chairs
@@ -116,3 +116,7 @@
   name: AI Enhanced Chairs
 - id: sim-racing-chairs
   name: Sim Racing Chairs
+- id: premium-esports-chairs
+  name: Premium Esports Chairs
+- id: big-tallhigh-capacity-chairs
+  name: Big & Tall/High Capacity Chairs
