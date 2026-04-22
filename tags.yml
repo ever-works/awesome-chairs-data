@@ -145,7 +145,7 @@
 - id: statement-piece
   name: Statement Piece
 - id: 4d-armrests
-  name: 4d Armrests
+  name: 4D Armrests
 - id: racing-inspired
   name: Racing Inspired
 - id: unique-design
@@ -910,3 +910,11 @@
   name: Built In Speakers
 - id: vibration-motors
   name: Vibration Motors
+- id: 2026-release
+  name: 2026 Release
+- id: heavy-duty-400lb
+  name: Heavy Duty 400lb+
+- id: breathable-mesh-2026
+  name: Breathable Mesh 2026
+- id: endurance-gaming
+  name: Endurance Gaming

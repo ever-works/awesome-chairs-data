@@ -91,7 +91,7 @@
 - id: ai-smart-chairs
   name: AI & Smart Chairs
 - id: sustainable-eco-chairs
-  name: Sustainable & Eco Chairs
+  name: Sustainable Eco Chairs
 - id: reclining-massage-chairs
   name: Reclining & Massage Chairs
 - id: endurance-long-hours-chairs
@@ -112,3 +112,7 @@
   name: Budget Chairs (<$500)
 - id: 2026-releases
   name: 2026 Releases
+- id: ai-enhanced-chairs
+  name: AI Enhanced Chairs
+- id: sim-racing-chairs
+  name: Sim Racing Chairs
