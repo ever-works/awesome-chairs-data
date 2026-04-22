@@ -1,21 +1,18 @@
 name: Herman Miller Embody
-description: The Herman Miller Embody Chair promotes active sitting with
-  pixelated backrest and pixelated seat for dynamic spinal support, aligning
-  back, glutes, and sacrum to reduce pressure during extended use. Key features
-  include no traditional lumbar (uses backfit adjustment), tilt limiter, and
-  height-adjustable arms; perfect for office workers and gamers combating
-  sedentary strain. Outperforms Aeron in movement encouragement but at higher
-  cost than budget ergonomics like Sihoo M18.
+description: The Herman Miller Embody promotes active sitting with its pixelated
+  backrest that mimics spinal movement, pixelated seat for even pressure
+  distribution, and adjustable backfit for lumbar support. Features include a
+  kinematic back, no traditional lumbar pillow needed, and 12-year warranty;
+  perfect for programmers and long-hour desk workers combating back pain.
+  Superior to standard gaming chairs like Secretlab in ergonomics and health
+  focus, though less flashy.
 source_url: https://www.hermanmiller.com/products/seating/office-chairs/embody-chair/
 category: Ergonomic Office Chairs
 tags:
   - Pixelated Backrest
-  - Pellicle Mesh
-  - 12 Year Warranty
-  - pixelated-backrest
-  - kinematic-spine
-  - Active Sitting
-  - Backfit Adjustment
+  - Kinematic Spine
+  - Posture Support
+  - 24 Hour Rated
 featured: false
 markdown: >-
   ## Overview
@@ -53,4 +50,5 @@ images:
   - https://store.hermanmiller.com/images/default-source/products/embody/embody-chair-side.jpg
   - https://www.hermanmiller.com/images/embody-chair.jpg
   - https://www.hermanmiller.com/content/dam/hermanmiller/7-north-america/en_us/images/products/embody/embody-chair-hero.jpg
-updated_at: 2026-04-22 17:21
+  - https://www.hermanmiller.com/content/dam/hermanmiller/6-product-content-library/images/embody_1.jpg
+updated_at: 2026-04-22 20:17

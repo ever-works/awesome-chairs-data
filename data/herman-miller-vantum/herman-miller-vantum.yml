@@ -1,15 +1,15 @@
 name: Herman Miller Vantum
-description: Gaming-optimized chair with performance knit back and tilt mods for
-  hybrid work/gaming, contrasting standard Aeron's broader color options.
-  Knit-mesh backrest provides breathable support with adjustable lumbar and
-  thoracic pads for long gaming/work sessions in hot climates. Waterfall seat
-  enhances circulation, outperforming traditional fabric/leather chairs in
-  airflow.
+description: Herman Miller Vantum blends gaming aesthetics with office
+  ergonomics via a flexible mesh back, adjustable headrest, and PostureFit SL
+  lumbar. It features copper-infused cooling and 4D arms, ideal for hybrid
+  work/gaming setups. It offers better breathability than leather gaming chairs.
 source_url: https://www.hermanmiller.com/products/gaming/vantum-gaming-chair/
-category: Hybrid Work Gaming Chairs
+category: Office-Gaming Hybrids
 tags:
-  - knit-mesh
-  - hybrid
+  - Mesh Back
+  - PostureFit SL
+  - Cooling Tech
+  - 4D Arms
 featured: true
 markdown: >-
   ## Overview
@@ -43,4 +43,5 @@ brand_logo_url: https://www.hermanmiller.com/content/dam/hermanmiller/images/glo
 images:
   - https://images.hermanmiller.com/products/gaming/vantum-gaming-chair/primary/01.jpg
   - https://images.hermanmiller.com/products/gaming/vantum-gaming-chair/gallery/02.jpg
-updated_at: 2026-04-22 05:22
+  - https://store.hermanmiller.com/cdn/shop/products/Vantum_BK_Front_1200x.jpg
+updated_at: 2026-04-22 20:17
