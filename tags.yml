@@ -615,7 +615,7 @@
 - id: soft-seat
   name: Soft Seat
 - id: posturefit
-  name: Posturefit
+  name: PostureFit
 - id: health-focused
   name: Health Focused
 - id: no-lumbar-needed
@@ -737,7 +737,7 @@
 - id: pixelated-backrest
   name: Pixelated Backrest
 - id: eco-leather
-  name: ECO Leather
+  name: Eco Leather
 - id: aluminum-base
   name: Aluminum Base
 - id: 6d-support
@@ -884,3 +884,29 @@
   name: Budget Gaming
 - id: streamer
   name: Streamer
+- id: lumbar-pillow
+  name: Lumbar Pillow
+- id: seat-slider
+  name: Seat Slider
+- id: posturefit-sl
+  name: Posturefit Sl
+- id: flip-up-arms
+  name: Flip Up Arms
+- id: self-adjusting-recline
+  name: Self Adjusting Recline
+- id: formfit
+  name: Formfit
+- id: sustainable-materials
+  name: Sustainable Materials
+- id: thick-padding
+  name: Thick Padding
+- id: esports-grade
+  name: Esports Grade
+- id: multi-lock-tilt
+  name: Multi Lock Tilt
+- id: elastomeric-back
+  name: Elastomeric Back
+- id: built-in-speakers
+  name: Built In Speakers
+- id: vibration-motors
+  name: Vibration Motors
