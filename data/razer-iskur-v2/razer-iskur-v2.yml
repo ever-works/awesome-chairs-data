@@ -1,18 +1,22 @@
 name: Razer Iskur V2
-description: Gaming chair optimized for VR/AR immersive experiences with haptic
-  feedback compatibility, adaptive 6D lumbar support that auto-adjusts to user
-  movements, 180-degree recline, RGB lighting synchronization, and contoured
-  headrest. Designed for extended VR sessions, it provides superior ergonomics
-  and immersion compared to standard gaming chairs like Secretlab or DXRacer,
-  enhancing feedback from VR haptics.
+description: "Razer Iskur V2 gaming chair features 6D lumbar support that
+  auto-adjusts to spine curvature, memory foam lumbar, and contoured headrest
+  for immersive comfort in long sessions. Includes 180-degree recline, haptic
+  motor integration for Razer games, vegan leather. Stands out vs standard with
+  adaptive lumbar better than fixed-pillow chairs like Andaseat. Use cases: FPS
+  gaming, VR, content creation."
 source_url: https://www.razer.com/gaming-chairs/razer-iskur-v2
-category: AI & Smart Chairs
+category: Gaming Chairs
 tags:
   - VR Ready
   - Haptic Feedback
   - RGB
   - reclining
   - adaptive-lumbar
+  - 6D Lumbar
+  - 180 Recline
+  - Vegan Leather
+  - Adaptive Support
 featured: true
 markdown: >-
   ## Overview
@@ -66,4 +70,5 @@ images:
   - https://assets.razerzone.com/razer-site/global/images/products/razer-iskur-v2/razer-iskur-v2-gallery-2.jpg
   - https://assets.razerzone.com/razer-site/global/images/products/razer-iskur-v2/razer-iskur-v2-gallery-3.jpg
   - https://assets.razer.net/product-images/iskur-v2/800x800/Razer-Iskur-V2_6D-Lumbar-Front.png
-updated_at: 2026-04-22 20:17
+  - https://assets.razer.net/product-images/iskur-v2-large.png
+updated_at: 2026-04-22 23:15

@@ -1,18 +1,22 @@
 name: Noblechairs Hero
-description: Noblechairs Hero is a versatile gaming chair with a flat waterfall
-  seat edge to reduce thigh pressure during long sessions, 135° recline, and 4D
-  armrests with adjustable width/depth. Features Alcantara or PU leather
-  options, integrated lumbar support, and a stable aluminum base; great for
-  esports pros and everyday gamers seeking office-like ergonomics. Outperforms
-  budget racing chairs in build quality but pricier than GTRacing.
+description: "Noblechairs Hero gaming chair offers premium real leather or
+  Alcantara upholstery, high-density foam padding, and 135-degree recline with
+  integrated lumbar pillow for supportive comfort during extended play. Key
+  features: 4D armrests, sturdy aluminum base (up to 180kg capacity), stylish
+  racing aesthetics. Better build quality than budget DXRacer, ideal alternative
+  to Secretlab for luxury feel. Use cases: competitive gaming, streaming, office
+  hybrid."
 source_url: https://www.noblechairs.com/en-us/hero-series
-category: Premium Gaming Chairs
+category: Premium Gaming & Esports Chairs
 tags:
   - Waterfall Seat
   - 4D Armrests
   - Alcantara
   - 135 Recline
   - Integrated Lumbar
+  - Real Leather
+  - High Density Foam
+  - Premium Build
 featured: true
 markdown: >-
   ## Overview
@@ -60,4 +64,5 @@ images:
   - https://noblechairs.com/media/catalog/product/h/e/hero_pu_black_inroom_1.jpg
   - https://www.noblechairs.com/media/catalog/product/h/e/hero-black.png
   - https://www.noblechairs.com/media/catalog/product/h/e/hero_pu_black_front.jpg
-updated_at: 2026-04-22 20:17
+  - https://www.noblechairs.com/media/catalog/product/h/e/hero_black_black.jpg
+updated_at: 2026-04-22 23:15
