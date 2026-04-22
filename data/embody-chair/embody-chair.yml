@@ -1,19 +1,20 @@
 name: Embody Chair
-description: The Embody Chair is an ergonomic work chair designed for people who
-  sit for long periods, featuring a pixelated support system that conforms to
-  the user’s shape and postural movements, provides sacral, lumbar, and thoracic
-  support, and promotes heat dissipation for all‑day comfort at the computer. It
-  offers adjustable seat depth (15"–18"), a deep balanced recline with tilt
-  limiter, optional fully adjustable arms, and a frameless, narrow back to allow
-  free movement of arms, neck, and shoulders. The chair meets ANSI/BIFMA
-  X5.1-2017 office chair standards and California TB 117-2013, and is tested and
-  warranted for users up to 300 pounds.
+description: The Herman Miller Embody Chair promotes active sitting with
+  pixelated backrest and pixelated seat for dynamic spinal support, aligning
+  back, glutes, and sacrum to reduce pressure during extended use. Key features
+  include no traditional lumbar (uses backfit adjustment), tilt limiter, and
+  height-adjustable arms; perfect for office workers and gamers combating
+  sedentary strain. Outperforms Aeron in movement encouragement but at higher
+  cost than budget ergonomics like Sihoo M18.
 source_url: https://www.hermanmiller.com/products/seating/office-chairs/embody-chairs
 category: Ergonomic Office Chairs
 tags:
   - ergonomic
   - posture-support
   - premium
+  - Pixelated Backrest
+  - Active Sitting
+  - Backfit Adjustment
 featured: false
 markdown: |
   # Embody Chair
@@ -43,7 +44,7 @@ markdown: |
     - Thoracic (upper back) support
 
   - **Adjustable seat depth**
-    - Range: 15"–18"
+    - Range: 15\"–18\"
     - Helps accommodate different leg lengths
 
   - **Recline and tilt control**
@@ -87,4 +88,5 @@ images:
   - https://www.hermanmiller.com/content/dam/hmicom/page_assets/products/embody_chairs/images/embody_chairs_hero.jpg
   - https://www.hermanmiller.com/content/dam/hmicom/product_images/embody_chairs/hero-embody-task-chair.jpg
   - https://www.hermanmiller.com/content/dam/hmicom/product_images/embody_chairs/embody_chair_back_detail.jpg
-updated_at: 2026-04-04 23:43
+  - https://www.hermanmiller.com/content/dam/hermanmiller/7-north-america/en_us/images/products/embody/embody-chair-hero.jpg
+updated_at: 2026-04-22 17:21
