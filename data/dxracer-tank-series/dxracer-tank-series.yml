@@ -1,15 +1,17 @@
 name: DXRacer Tank Series
-description: Gaming-focused big & tall chair with 400+ lb steel frame capacity,
-  spacious wide seat, 4D armrests, and high-density foam for immersive long
-  sessions; racing-style design excels in sim racing. Compared to BodyBilt J3504
-  (office lumbar focus, 500lbs), Tank offers more gaming aesthetics but similar
-  durability. Perfect for heavy users in esports or VR marathons.
+description: DXRacer Tank is built for big & tall users up to 400lbs with
+  extra-wide seat and high backrest, using high-density foam and PU leather for
+  durability in long gaming marathons. Features 135-degree recline, lumbar
+  pillow, and 4D armrests; suits heavy-duty endurance seating better than
+  standard gaming chairs like GTPlayer. Compared to Secretlab, wider for larger
+  frames but less adjustable lumbar.
 source_url: https://www.dxracer.com/us/en-us/product/6/tank-series
 category: Big & Tall / High Capacity Chairs (400lbs+)
 tags:
-  - Heavy Duty Capacity
-  - Wide Seat
-  - 2026 Compatible
+  - 400lbs Capacity
+  - Extra Wide Seat
+  - High Density Foam
+  - Big Tall Gaming
 featured: false
 markdown: |-
   ## Features
@@ -34,4 +36,5 @@ images:
   - https://nex-img.dxracer.cc/20001/084e4830-2c8a-45b1-91b7-2fc12fc5bc98-1.png
   - https://www.dxracer.com/us/en-us/assets/images/product/tank/tank-1.jpg
   - https://images.unsplash.com/photo-1501630834270-4b5d39f91a3f?w=800
-updated_at: 2026-04-23 02:16
+  - https://www.dxracer.com/images/tank-series.jpg
+updated_at: 2026-04-23 14:24
