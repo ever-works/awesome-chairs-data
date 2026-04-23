@@ -4,8 +4,12 @@ description: The Sitmatic CooLean chair offers a choice between medium or
   ergonomic design supports long hours of sitting, making it a great choice for
   both office and gaming environments.
 source_url: https://www.officechairsusa.com/sitmatic-coolean-with-medium-or-standard-seat/
-category: Standing & Active Seating
-tags: []
+category: Climate-Controlled & Cooling Chairs
+tags:
+  - cooling-tech
+  - 2026 Flagship
+  - Marathon Comfort
+  - Ergonomic Hybrid
 featured: true
 markdown: |-
   # Sitmatic CooLean Chair
@@ -21,7 +25,7 @@ markdown: |-
   - **Seat Options:** Available in medium or standard sizes to accommodate different user preferences.
   - **Ergonomic Design:** Supports long hours of sitting, enhancing comfort for both office work and gaming.
   - **Backrest and Seat Shape:** Unique design encourages frequent posture changes, allowing the chair to be straddled while providing full sternum support.
-  - **Adjustable Back Height:** Intuitive design allows a 6" back height adjustment using a fingertip lever, ensuring personalized comfort.
+  - **Adjustable Back Height:** Intuitive design allows a 6\" back height adjustment using a fingertip lever, ensuring personalized comfort.
   - **Quality Manufacturing:** Components are designed and manufactured in California, boasting Italian-built quality and engineering excellence.
 
   ## Brand
@@ -41,4 +45,4 @@ brand: sitmatic
 brand_logo_url: /path/to/sitmatic/logo.png
 images:
   - https://cdn11.bigcommerce.com/s-lpku7oc/stencil/e2ffdcc0-5522-013e-75ce-268ccf9b665c/e/dc501ef0-b9d3-013e-70a3-3a6e55e893d9/img/loading.svg
-updated_at: 2026-04-04 23:43
+updated_at: 2026-04-23 05:16

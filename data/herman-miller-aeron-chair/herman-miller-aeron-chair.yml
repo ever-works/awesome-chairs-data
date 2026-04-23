@@ -1,18 +1,19 @@
 name: Herman Miller Aeron Chair
-description: Posture-perfecting ergonomic chair for 8+ hour use with breathable
-  Pellicle mesh suspension, PostureFit SL for spinal alignment, and fully
-  adjustable everything including arms, tilt, and size variants (A/B/C). Perfect
-  for programmers, office workers, and gamers needing endurance support.
-  Superior to gaming chairs' racer style in ergonomics and to budget chairs via
-  12-year warranty.
+description: "Herman Miller Aeron is an iconic ergonomic mesh chair with
+  Pellicle suspension for breathability and PostureFit for lumbar/spinal
+  support, available in three sizes for personalized fit. Features tilt limiter,
+  adjustable arms, and recycled materials for sustainability. Perfect for
+  long-hour desk work like coding or gaming; more breathable than Embody,
+  industry standard for ergonomics. Use cases: office, home setups, endurance
+  sitting."
 source_url: https://www.hermanmiller.com/products/seating/office-chairs/aeron-chair/
-category: Ergonomic Office Chairs
+category: Premium Ergonomic Chairs
 tags:
-  - Pixelated Backrest
   - Pellicle Mesh
+  - PostureFit
+  - Recycled Materials
+  - Iconic Design
   - 12 Year Warranty
-  - pellicle-mesh
-  - posturefit
 featured: true
 markdown: >-
   ## Features
@@ -47,4 +48,4 @@ images:
   - https://www.hermanmiller.com/content/dam/hermanmiller/images/products/aeron/aeron-chair-hero.jpg
   - https://www.hermanmiller.com/products/aeron-chairs/images/hero-aeron-chair.jpg
   - https://www.hermanmiller.com/images/aeron-chair.jpg
-updated_at: 2026-04-21 23:18
+updated_at: 2026-04-23 05:16

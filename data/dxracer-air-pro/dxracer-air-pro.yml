@@ -1,11 +1,11 @@
 name: DXRacer Air Pro
-description: Racing-style gaming chair built with recycled eco-friendly fabric
-  for exceptional breathability and sustainability versus standard synthetic
-  leathers. High-density memory foam lumbar, 4D armrests, and 135° recline
-  support marathon sessions better than non-breathable competitors.
-  Eco-performance hybrid for esports and office endurance.
+description: "DXRacer Air Pro is a lightweight mesh gaming chair with full mesh
+  back for breathability, adjustable lumbar support, and 4D armrests, ideal for
+  hot climates and long sessions. Features a racing-inspired design with high
+  recline up to 160°. Suited for esports pros; more breathable than Secretlab
+  Titan but less padded. Use cases: competitive gaming, streaming."
 source_url: https://www.dxracer.com/collections/air-pro
-category: Sustainable Eco Chairs
+category: Mesh Gaming Chairs
 tags:
   - racing-style
   - breathable
@@ -13,6 +13,9 @@ tags:
   - Eco Friendly
   - Recycled
   - Breathable Mesh 2026
+  - Full Mesh
+  - Lightweight
+  - Esports Ready
 featured: true
 markdown: |-
   ## Features
@@ -24,7 +27,8 @@ markdown: |-
   ## Pricing
   Starting at $499
 brand: DXRacer
+brand_logo_url: ""
 images:
   - https://www.dxracer.com/cdn/shop/files/air-pro_eco-black_1200x1200.png
   - https://www.dxracer.com/cdn/shop/files/air-pro_recycled-fabric.jpg
-updated_at: 2026-04-22 11:13
+updated_at: 2026-04-23 05:16

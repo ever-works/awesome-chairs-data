@@ -1,13 +1,12 @@
 name: Noblechairs Hero
-description: "Noblechairs Hero gaming chair offers premium real leather or
-  Alcantara upholstery, high-density foam padding, and 135-degree recline with
-  integrated lumbar pillow for supportive comfort during extended play. Key
-  features: 4D armrests, sturdy aluminum base (up to 180kg capacity), stylish
-  racing aesthetics. Better build quality than budget DXRacer, ideal alternative
-  to Secretlab for luxury feel. Use cases: competitive gaming, streaming, office
-  hybrid."
+description: "Noblechairs Hero is a premium racing-style gaming chair with real
+  leather options, 4D armrests, and advanced tilt mechanism for up to 135°
+  recline, built for heavy daily use up to 24 hours. Features high-density foam
+  and wide seat for comfort during extended sessions. Excellent for gamers and
+  office hybrids; more luxurious than Secretlab Titan with genuine leather
+  upgrades. Use cases: esports tournaments, long coding, streaming."
 source_url: https://www.noblechairs.com/en-us/hero-series
-category: Premium & Esports Gaming Chairs
+category: Premium Gaming & Esports Chairs
 tags:
   - Waterfall Seat
   - 4D Armrests
@@ -17,6 +16,8 @@ tags:
   - Real Leather
   - High Density Foam
   - Premium Build
+  - 24 Hour Rated
+  - Wide Seat
 featured: true
 markdown: >-
   ## Overview
@@ -65,4 +66,5 @@ images:
   - https://www.noblechairs.com/media/catalog/product/h/e/hero-black.png
   - https://www.noblechairs.com/media/catalog/product/h/e/hero_pu_black_front.jpg
   - https://www.noblechairs.com/media/catalog/product/h/e/hero_black_black.jpg
-updated_at: 2026-04-23 02:16
+  - https://www.noblechairs.com/images/hero-chair.jpg
+updated_at: 2026-04-23 05:16
