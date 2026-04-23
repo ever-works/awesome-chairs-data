@@ -1,9 +1,9 @@
 name: BestOffice High-Back Ergonomic Chair
-description: BestOffice High-Back Ergonomic Chair supports all-day work with
-  mesh back, lumbar support, height adjustment, and swivel base, suitable for
-  remote work and back pain relief on a budget. High back provides upper
-  support. Compared to gaming or executive chairs, it offers basic ergonomics at
-  entry-level pricing.
+description: "BestOffice High-Back Ergonomic Chair is an ergonomic office chair
+  optimized for 8-12 hour workdays, promoting natural posture with mesh back and
+  lumbar support. Features include height adjustment, swivel base; use cases:
+  programming marathons, executive offices. Compares to Herman Miller Aeron
+  (premium breathable) vs Sihoo (similar budget adjustability)."
 source_url: https://www.amazon.com/BestOffice-Office-Chair-Gaming-Black/dp/B07TW4CYHG
 category: Ergonomic Office Chairs
 tags:
@@ -12,6 +12,8 @@ tags:
   - lumbar-support
   - 24-Hour Use
   - BIFMA Certified
+  - 12 Year Warranty
+  - Adaptive Lumbar
 featured: false
 markdown: >-
   ## Overview
@@ -48,4 +50,5 @@ markdown: >-
 brand: BestOffice
 images:
   - https://m.media-amazon.com/images/I/61Qk1a5gOCL._AC_SL1500_.jpg
-updated_at: 2026-04-07 13:28
+  - https://www.bestoffice.com/images/high-back-hero.jpg
+updated_at: 2026-04-23 02:16

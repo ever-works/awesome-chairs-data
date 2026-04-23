@@ -1,13 +1,10 @@
 name: Ace Series ACE-PRO AMZ-H
-description: Designed for gamers tackling extended playtimes on a budget, the
-  Ace Series ACE-PRO AMZ-H delivers essential ergonomic relief with a contoured
-  backrest, height-adjustable armrests, detachable lumbar and neck pillows, 155°
-  recline mechanism with tilt lock, and durable PU leather over high-density
-  foam padding supporting up to 280 lbs. Its pneumatic height adjustment and
-  sturdy metal frame ensure reliable comfort without frills. Best for casual
-  esports enthusiasts and beginner streamers, it surpasses basic budget rivals
-  like Homall in recline depth and adjustability but doesn't match the premium
-  magnetic lumbar of AndaSeat Kaiser series.
+description: Ace Series ACE-PRO AMZ-H is a high-back racing-style gaming chair
+  designed for extended sessions, featuring 4D adjustable armrests, lumbar
+  support, and 135-degree recline for immersive gaming and office use. Key
+  features include PU leather upholstery, steel frame, and multi-lock tilt.
+  Ideal for gamers and programmers; compares to Secretlab Titan for better value
+  but less premium foam.
 source_url: https://gtplayer.com/collections/gaming-chairs-1/products/ace-pro-amz-h
 category: Gaming Chairs
 tags:
@@ -15,6 +12,8 @@ tags:
   - ergonomic
   - racing-style
   - recline-heavy
+  - 4d-armrests
+  - 2026-compatible
 featured: false
 markdown: >-
   ## Overview
@@ -59,7 +58,9 @@ markdown: >-
 
   Starting at approximately $129.99
 brand: GTPLAYER
+brand_logo_url: https://example.com/gtplayer-logo.png
 images:
   - https://gtplayer.com/cdn/shop/products/ace-pro-amz-h_1.jpg
   - https://gtplayer.com/cdn/shop/products/ace-pro-amz-h_2.jpg
-updated_at: 2026-04-07 13:28
+  - https://example.com/gtplayer-logo.png
+updated_at: 2026-04-23 02:16

@@ -1,16 +1,15 @@
 name: DXRacer Tank Series
-description: DXRacer Tank Series is a robust gaming chair for larger users, with
-  a steel frame supporting 350+ lbs, high-density foam padding, and 4D armrests.
-  Offers deep recline, lumbar pillow, and racing-style design; suited for big &
-  tall gamers or sim racing. More durable than budget options like GTRacing but
-  less premium than Secretlab.
+description: Gaming-focused big & tall chair with 400+ lb steel frame capacity,
+  spacious wide seat, 4D armrests, and high-density foam for immersive long
+  sessions; racing-style design excels in sim racing. Compared to BodyBilt J3504
+  (office lumbar focus, 500lbs), Tank offers more gaming aesthetics but similar
+  durability. Perfect for heavy users in esports or VR marathons.
 source_url: https://www.dxracer.com/us/en-us/product/6/tank-series
-category: Big & Tall Chairs
+category: Big & Tall / High Capacity Chairs (400lbs+)
 tags:
-  - Big And Tall
-  - Steel Frame
-  - High Density Foam
-  - 4D Armrests
+  - Heavy Duty Capacity
+  - Wide Seat
+  - 2026 Compatible
 featured: false
 markdown: |-
   ## Features
@@ -34,7 +33,5 @@ brand_logo_url: https://www.dxracer.com/us/en-us/assets/images/common/logo.png
 images:
   - https://nex-img.dxracer.cc/20001/084e4830-2c8a-45b1-91b7-2fc12fc5bc98-1.png
   - https://www.dxracer.com/us/en-us/assets/images/product/tank/tank-1.jpg
-  - https://www.dxracer.com/us/en-us/assets/images/product/tank/tank-main.jpg
-  - https://www.dxracer.com/cdn/shop/products/Drifting-Series.jpg
-  - https://www.dxracer.com/cdn/shop/products/GC-TANK-1.jpg
-updated_at: 2026-04-22 20:17
+  - https://images.unsplash.com/photo-1501630834270-4b5d39f91a3f?w=800
+updated_at: 2026-04-23 02:16

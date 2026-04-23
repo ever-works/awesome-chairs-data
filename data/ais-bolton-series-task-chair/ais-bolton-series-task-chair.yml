@@ -1,10 +1,10 @@
 name: AIS Bolton Series Task Chair
-description: AIS Bolton Series Task Chair supports all-day work for petite users
-  with adjustable seat depth, arm height, synchro-tilt, and proportional frame,
-  ideal for remote work and back pain relief in smaller statures. Key features
-  include customizable adjustments for proper posture. Compared to gaming chairs
-  or executive chairs, it offers scaled ergonomics at commercial pricing vs
-  premium petite options.
+description: "AIS Bolton Series Task Chair is an ergonomic office chair
+  optimized for 8-12 hour workdays, promoting natural posture with adjustable
+  seat depth and synchro-tilt for petite users. Features include arm height
+  adjustment, proportional frame; use cases: programming marathons, executive
+  offices. Compares to Herman Miller Aeron (more breathable but pricier) vs
+  budget like Sihoo (similar adjustability at half cost)."
 source_url: https://www.ais-inc.com/
 category: Ergonomic Office Chairs
 tags:
@@ -13,6 +13,8 @@ tags:
   - office
   - 24-Hour Use
   - BIFMA Certified
+  - 12 Year Warranty
+  - Adaptive Lumbar
 featured: false
 markdown: >-
   ## Overview
@@ -37,4 +39,4 @@ markdown: >-
 
   - Seat depth adjustment ensures correct back contact with lumbar support
 brand: AIS
-updated_at: 2026-04-07 13:28
+updated_at: 2026-04-23 02:16

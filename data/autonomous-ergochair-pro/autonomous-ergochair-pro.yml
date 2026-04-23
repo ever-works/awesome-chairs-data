@@ -1,9 +1,10 @@
 name: Autonomous ErgoChair Pro
-description: Autonomous ErgoChair Pro supports all-day work with mesh back,
-  adjustable headrest, dual lumbar, 3D armrests, synchro-tilt, and seat depth
-  slider, ideal for remote work up to 6'5" users and back pain relief. Weight
-  capacity up to 350 lbs. Compared to gaming or executive chairs, it delivers
-  more adjustments at lower cost than premium models like Gesture.
+description: "Autonomous ErgoChair Pro is an ergonomic office chair optimized
+  for 8-12 hour workdays, promoting natural posture with adjustable lumbar
+  support and mesh backrest. Features include 3D armrests, headrest,
+  synchro-tilt, seat depth slider; use cases: programming marathons, executive
+  offices. Compares to Herman Miller Embody (pixelated support but pricier) vs
+  budget Sihoo (fewer adjustments)."
 source_url: https://www.autonomous.ai/office-chairs/ergochair-pro
 category: Ergonomic Office Chairs
 tags:
@@ -12,6 +13,8 @@ tags:
   - adjustable
   - 24-Hour Use
   - BIFMA Certified
+  - 12 Year Warranty
+  - Adaptive Lumbar
 featured: false
 markdown: >-
   ## Overview
@@ -42,7 +45,7 @@ markdown: >-
 
   - **Weight capacity:** Up to 350 pounds
 
-  - **Height accommodation:** Suitable for users up to 6'5\" tall
+  - **Height accommodation:** Suitable for users up to 6'5" tall
 
   - **Color options:** Multiple colors available beyond basic black
 
@@ -101,4 +104,5 @@ brand_logo_url: https://www.autonomous.ai/cdn/shop/files/autonomous-logo.svg
 images:
   - https://www.autonomous.ai/cdn/shop/files/ErgoChair_Pro_1_1024x1024.jpg
   - https://www.autonomous.ai/cdn/shop/files/ErgoChair_Pro_2.jpg
-updated_at: 2026-04-07 13:28
+  - https://www.autonomous.ai/images/ergochair-pro-hero.jpg
+updated_at: 2026-04-23 02:16

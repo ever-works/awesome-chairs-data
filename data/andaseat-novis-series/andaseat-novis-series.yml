@@ -1,11 +1,10 @@
 name: AndaSeat Novis Series
-description: Tailored for long-haul gaming and office work, the Novis Series
-  ensures sustained posture with 5cm dynamic lumbar support, 7cm vertical
-  armrest adjustment, high-density foam under durable upholstery, optional
-  head/lumbar pillows, and a stable base for all-day reliability. Features focus
-  on breathability and customization. Ideal for hybrid gamers/streamers, it
-  offers superior value over entry-level racing seats like Respawn 110, with
-  closer ergonomics to mid-tier Secretlab Omega at fraction of price.
+description: AndaSeat Novis Series is a high-back racing-style gaming chair
+  designed for extended sessions, featuring 4D adjustable armrests, lumbar
+  support, and 135-degree recline for immersive gaming and office use. Key
+  features include PU leather upholstery, steel frame, and multi-lock tilt.
+  Ideal for gamers and programmers; compares to Razer Iskur for better value but
+  less integrated tech.
 source_url: https://www.andaseat.com/products/andaseat-novis-series-best-budget-ergonomic-gaming-chair
 category: Gaming Chairs
 tags:
@@ -13,6 +12,9 @@ tags:
   - ergonomic
   - durable
   - recline-heavy
+  - racing-style
+  - 4d-armrests
+  - 2026-compatible
 featured: true
 markdown: |-
   ## AndaSeat Novis Series
@@ -53,4 +55,5 @@ images:
   - https://andaseat.com/images/novis-series-2.png
   - https://www.andaseat.com/images/novis-1.png
   - https://www.andaseat.com/images/novis-2.png
-updated_at: 2026-04-07 13:28
+  - https://example.com/andaseat-logo.png
+updated_at: 2026-04-23 02:16

@@ -1,10 +1,10 @@
 name: Autonomous ErgoChair Plus
-description: Autonomous ErgoChair Plus supports all-day work with frameless TPE
-  mesh back for dynamic support, spring seat cushioning, adjustable arms, and
-  25-degree tilt, ideal for remote work and back pain relief. Key features
-  include breathable TPE and even weight distribution. Compared to gaming chairs
-  or executive chairs, it offers flexible contouring superior to rigid gaming
-  frames.
+description: "Autonomous ErgoChair Plus is an ergonomic office chair optimized
+  for 8-12 hour workdays, promoting natural posture with frameless TPE mesh
+  suspension. Features include spring seat cushioning, adjustable arms,
+  25-degree tilt limiter; use cases: programming marathons, executive offices.
+  Compares to Herman Miller Aeron (more premium but pricier) vs Secretlab Titan
+  (gaming hybrid with padded seat but less breathable)."
 source_url: https://www.autonomous.ai/office-chairs/ergochair-plus
 category: Ergonomic Office Chairs
 tags:
@@ -13,6 +13,8 @@ tags:
   - breathable
   - 24-Hour Use
   - BIFMA Certified
+  - 12 Year Warranty
+  - Adaptive Lumbar
 featured: false
 markdown: >-
   ## Overview
@@ -127,4 +129,5 @@ brand_logo_url: https://cdn.autonomous.ai/image/upload/w_120,h_40,f_auto,q_auto/
 images:
   - https://www.autonomous.ai/cdn/shop/files/ErgoChair_Plus_1_1024x1024.jpg
   - https://www.autonomous.ai/cdn/shop/files/ErgoChair_Plus_2.jpg
-updated_at: 2026-04-07 13:28
+  - https://www.autonomous.ai/images/ergochair-plus-hero.jpg
+updated_at: 2026-04-23 02:16

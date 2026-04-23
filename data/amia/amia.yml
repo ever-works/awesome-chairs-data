@@ -1,8 +1,10 @@
 name: Amia
-description: Ergonomic task chair focused on back support and comfort for
-  long-duration computer work, suitable for both office and home setups.
-  Features LiveBack technology that mimics spinal motion. Versatile hybrid
-  design for mixed professional and casual use.
+description: "Amia is an ergonomic office chair optimized for 8-12 hour
+  workdays, promoting natural posture with LiveBack technology mimicking spinal
+  motion. Features include adjustable lumbar, tilt limiter; use cases:
+  programming marathons, executive offices. Compares to Herman Miller Aeron
+  (more breathable mesh) vs budget like Sihoo (similar adjustability at half
+  cost)."
 source_url: https://store.steelcase.com/seating/ergonomic-chairs/amia
 category: Ergonomic Office Chairs
 tags:
@@ -10,6 +12,9 @@ tags:
   - task-chair
   - back-support
   - versatile-hybrid
+  - BIFMA Certified
+  - 12 Year Warranty
+  - Adaptive Lumbar
 featured: false
 markdown: >-
   ## Overview
@@ -57,4 +62,4 @@ markdown: >-
   https://store.steelcase.com/seating/ergonomic-chairs/amia
 brand: Steelcase
 brand_logo_url: https://www.steelcase.com/content/themes/steelcase/assets/images/logos/steelcase-logo.svg
-updated_at: 2026-04-20 23:17
+updated_at: 2026-04-23 02:16

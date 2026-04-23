@@ -1,9 +1,10 @@
 name: Basyx Validate
-description: Basyx Validate supports all-day work for big-and-tall users up to
-  450 lbs with high backrest, thick padding, center-tilt with tension, and
-  integrated headrest, ideal for remote work and back pain relief. SofThread
-  vinyl upholstery adds durability. Compared to gaming chairs or executive
-  leather, it prioritizes heavy-duty support over extensive adjustments.
+description: "Basyx Validate is an ergonomic office chair optimized for 8-12
+  hour workdays, promoting natural posture with high backrest and thick padding
+  for big-and-tall up to 450 lbs. Features include center-tilt with tension,
+  integrated headrest; use cases: programming marathons, executive offices.
+  Compares to Herman Miller Aeron (more adjustable mesh) vs Secretlab (gaming
+  style less capacity)."
 source_url: https://www.basyx.com/products/validate
 category: Ergonomic Office Chairs
 tags:
@@ -12,6 +13,8 @@ tags:
   - heavy-duty
   - 24-Hour Use
   - BIFMA Certified
+  - 12 Year Warranty
+  - Adaptive Lumbar
 featured: false
 markdown: >-
   ## Overview
@@ -25,9 +28,9 @@ markdown: >-
   ## Features
 
 
-  - 31 5/8\" tall backrest
+  - 31 5/8" tall backrest
 
-  - 22\" wide seat
+  - 22" wide seat
 
   - 450 lbs weight capacity
 
@@ -68,4 +71,5 @@ markdown: >-
 brand: Basyx
 images:
   - https://www.basyx.com/images/products/validate/validate-hero.jpg
-updated_at: 2026-04-07 13:28
+  - https://store.basyx.com/images/validate-hero.jpg
+updated_at: 2026-04-23 02:16

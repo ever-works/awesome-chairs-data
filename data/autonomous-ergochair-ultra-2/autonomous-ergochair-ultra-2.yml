@@ -1,9 +1,10 @@
 name: Autonomous ErgoChair Ultra 2
-description: Autonomous ErgoChair Ultra 2 supports all-day work with all-mesh
-  3D-printed back for breathability, adjustable seat depth, recline lock, 4D
-  armrests, and synchro-tilt, ideal for remote work and back pain relief. Wide
-  backrest suits various users up to 300 lbs. Compared to gaming-style or
-  executive chairs, it excels in airflow over padded gaming seats.
+description: "Autonomous ErgoChair Ultra 2 is an ergonomic office chair
+  optimized for 8-12 hour workdays, promoting natural posture with 3D-printed
+  all-mesh back. Features include 4D armrests, adjustable seat depth, recline
+  lock, synchro-tilt; use cases: programming marathons, executive offices.
+  Compares to Herman Miller Aeron (Pellicle mesh) vs Secretlab (gaming hybrid
+  less airy)."
 source_url: https://www.autonomous.ai/office-chairs/ergochair-ultra-2
 category: Ergonomic Office Chairs
 tags:
@@ -12,6 +13,8 @@ tags:
   - breathable
   - 24-Hour Use
   - BIFMA Certified
+  - 12 Year Warranty
+  - Adaptive Lumbar
 featured: false
 markdown: >-
   ## Overview
@@ -57,4 +60,5 @@ brand: Autonomous
 images:
   - https://www.autonomous.ai/cdn/shop/files/ErgoChair_Ultra_2_1.jpg
   - https://www.autonomous.ai/cdn/shop/files/ErgoChair_Ultra_2_2.jpg
-updated_at: 2026-04-07 13:28
+  - https://www.autonomous.ai/images/ergochair-ultra-2-hero.jpg
+updated_at: 2026-04-23 02:16

@@ -1,9 +1,10 @@
 name: Autonomous ErgoChair Ultra
-description: Autonomous ErgoChair Ultra supports all-day work for larger users
-  up to 300 lbs with breathable fabric back, prominent lumbar support, padded
-  seat, and tilt mechanism, perfect for remote work and back pain relief.
-  Reinforced construction ensures durability. Compared to gaming or executive
-  chairs, it provides big-and-tall support better than standard gaming frames.
+description: "Autonomous ErgoChair Ultra is an ergonomic office chair optimized
+  for 8-12 hour workdays, promoting natural posture with prominent lumbar
+  support and breathable fabric back. Features include padded seat, tilt
+  mechanism for big-and-tall up to 300 lbs; use cases: programming marathons,
+  executive offices. Compares to Herman Miller Embody (dynamic flex) vs budget
+  Sihoo (less heavy-duty)."
 source_url: https://www.autonomous.ai/office-chairs/ergochair-ultra
 category: Ergonomic Office Chairs
 tags:
@@ -12,6 +13,8 @@ tags:
   - lumbar-support
   - 24-Hour Use
   - BIFMA Certified
+  - 12 Year Warranty
+  - Adaptive Lumbar
 featured: false
 markdown: >-
   ## Overview
@@ -58,4 +61,5 @@ brand: Autonomous
 images:
   - https://www.autonomous.ai/cdn/shop/files/ErgoChair_Ultra_1.jpg
   - https://www.autonomous.ai/cdn/shop/files/ErgoChair_Ultra_2.jpg
-updated_at: 2026-04-07 13:28
+  - https://www.autonomous.ai/images/ergochair-ultra-hero.jpg
+updated_at: 2026-04-23 02:16

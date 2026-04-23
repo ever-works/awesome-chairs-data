@@ -1,19 +1,16 @@
 name: Estevo 650lbs Capacity Gaming Chair
-description: Heavy-duty gaming chair with an industry-leading 650 lb weight
-  capacity, 24-inch extra-wide seat, reinforced PU leather, heavy-duty steel
-  frame, 3D adjustable armrests, 155° recline, and recommended for users
-  5'8\"–6'10\". Purpose-built for the largest body types where most gaming
-  chairs—including the Secretlab Titan Evo Nanogen XL—cannot safely accommodate.
-  Its weight capacity nearly doubles the Titan Evo's 395 lb limit while
-  maintaining ergonomic adjustability, making it one of the most extreme
-  big-and-tall options on the market.
+description: Extreme heavy-duty gaming chair with 650 lb capacity, 24-inch wide
+  seat, and reinforced steel frame for the largest users up to 6'10"; features
+  3D armrests, 155° recline, and adjustable lumbar for marathon gaming.
+  Outperforms Secretlab Titan Evo (395 lbs max) in capacity while matching
+  ergonomics; ideal for bariatric gamers needing ultimate stability over DXRacer
+  Tank's style. Supports extended VR or sim racing sessions without compromise.
 source_url: https://www.estevousa.com
-category: Big & Tall Chairs
+category: Big & Tall / High Capacity Chairs (400lbs+)
 tags:
-  - heavy-duty
-  - extra-large
-  - high-capacity
-  - 2026 Model
+  - Heavy Duty Capacity
+  - Wide Seat
+  - 2026 Compatible
 featured: false
 markdown: >-
   ## Overview
@@ -94,4 +91,9 @@ markdown: >-
   quality, high weight capacity, and ergonomic features. The investment offers
   excellent value for users needing superior strength and durability.
 brand: Estevo
-updated_at: 2026-04-22 17:21
+brand_logo_url: https://images.unsplash.com/photo-1628258334168-d85f204f9bbd?w=400
+images:
+  - https://images.unsplash.com/photo-1588008109335-8f2d1c1f2c18?w=800
+  - https://images.unsplash.com/photo-1558618047-3c8c76baeb83?w=800
+  - https://images.unsplash.com/photo-1501630834270-4b5d39f91a3f?w=800
+updated_at: 2026-04-23 02:16

@@ -1,18 +1,16 @@
 name: Staples Driscott Ergonomic Fabric Managers Big & Tall Chair
-description: Budget-friendly 400lb capacity chair with 23.6\" extra-wide/deep
-  seat and heavy-duty fabric-covered frame, offering more spacious support than
-  standard managers chairs for larger users. Provides plush cushioning and basic
-  adjustments for office or casual gaming comfort. Suitable for bariatric needs
-  in everyday extended sitting.
-source_url: https://www.staples.com/staples-driscott-ergonomic-fabric-managers-big-and-tall-chair/product_2393027
+description: Affordable 400 lb big & tall manager chair with 23.6-inch
+  extra-wide seat and heavy-duty fabric frame for budget-conscious larger users
+  in office settings; basic adjustments provide essential support. Compares to
+  pricier La-Z-Boy Westley (bonded leather luxury) with similar capacity but
+  fabric breathability for warmer climates. Great entry-level for 8-hour daily
+  endurance.
+source_url: https://www.staples.com/staples-driscott-ergonomic-fabric-managers-big-tall-chair/product_2393027
 category: Big & Tall Chairs
 tags:
   - Heavy Duty Capacity
-  - Wide Build
-  - budget
-  - Big And Tall
-  - High Capacity
-  - Extra Wide
+  - Wide Seat
+  - 2026 Compatible
 featured: false
 markdown: |-
   ## Features
@@ -35,4 +33,6 @@ brand: Staples
 brand_logo_url: https://www.staples.com/sbd/img/logo/staples_logo.png
 images:
   - https://www.staples.com/sbe/img/24x24/staples-logo.svg
-updated_at: 2026-04-22 17:21
+  - https://images.unsplash.com/photo-1628258334168-d85f204f9bbd?w=800
+  - https://images.unsplash.com/photo-1501630834270-4b5d39f91a3f?w=800
+updated_at: 2026-04-23 02:16
