@@ -196,3 +196,15 @@
   name: Specialized Size Chairs (Petite & Big & Tall)
 - id: haptic-massage-chairs
   name: Haptic & Massage Chairs
+- id: high-recline-chairs-160
+  name: High Recline Chairs (160°+)
+- id: luxury-endurance-chairs
+  name: Luxury Endurance Chairs
+- id: entry-level-gaming-chairs
+  name: Entry Level Gaming Chairs
+- id: big-tall-chairs-400lbs
+  name: Big & Tall Chairs (400lbs+)
+- id: endurance
+  name: Endurance
+- id: sustainable-chairs
+  name: Sustainable Chairs

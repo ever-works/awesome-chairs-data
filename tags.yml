@@ -145,7 +145,7 @@
 - id: statement-piece
   name: Statement Piece
 - id: 4d-armrests
-  name: 4D Armrests
+  name: 4d Armrests
 - id: racing-inspired
   name: Racing Inspired
 - id: unique-design
@@ -871,7 +871,7 @@
 - id: flexible-back
   name: Flexible Back
 - id: coldcure-foam
-  name: ColdCure Foam
+  name: Coldcure Foam
 - id: affordable-all-day
   name: Affordable All Day
 - id: 2026-compatible
@@ -982,3 +982,13 @@
   name: Auto Adjust
 - id: premium-gaming
   name: Premium Gaming
+- id: esports-entry
+  name: Esports Entry
+- id: budget-premium
+  name: Budget Premium
+- id: sim-racing-compatible
+  name: Sim Racing Compatible
+- id: hybrid-ergonomic
+  name: Hybrid Ergonomic
+- id: value-premium
+  name: Value Premium
