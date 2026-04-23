@@ -91,7 +91,7 @@
 - id: ai-smart-chairs
   name: AI & Smart Chairs
 - id: sustainable-eco-chairs
-  name: Sustainable Eco Chairs
+  name: Sustainable & Eco Chairs
 - id: reclining-massage-chairs
   name: Reclining & Massage Chairs
 - id: endurance-long-hours-chairs
@@ -177,7 +177,7 @@
 - id: high-recline-recliner-chairs-160
   name: High Recline & Recliner Chairs (160°+)
 - id: petite-small-user-chairs
-  name: Petite & Small User Chairs
+  name: Petite/Small User Chairs
 - id: ai-adaptive-smart-chairs
   name: AI Adaptive & Smart Chairs
 - id: haptic-vibration-chairs

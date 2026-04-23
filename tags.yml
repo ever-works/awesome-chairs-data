@@ -535,7 +535,7 @@
 - id: auto-adaptive-lumbar
   name: Auto Adaptive Lumbar
 - id: 6d-armrests
-  name: 6d Armrests
+  name: 6D Armrests
 - id: anti-gravity-recline
   name: Anti Gravity Recline
 - id: dual-lumbar
@@ -970,3 +970,15 @@
   name: Small
 - id: all-day-gaming
   name: All Day Gaming
+- id: 400lbs-capacity
+  name: 400lbs Capacity
+- id: extra-wide-seat
+  name: Extra Wide Seat
+- id: big-tall-gaming
+  name: Big Tall Gaming
+- id: ocean-plastic
+  name: Ocean Plastic
+- id: auto-adjust
+  name: Auto Adjust
+- id: premium-gaming
+  name: Premium Gaming
