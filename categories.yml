@@ -177,7 +177,7 @@
 - id: high-recline-recliner-chairs-160
   name: High Recline & Recliner Chairs (160°+)
 - id: petite-small-user-chairs
-  name: Petite/Small User Chairs
+  name: Petite & Small User Chairs
 - id: ai-adaptive-smart-chairs
   name: AI Adaptive & Smart Chairs
 - id: haptic-vibration-chairs
@@ -210,3 +210,5 @@
   name: Sustainable Chairs
 - id: entry-level-budget-chairs
   name: Entry Level & Budget Chairs
+- id: budget-gaming-chairs-500
+  name: Budget Gaming Chairs (<$500)
