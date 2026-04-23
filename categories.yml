@@ -170,3 +170,23 @@
   name: 2026 Flagship Chairs
 - id: premium-all-mesh-2026-models
   name: Premium All Mesh 2026 Models
+- id: climate-controlled-cooling-chairs
+  name: Climate Controlled & Cooling Chairs
+- id: 2026-models-releases
+  name: 2026 Models & Releases
+- id: high-recline-recliner-chairs-160
+  name: High Recline & Recliner Chairs (160°+)
+- id: petite-small-user-chairs
+  name: Petite & Small User Chairs
+- id: ai-adaptive-smart-chairs
+  name: AI Adaptive & Smart Chairs
+- id: haptic-vibration-chairs
+  name: Haptic & Vibration Chairs
+- id: sustainable-recycled-chairs
+  name: Sustainable & Recycled Chairs
+- id: haptic-vibration-massage-chairs
+  name: Haptic Vibration & Massage Chairs
+- id: wireless-usb-integrated-chairs
+  name: Wireless & USB Integrated Chairs
+- id: big-tallhigh-capacity-chairs-400lbs
+  name: Big & Tall/High Capacity Chairs (400lbs+)
