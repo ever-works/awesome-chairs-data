@@ -130,3 +130,43 @@
   name: Office Gaming Hybrids
 - id: mid-range-chairs-300-800
   name: Mid Range Chairs ($300 $800)
+- id: ultra-high-recline-160
+  name: Ultra High Recline (160°+)
+- id: mesh-breathable-chairs
+  name: Mesh & Breathable Chairs
+- id: climate-controlled-chairs
+  name: Climate Controlled Chairs
+- id: budget-office-gaming-hybrids-300
+  name: Budget Office Gaming Hybrids (<$300)
+- id: esports-tournament-editions
+  name: Esports Tournament Editions
+- id: high-recline-esports-chairs
+  name: High Recline Esports Chairs
+- id: ai-smart-tech-chairs
+  name: AI & Smart Tech Chairs
+- id: big-tall-high-capacity-chairs-400lbs
+  name: Big & Tall/High Capacity Chairs (400lbs+)
+- id: reclining-massage-gaming-chairs
+  name: Reclining & Massage Gaming Chairs
+- id: big-petite-specialized-fits
+  name: Big & Petite Specialized Fits
+- id: endurance-programmer-chairs-long-hours
+  name: Endurance & Programmer Chairs (Long Hours)
+- id: office-gaming-hybrid-chairs
+  name: Office Gaming Hybrid Chairs
+- id: budget-gaming-office-chairs-500
+  name: Budget Gaming & Office Chairs (<$500)
+- id: active-kneeling-chairs
+  name: Active & Kneeling Chairs
+- id: ultra-budget-chairs-200
+  name: Ultra Budget Chairs (<$200)
+- id: premium-esports-gaming-chairs
+  name: Premium & Esports Gaming Chairs
+- id: sustainable-recycled-materials-chairs
+  name: Sustainable Recycled Materials Chairs
+- id: new-2026-ergonomic-hybrids
+  name: New 2026 Ergonomic Hybrids
+- id: 2026-flagship-chairs
+  name: 2026 Flagship Chairs
+- id: premium-all-mesh-2026-models
+  name: Premium All Mesh 2026 Models
