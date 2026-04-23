@@ -1,14 +1,16 @@
 name: GTRACING Gaming Chair
-description: Affordable racing-style gaming chair with basic lumbar support,
-  good for entry-level long-hour sitting. Features reclining backrest and padded
-  cushions. Less durable than premium options like Secretlab but offers
-  excellent budget value.
+description: Budget gaming and office chair offering affordable all-day sitting
+  comfort. Equipped with basic lumbar support, PU faux leather upholstery, and
+  135° recline. Ideal for entry-level gaming/office setups. Compares favorably
+  to premium chairs in value, though with less padding.
 source_url: https://gtracing.com/
 category: Budget Gaming & Office Chairs (<$500)
 tags:
   - budget-friendly
   - racing-style
   - entry-level
+  - Value Gaming
+  - Entry Level
 featured: true
 markdown: >-
   ## Overview
@@ -39,4 +41,5 @@ brand_logo_url: https://gtracing.com/logo.png
 images:
   - https://gtracing.com/images/gaming-chair-1.jpg
   - https://via.placeholder.com/800x600?text=GTRACING+Gaming+Chair
-updated_at: 2026-04-23 02:16
+  - https://placeholder.com/budget-chair.jpg
+updated_at: 2026-04-23 08:21

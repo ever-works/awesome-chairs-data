@@ -1,15 +1,12 @@
 name: La-Z-Boy Westley Big and Tall Executive Chair
-description: Executive-style 400 lb capacity chair with oversized wide seat,
-  bonded leather, and memory-foam lumbar for big & tall professionals in hybrid
-  office/gaming; AIR tech enhances breathability. Outdoes Serta Fairbanks
-  (350lbs) in capacity and cushioning for longer endurance. Ideal for tall
-  executives up to 6'4\" in 10+ hour days.
+description: Provides heavy-duty support for big and tall users, featuring 400lb
+  capacity, wide seat, and reinforced frame. Ideal for large users during long
+  hours in office or gaming. More robust than standard chairs.
 source_url: https://www.lazboyoffice.com/products/westley-big-tall-executive-chair
-category: Big & Tall/High Capacity Chairs (400lbs+)
+category: Big & Tall & High Capacity Chairs
 tags:
-  - Heavy Duty Capacity
+  - Heavy Duty
   - Wide Seat
-  - 2026 Compatible
 featured: false
 markdown: |-
   ## Features
@@ -23,8 +20,8 @@ markdown: |-
 
   ## Use Cases
 
-  - Long office hours for executives
-  - Gaming or work for big & tall users
+  - Long office hours for large executives
+  - Gaming or work for big & tall users long hours
 
   ## Pricing
 
@@ -34,4 +31,5 @@ brand_logo_url: https://www.lazboy.com/images/logo.png
 images:
   - https://www.lazboyoffice.com/media/catalog/product/w/e/westley_big_and_tall_1.jpg
   - https://images.unsplash.com/photo-1628258334168-d85f204f9bbd?w=800
-updated_at: 2026-04-23 05:16
+  - https://placeholder.com/big-tall-chair.png
+updated_at: 2026-04-23 08:21

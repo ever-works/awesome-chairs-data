@@ -1,16 +1,12 @@
 name: BodyBilt J3504 Big & Tall
-description: Office-oriented heavy-duty chair with 500 lb capacity, extra-wide
-  contoured seat, and reinforced frame for big and tall users in extended work
-  or gaming; features adjustable lumbar and synchro-tilt for superior
-  ergonomics. Compares to DXRacer Tank (gaming style, 400lbs) with better lumbar
-  support and higher capacity for bariatric office needs. Ideal for 12+ hour
-  programmer endurance sessions.
+description: Provides heavy-duty support for big and tall users, featuring 500lb
+  capacity, wide seat, and reinforced frame. Ideal for large users during long
+  hours of work or gaming. More robust than standard chairs.
 source_url: https://bodybilt.com/product/j3504-big-tall-chair/
 category: Big & Tall / High Capacity Chairs (400lbs+)
 tags:
-  - Heavy Duty Capacity
+  - Heavy Duty
   - Wide Seat
-  - 2026 Compatible
 featured: false
 markdown: |-
   ## Features
@@ -23,8 +19,8 @@ markdown: |-
 
   ## Use Cases
 
-  - Extended gaming or coding marathons
-  - Office use for big & tall professionals
+  - Extended gaming or coding marathons for large users
+  - Office use for big & tall professionals long hours
 
   ## Pricing
 
@@ -35,4 +31,5 @@ images:
   - https://bodybilt.com/wp-content/uploads/J3504-BT-1.jpg
   - https://bodybilt.com/wp-content/uploads/J3504-BT-2.jpg
   - https://images.unsplash.com/photo-1588008109335-8f2d1c1f2c18?w=800
-updated_at: 2026-04-23 02:16
+  - https://placeholder.com/big-tall-chair.png
+updated_at: 2026-04-23 08:21

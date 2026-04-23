@@ -1,10 +1,11 @@
 name: AndaSeat Jungle Series
-description: AndaSeat Jungle Series is a high-back racing-style gaming chair
-  designed for extended sessions, featuring 4D adjustable armrests, lumbar
-  support, and 135-degree recline for immersive gaming and office use. Key
-  features include PU leather upholstery, steel frame, and multi-lock tilt.
-  Ideal for gamers and programmers; compares to Herman Miller for better value
-  but less advanced ergonomics.
+description: AndaSeat Jungle Series delivers immersive gaming support optimized
+  for endurance with its high-back ergonomic design. Key elements include 4D
+  adjustable armrests, detachable lumbar and neck pillows, PVC leather
+  upholstery, robust steel frame, and 135-degree recline with multi-lock
+  mechanism. Suited for esports tournaments and marathon gaming sessions, it
+  features superior foam resilience compared to entry-level budget racing
+  chairs.
 source_url: https://www.andaseat.com/collections/jungle-series-gaming-chair
 category: Gaming Chairs
 tags:
@@ -15,6 +16,7 @@ tags:
   - racing-style
   - 4d-armrests
   - 2026-compatible
+  - All-Day Gaming
 featured: false
 markdown: |-
   # AndaSeat Jungle Series
@@ -52,4 +54,4 @@ images:
   - https://www.andaseat.com/images/jungle-1.png
   - https://www.andaseat.com/images/jungle-2.png
   - https://example.com/andaseat-logo.png
-updated_at: 2026-04-23 02:16
+updated_at: 2026-04-23 08:21

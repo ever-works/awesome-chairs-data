@@ -1,14 +1,17 @@
 name: ErgoChair Pro
-description: Autonomous ErgoChair Pro offers affordable ergonomics with mesh
-  back for breathability, adjustable headrest, 3D armrests, and lumbar support,
-  perfect for programmers on budgets needing all-day comfort. Compares well to
-  pricier options like Mirra 2 in adjustability but at fraction of cost.
+description: Budget gaming and office chair offering affordable all-day sitting
+  comfort. Equipped with basic lumbar support, PU faux leather upholstery, and
+  135° recline. Ideal for entry-level gaming/office setups. Compares favorably
+  to premium chairs in value, though with less padding.
 source_url: https://www.autonomous.ai/office-chairs/ergonomic-chair
 category: Budget Gaming & Office Chairs (<$500)
 tags:
   - budget-ergonomic
   - mesh-back
   - 3d-armrests
+  - Value Gaming
+  - Entry Level
+featured: false
 markdown: >-
   ## Overview
 
@@ -54,6 +57,8 @@ markdown: >-
   Check [Autonomous](https://www.autonomous.ai/office-chairs/ergonomic-chair)
   for current promotions.
 brand: Autonomous
+brand_logo_url: ""
 images:
   - https://www.autonomous.ai/office-chairs/ergonomic-chair
-updated_at: 2026-04-23 02:16
+  - https://placeholder.com/budget-chair.jpg
+updated_at: 2026-04-23 08:21

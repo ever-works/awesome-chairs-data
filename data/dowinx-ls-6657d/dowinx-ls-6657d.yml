@@ -1,10 +1,8 @@
 name: Dowinx LS-6657D
-description: Dowinx LS-6657D gaming chair packs premium features like USB
-  massage lumbar, retractable footrest, 420 lb capacity, and 160° recline into a
-  breathable fabric design under $500, rivaling Secretlab Titan for long-hour
-  comfort at a fraction of the cost. Superior airflow prevents overheating
-  during all-day sessions, ideal for big and tall users. Exceptional value with
-  high-capacity support and adjustability typically seen in $1000+ chairs.
+description: Budget gaming and office chair offering affordable all-day sitting
+  comfort. Equipped with basic lumbar support, PU faux leather upholstery, and
+  135° recline. Ideal for entry-level gaming/office setups. Compares favorably
+  to premium chairs in value, though with less padding.
 source_url: https://dowinx.com/products/ls-6657d-breathable-fabric-gaming-chair
 category: Budget Gaming & Office Chairs (<$500)
 tags:
@@ -14,6 +12,8 @@ tags:
   - Footrest
   - Big And Tall
   - Affordable All-Day
+  - Value Gaming
+  - Entry Level
 featured: false
 markdown: >-
   ## Overview
@@ -67,8 +67,10 @@ markdown: >-
 
   Typically $300-$450.
 brand: Dowinx
+brand_logo_url: ""
 images:
   - https://dowinx.com/cdn/shop/products/ls-6657d-1.jpg?v=1699999999
   - https://dowinx.com/cdn/shop/products/ls-6657d-2.jpg?v=1699999999
   - https://dowinx.com/cdn/shop/products/ls-6657d-3.jpg?v=1699999999
-updated_at: 2026-04-23 02:16
+  - https://placeholder.com/budget-chair.jpg
+updated_at: 2026-04-23 08:21
