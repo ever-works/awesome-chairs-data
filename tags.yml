@@ -145,7 +145,7 @@
 - id: statement-piece
   name: Statement Piece
 - id: 4d-armrests
-  name: 4d Armrests
+  name: 4D Armrests
 - id: racing-inspired
   name: Racing Inspired
 - id: unique-design
@@ -615,7 +615,7 @@
 - id: soft-seat
   name: Soft Seat
 - id: posturefit
-  name: PostureFit
+  name: Posturefit
 - id: health-focused
   name: Health Focused
 - id: no-lumbar-needed
@@ -968,3 +968,5 @@
   name: Wireless Charging
 - id: small
   name: Small
+- id: all-day-gaming
+  name: All Day Gaming

@@ -190,3 +190,9 @@
   name: Wireless & USB Integrated Chairs
 - id: big-tallhigh-capacity-chairs-400lbs
   name: Big & Tall/High Capacity Chairs (400lbs+)
+- id: reclining-chairs-160
+  name: Reclining Chairs (160°+)
+- id: specialized-size-chairs-petite-big-tall
+  name: Specialized Size Chairs (Petite & Big & Tall)
+- id: haptic-massage-chairs
+  name: Haptic & Massage Chairs
