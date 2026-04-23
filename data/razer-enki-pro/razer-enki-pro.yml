@@ -1,12 +1,11 @@
 name: Razer Enki Pro
-description: Luxury premium chair with Alcantara upholstery, aluminum accents,
-  and high-resilience foam for pro-grade comfort. Features 4D armrests, dynamic
-  lumbar support, 160° recline, and massage lumbar for executive gaming setups
-  and esports tournaments. Offers exceptional durability, extended warranties,
-  and superior ergonomics compared to budget options that lack premium materials
-  and advanced adjustability.
+description: The Razer Enki Pro is a mesh-backed gaming chair with adaptive
+  lumbar support that curves to your spine, 4D armrests, and high-density foam
+  for long sessions without fatigue. Includes RGB lighting and 152° recline for
+  immersive setups. Ideal for gamers wanting office ergonomics; more breathable
+  than leather Secretlab models but less padded.
 source_url: https://www.razer.com/gaming-chairs/razer-enki-pro
-category: Premium & Esports Gaming Chairs
+category: Premium Gaming & Esports Chairs
 tags:
   - Premium
   - Esports Ready
@@ -16,6 +15,10 @@ tags:
   - Limited Edition
   - Luxury Materials
   - Pro Grade
+  - Adaptive Lumbar
+  - Mesh Back
+  - RGB Lighting
+  - Hybrid Ergonomic
 featured: true
 markdown: >-
   # Razer Enki Pro
@@ -81,4 +84,5 @@ images:
   - https://www.razer.com/on/demandware.static/-/Sites-masterCatalog_Razer/images/default/product_images/chairs/enki-pro/RC21-05970100-R3U1_1.jpg
   - https://www.razer.com/on/demandware.static/-/Sites-masterCatalog_Razer/images/default/product_images/chairs/enki-pro/RC21-05970100-R3U1_2.jpg
   - https://www.razer.com/images/enki-pro-side.jpg
-updated_at: 2026-04-23 02:16
+  - https://www.razer.com/gaming-chairs/razer-enki-pro/RZ09-0350SEA1-R3U1
+updated_at: 2026-04-23 17:22

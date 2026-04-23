@@ -1,18 +1,16 @@
 name: AKRacing Core EX
-description: The AKRacing Core EX gaming chair offers PU leather upholstery,
-  high-density foam for endurance, and a 180° recline with footrest for full
-  relaxation. Includes 4D armrests, adjustable lumbar pillow, and supports up to
-  300 lbs; ideal for budget-conscious gamers wanting pro-level features for
-  marathon sessions. Better value than DXRacer entry models with similar
-  recline.
+description: The AKRacing Core EX is a budget-friendly esports chair with PU
+  leather, high-back design, 180° recline, and adjustable lumbar pillow for
+  competitive gaming. Features 4D armrests and steel frame for durability under
+  $500. Suited for entry-level pros; compares to GTRacing but with better
+  warranty and build quality.
 source_url: https://www.akracing.com/products/core-series-gaming-chair-ak-core-series-ex
-category: High Recline & Recliner Chairs (160°+)
+category: Mid-Range Gaming Chairs ($300-$800)
 tags:
   - 180 Recline
-  - Footrest
-  - High Density Foam
-  - PU Leather
-  - Budget Gaming
+  - Steel Frame
+  - Esports Entry
+  - Budget Premium
 featured: true
 markdown: >-
   ## Overview
@@ -66,4 +64,5 @@ images:
   - https://www.akracing.com/cdn/shop/products/ak-core-series-ex-back_1200x.jpg
   - https://www.akracing.com/media/catalog/product/a/k/akracing-core-ex-gaming-chair.jpg
   - https://akracing.com/wp-content/uploads/2020/06/Core_EX_Black_Front.png
-updated_at: 2026-04-23 14:24
+  - https://akracing.com/wp-content/uploads/2021/06/CoreEX.jpg
+updated_at: 2026-04-23 17:22
