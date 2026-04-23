@@ -8,12 +8,14 @@ description: Affordable gaming chair designed for extended sessions by gamers
   thinner than premium models like Secretlab, it offers strong value for
   budget-conscious users seeking endurance comfort.
 source_url: https://gtplayer.com/products/ace-pro-amz-h
-category: Budget Chairs (<$500)
+category: Entry-Level & Budget Chairs
 tags:
   - budget
   - bluetooth-speakers
   - footrest
   - reclining
+  - entry-level
+  - value-for-money
 featured: false
 markdown: >-
   ## Overview
@@ -46,4 +48,4 @@ brand: GTPlayer
 brand_logo_url: https://gtplayer.com/favicon.ico
 images:
   - https://gtplayer.com/cdn/shop/files/ace-pro-gaming-chair-featured.jpg
-updated_at: 2026-04-23 14:24
+updated_at: 2026-04-23 20:22

@@ -4,13 +4,15 @@ description: Budget gaming and office chair offering affordable all-day sitting
   135° recline. Ideal for entry-level gaming/office setups. Compares favorably
   to premium chairs in value, though with less padding.
 source_url: https://www.autonomous.ai/office-chairs/ergonomic-chair
-category: Budget Chairs (<$500)
+category: Entry-Level & Budget Chairs
 tags:
   - budget-ergonomic
   - mesh-back
   - 3d-armrests
   - Value Gaming
   - Entry Level
+  - entry-level
+  - value-for-money
 featured: false
 markdown: >-
   ## Overview
@@ -61,4 +63,4 @@ brand_logo_url: ""
 images:
   - https://www.autonomous.ai/office-chairs/ergonomic-chair
   - https://placeholder.com/budget-chair.jpg
-updated_at: 2026-04-23 14:24
+updated_at: 2026-04-23 20:22

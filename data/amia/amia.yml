@@ -1,65 +1,60 @@
 name: Amia
-description: "Amia is an ergonomic office chair optimized for 8-12 hour
-  workdays, promoting natural posture with LiveBack technology mimicking spinal
-  motion. Features include adjustable lumbar, tilt limiter; use cases:
-  programming marathons, executive offices. Compares to Herman Miller Aeron
-  (more breathable mesh) vs budget like Sihoo (similar adjustability at half
-  cost)."
+description: Steelcase Amia chair features LiveBack technology for dynamic
+  lumbar support, delivering all-day comfort for coding marathons, meetings, and
+  office tasks. Adjustable arms, tilt limiter, and breathable mesh adapt to
+  natural movements. Subtler design than gaming chairs makes it better for
+  professional programmer and office environments.
 source_url: https://store.steelcase.com/seating/ergonomic-chairs/amia
 category: Ergonomic Office Chairs
 tags:
   - ergonomic
   - task-chair
-  - back-support
-  - versatile-hybrid
-  - BIFMA Certified
-  - 12 Year Warranty
-  - Adaptive Lumbar
+  - office-suitable
+  - BIFMA-certified
+  - adjustable-arms
+  - dynamic-lumbar
 featured: false
 markdown: >-
   ## Overview
 
 
-  Amia is an ergonomic task chair focused on back support and overall comfort
-  during extended periods of sitting. It is suitable for both professional
-  office workstations and home office setups, supporting healthy posture while
-  working at a computer.
-
-
-  ## Use Cases
-
-
-  - Versatile for mixed use in office and home office environments.
-
-  - Ideal for long-duration computer work requiring dynamic back support.
+  Amia uses LiveBack technology mimicking spine motion for dynamic support
+  during extended sitting.
 
 
   ## Features
 
 
-  - LiveBack® technology that adjusts to spinal motion
+  - LiveBack dynamic lumbar support
 
-  - Enhanced back support
+  - Adjustable arms and tilt limiter
 
-  - Built for comfort during long-duration computer work
+  - Breathable mesh back
 
-  - Suitable for office workstations
+  - Supports natural postures for coding and meetings
 
-  - Suitable for home office setups
+
+  ## Use Cases
+
+
+  - Programmer long-hours work
+
+  - Office and executive settings
 
 
   ## Comparisons
 
 
-  - Offers more adaptive back support compared to static lumbar chairs.
+  More professional and subtle than gaming chairs with equivalent or better
+  adjustability.
 
 
   ## Pricing
 
 
-  Pricing information is not available in the provided content. Please visit the
-  product page for current pricing:
-  https://store.steelcase.com/seating/ergonomic-chairs/amia
+  Available on Steelcase store; varies by configuration.
 brand: Steelcase
 brand_logo_url: https://www.steelcase.com/content/themes/steelcase/assets/images/logos/steelcase-logo.svg
-updated_at: 2026-04-23 02:16
+images:
+  - https://store.steelcase.com/cdn/shop/products/Amia_BK_SL_BK_2D1_hero.png?v=1690484285
+updated_at: 2026-04-23 20:22
