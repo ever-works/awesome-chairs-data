@@ -1,17 +1,21 @@
 name: DXRacer Tank Series
-description: The DXRacer Tank Series is a robust big & tall gaming chair
-  supporting up to 400lbs with a steel frame, extra-wide seat, and high-density
-  foam padding for stability during intense gaming. Features include 4D
-  armrests, lumbar pillow, and 135° recline with footrest. Suited for larger
-  users in esports or sim racing; more affordable than Secretlab Titan Evo but
-  with comparable durability for heavy use.
+description: DXRacer Tank Series supports robust posture maintenance for all-day
+  gaming and sitting in 12+ hour sessions, tailored for larger users with its
+  400lbs capacity steel frame and high-density foam. Key features comprise 4D
+  armrests, detachable lumbar pillow, 135° recline with footrest, and extra-wide
+  seat base. Suited for esports pros, extended programming sessions, hybrid
+  office/gaming; more durable and spacious than standard racing chairs.
 source_url: https://www.dxracer.com/us/en-us/product/6/tank-series
-category: Big & Tall/High Capacity Chairs (400lbs+)
+category: Big & Tall Chairs (400lbs+)
 tags:
   - 400lbs Capacity
   - Steel Frame
   - Sim Racing Compatible
   - Extra Wide Seat
+  - Premium Gaming
+  - Magnetic Headrest
+  - 4D Armrests
+  - 2026 Compatible
 featured: false
 markdown: |-
   ## Features
@@ -38,4 +42,5 @@ images:
   - https://images.unsplash.com/photo-1501630834270-4b5d39f91a3f?w=800
   - https://www.dxracer.com/images/tank-series.jpg
   - https://www.dxracer.com/cdn/shop/products/DriftingSeriesTank_1.jpg
-updated_at: 2026-04-23 20:22
+  - https://www.dxracer.com/us/en-us/assets/images/product/tank/tank-front.png
+updated_at: 2026-04-23 23:18

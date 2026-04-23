@@ -1,17 +1,17 @@
 name: Noblechairs Hero
-description: Noblechairs Hero offers real leather upholstery, aluminum base, and
-  integrated lumbar support for premium endurance seating up to 8-10 hours
-  daily. It features 135° recline, 4D armrests, waterfall edge seat; premium
-  alternative to Secretlab with genuine leather luxury for office/gaming
-  hybrids.
+description: Designed for endurance sitting in 10+ hour coding or gaming
+  marathons, Noblechairs Hero includes integrated lumbar support, 4D armrests,
+  135° recline, and breathable TX fabric options for premium all-day comfort
+  without fatigue. Suited for esports pros and remote workers prioritizing
+  luxury and durability. Offers superior integrated lumbar support over the
+  Secretlab Titan's manual adjustments.
 source_url: https://www.noblechairs.com/en-us/hero-series
 category: Premium Gaming & Esports Chairs
 tags:
-  - Real Leather
-  - Aluminum Base
-  - Integrated Lumbar
-  - 4D Arms
-  - Luxury Gaming
+  - Adaptive Lumbar
+  - High Recline
+  - Esports Grade
+  - Breathable Fabric
 featured: true
 markdown: >-
   ## Overview
@@ -62,4 +62,5 @@ images:
   - https://www.noblechairs.com/media/catalog/product/h/e/hero_black_black.jpg
   - https://www.noblechairs.com/images/hero-chair.jpg
   - https://noblechairs.com/images/hero.jpg
-updated_at: 2026-04-23 14:24
+  - https://www.noblechairs.com/cdn/shop/products/hero-black.png
+updated_at: 2026-04-23 23:18
