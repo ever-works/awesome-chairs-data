@@ -1,18 +1,17 @@
 name: AndaSeat Jungle Series
-description: Optimized for gamers tackling 10+ hour endurance sessions, the
-  AndaSeat Jungle Series delivers adjustable lumbar and neck pillows, 4D
-  armrests, 135° recline, and high-resilience foam with durable PVC leather to
-  sustain comfort and posture. Its superior customizable lumbar makes it ideal
-  for esports pros and remote streamers needing reliable support during long
-  hauls. Compared to the Secretlab Titan, it provides enhanced adjustability and
-  breathability at a more budget-friendly price.
+description: The AndaSeat Jungle Series gaming chair is ideal for 10+ hour
+  endurance gaming or programming sessions, featuring adjustable lumbar and neck
+  pillows, 4D armrests, 135° recline, and high-resilience foam covered in
+  durable PVC leather for ongoing comfort. This setup maintains proper alignment
+  during prolonged use. Great for esports pros and streamers, it delivers more
+  adjustability and breathability than budget alternatives and better value
+  compared to premium Secretlab Titan or Herman Miller chairs.
 source_url: https://www.andaseat.com/collections/jungle-series-gaming-chair
 category: Gaming Chairs
 tags:
-  - Adaptive Lumbar
-  - High Recline
-  - Esports Grade
-  - Breathable Fabric
+  - all-day-comfort
+  - racing-design
+  - 4d-armrests
 featured: false
 markdown: |-
   # AndaSeat Jungle Series
@@ -49,6 +48,5 @@ brand_logo_url: https://www.andaseat.com/logo.png
 images:
   - https://www.andaseat.com/images/jungle-1.png
   - https://www.andaseat.com/images/jungle-2.png
-  - https://example.com/andaseat-logo.png
   - https://www.andaseat.com/cdn/shop/products/jungle-series.png
-updated_at: 2026-04-24 05:23
+updated_at: 2026-04-24 08:32

@@ -1,18 +1,16 @@
 name: Asus ROG Destrier Core
-description: Tailored for gamers in extended sessions up to 10 hours, the Asus
-  ROG Destrier Core features breathable mesh suspension for back and seat,
-  adjustable height, tilt, armrests, and lumbar cushion to promote airflow and
-  posture support in warm conditions. Despite minor armrest stability notes, it
-  delivers solid value for daily use. Ideal for casual esports players and
-  beginner streamers; outperforms PU leather budget racing chairs like Dowinx in
-  cooling but trails premium Asus ROG Destrier in armrest firmness.
+description: The Asus ROG Destrier Core accommodates up to 10 hours of gaming or
+  desk work with breathable mesh suspension on back and seat, adjustable
+  height/tilt/armrests/lumbar cushion for airflow and spinal health in heated
+  setups. Though armrests may wobble slightly, it holds up well. For entry
+  esports and streaming beginners, it tops PU budget racers like Dowinx in
+  cooling yet lags premium Asus models or Herman Miller in armrest solidity.
 source_url: https://rog.asus.com/gaming-chairs/rog-destrier-core-model/
 category: Gaming Chairs
 tags:
-  - gaming
-  - ergonomic
-  - mesh
-  - breathable
+  - all-day-comfort
+  - mesh-breathable
+  - racing-design
 featured: false
 markdown: |-
   ## Asus ROG Destrier Core Gaming Chair
@@ -54,4 +52,5 @@ brand_logo_url: https://rog.asus.com/favicon.ico
 images:
   - https://rog.asus.com/media/global/products/rog-destrier-core/01.png
   - https://rog.asus.com/media/global/products/rog-destrier-core/02.png
-updated_at: 2026-04-24 05:23
+  - https://rog.asus.com/media/global/products/rog-destrier-core/03.png
+updated_at: 2026-04-24 08:32

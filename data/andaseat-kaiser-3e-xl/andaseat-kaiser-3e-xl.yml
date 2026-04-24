@@ -1,23 +1,17 @@
 name: AndaSeat Kaiser 3E XL
-description: Built for gamers enduring long hours of play up to 10+ hours, the
-  AndaSeat Kaiser 3E XL features extra-large sizing, 4D magnetic armrests,
-  adjustable lumbar support via side knobs, magnetic head pillow, and 160°
-  recline to support posture and reduce fatigue. Its PU leather or fabric
-  options ensure durability and comfort with a steel frame. Ideal for esports
-  competitors and tall programmers (up to 6'2", 260 lbs); offers better value
-  and size accommodation than standard DXRacer models, though materials are less
-  luxurious.
+description: Designed for long sitting in gaming or programming up to 10+ hours,
+  the AndaSeat Kaiser 3E XL provides extra-large dimensions, 4D magnetic
+  armrests, side-adjustable lumbar, magnetic head pillow, and 160° recline to
+  support larger builds and reduce back strain. PU leather or fabric ensures
+  breathability and toughness. Perfect for tall gamers in marathons or office
+  workers, it accommodates bigger users better than standard DXRacer chairs and
+  offers solid value versus premium Herman Miller endurance options.
 source_url: https://www.andaseat.com/products/andaseat-kaiser-3e-xl
 category: Gaming Chairs
 tags:
+  - all-day-comfort
+  - racing-design
   - xl-size
-  - budget-friendly
-  - ergonomic
-  - esports-ready
-  - recline-heavy
-  - racing-style
-  - 4d-armrests
-  - 2026-compatible
 featured: false
 markdown: >-
   ## Overview
@@ -65,4 +59,6 @@ markdown: >-
 brand: AndaSeat
 images:
   - https://www.andaseat.com/cdn/shop/products/kaiser-3e-xl_1.png
-updated_at: 2026-04-24 05:23
+  - https://www.andaseat.com/cdn/shop/products/kaiser-3e-xl_2.png
+  - https://www.andaseat.com/cdn/shop/products/kaiser-3e-xl_3.png
+updated_at: 2026-04-24 08:32

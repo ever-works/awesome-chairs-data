@@ -1,21 +1,16 @@
 name: Amia
-description: Steelcase Amia chair supports long-hour sitting with LiveBack
-  technology for dynamic lumbar and spine-mimicking movement, adjustable arms,
-  tilt limiter, and breathable mesh, ideal for posture maintenance in
-  programmers and office workers. It adapts to natural shifts during coding or
-  meetings. Outperforms gaming chairs in breathability and subtle professional
-  design for sustained comfort.
+description: Engineered for remote developers and office pros in 10+ hour
+  sittings, the Steelcase Amia leverages LiveBack system to dynamically follow
+  spine motion, ensuring unwavering posture support alongside breathable mesh
+  and versatile arm/tilt controls. Premium components earn it BIFMA
+  certification for longevity. Its subtle adaptability and airflow trump gaming
+  chairs for serious coding and collaboration scenarios.
 source_url: https://store.steelcase.com/seating/ergonomic-chairs/amia
 category: Ergonomic Office Chairs
 tags:
-  - ergonomic
-  - task-chair
-  - office-suitable
-  - BIFMA-certified
-  - adjustable-arms
-  - dynamic-lumbar
-  - 24-Hour Use
   - Posture Correction
+  - BIFMA Certified
+  - Dynamic Lumbar
 featured: false
 markdown: >-
   ## Overview
@@ -60,4 +55,4 @@ brand: Steelcase
 brand_logo_url: https://www.steelcase.com/content/themes/steelcase/assets/images/logos/steelcase-logo.svg
 images:
   - https://store.steelcase.com/cdn/shop/products/Amia_BK_SL_BK_2D1_hero.png?v=1690484285
-updated_at: 2026-04-24 05:23
+updated_at: 2026-04-24 08:32

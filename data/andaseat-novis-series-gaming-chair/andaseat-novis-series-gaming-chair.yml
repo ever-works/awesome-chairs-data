@@ -1,24 +1,17 @@
 name: AndaSeat Novis Series Gaming Chair
-description: Tailored for gamers in prolonged sessions exceeding 8 hours, the
-  AndaSeat Novis Series Gaming Chair includes 5cm raised lumbar support
-  mimicking the spine's curve, 7cm adjustable armrests, optional pillows, and
-  135° recline for ergonomic relief and breathability. PU leather and steel
-  construction ensure lasting comfort. Suited for esports training and streaming
-  setups; delivers premium features like Noblechairs at a fraction of the cost
-  with superior value in adjustability over basic racing styles.
+description: The AndaSeat Novis Series Gaming Chair facilitates 8+ hour sessions
+  of gaming or coding with 5cm raised lumbar support shaped like the spine, 7cm
+  adjustable armrests, optional pillows, and 135° recline for ergonomic
+  positioning and ventilation. Its PU leather and steel build delivers reliable
+  long-term use. Ideal for training marathons and streaming, it packs premium
+  adjustability like Noblechairs but at budget pricing, outpacing basic racing
+  chairs.
 source_url: https://www.andaseat.com/pages/novis-series-gaming-chair-features
 category: Gaming Chairs
 tags:
-  - ergonomic
-  - value-for-money
-  - stylish
-  - esports-ready
-  - High Recline
-  - Racing Design
-  - All-Day Comfort
-  - racing-style
-  - 4d-armrests
-  - 2026-compatible
+  - all-day-comfort
+  - racing-design
+  - lumbar-support
 featured: true
 markdown: >-
   # AndaSeat Novis Series Gaming Chair
@@ -88,6 +81,5 @@ brand_logo_url: https://www.andaseat.com/logo.png
 images:
   - https://www.andaseat.com/images/novis-series-1.png
   - https://www.andaseat.com/images/novis-series-2.png
-  - https://example.com/andaseat-logo.png
-  - https://example.com/andaseat-chair.jpg
-updated_at: 2026-04-24 05:23
+  - https://www.andaseat.com/images/novis-series-3.png
+updated_at: 2026-04-24 08:32
