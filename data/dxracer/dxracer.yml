@@ -1,13 +1,11 @@
 name: DXRacer
-description: DXRacer gaming chairs are purpose-built for endurance in prolonged
-  gaming marathons and esports competitions, featuring 135° reclining backrest,
-  high-density foam padding for superior pressure distribution, adjustable
-  lumbar support pillow, robust steel frame with 275 lbs weight capacity, and
-  durable PU leather upholstery. Ideal for streamers maintaining peak comfort
-  during broadcasts, esports pros in tournaments, and racing sim enthusiasts
-  requiring immersive posture. Offers comparable premium ergonomics to Secretlab
-  and Noblechairs at a more accessible price with greater color variety for
-  personalized setups.
+description: DXRacer gaming chairs are racing-inspired designs for immersive sim
+  racing and competitive gaming across various models like Air Pro, Tank, and
+  Drifting. They feature high-density foam, PU leather or fabric options,
+  135-180° recline, steel frames, with up to 400lbs capacity in heavy-duty
+  variants. Superior to budget brands in durability and firmer than Secretlab's
+  softer comfort, suitable for sim racing setups, esports tournaments, and daily
+  PC use.
 source_url: https://www.dxracer.com
 category: Special Edition & Themed Chairs
 tags:
@@ -16,6 +14,9 @@ tags:
   - esports
   - endurance-gaming
   - 2026 Compatible
+  - Racing Inspired
+  - High Recline
+  - Steel Frame
 featured: true
 markdown: >-
   ## Overview
@@ -70,4 +71,5 @@ images:
   - https://www.dxracer.com/cdn/shop/files/air-pro_1.png
   - https://www.dxracer.com/cdn/shop/products/DriftingSeries_DB01_NW_1.jpg
   - https://www.dxracer.com/cdn/shop/files/TankSeries_1.jpg?v=123
-updated_at: 2026-04-22 17:21
+  - https://www.dxracer.com/cdn/shop/products/Drifting-Series-Gaming-Chair.jpg
+updated_at: 2026-04-24 02:23

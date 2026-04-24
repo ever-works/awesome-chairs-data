@@ -1,14 +1,17 @@
 name: Herman Miller Sayl
-description: Designed by Yves Béhar, the Sayl celebrates a lightweight,
-  sculptural philosophy with its signature 3D Intelligent elastomeric suspension
-  back that flexes dynamically to cradle the spine. Its compact proportions suit
-  lighter to average-framed users who want design-forward aesthetics alongside
-  essential lumbar support for daily desk or WFH use. At roughly $445 it sits in
-  Herman Miller's most accessible price tier, making it the brand's most
-  affordable seating option.
+description: Premium ergonomic office chair from Herman Miller, ideal for
+  long-hour computer work and hybrid gaming/office use. Features suspension
+  backrest for breathability, lumbar support, adjustable arms and tilt. Perfect
+  for programmers enduring 12+ hour days, executive offices, gamers seeking
+  office-grade ergonomics. Compared to gaming chairs like Secretlab (more
+  stylish but less dynamic support) or budget mesh chairs, offers superior
+  durability and 12-year warranty.
 source_url: https://www.hermanmiller.com/products/seating/office-chairs/sayl-chairs/
 category: Ergonomic Office Chairs
 tags:
+  - Pixelated Backrest
+  - PostureFit
+  - 12 Year Warranty
   - suspension-back
   - designer
   - mid-range
@@ -42,7 +45,7 @@ markdown: >-
 
   - Weight Capacity: 350 lbs
 
-  - Seat Height: 15.5"–20.25"
+  - Seat Height: 15.5\"–20.25\"
 
   - Warranty: 12-year warranty
 
@@ -55,4 +58,5 @@ brand: Herman Miller
 brand_logo_url: https://www.hermanmiller.com/etc/designs/hm-master/clientlibs-common/resources/img/hm-logo.svg
 images:
   - https://images.hermanmiller.com/products/seating/office-chairs/sayl-chairs/primary/01.jpg
-updated_at: 2026-04-04 23:43
+  - https://www.hermanmiller.com/images/sayl-chair.jpg
+updated_at: 2026-04-24 02:23

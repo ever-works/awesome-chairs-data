@@ -1,10 +1,16 @@
 name: DRIFTING Racing Gaming Chair
-description: The DRIFTING Racing Gaming Chair is crafted for those who enjoy a
-  racing-style aesthetic. It combines comfort with a sporty design, making it
-  ideal for gaming enthusiasts who appreciate both style and functionality.
+description: The DXRacer DRIFTING is a racing-inspired gaming chair crafted for
+  immersive sim racing and competitive gaming. It features high-density foam
+  padding, durable PU leather upholstery, 135-180° recline, a sturdy steel
+  frame, with capacities up to 400lbs in robust models. More durable than budget
+  brands and offering firmer support compared to Secretlab's softer comfort,
+  it's suited for sim racing setups, esports tournaments, and daily PC use.
 source_url: https://www.dxracer.com/collections/drifting
 category: Chair Accessories
-tags: []
+tags:
+  - Racing Inspired
+  - High Recline
+  - Steel Frame
 featured: true
 markdown: |-
   # DRIFTING Racing Gaming Chair
@@ -38,4 +44,5 @@ brand: dxracer
 brand_logo_url: https://www.dxracer.com/logo.png
 images:
   - https://nex-img.dxracer.cc/20001/4600731c-59d7-4274-bb29-06c7d5049025-1.png
-updated_at: 2026-04-04 23:43
+  - https://www.dxracer.com/cdn/shop/products/Drifting-Series-Gaming-Chair.jpg
+updated_at: 2026-04-24 02:23

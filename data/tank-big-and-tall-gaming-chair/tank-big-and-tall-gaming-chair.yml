@@ -1,15 +1,19 @@
 name: TANK Big and Tall Gaming Chair
-description: Gaming chair for big users with 400+ lb capacity, extra-wide seat,
-  and reinforced steel frame featuring high-density foam and adjustable lumbar
-  for immersive esports marathons. More gaming-oriented than office BodyBilt
-  J3504 (superior lumbar) but matches DXRacer Tank durability; ideal for heavy
-  VR/AR sessions in 2026 setups.
+description: The DXRacer TANK Big and Tall Gaming Chair is racing-inspired for
+  immersive sim racing and competitive gaming, with high-density foam, PU
+  leather, 135-180° recline, reinforced steel frame, and 400lbs+ capacity. It
+  offers enhanced durability over budget brands and firmer resilience than
+  Secretlab's softer designs. Perfect for sim racing setups, esports
+  tournaments, and daily PC use.
 source_url: https://www.dxracer.com/collections/tank
-category: Big & Tall Chairs (400lbs+)
+category: Big & Tall/High Capacity Chairs (400lbs+)
 tags:
   - Heavy Duty Capacity
   - Wide Seat
   - 2026 Compatible
+  - Racing Inspired
+  - High Recline
+  - Steel Frame
 featured: true
 markdown: |-
   ## Features
@@ -34,4 +38,5 @@ images:
   - https://nex-img.dxracer.cc/20001/084e4830-2c8a-45b1-91b7-2fc12fc5bc98-1.png
   - https://www.dxracer.com/us/en-us/assets/images/product/tank/tank-2.jpg
   - https://images.unsplash.com/photo-1588008109335-8f2d1c1f2c18?w=800
-updated_at: 2026-04-23 23:18
+  - https://www.dxracer.com/cdn/shop/products/Drifting-Series-Gaming-Chair.jpg
+updated_at: 2026-04-24 02:23

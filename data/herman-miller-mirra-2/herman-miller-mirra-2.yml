@@ -1,14 +1,17 @@
 name: Herman Miller Mirra 2
-description: The Mirra 2 is built around responsive, adaptive ergonomics — its
-  one-piece TriFlex polymer backrest flexes laterally with each micro-adjustment
-  while PostureFit SL provides independent sacral and lumbar support. A deep
-  adjustment suite including seat-depth, tilt limiter, seat-angle, and 4D arm
-  control makes it ideal for users who demand surgical precision during 8+ hour
-  workdays. At roughly $1,115 it occupies the upper-mid to premium tier,
-  bridging the gap between the Cosm and the fully loaded Aeron.
+description: Premium ergonomic office chair from Herman Miller, ideal for
+  long-hour computer work and hybrid gaming/office use. Features pixelated
+  TriFlex backrest for breathability, PostureFit SL lumbar support, advanced
+  suspension, adjustable arms and tilt. Perfect for programmers enduring 12+
+  hour days, executive offices, gamers seeking office-grade ergonomics. Compared
+  to gaming chairs like Secretlab (more stylish but less dynamic support) or
+  budget mesh chairs, offers superior durability and 12-year warranty.
 source_url: https://www.hermanmiller.com/products/seating/office-chairs/mirra-2-chairs/
 category: Ergonomic Office Chairs
 tags:
+  - Pixelated Backrest
+  - PostureFit
+  - 12 Year Warranty
   - ergonomic
   - adjustable
   - premium
@@ -46,7 +49,7 @@ markdown: >-
 
   - Weight Capacity: 350 lbs
 
-  - Seat Height: 16"–20.5"
+  - Seat Height: 16\"–20.5\"
 
   - Recline Range: Flexible tilt
 
@@ -61,4 +64,5 @@ brand: Herman Miller
 brand_logo_url: https://www.hermanmiller.com/etc/designs/hm-master/clientlibs-common/resources/img/hm-logo.svg
 images:
   - https://images.hermanmiller.com/products/seating/office-chairs/mirra-2-chairs/primary/01.jpg
-updated_at: 2026-04-04 23:43
+  - https://www.hermanmiller.com/images/mirra-2-chair.jpg
+updated_at: 2026-04-24 02:23

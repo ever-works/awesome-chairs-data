@@ -3,14 +3,9 @@ description: The Vertagear Gaming Chair is designed for gamers and professionals
   who spend long hours sitting. It offers ergonomic support, adjustable
   features, and a stylish design to enhance comfort and productivity.
 source_url: https://www.vertagear.com/products/sl1800
-featured: true
-brand: vertagear
-brand_logo_url: https://www.vertagear.com/logo.png
-images:
-  - https://www.vertagear.com/images/gaming-chair-1.png
-  - https://www.vertagear.com/images/gaming-chair-2.png
-category: others
+category: Budget Chairs (<$500)
 tags: []
+featured: true
 markdown: >-
   # Vertagear Gaming Chair
 
@@ -85,4 +80,9 @@ markdown: >-
 
   ![Vertagear Gaming Chair Image
   2](https://www.vertagear.com/images/gaming-chair-2.png)
-updated_at: 2025-12-22 06:56
+brand: vertagear
+brand_logo_url: https://www.vertagear.com/logo.png
+images:
+  - https://www.vertagear.com/images/gaming-chair-1.png
+  - https://www.vertagear.com/images/gaming-chair-2.png
+updated_at: 2026-04-24 02:23

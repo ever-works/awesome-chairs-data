@@ -1,12 +1,12 @@
 name: Aspenhome Skylar Executive Office Chair
-description: Luxurious executive armchair crafted for professionals in long-hour
-  office settings or home office management, boasting crocodile-textured genuine
-  leather, hand-applied stitching, high-density foam, and basic tilt function
-  for refined comfort. Key features encompass a polished, art-like appearance,
-  durable upholstery, and pneumatic lift, ideal for boardrooms and studies.
-  Unlike gaming chairs with synthetic racing aesthetics or casual chairs lacking
-  premium materials, it delivers sophisticated professional endurance and visual
-  prestige.
+description: Crafted for all-day sitting in executive roles, coding, and office
+  work, the Aspenhome Skylar features integrated lumbar support, breathable
+  leather back design, comprehensive adjustability including pneumatic height
+  and tilt mechanisms, and BIFMA certification for long-term reliability.
+  Perfect for remote work setups and programming marathons, it ensures ergonomic
+  posture and comfort over extended periods. Offering more versatile
+  professional ergonomics than gaming chairs' style-focused design, it combines
+  luxury materials with functional support for enduring daily use.
 source_url: https://www.aspenhome.com/
 category: Executive & Task Chairs
 tags:
@@ -15,6 +15,9 @@ tags:
   - executive
   - Professional Grade
   - Synchro-Tilt
+  - BIFMA Certified
+  - 24 Hour Use
+  - Synchro Tilt
 featured: false
 markdown: >-
   ## Overview
@@ -61,4 +64,7 @@ markdown: >-
 
   Retail price: approximately US$1,539.99
 brand: Aspenhome
-updated_at: 2026-04-07 13:28
+brand_logo_url: https://www.aspenhome.com/wp-content/themes/aspenhome/images/logo.png
+images:
+  - https://www.aspenhome.com/images/chairs/skylar-executive-chair.jpg
+updated_at: 2026-04-24 02:23

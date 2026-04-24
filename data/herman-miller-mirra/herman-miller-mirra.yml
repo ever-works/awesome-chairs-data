@@ -1,16 +1,19 @@
 name: Herman Miller Mirra
-description: Posture-perfecting ergonomic chair for 8+ hour use featuring
-  flexible lattice backrest akin to pixelated support, PostureFit-style lumbar,
-  breathable mesh, and highly adjustable arms, tilt, and height. Suited for
-  programmers, office pros, and endurance gamers prioritizing health over style.
-  Excels vs gaming chairs in ergonomics (less racer aesthetic) and vs budget
-  chairs with 12-year warranty.
+description: Premium ergonomic office chair from Herman Miller, ideal for
+  long-hour computer work and hybrid gaming/office use. Features pixelated
+  lattice backrest for breathability, PostureFit SL lumbar support, breathable
+  mesh suspension, adjustable arms and tilt. Perfect for programmers enduring
+  12+ hour days, executive offices, gamers seeking office-grade ergonomics.
+  Compared to gaming chairs like Secretlab (more stylish but less dynamic
+  support) or budget mesh chairs, offers superior durability and 12-year
+  warranty.
 source_url: https://www.hermanmiller.com/products/seating/office-chairs/mirra-chairs/
-category: Luxury Endurance Chairs
+category: Endurance & Long Hours Chairs
 tags:
   - Pixelated Backrest
-  - Pellicle Mesh
+  - PostureFit
   - 12 Year Warranty
+  - Pellicle Mesh
   - flexible-back
   - lumbar-support
 featured: false
@@ -58,4 +61,5 @@ brand_logo_url: https://www.hermanmiller.com/etc/designs/hm-master/clientlibs-co
 images:
   - https://www.hermanmiller.com/images/mirra-chair.jpg
   - https://images.hermanmiller.com/products/seating/office-chairs/mirra-chairs/primary/01.jpg
-updated_at: 2026-04-23 17:22
+  - https://www.hermanmiller.com/images/mirra-chair.jpg
+updated_at: 2026-04-24 02:23
