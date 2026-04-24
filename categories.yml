@@ -209,10 +209,16 @@
 - id: sustainable-chairs
   name: Sustainable Chairs
 - id: entry-level-budget-chairs
-  name: Entry Level & Budget Chairs
+  name: Entry Level Budget Chairs
 - id: budget-gaming-chairs-500
   name: Budget Gaming Chairs (<$500)
 - id: massage-vibration-chairs
   name: Massage & Vibration Chairs
 - id: premium-ergonomic-hybrids
   name: Premium Ergonomic Hybrids
+- id: petite-specialized-size-chairs
+  name: Petite & Specialized Size Chairs
+- id: entry-level-chairs
+  name: Entry Level Chairs
+- id: sustainable-eco-friendly-chairs
+  name: Sustainable & Eco Friendly Chairs

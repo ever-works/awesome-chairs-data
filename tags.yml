@@ -195,7 +195,7 @@
 - id: footrest
   name: Footrest
 - id: rgb-lighting
-  name: RGB Lighting
+  name: Rgb Lighting
 - id: immersive
   name: Immersive
 - id: entertainment
@@ -835,7 +835,7 @@
 - id: new-release
   name: New Release
 - id: ai-lumbar
-  name: AI Lumbar
+  name: Ai Lumbar
 - id: cooling-tech
   name: Cooling Tech
 - id: vr-ready
@@ -1006,3 +1006,9 @@
   name: Magnetic Lumbar
 - id: pre-assembled
   name: Pre Assembled
+- id: inflatable-lumbar
+  name: Inflatable Lumbar
+- id: climate-controlled
+  name: Climate Controlled
+- id: electric-adjustments
+  name: Electric Adjustments
