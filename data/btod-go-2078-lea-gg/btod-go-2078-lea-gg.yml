@@ -1,15 +1,15 @@
 name: BTOD GO-2078-LEA-GG
-description: Robust 500 lb capacity office chair with 22-inch extra-wide seat
-  and 24/7-rated reinforced frame for big and tall users in intensive all-day
-  use; includes plush LeatherSoft and built-in headrest for fatigue reduction.
-  Surpasses standard chairs like Staples Driscott in durability and capacity for
-  bariatric office/gaming hybrids. Suited for programmer endurance shifts
-  exceeding 12 hours.
+description: Heavy-duty office chair providing robust support for big and tall
+  users up to 500lbs during intensive long sessions. Features 22-inch wide seat,
+  high capacity, reinforced frame rated for 24/7 use, LeatherSoft upholstery,
+  and built-in headrest. Surpasses standard chairs in durability, perfect for
+  big programmers and gamers.
 source_url: https://www.btod.com/office-chairs/btod-go-2078-lea-gg
-category: Big & Tall/High Capacity Chairs (400lbs+)
+category: Big & Tall Chairs (400lbs+)
 tags:
-  - Heavy Duty Capacity
+  - Heavy Duty
   - Wide Seat
+  - Heavy Duty Capacity
   - 2026 Compatible
 featured: false
 markdown: |-
@@ -35,5 +35,4 @@ brand_logo_url: https://www.btod.com/images/logo.png
 images:
   - https://www.btod.com/images/products/go-2078-lea-gg/go-2078-main.jpg
   - https://images.unsplash.com/photo-1588008109335-8f2d1c1f2c18?w=800
-  - https://images.unsplash.com/photo-1558618047-3c8c76baeb83?w=800
-updated_at: 2026-04-24 02:23
+updated_at: 2026-04-24 05:23

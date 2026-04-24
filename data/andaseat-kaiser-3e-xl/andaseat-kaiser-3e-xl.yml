@@ -1,10 +1,12 @@
 name: AndaSeat Kaiser 3E XL
-description: AndaSeat Kaiser 3E XL is a high-back racing-style gaming chair
-  designed for extended sessions, featuring 4D adjustable armrests, lumbar
-  support, and 135-degree recline for immersive gaming and office use. Key
-  features include PU leather upholstery, steel frame, and multi-lock tilt.
-  Ideal for gamers and programmers; compares to DXRacer for better value but
-  less premium materials.
+description: Built for gamers enduring long hours of play up to 10+ hours, the
+  AndaSeat Kaiser 3E XL features extra-large sizing, 4D magnetic armrests,
+  adjustable lumbar support via side knobs, magnetic head pillow, and 160°
+  recline to support posture and reduce fatigue. Its PU leather or fabric
+  options ensure durability and comfort with a steel frame. Ideal for esports
+  competitors and tall programmers (up to 6'2", 260 lbs); offers better value
+  and size accommodation than standard DXRacer models, though materials are less
+  luxurious.
 source_url: https://www.andaseat.com/products/andaseat-kaiser-3e-xl
 category: Gaming Chairs
 tags:
@@ -61,4 +63,6 @@ markdown: >-
 
   Starting at $369.99
 brand: AndaSeat
-updated_at: 2026-04-23 02:16
+images:
+  - https://www.andaseat.com/cdn/shop/products/kaiser-3e-xl_1.png
+updated_at: 2026-04-24 05:23

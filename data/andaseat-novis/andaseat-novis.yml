@@ -1,10 +1,11 @@
 name: AndaSeat Novis
-description: Entry-premium chair for marathon gaming, Novis integrates dynamic
-  lumbar tracking, 4D armrests, PU leather with dense foam, included footrest,
-  160° recliner, promoting fatigue reduction over hours. Materials prioritize
-  durability and easy maintenance. Suited for esports trainees and live
-  streamers, it advances beyond budget GTracing models in adjustability,
-  rivaling higher-end AndaSeat Phantoms affordably.
+description: Crafted for marathon gaming sessions exceeding 10 hours, the
+  AndaSeat Novis integrates dynamic lumbar tracking, 4D armrests, breathable PU
+  leather with high-density foam, included footrest, and 160° recline to
+  minimize fatigue and enhance immersion. Its robust materials prioritize
+  durability for daily heavy use. Ideal for esports trainees and live streamers;
+  surpasses budget GTracing chairs in adjustability and rivals premium AndaSeat
+  Phantoms in features at a lower price point.
 source_url: https://www.andaseat.com/products/novis
 category: Gaming Chairs
 tags:
@@ -43,4 +44,7 @@ markdown: >-
 
   Starting at $249.99
 brand: AndaSeat
-updated_at: 2026-04-07 13:28
+images:
+  - https://www.andaseat.com/images/novis-1.png
+  - https://www.andaseat.com/images/novis-2.png
+updated_at: 2026-04-24 05:23

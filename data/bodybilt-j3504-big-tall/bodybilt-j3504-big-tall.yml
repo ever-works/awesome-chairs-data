@@ -1,12 +1,14 @@
 name: BodyBilt J3504 Big & Tall
-description: Provides heavy-duty support for big and tall users, featuring 500lb
-  capacity, wide seat, and reinforced frame. Ideal for large users during long
-  hours of work or gaming. More robust than standard chairs.
+description: Heavy-duty chair offering robust support for large users up to
+  500lbs during long work or gaming sessions. Features wide seat, high capacity,
+  reinforced frame, adjustable lumbar, and synchro-tilt. More durable than
+  standard chairs, ideal for big gamers and programmers.
 source_url: https://bodybilt.com/product/j3504-big-tall-chair/
-category: Big & Tall/High Capacity Chairs (400lbs+)
+category: Big & Tall Chairs (400lbs+)
 tags:
   - Heavy Duty
   - Wide Seat
+  - high-capacity
 featured: false
 markdown: |-
   ## Features
@@ -31,5 +33,4 @@ images:
   - https://bodybilt.com/wp-content/uploads/J3504-BT-1.jpg
   - https://bodybilt.com/wp-content/uploads/J3504-BT-2.jpg
   - https://images.unsplash.com/photo-1588008109335-8f2d1c1f2c18?w=800
-  - https://placeholder.com/big-tall-chair.png
-updated_at: 2026-04-24 02:23
+updated_at: 2026-04-24 05:23
