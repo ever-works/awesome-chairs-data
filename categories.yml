@@ -212,3 +212,7 @@
   name: Entry Level & Budget Chairs
 - id: budget-gaming-chairs-500
   name: Budget Gaming Chairs (<$500)
+- id: massage-vibration-chairs
+  name: Massage & Vibration Chairs
+- id: premium-ergonomic-hybrids
+  name: Premium Ergonomic Hybrids

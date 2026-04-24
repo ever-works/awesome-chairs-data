@@ -195,7 +195,7 @@
 - id: footrest
   name: Footrest
 - id: rgb-lighting
-  name: Rgb Lighting
+  name: RGB Lighting
 - id: immersive
   name: Immersive
 - id: entertainment
@@ -615,7 +615,7 @@
 - id: soft-seat
   name: Soft Seat
 - id: posturefit
-  name: PostureFit
+  name: Posturefit
 - id: health-focused
   name: Health Focused
 - id: no-lumbar-needed
@@ -1000,3 +1000,7 @@
   name: Frameless Mesh
 - id: magnetic-headrest
   name: Magnetic Headrest
+- id: low-back
+  name: Low Back
+- id: magnetic-lumbar
+  name: Magnetic Lumbar
