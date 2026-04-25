@@ -1,11 +1,12 @@
 name: Noblechairs Hero
-description: Luxury endurance chair with cold foam padding, integrated lumbar,
-  4D armrests for esports pros in 10+ hour marathons. Real leather or breathable
-  TX fabric builds ensure premium durability for tournaments and streaming.
-  Outperforms budget chairs with class-4 lift and no-sag foam for multi-year
-  use.
+description: Luxury premium chair designed for esports marathons using cold foam
+  padding and real leather or breathable TX fabric upholstery. Equipped with 4D
+  armrests, integrated lumbar support, 135° recline, and class-4 gas lift.
+  Tailored for competitive tournaments, extended streaming, and hybrid office
+  environments; delivers better materials than budget chairs and gaming-oriented
+  aesthetics compared to office furniture.
 source_url: https://www.noblechairs.com/en-us/hero-series
-category: Premium Gaming & Esports Chairs
+category: Premium Esports & Endurance Chairs
 tags:
   - Adaptive Lumbar
   - High Recline
@@ -13,6 +14,10 @@ tags:
   - Premium Build
   - Breathable Fabric
   - Cold Foam
+  - 2026 Compatible
+  - Esports Ready
+  - Esports Certified
+  - Marathon Sessions
 featured: true
 markdown: >-
   ## Overview
@@ -66,4 +71,6 @@ images:
   - https://noblechairs.com/media/catalog/product/h/e/hero_pu_black_inroom_1.jpg
   - https://www.noblechairs.com/media/catalog/product/h/e/hero-black.png
   - https://noblechairs.com/images/hero.jpg
-updated_at: 2026-04-24 05:23
+  - https://www.noblechairs.com/media/catalog/product/h/e/hero_tx_black_inroom_1.jpg
+  - https://noblechairs.com/images/hero-main.jpg
+updated_at: 2026-04-25 11:20

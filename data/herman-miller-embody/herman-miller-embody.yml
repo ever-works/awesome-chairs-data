@@ -1,14 +1,12 @@
 name: Herman Miller Embody
-description: Premium ergonomic office chair from Herman Miller, ideal for
-  long-hour computer work and hybrid gaming/office use. Features pixelated
-  backrest for breathability, PostureFit SL lumbar support, 8Z Pellicle
-  suspension, fully adjustable arms and tilt mechanisms. Perfect for programmers
-  enduring 12+ hour days, executive offices, gamers seeking office-grade
-  ergonomics. Compared to gaming chairs like Secretlab (more stylish but less
-  dynamic support) or budget mesh chairs, offers superior durability and 12-year
-  warranty.
+description: Pixelated backrest and Pellicle mesh suspension promote dynamic
+  spinal alignment and breathability for 12+ hour desk marathons. Fully
+  adjustable arms, PostureFit SL lumbar support, seat depth, and tilt mechanisms
+  support programmers in long coding sessions and office professionals. Provides
+  superior breathability compared to gaming chairs and enhanced durability over
+  budget alternatives.
 source_url: https://www.hermanmiller.com/products/seating/office-chairs/embody-chair/
-category: Endurance & Long Hours Chairs
+category: Ergonomic Office Chairs
 tags:
   - Pixelated Backrest
   - PostureFit
@@ -18,6 +16,9 @@ tags:
   - Esports Grade
   - Pellicle Mesh
   - Active Sitting
+  - 2026 Compatible
+  - Ultra Endurance
+  - Posture Correction
 featured: false
 markdown: >-
   ## Overview
@@ -49,14 +50,4 @@ brand: Herman Miller
 brand_logo_url: https://www.hermanmiller.com/etc/designs/hm-master/clientlibs-common/resources/img/hm-logo.svg
 images:
   - https://images.hermanmiller.com/products/seating/office-chairs/embody-chair/primary/01.jpg
-  - https://www.hermanmiller.com/images/default-source/products/embody/embody-chair.jpg
-  - https://images.hermanmiller.com/products/seating/office-chairs/embody-chair/primary/01.jpg
-  - https://www.hermanmiller.com/content/dam/hermanmiller/images/products/embody/embody-chair-hero.jpg
-  - https://store.hermanmiller.com/images/default-source/products/embody/embody-chair-side.jpg
-  - https://www.hermanmiller.com/images/embody-chair.jpg
-  - https://www.hermanmiller.com/content/dam/hermanmiller/7-north-america/en_us/images/products/embody/embody-chair-hero.jpg
-  - https://www.hermanmiller.com/content/dam/hermanmiller/6-product-content-library/images/embody_1.jpg
-  - https://www.hermanmiller.com/cms/img/hero/embody-gaming-hero.jpg
-  - https://placeholder.com/premium-gaming-chair.png
-  - https://www.hermanmiller.com/images/embody-chair.jpg
-updated_at: 2026-04-24 02:23
+updated_at: 2026-04-25 11:20

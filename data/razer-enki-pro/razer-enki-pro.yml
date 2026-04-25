@@ -1,10 +1,12 @@
 name: Razer Enki Pro
-description: Hyper-premium mesh chair with adaptive lumbar, high-density
-  coldfoam, 4D armrests for esports marathons and pro streaming. Alcantara
-  materials and aluminum frame built for tournament endurance, far surpassing
-  budget chairs in breathability and 5+ year longevity.
+description: Hyper-premium mesh and Alcantara gaming chair built for esports
+  marathons featuring high-density cold foam, adaptive lumbar curve, and
+  aluminum frame. Includes 4D armrests, 152° recline, and magnetic pillow
+  compatibility. Ideal for pro tournaments, marathon streaming, hybrid
+  office/gaming; far superior materials to budget chairs and immersive gaming
+  aesthetics vs office seating.
 source_url: https://www.razer.com/gaming-chairs/razer-enki-pro
-category: Premium Gaming & Esports Chairs
+category: Premium Esports & Endurance Chairs
 tags:
   - Premium
   - Esports Grade
@@ -14,6 +16,8 @@ tags:
   - RGB Lighting
   - Hybrid Ergonomic
   - Alcantara
+  - Esports Certified
+  - Marathon Sessions
 featured: true
 markdown: >-
   ## Overview
@@ -66,4 +70,5 @@ brand_logo_url: https://assets2.razerzone.com/images/razer-ths-logo.svg
 images:
   - https://www.razer.com/on/demandware.static/-/Sites-masterCatalog_Razer/images/default/product_images/chairs/enki-pro/RC21-05970100-R3U1_1.jpg
   - https://www.razer.com/images/enki-pro-side.jpg
-updated_at: 2026-04-24 05:23
+  - https://www.razer.com/images/enki-pro-hero.jpg
+updated_at: 2026-04-25 11:20

@@ -1,21 +1,23 @@
 name: DXRacer Air Pink
-description: Premium breathable mesh gaming chair with high-density foam and
-  steel frame, engineered for esports professionals during long marathons and
-  tournaments. Features 3D armrests, built-in lumbar support, and memory foam
-  pillow for sustained comfort in streaming setups. Offers superior longevity
-  and ventilation compared to budget chairs that wear out quickly.
+description: Breathable premium gaming chair constructed for esports marathons
+  with high-density cold foam-like padding and mesh upholstery on a steel frame.
+  Features 3D adjustable armrests, built-in lumbar support, memory foam pillow,
+  and up to 180° recline. Great for tournaments, streaming sessions, hybrid
+  office setups; superior ventilation and longevity vs budget chairs, gaming
+  aesthetics vs standard office chairs.
 source_url: https://www.dxracer.com/collections/air-pro
-category: Premium Gaming & Esports Chairs
+category: Premium Esports & Endurance Chairs
 tags:
   - racing-style
   - high-capacity
-  - 4d-arms
   - pink
   - Racing Inspired
   - High Recline
   - Steel Frame
   - Esports Grade
   - Premium Build
+  - Esports Certified
+  - Marathon Sessions
 featured: false
 markdown: >-
   ## Overview
@@ -67,4 +69,5 @@ brand: DXRacer
 images:
   - https://www.dxracer.com/cdn/shop/files/air-pink.png
   - https://www.dxracer.com/cdn/shop/products/Drifting-Series.jpg
-updated_at: 2026-04-24 05:23
+  - https://www.dxracer.com/images/air-pink-hero.jpg
+updated_at: 2026-04-25 11:20

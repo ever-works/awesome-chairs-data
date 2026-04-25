@@ -1,15 +1,19 @@
 name: DXRacer Martian Pro
-description: Premium gaming chair featuring electric adjustments, built-in seat
-  heating and cooling, massager, and airbag lumbar support. Designed for long
-  hours of gaming and work with solid build quality, magnetic headrest pillow,
-  and a built-in battery for extended wireless use. Maintains comfort and shape
-  after weeks of heavy daily use.
+description: DXRacer Martian Pro provides superior all-day support for gamers
+  and office hybrid users with innovative tech-enhanced ergonomics in a racing
+  chair form. Key features include electric height/tilt adjustments, airbag
+  lumbar support, seat heating and cooling, built-in massager, adjustable
+  armrests, and magnetic headrest pillow. Designed for long gaming marathons and
+  work sessions; stands out vs Secretlab Titan Evo with climate control and
+  massage functions, plus far greater durability than budget alternatives.
 source_url: https://www.dxracer.com/products/martian-pro
-category: Premium Gaming Chairs
+category: Gaming Chairs
 tags:
   - massage
   - climate-controlled
   - electric-adjustments
+  - 2026 Compatible
+  - Esports Ready
 featured: false
 markdown: >-
   ## Overview
@@ -54,4 +58,8 @@ markdown: >-
   Ideal for gamers and professionals enduring 10-12 hour sessions, providing
   relief for back issues and climate control for comfort.
 brand: DXRacer
-updated_at: 2026-04-24 08:32
+brand_logo_url: https://www.dxracer.com/logo.png
+images:
+  - https://www.dxracer.com/cdn/shop/files/MartianPro_Black_1_1024x1024.jpg
+  - https://www.dxracer.com/cdn/shop/files/DXChair-MARTIAN-PRO-BLACK-01_1024x1024.jpg
+updated_at: 2026-04-25 11:20
