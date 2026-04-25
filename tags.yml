@@ -145,7 +145,7 @@
 - id: statement-piece
   name: Statement Piece
 - id: 4d-armrests
-  name: 4d Armrests
+  name: 4D Armrests
 - id: racing-inspired
   name: Racing Inspired
 - id: unique-design
@@ -195,7 +195,7 @@
 - id: footrest
   name: Footrest
 - id: rgb-lighting
-  name: Rgb Lighting
+  name: RGB Lighting
 - id: immersive
   name: Immersive
 - id: entertainment
@@ -615,7 +615,7 @@
 - id: soft-seat
   name: Soft Seat
 - id: posturefit
-  name: Posturefit
+  name: PostureFit
 - id: health-focused
   name: Health Focused
 - id: no-lumbar-needed
@@ -835,7 +835,7 @@
 - id: new-release
   name: New Release
 - id: ai-lumbar
-  name: Ai Lumbar
+  name: AI Lumbar
 - id: cooling-tech
   name: Cooling Tech
 - id: vr-ready
@@ -1012,3 +1012,5 @@
   name: Climate Controlled
 - id: electric-adjustments
   name: Electric Adjustments
+- id: ultra-endurance
+  name: Ultra Endurance

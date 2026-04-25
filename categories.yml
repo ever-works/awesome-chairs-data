@@ -145,7 +145,7 @@
 - id: ai-smart-tech-chairs
   name: AI & Smart Tech Chairs
 - id: big-tall-high-capacity-chairs-400lbs
-  name: Big & Tall/High Capacity Chairs (400lbs+)
+  name: Big & Tall High Capacity Chairs (400lbs+)
 - id: reclining-massage-gaming-chairs
   name: Reclining & Massage Gaming Chairs
 - id: big-petite-specialized-fits
@@ -222,3 +222,19 @@
   name: Entry Level Chairs
 - id: sustainable-eco-friendly-chairs
   name: Sustainable & Eco Friendly Chairs
+- id: 2026-flagship-releases-models
+  name: 2026 Flagship Releases & Models
+- id: premium-esports-endurance-chairs
+  name: Premium Esports & Endurance Chairs
+- id: special-edition-themed-gaming-chairs
+  name: Special Edition & Themed Gaming Chairs
+- id: 2026-ai-adaptive-haptic-smart-chairs
+  name: 2026 AI Adaptive & Haptic Smart Chairs
+- id: mesh-breathable-endurance-chairs
+  name: Mesh & Breathable Endurance Chairs
+- id: ultra-endurance-programmer-chairs-12-hours
+  name: Ultra Endurance Programmer Chairs (12+ Hours)
+- id: sim-racing-vr-immersive-chairs
+  name: Sim Racing & VR Immersive Chairs
+- id: sustainable-eco-endurance-chairs
+  name: Sustainable Eco Endurance Chairs
