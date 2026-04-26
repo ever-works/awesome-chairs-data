@@ -6,7 +6,7 @@ description: Ergonomic office chair with automatic weight-sensing adjustment and
   mechanisms ensure dynamic lumbar and recline support tailored to user
   movements.
 source_url: https://www.humanscale.com/products/diffrient-smart-chair
-category: 2026 AI Adaptive & Haptic Smart Chairs
+category: AI & Smart Tech Chairs
 tags:
   - automatic-adjustment
   - AI Adaptive
@@ -15,6 +15,8 @@ tags:
   - Climate Control
   - Marathon Comfort
   - Ergonomic Hybrid
+  - ai-lumbar
+  - smart-adjust
 featured: false
 markdown: >-
   ## Overview
@@ -58,4 +60,4 @@ images:
   - https://www.humanscale.com/images/diffrient-smart-chair-1.jpg
   - https://www.humanscale.com/images/diffrient-smart-chair-2.jpg
   - https://humanscale.com/-/media/images/products/diffrient-world-chair/diffrient-world-chair-hero.jpg
-updated_at: 2026-04-25 11:20
+updated_at: 2026-04-26 11:17

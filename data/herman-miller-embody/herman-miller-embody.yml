@@ -1,10 +1,11 @@
 name: Herman Miller Embody
-description: Pixelated backrest and Pellicle mesh suspension promote dynamic
-  spinal alignment and breathability for 12+ hour desk marathons. Fully
-  adjustable arms, PostureFit SL lumbar support, seat depth, and tilt mechanisms
-  support programmers in long coding sessions and office professionals. Provides
-  superior breathability compared to gaming chairs and enhanced durability over
-  budget alternatives.
+description: "Herman Miller Embody is an ergonomic office chair mimicking spinal
+  movement with its pixelated backrest and dynamic suspension for natural
+  posture support during long hours. Features include adjustable backfit for
+  pelvic support, no traditional lumbar (uses PostureFit SL), and breathable
+  pixelated seat. Perfect for programmers and endurance users (12+ hours);
+  superior to gaming chairs like Secretlab in ergonomics and 12-year warranty,
+  though pricier. Use cases: coding sessions, executive offices."
 source_url: https://www.hermanmiller.com/products/seating/office-chairs/embody-chair/
 category: Ergonomic Office Chairs
 tags:
@@ -19,6 +20,11 @@ tags:
   - 2026 Compatible
   - Ultra Endurance
   - Posture Correction
+  - pixelated-backrest
+  - posturefit-sl
+  - dynamic-suspension
+  - 12-year-warranty
+  - endurance-rated
 featured: false
 markdown: >-
   ## Overview
@@ -50,4 +56,5 @@ brand: Herman Miller
 brand_logo_url: https://www.hermanmiller.com/etc/designs/hm-master/clientlibs-common/resources/img/hm-logo.svg
 images:
   - https://images.hermanmiller.com/products/seating/office-chairs/embody-chair/primary/01.jpg
-updated_at: 2026-04-25 11:20
+  - https://www.hermanmiller.com/medias/?context=bWFzdGVyfHJvb3R8MTA2NTI2fGltYWdlL2pwZWd8aDE5My9oYWIvYzgzZjE3OGMtN2U0MS00NTI5LTg1ZDItZjU3Y2U3MjlmOWY1L2VtYm9keS1jaGFpci1mcm9udC5qcGd8OTVhZjVhY2U1ZjQ1ZGM2OTk2ZjY4M2Y1M2Y1ZTRlY2UyNmY2ZTAyZDJhZDJhZGM2NTY1N2Q1M2U1M2Y5NDc1
+updated_at: 2026-04-26 11:17

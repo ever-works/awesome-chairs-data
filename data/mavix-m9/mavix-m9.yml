@@ -4,11 +4,13 @@ description: 2026 Mavix M9 integrates AI-dynamic lumbar and sensors for
   hands-free posture via smart tech, superior to manual adjusts with cooling gel
   and wide seat. Hybrid endurance chair.
 source_url: https://mavix.com/products/m9
-category: 2026 AI Adaptive & Haptic Smart Chairs
+category: AI & Smart Tech Chairs
 tags:
   - AI-lumbar
   - AI Adaptive
   - Smart Tech
+  - ai-lumbar
+  - smart-adjust
 featured: true
 markdown: |-
   ## Overview
@@ -40,4 +42,4 @@ images:
   - https://mavix.com/cdn/shop/files/m9-side.jpg
   - https://mavix.com/cdn/shop/files/m9-reclined.jpg
   - https://mavix.com/cdn/shop/files/m9-lumbar.jpg
-updated_at: 2026-04-25 11:20
+updated_at: 2026-04-26 11:17
