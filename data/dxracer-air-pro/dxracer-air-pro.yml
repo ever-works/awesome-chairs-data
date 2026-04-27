@@ -1,34 +1,40 @@
 name: DXRacer Air Pro
-description: "DXRacer Air Pro is a lightweight mesh gaming chair with full mesh
-  back for breathability, adjustable lumbar support, and 4D armrests, ideal for
-  hot climates and long sessions. Features a racing-inspired design with high
-  recline up to 160°. Suited for esports pros; more breathable than Secretlab
-  Titan but less padded. Use cases: competitive gaming, streaming."
+description: "Breathable mesh gaming chair for hot climates and long sessions,
+  featuring full mesh back, aluminum base, 4D arms, and waterfall seat edge.
+  Provides better ventilation than Secretlab leatherette while offering budget
+  premium quality at ~$400. Ideal use cases: sim racing and coding in heat."
 source_url: https://www.dxracer.com/collections/air-pro
-category: Mesh & Breathable Chairs
+category: Mesh Gaming Chairs
 tags:
   - racing-style
   - breathable
-  - high-density-foam
-  - Eco Friendly
-  - Recycled
-  - Breathable Mesh 2026
   - Full Mesh
   - Lightweight
   - Esports Ready
+  - Aluminum Base
+  - 4D Arms
+  - Breathable Gaming
 featured: true
 markdown: |-
   ## Features
-  - **Eco-Friendly Materials**: Recycled fabric construction
-  - **Ultra-Breathable**: Advanced airflow
-  - **Magnetic Lumbar Support**: Memory foam
-  - **Adjustable Ergonomics**: 4D arms, 135° recline
+  - Full mesh back for breathability
+  - Aluminum base
+  - 4D armrests
+  - Waterfall seat edge
+  - Adjustable lumbar support
+  - High recline up to 160°
 
   ## Pricing
-  Starting at $499
+  ~ $400
+
+  ## Use Cases
+  - Sim racing
+  - Coding in hot environments
+  - Long gaming or work sessions
 brand: DXRacer
 brand_logo_url: ""
 images:
   - https://www.dxracer.com/cdn/shop/files/air-pro_eco-black_1200x1200.png
   - https://www.dxracer.com/cdn/shop/files/air-pro_recycled-fabric.jpg
-updated_at: 2026-04-23 08:21
+  - https://www.dxracer.com/cdn/shop/products/air-pro-black_1024x1024.jpg
+updated_at: 2026-04-27 11:17

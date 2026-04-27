@@ -1,11 +1,11 @@
 name: Herman Miller Aeron Chair
-description: Breathable Pellicle mesh suspension and PostureFit lumbar support
-  maintain posture and comfort during 12+ hour desk marathons. Comprehensive
-  adjustability including 4D arms, tilt mechanisms, and size variants fits
-  programmers for extended hours and office environments. More breathable than
-  gaming chairs with superior durability compared to budget options.
+description: "Iconic ergonomic mesh chair for marathon sitting (8-12+ hrs), uses
+  breathable Pellicle suspension to distribute weight evenly, PostureFit SL
+  lumbar/sacral support mimics spine curve. Superior to budget alternatives like
+  Sihoo with 12-yr warranty, premium adjustability (tilt, arms, height). Use
+  cases: coding, office endurance vs. gaming PU leather (less breathable)."
 source_url: https://www.hermanmiller.com/products/seating/office-chairs/aeron-chair/
-category: Ergonomic Office Chairs
+category: Premium Ergonomic Chairs
 tags:
   - Pellicle Mesh
   - PostureFit
@@ -18,6 +18,10 @@ tags:
   - 2026 Compatible
   - Ultra Endurance
   - Posture Correction
+  - Iconic
+  - Pellicle Mesh
+  - PostureFit SL
+  - 12-Year Warranty
 featured: true
 markdown: >-
   ## Features
@@ -49,4 +53,5 @@ brand: Herman Miller
 brand_logo_url: https://www.hermanmiller.com/etc/designs/hm-master/clientlibs-common/resources/img/hm-logo.svg
 images:
   - https://images.hermanmiller.com/products/seating/office-chairs/aeron-chair/primary/01.jpg
-updated_at: 2026-04-25 11:20
+  - https://www.hermanmiller.com/images/18/248/aeron-chair.png
+updated_at: 2026-04-27 11:17
