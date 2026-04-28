@@ -240,3 +240,7 @@
   name: Sustainable Eco Endurance Chairs
 - id: ultra-endurance-coder-chairs
   name: Ultra Endurance Coder Chairs
+- id: entry-level-chairs-300
+  name: Entry Level Chairs (<$300)
+- id: luxury-chairs-800
+  name: Luxury Chairs ($800+)
