@@ -1,58 +1,62 @@
 name: Sihoo M18
-description: The Sihoo M18 is an entry-level ergonomic office chair with a
-  contoured foam seat cushion, adjustable headrest, and built-in dual lumbar
-  support pillows designed for 6–8 hour desk sessions rated up to 300 lbs. Its
-  basic tilt tension and height-adjustable arms make it a practical choice for
-  budget-conscious WFH setups. Compared to the Steelcase Leap's fully adjustable
-  LiveBack and the Herman Miller Aeron's advanced lumbar system, the M18
-  provides only manual lumbar pillow repositioning at a fraction of the price
-  (~$200–$250).
+description: Entry-level ergonomic chair with dual adjustable lumbar pillows,
+  contoured foam seat, height-adjustable headrest, and 300lbs capacity for
+  budget WFH. Basic tilt for 6-8 hour use. Compares to FlexiSpot OC3 with pillow
+  lumbar over dial but fewer arm adjustments.
 source_url: https://sihoooffice.com/products/m18-ergonomic-chair
-category: Ergonomic Office Chairs
+category: Budget Chairs Under $300
 tags:
-  - entry-level
-  - dual-lumbar
   - budget
+  - dual-lumbar
+  - adjustable-headrest
+  - entry-level
 featured: true
 markdown: >-
-  # Sihoo M18 Ergonomic Chair
-
-
   ## Overview
 
-  The **Sihoo M18** is an ergonomic office chair designed for budget-conscious
-  users who need basic ergonomic features.
+
+  Cost-effective ergonomic basics for daily desk work.
 
 
   ## Features
 
-  - **Contoured foam seat cushion**: Adequate padding for standard desk sessions
 
-  - **Adjustable headrest**: Fits various neck positions
+  - Dual repositionable lumbar pillows
 
-  - **Dual lumbar support pillows**: Manually positionable lower-back support
+  - Adjustable headrest (height/angle)
 
-  - **Adjustable armrests**: Height-adjustable for basic arm support
+  - Height-adjustable armrests
 
-  - **Tilt mechanism**: Standard tilt with tension knob
+  - Contoured high-density foam seat
+
+  - Multi-lock tilt mechanism
+
+  - 300lbs capacity
 
 
-  ## Specifications
+  ## Use Cases
 
-  - Weight Capacity: 300 lbs
 
-  - Warranty: 3-Year Warranty
+  Perfect for budget home offices with 6-8 hour sitting needs. Good starter for
+  students or casual gamers prioritizing lumbar relief. Reliable for standard
+  builds in small apartments.
 
-  - Free Shipping
+
+  ## Comparisons
+
+
+  Vs FlexiSpot OC3: Simpler arms but dual pillows for better low-back targeting;
+  equally affordable.
 
 
   ## Pricing
 
-  Approximately $200–$250. Visit [Sihoo
-  M18](https://sihoooffice.com/products/m18-ergonomic-chair) for current
-  pricing.
+
+  $200–$250.
 brand: Sihoo
 brand_logo_url: https://sihoooffice.com/cdn/shop/files/d1163c6c79dbd29abd30e0d32a5b83d8_973bd250-6b12-4af6-bbd8-f688190aad72.png?v=1649489425&width=240
 images:
   - https://sihoooffice.com/cdn/shop/files/1482.webp?crop=center&height=300&v=1744277624&width=300
-updated_at: 2026-04-04 23:43
+  - https://sihoooffice.com/cdn/shop/files/m18-side.jpg
+  - https://sihoooffice.com/cdn/shop/files/m18-back.jpg
+updated_at: 2026-04-29 11:30

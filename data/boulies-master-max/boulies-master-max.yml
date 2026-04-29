@@ -1,83 +1,65 @@
 name: Boulies Master Max
-description: Boulies Master Max supports long-hour sitting for big-and-tall
-  users with ergonomic design, featuring extended seat dimensions, 4D aluminum
-  armrests, customizable lumbar pillow, cold-cure foam seating, and wide recline
-  range with optional leg rest. Ideal for office work, programming, and
-  executive tasks. Compared to Herman Miller Aeron size C, it offers similar
-  weight capacity with more cushioned comfort but less breathable mesh; vs.
-  Secretlab Titan Evo, provides better lumbar customization for posture during
-  work.
+description: Big & tall ergonomic chair with 4D aluminum armrests, customizable
+  lumbar, cold-cure foam, 165° recline, and 330 lbs capacity. Hybrid for
+  office/programming endurance. Compares to Secretlab Titan Evo with wider seat
+  and leg rest option but less gaming style.
 source_url: https://boulies.com/products/master-max
-category: Ergonomic Office Chairs
+category: Big & Tall Chairs
 tags:
   - big-and-tall
-  - ergonomic
-  - lumbar-support
-  - Long Hours Certified
-  - Heavy Duty
-featured: false
+  - cold-foam
+  - 165-recline
+  - 4d-armrests
+  - heavy-duty
+featured: true
 markdown: >-
   ## Overview
 
 
-  The Boulies Master Max is designed as an executive/big and tall option,
-  offering extended seat width and height with a 150kg weight capacity. It is
-  built for larger frame users who require a robust base and reliable support
-  during short to moderate sitting sessions.
+  Executive big & tall chair for extended sitting with premium materials.
 
 
-  ## Key Features
+  ## Features
 
 
-  - **Extended seat width and height** for larger users
+  - 150kg (330lbs) capacity
 
-  - **150kg weight capacity** with reinforced construction
+  - Extended wide seat/depth
 
-  - **4D adjustable armrests** with aluminum construction for multi-axis
-  adjustment
+  - 4D aluminum armrests
 
-  - **Customizable integrated lumbar pillow** that adjusts up and down to match
-  the natural curvature of the spine
+  - Adjustable lumbar pillow
 
-  - **Cold-cure foam seat cushion** that resists bottoming out during use
+  - Cold-cure foam cushion
 
-  - **Tailored round-edge cushion** to eliminate sharp edges and reduce pressure
-  on hips and thighs
+  - 95°-165° recline + rocking
 
-  - **Rocking/reclining mechanism** with 95°-165° recline range and 15° rocking
-  flexibility
-
-  - **Optional built-in leg rest** for reclining breaks
-
-  - **Class-4 gas lift** and heavy-duty base for durability
-
-  - **Available materials**: Ultraflex PU leather or water-repellent fabric
+  - Optional leg rest
 
 
-  ## Best For
+  ## Use Cases
 
 
-  - Large-frame users needing more robust build quality and weight capacity
-
-  - Users who spend under 8 hours seated and need reliable day-after-day support
-
-  - Those looking for high-quality materials with an executive look and feel
+  Supports programmers during 10+ hour coding marathons with posture focus.
+  Ideal for executives needing robust daily office comfort. Fits larger users in
+  hybrid work/gaming without bottoming out.
 
 
-  ## Considerations
+  ## Comparisons
 
 
-  - Recommended for short to moderate sessions rather than prolonged 8+ hour use
+  Vs Titan Evo: Wider seat and leg rest for big users; similar recline but more
+  office-oriented lumbar.
 
-  - Premium pricing relative to value models
 
-  - Leather option may feel warmer than mesh in hot climates — fabric/mesh
-  variants recommended for users who sweat easily
+  ## Pricing
 
-  - Sizeable chair footprint that may take up more room
+
+  $599–$799.
 brand: Boulies
 brand_logo_url: https://boulies.com/logo-black.svg
 images:
   - https://boulies.com/cdn/shop/files/Master_Max_Hero.jpg?v=1705580067
   - https://boulies.com/cdn/shop/files/Master_Max_side.jpg?v=1705580067
-updated_at: 2026-04-20 23:17
+  - https://boulies.com/cdn/shop/files/Master_Max_back.jpg?v=1705580067
+updated_at: 2026-04-29 11:30

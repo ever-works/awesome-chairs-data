@@ -10,11 +10,12 @@ description: Herman Miller Gaming Seating offers premium ergonomic hybrids
   in ergonomic precision and material breathability over racing aesthetics;
   rivals high-end office chairs with added gaming flair and performance tuning.
 source_url: https://www.hermanmiller.com/products/gaming/
-category: Office-Gaming Hybrid Chairs
+category: Ergonomic Office-Gaming Hybrids
 tags:
   - gaming
   - performance
   - ergonomic
+  - Hybrid Use
 featured: true
 markdown: |-
   # Herman Miller Gaming Seating
@@ -40,4 +41,4 @@ brand_logo_url: https://www.hermanmiller.com/content/dam/hmicom/page_assets/home
 images:
   - https://www.hermanmiller.com/images/gaming-seating-overview.jpg
   - https://www.hermanmiller.com/products/gaming/embody-gaming-chair/images/hero.jpg
-updated_at: 2026-04-28 11:24
+updated_at: 2026-04-29 11:30
