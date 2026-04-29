@@ -161,7 +161,7 @@
 - id: ultra-budget-chairs-200
   name: Ultra Budget Chairs (<$200)
 - id: premium-esports-gaming-chairs
-  name: Premium & Esports Gaming Chairs
+  name: Premium Esports & Gaming Chairs
 - id: sustainable-recycled-materials-chairs
   name: Sustainable Recycled Materials Chairs
 - id: new-2026-ergonomic-hybrids
@@ -244,3 +244,7 @@
   name: Entry Level Chairs (<$300)
 - id: luxury-chairs-800
   name: Luxury Chairs ($800+)
+- id: ergonomic-office-gaming-hybrids
+  name: Ergonomic Office Gaming Hybrids
+- id: all-mesh-breathable-chairs
+  name: All Mesh & Breathable Chairs

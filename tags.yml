@@ -145,7 +145,7 @@
 - id: statement-piece
   name: Statement Piece
 - id: 4d-armrests
-  name: 4d Armrests
+  name: 4D Armrests
 - id: racing-inspired
   name: Racing Inspired
 - id: unique-design
@@ -195,7 +195,7 @@
 - id: footrest
   name: Footrest
 - id: rgb-lighting
-  name: Rgb Lighting
+  name: RGB Lighting
 - id: immersive
   name: Immersive
 - id: entertainment
@@ -215,7 +215,7 @@
 - id: stool
   name: Stool
 - id: xl-size
-  name: Xl Size
+  name: XL Size
 - id: dense-foam
   name: Dense Foam
 - id: ultra-budget
@@ -835,7 +835,7 @@
 - id: new-release
   name: New Release
 - id: ai-lumbar
-  name: Ai Lumbar
+  name: AI Lumbar
 - id: cooling-tech
   name: Cooling Tech
 - id: vr-ready
@@ -889,7 +889,7 @@
 - id: seat-slider
   name: Seat Slider
 - id: posturefit-sl
-  name: PostureFit SL
+  name: Posturefit Sl
 - id: flip-up-arms
   name: Flip Up Arms
 - id: self-adjusting-recline
@@ -1022,3 +1022,29 @@
   name: Breathable Gaming
 - id: 2026-edition
   name: 2026 Edition
+- id: mid-range-value
+  name: Mid Range Value
+- id: hybrid-use
+  name: Hybrid Use
+- id: entry-level-gaming
+  name: Entry Level Gaming
+- id: pillow-support
+  name: Pillow Support
+- id: big-user-friendly
+  name: Big User Friendly
+- id: smart-features
+  name: Smart Features
+- id: smart-lighting
+  name: Smart Lighting
+- id: esports-pro
+  name: Esports Pro
+- id: eco-materials
+  name: Eco Materials
+- id: tournament-official
+  name: Tournament Official
+- id: premium-hybrid
+  name: Premium Hybrid
+- id: porsche-design
+  name: Porsche Design
+- id: 160-recline
+  name: 160 Recline
