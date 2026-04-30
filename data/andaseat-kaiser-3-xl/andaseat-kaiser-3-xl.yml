@@ -1,11 +1,10 @@
 name: AndaSeat Kaiser 3 XL
-description: "AndaSeat Kaiser 3 XL offers oversized comfort for big users with
-  4D armrests, dynamic lumbar tracking, PU leather, and 165-degree recline. Key
-  features: wide seat pan, high backrest, and multi-adjustments for posture.
-  Great for heavy-duty gaming/office hybrid; wider and more adjustable than
-  standard DXRacer."
+description: AndaSeat Kaiser 3 XL is a premium big & tall gaming chair with NEO
+  hybrid leatherette (breathable, durable), 4D armrests, swappable magnetic head
+  pillow/lumbar, and 165° recline for 400lbs users. Designed for esports
+  marathons and programmers, better ventilation than DXRacer Master.
 source_url: https://www.andaseat.com/products/andaseat-kaiser-3-xl-gaming-chair
-category: Big & Tall Chairs (400lbs+)
+category: Big & Tall/High Capacity Chairs (400lbs+)
 tags:
   - big-and-tall
   - high-capacity
@@ -17,6 +16,10 @@ tags:
   - Dynamic Lumbar
   - 165 Recline
   - Big User Friendly
+  - NEO Leatherette
+  - Magnetic Accessories
+  - 400lbs Capacity
+  - 165 Recline
 featured: false
 markdown: |-
   ## Specifications
@@ -40,4 +43,5 @@ brand: AndaSeat
 images:
   - https://images.unsplash.com/photo-1588008109335-8f2d1c1f2c18?w=800
   - https://andaseat.com/cdn/shop/files/kaiser3xl_1_1024x1024.jpg?v=1694857784
-updated_at: 2026-04-29 11:30
+  - https://andaseat.com/wp-content/uploads/2023/06/Kaiser-3-XL-1.jpg
+updated_at: 2026-04-30 11:20

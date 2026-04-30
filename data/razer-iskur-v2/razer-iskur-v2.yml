@@ -1,17 +1,16 @@
 name: Razer Iskur V2
-description: Razer Iskur V2 is an advanced gaming chair with 6D lumbar support
-  that auto-adapts to user movement, breathable mesh backrest, and 4D armrests
-  with haptic feedback compatibility. Features include high-density foam seat,
-  130-degree recline, and RGB lighting options in NewGen model. Suited for
-  esports and marathon sessions; outperforms standard racing chairs with
-  adaptive ergo and official tournament use (e.g., VALORANT EMEA 2026).
+description: Razer Iskur V2 gaming chair features an adaptive 6D lumbar system
+  that auto-adjusts to your posture, breathable mesh backrest, and 4D armrests
+  for esports pros sitting 10+ hours. Supports 300 lbs with RGB lighting option;
+  outperforms standard gaming chairs like DXRacer in lumbar tech but pricier;
+  perfect for RGB enthusiasts and streamers.
 source_url: https://www.razer.com/gaming-chairs/razer-iskur-v2
-category: Mesh & Breathable Chairs
+category: 2026 Mesh & Breathable Hybrids
 tags:
   - 6D Lumbar
-  - Adaptive Support
-  - Haptic Feedback
-  - Tournament Official
+  - Breathable Mesh
+  - RGB Lighting
+  - Adaptive Posture
 featured: true
 markdown: >-
   ## Overview
@@ -68,4 +67,5 @@ images:
   - https://assets.razer.net/product-images/iskur-v2-large.png
   - https://www.razer.com/images/razer-iskur-v2.jpg
   - https://www.razer.com/cdn/shop/products/razer-iskur-v2.png
-updated_at: 2026-04-29 11:30
+  - https://www.razer.com/cdn/shop/products/razer-iskur-v2-black_1.png
+updated_at: 2026-04-30 11:20

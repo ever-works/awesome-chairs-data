@@ -1,11 +1,10 @@
 name: AndaSeat Kaiser 3 XL Gaming Chair
-description: 2026 Kaiser 3 XL offers AI-dynamic lumbar and cooling high-density
-  foam for big & tall users (395lbs, 6'8") in 12+ hour sessions, improving prior
-  XL's static padding with auto-fit and breathability. Features 165° recline, 4D
-  armrests, memory foam, steel frame. Superior endurance vs previous budget big
-  chairs.
+description: AndaSeat Kaiser 3 XL is a premium big & tall gaming chair with NEO
+  hybrid leatherette (breathable, durable), 4D armrests, swappable magnetic head
+  pillow/lumbar, and 165° recline for 400lbs users. Designed for esports
+  marathons and programmers, better ventilation than DXRacer Master.
 source_url: https://www.andaseat.com/collections/kaiser-3-xl-gaming-chair
-category: 2026 Models & Releases
+category: Big & Tall/High Capacity Chairs (400lbs+)
 tags:
   - 2026 Model
   - New Release
@@ -16,6 +15,10 @@ tags:
   - 2026 Releases
   - mid-tier
   - 2026 New Flagship
+  - NEO Leatherette
+  - Magnetic Accessories
+  - 400lbs Capacity
+  - 165 Recline
 featured: true
 markdown: |-
   ## Overview
@@ -46,4 +49,5 @@ images:
   - https://www.andaseat.com/images/kaiser-3-xl-2.jpg
   - https://www.andaseat.com/images/kaiser-3-xl-side.jpg
   - https://www.andaseat.com/images/kaiser-3-xl-lumbar.jpg
-updated_at: 2026-04-29 11:30
+  - https://andaseat.com/wp-content/uploads/2023/06/Kaiser-3-XL-1.jpg
+updated_at: 2026-04-30 11:20
