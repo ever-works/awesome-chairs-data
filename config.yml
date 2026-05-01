@@ -40,4 +40,4 @@ metadata:
       capture_screenshots: false
       max_pages_to_process: 20
     _processedPluginConfig: {}
-version: 0.1.35
+version: 0.1.36
