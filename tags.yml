@@ -1056,3 +1056,9 @@
   name: EPU Leatherette
 - id: adaptive-posture
   name: Adaptive Posture
+- id: bean-bag
+  name: Bean Bag
+- id: living-room
+  name: Living Room
+- id: travel
+  name: Travel
