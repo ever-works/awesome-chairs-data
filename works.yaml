@@ -40,14 +40,14 @@ metadata:
       capture_screenshots: false
       max_pages_to_process: 20
     _processedPluginConfig: {}
-version: 0.1.38
+version: 0.1.39
 name: Awesome Computer and Gaming Chairs
 initial_prompt: "A directory of the best computer and gaming chairs for people
   who sit all day! "
 providers:
-  ai: openrouter
-  search: tavily
   pipeline: agent-pipeline
+  search: tavily
+  ai: openrouter
   contentExtractor: local-content-extractor
 website_repo: ever-works/awesome-chairs-website
 schedule:
