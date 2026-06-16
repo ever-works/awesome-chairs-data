@@ -45,11 +45,11 @@ name: Awesome Computer and Gaming Chairs
 initial_prompt: "A directory of the best computer and gaming chairs for people
   who sit all day! "
 providers:
-  pipeline: agent-pipeline
-  search: tavily
   ai: openrouter
+  search: tavily
+  pipeline: agent-pipeline
   contentExtractor: local-content-extractor
 website_repo: ever-works/awesome-chairs-website
-schedule:
-  enabled: true
-  cadence: daily
+deployProvider: k8s
+activity_sync:
+  mode: pull
