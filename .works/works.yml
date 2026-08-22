@@ -1,12 +1,11 @@
-company_name: Acme
+company_name: Awesome Chairs
 content_table: true
 item_name: Item
 items_name: Items
 paging_mode: paging
-copyright_year: 2025
+copyright_year: 2026
 metadata:
-  initial_prompt: "A directory of the best computer and gaming chairs for people
-    who sit all day! "
+  initial_prompt: "A directory of the best computer and gaming chairs for people who sit all day! "
   generation_method: create-update
   last_request_data:
     source_urls: []
@@ -24,8 +23,7 @@ metadata:
     badge_evaluation_enabled: false
     website_repository_creation_method: create-using-template
     name: Awesome Computer and Gaming Chairs
-    prompt: "A directory of the best computer and gaming chairs for people who sit
-      all day! "
+    prompt: "A directory of the best computer and gaming chairs for people who sit all day! "
     initial_categories: []
     priority_categories: []
     target_keywords: []
@@ -42,8 +40,7 @@ metadata:
     _processedPluginConfig: {}
 version: 0.1.39
 name: Awesome Computer and Gaming Chairs
-initial_prompt: "A directory of the best computer and gaming chairs for people
-  who sit all day! "
+initial_prompt: "A directory of the best computer and gaming chairs for people who sit all day! "
 providers:
   ai: openrouter
   search: tavily
@@ -53,3 +50,14 @@ website_repo: ever-works/awesome-chairs-website
 deployProvider: k8s
 activity_sync:
   mode: pull
+company_website: https://chairs.ever.works
+settings:
+  homepage:
+    hero_enabled: true
+    hero_badge_text: For People Who Sit All Day
+    hero_title: Find Your Perfect
+    hero_title_gradient: Computer or Gaming Chair
+    hero_description: A curated directory of ergonomic office chairs, gaming chairs, executive and task chairs, big & tall models, standing and active seating, and accessories — organized by type and budget so you can compare comfort, features and price.
+logo:
+  logo_image: https://raw.githubusercontent.com/ever-works/awesome-chairs-data/master/pages/logo-light.png
+  logo_image_dark: https://raw.githubusercontent.com/ever-works/awesome-chairs-data/master/pages/logo-dark.png
