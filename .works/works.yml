@@ -58,6 +58,11 @@ settings:
     hero_title: Find Your Perfect
     hero_title_gradient: Computer or Gaming Chair
     hero_description: A curated directory of ergonomic office chairs, gaming chairs, executive and task chairs, big & tall models, standing and active seating, and accessories — organized by type and budget so you can compare comfort, features and price.
+  monetization:
+    sponsor_ads:
+      currency: USD
+      weekly_price: 100
+      monthly_price: 300
 logo:
   logo_image: https://raw.githubusercontent.com/ever-works/awesome-chairs-data/master/pages/logo-light.png
   logo_image_dark: https://raw.githubusercontent.com/ever-works/awesome-chairs-data/master/pages/logo-dark.png
